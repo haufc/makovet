@@ -107,7 +107,7 @@
 								<modulehook>
 									<name>wcm-root-folder</name>									
 									<params>
-										<label>Example Blog</label>
+										<label>Page</label>
 										<path>/site/website</path>
 										<showRootItem>true</showRootItem>
 										<onClick>preview</onClick>
@@ -118,7 +118,7 @@
 								<modulehook>
 									<name>wcm-root-folder</name>									
 									<params>
-										<label>Items</label>
+										<label>Components</label>
 										<path>/site/items</path>
 										<showRootItem>true</showRootItem>
 									</params>
