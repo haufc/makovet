@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>37d0</objectGroupId>
+	<objectId>37d09183-a58e-83dd-8722-182fce86f6bb</objectId>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
+	<productChildgroup_o item-list="true"/>
+	<file-name>index.xml</file-name>
+	<folder-name>boi-duong-tang-suc-de-khang</folder-name>
+	<internal-name>Nhóm bồi dưỡng tăng sức đề kháng</internal-name>
+	<navLabel>Nhóm bồi dưỡng tăng sức đề kháng</navLabel>
+	<title_s>Nhóm bồi dưỡng tăng sức đề kháng</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-06-23T07:44:19.821Z</createdDate>
+	<createdDate_dt>2020-06-23T07:44:19.821Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T07:44:19.821Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T07:44:19.821Z</lastModifiedDate_dt>
+</page>
