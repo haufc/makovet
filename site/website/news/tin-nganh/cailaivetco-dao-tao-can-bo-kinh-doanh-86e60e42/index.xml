@@ -7,14 +7,14 @@
 	<objectGroupId>2731b26a</objectGroupId>
 	<objectId>2731b26a-15c0-4d14-935f-b7628fbcea58</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>cailaivetco-dao-tao-can-bo-kinh-doanh-86e60e42</folder-name>
-	<internal-name>CAILAYVETCO - Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ kinh doanh 86e60e42</internal-name>
+	<folder-name>cailaivetco-dao-tao-can-bo-kinh-doanh-2</folder-name>
+	<internal-name>CAILAYVETCO - Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ kinh doanh</internal-name>
 	<navLabel/>
 	<title_s>CAILAYVETCO - Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ kinh doanh</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<categories_o>	<item>	<key>internalnews</key>
-	<value_smv>Tin nội bộ</value_smv>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
 	</item></categories_o>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/c6539e80-357c-5f5d-4075-6de4b0ef6652.xml</key>
 	<value>Header - Tin nội bộ</value>
@@ -29,7 +29,7 @@
 &lt;p&gt;&lt;span style="white-space: pre;"&gt;Nguồn: www.mavin-group.com&lt;/span&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-06-23T04:10:43.661Z</createdDate>
 	<createdDate_dt>2020-06-23T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T04:10:43.661Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T04:10:43.661Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-23T08:39:29.371Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T08:39:29.371Z</lastModifiedDate_dt>
 	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
 </page>
