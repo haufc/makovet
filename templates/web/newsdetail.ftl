@@ -4,7 +4,7 @@
   <body>
     <button onclick="topFunction()" id="btn-up-top" ><i class="fa fa-angle-up"></i></button>
     <div class="content">
-        <@renderComponent component=contentModel.slide_o.item />
+        <@renderComponent component=contentModel.slideImage_o.item />
         <div class="content__title">
         <div class="container" style="padding-left:30px;">
             <#if contentModel.categories_o.item.key = "internalnews" >
