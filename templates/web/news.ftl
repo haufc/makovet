@@ -4,8 +4,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                  <h1 class="text--red title-vn">Tin Mavinex</h1>
-                  <h1 class="text--red title-en">Mavinex News</h1>
+                  <h1 class="text--red title-vn">Tin nội bộ</h1>
+                  <h1 class="text--red title-en">Tin ngành</h1>
                 </div>
             </div>
         </div>
