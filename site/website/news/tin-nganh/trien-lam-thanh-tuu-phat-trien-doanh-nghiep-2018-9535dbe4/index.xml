@@ -7,14 +7,16 @@
 	<objectGroupId>52c5d621</objectGroupId>
 	<objectId>52c5d621-36af-4367-b9ec-3e4e4b1a63fb</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>trien-lam-thanh-tuu-phat-trien-doanh-nghiep-2018-9535dbe4</folder-name>
-	<internal-name>Triển lãm thành tựu phát triển doanh nghiệp Tiền Giang năm 2018 9535dbe4</internal-name>
+	<folder-name>trien-lam-thanh-tuu-phat-trien-doanh-nghiep-2018-2</folder-name>
+	<internal-name>Triển lãm thành tựu phát triển doanh nghiệp Tiền Giang năm 2018</internal-name>
 	<navLabel/>
 	<title_s>Triển lãm thành tựu phát triển doanh nghiệp Tiền Giang năm 2018</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<categories_o>	<item>	<key>industrynews</key>
 	<value_smv> Tin ngành</value_smv>
+	</item>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
 	</item></categories_o>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/cb0deabb-c45e-b2d7-1d10-8371bcd6b96e.xml</key>
 	<value>Header Tin tức chi tiết</value>
@@ -29,7 +31,7 @@
 &lt;p&gt;Nguồn: www.mavin-group.com&lt;/p&gt;</content_html>
 	<createdDate>2020-06-23T03:46:35.612Z</createdDate>
 	<createdDate_dt>2020-06-22T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T04:00:00.246Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T04:00:00.246Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-23T08:40:34.368Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T08:40:34.368Z</lastModifiedDate_dt>
 	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
 </page>
