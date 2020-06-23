@@ -232,38 +232,13 @@
 		</section>
 	</sections>
 	<datasources>				<datasource>
-					<type>shared-content</type>
+					<type>embedded-content</type>
 					<id>section</id>
 					<title>Section</title>
 					<interface>item</interface>
 					<properties>
 						<property>
-							<name>enableCreateNew</name>
-							<value>true</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>enableBrowseExisting</name>
-							<value>true</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>enableSearchExisting</name>
-							<value>false</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>repoPath</name>
-							<value>/site/items</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>browsePath</name>
-							<value>/site/items</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>type</name>
+							<name>contentType</name>
 							<value></value>
 								<type>undefined</type>
 						</property>
