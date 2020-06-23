@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>811a</objectGroupId>
+	<objectId>811a237d-9b17-3d20-e506-2c981dda2c69</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thuoc-cho-trau-bo</folder-name>
+	<internal-name>Sản phẩm dành cho trâu bò</internal-name>
+	<navLabel>Sản phẩm dành cho trâu bò</navLabel>
+	<t_s>Sản phẩm dành cho trâu bò</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>d08725b0-77c9-06ad-2193-779ecbcf1770</key>
+	<value>Sản phẩm dành cho trâu bò</value>
+<component id="d08725b0-77c9-06ad-2193-779ecbcf1770">
+	<content-type>/component/nhomsanphamcon</content-type>
+	<display-template>/templates/web/component/group-child-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d087</objectGroupId>
+	<objectId>d08725b0-77c9-06ad-2193-779ecbcf1770</objectId>
+	<file-name>d08725b0-77c9-06ad-2193-779ecbcf1770.xml</file-name>
+	<internal-name>Sản phẩm dành cho trâu bò</internal-name>
+	<title_s>Sản phẩm dành cho trâu bò</title_s>
+	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm tăng sức đề kháng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductURL_s>#</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-06-23T04:34:45.063Z</createdDate>
+	<createdDate_dt>2020-06-23T04:34:45.063Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:34:45.063Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:34:45.063Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
+	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:34:08.542Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:34:08.542Z</lastModifiedDate_dt>
+</page>
