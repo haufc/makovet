@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/>
-    <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb-5121/css/all.min.css"/>
+    <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/owlcarousel/dist/assets/owl.carousel.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/owlcarousel/dist/assets/owl.theme.default.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
