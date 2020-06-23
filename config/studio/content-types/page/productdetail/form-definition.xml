@@ -1,15 +1,15 @@
 <form>
-	<title>Component - Nhóm sản phẩm con</title>
+	<title>Page - Chi tiết sản phẩm</title>
 	<description></description>
-	<objectType>component</objectType>
-	<content-type>/component/nhomsanphamcon</content-type>
+	<objectType>page</objectType>
+	<content-type>/page/productdetail</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>false</quickCreate>
 	<quickCreatePath></quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/web/component/group-child-product.ftl</value>
+			<value>/templates/web/page/productdetail.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -26,15 +26,15 @@
 		</property>
 	</properties>
 	<sections>		<section>
-			<title>Component - Nhóm sản phẩm con Properties</title>
+			<title>Page - Chi tiết sản phẩm Properties</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
-					<type>auto-filename</type>
+					<type>file-name</type>
 					<id>file-name</id>
 					<iceId></iceId>
-					<title>Component ID</title>
+					<title>Page URL</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -87,140 +87,52 @@
 					</constraints>
 				</field>
 				<field>
-					<type>input</type>
-					<id>title_s</id>
+					<type>page-nav-order</type>
+					<id>placeInNav</id>
 					<iceId></iceId>
-					<title>Title</title>
+					<title>Place in Nav</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>navLabel</id>
+					<iceId></iceId>
+					<title>Nav Label</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
 							<name>size</name>
-							<value>250</value>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>250</value>
+							<value>50</value>
 							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
 						<constraint>
 							<name>required</name>
 							<value><![CDATA[true]]></value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>image-picker</type>
-					<id>groupProductImg1_s</id>
-					<iceId></iceId>
-					<title>Group Product Img 1</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>width</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>thumbnailWidth</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>thumbnailHeight</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value>groupChildProductImage,existingGroupChildProductImage</value>
-							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[true]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>image-picker</type>
-					<id>groupProductImg2_s</id>
-					<iceId></iceId>
-					<title>Group Product Img 2</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>width</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>thumbnailWidth</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>thumbnailHeight</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value>groupChildProductImage,existingGroupChildProductImage</value>
-							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
@@ -233,31 +145,93 @@
 			<defaultOpen>false</defaultOpen>
 			<fields>
 				<field>
-					<type>repeat</type>
-					<id>groupproductchild_o</id>
+					<type>checkbox-group</type>
+					<id>productgrouplv1_o</id>
 					<iceId></iceId>
-					<title>Group product child</title>
+					<title>Product group lv1</title>
 					<description></description>
-					<minOccurs>0</minOccurs>
-					<maxOccurs>*</maxOccurs>
+					<defaultValue></defaultValue>
+					<help></help>
 					<properties>
 						<property>
-							<name>minOccurs</name>
-							<value>0</value>
-							<type>string</type>
+							<name>datasource</name>
+							<value>productgrouplv1</value>
+							<type>datasource:item</type>
 						</property>
 						<property>
-							<name>maxOccurs</name>
-							<value>*</value>
-							<type>string</type>
+							<name>selectAll</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>listDirection</name>
+							<value>[{&quot;value&quot;:&quot;horizontal&quot;,&quot;label&quot;:&quot;Horizonal&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;vertical&quot;,&quot;label&quot;:&quot;Vertical&quot;,&quot;selected&quot;:false}]</value>
+							<type>dropdown</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
 						</property>
 					</properties>
-					<fields>
+					<constraints>
+						<constraint>
+							<name>minSize</name>
+							<value><![CDATA[]]></value>
+							<type>int</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>checkbox-group</type>
+					<id>productgrouplv2_o</id>
+					<iceId></iceId>
+					<title>Product group lv2</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>datasource</name>
+							<value>productgrouplv2</value>
+							<type>datasource:item</type>
+						</property>
+						<property>
+							<name>selectAll</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>listDirection</name>
+							<value>[{&quot;value&quot;:&quot;horizontal&quot;,&quot;label&quot;:&quot;Horizonal&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;vertical&quot;,&quot;label&quot;:&quot;Vertical&quot;,&quot;selected&quot;:false}]</value>
+							<type>dropdown</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>minSize</name>
+							<value><![CDATA[]]></value>
+							<type>int</type>
+						</constraint>
+					</constraints>
+				</field>
+			</fields>
+		</section>
+		<section>
+			<title>Product Infomation</title>
+			<description></description>
+			<defaultOpen>false</defaultOpen>
+			<fields>
 				<field>
 					<type>input</type>
-					<id>groupChildProductName_s</id>
+					<id>productName_s</id>
 					<iceId></iceId>
-					<title>Group Child Product  Name</title>
+					<title>Product Name</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -298,9 +272,9 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>groupChildProductImage_s</id>
+					<id>productImage_s</id>
 					<iceId></iceId>
-					<title>Group Child Product Image</title>
+					<title>Product Image</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -327,7 +301,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>uploadGroupChildProductIcon,existingGroupChildProductIcon</value>
+							<value>uploadimage,existingImage</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -339,63 +313,91 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[true]]></value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
 				</field>
 				<field>
-					<type>input</type>
-					<id>groupChildProductURL_s</id>
+					<type>rte-tinymce5</type>
+					<id>productDescription_html</id>
 					<iceId></iceId>
-					<title>Group Child Product URL</title>
+					<title>Product Description</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
+							<name>width</name>
 							<value></value>
-							<type>boolean</type>
+							<type>int</type>
 						</property>
 						<property>
-							<name>tokenize</name>
+							<name>height</name>
+							<value></value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>autoGrow</name>
 							<value>false</value>
 							<type>boolean</type>
+						</property>
+						<property>
+							<name>forceRootBlockPTag</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>forcePTags</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>forceBRTags</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>supportedChannels</name>
+							<value></value>
+							<type>supportedChannels</type>
+						</property>
+						<property>
+							<name>rteConfiguration</name>
+							<value>generic</value>
+							<type>string</type>
+						</property>
+						<property>
+							<name>imageManager</name>
+							<value></value>
+							<type>datasource:image</type>
+						</property>
+						<property>
+							<name>videoManager</name>
+							<value></value>
+							<type>datasource:video</type>
+						</property>
+						<property>
+							<name>fileManager</name>
+							<value></value>
+							<type>datasource:item</type>
 						</property>
 					</properties>
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[true]]></value>
+							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
 					</constraints>
-				</field>
-					</fields>
 				</field>
 			</fields>
 		</section>
 	</sections>
 	<datasources>				<datasource>
 					<type>img-desktop-upload</type>
-					<id>groupChildProductImage</id>
-					<title>Upload Group Child Product Image</title>
+					<id>uploadimage</id>
+					<title>Upload Image</title>
 					<interface>image</interface>
 					<properties>
 						<property>
@@ -407,8 +409,8 @@
 				</datasource>
 				<datasource>
 					<type>img-repository-upload</type>
-					<id>existingGroupChildProductImage</id>
-					<title>Existing Group Child Product Image</title>
+					<id>existingImage</id>
+					<title>Existing Image</title>
 					<interface>image</interface>
 					<properties>
 						<property>
@@ -424,32 +426,37 @@
 					</properties>
 				</datasource>
 				<datasource>
-					<type>img-desktop-upload</type>
-					<id>uploadGroupChildProductIcon</id>
-					<title>Upload Group Child Product Icon</title>
-					<interface>image</interface>
+					<type>site-component</type>
+					<id>productgrouplv1</id>
+					<title>Product group lv1</title>
+					<interface>item</interface>
 					<properties>
 						<property>
-							<name>repoPath</name>
-							<value>/static-assets/images/products/icons</value>
+							<name>dataType</name>
+							<value>[{&quot;value&quot;:&quot;value&quot;,&quot;label&quot;:&quot;&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_s&quot;,&quot;label&quot;:&quot;String&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;value_i&quot;,&quot;label&quot;:&quot;Integer&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_f&quot;,&quot;label&quot;:&quot;Float&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_dt&quot;,&quot;label&quot;:&quot;Date&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_html&quot;,&quot;label&quot;:&quot;Data Type&quot;,&quot;selected&quot;:false}]</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>componentPath</name>
+							<value>/site/taxonomy/nhom-san-pham.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
 				</datasource>
 				<datasource>
-					<type>img-repository-upload</type>
-					<id>existingGroupChildProductIcon</id>
-					<title>Existing Group Child Product Icon</title>
-					<interface>image</interface>
+					<type>site-component</type>
+					<id>productgrouplv2</id>
+					<title>Product group lv2</title>
+					<interface>item</interface>
 					<properties>
 						<property>
-							<name>repoPath</name>
-							<value>/static-assets/images/products/icons</value>
+							<name>dataType</name>
+							<value>[{&quot;value&quot;:&quot;value&quot;,&quot;label&quot;:&quot;&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_s&quot;,&quot;label&quot;:&quot;String&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;value_i&quot;,&quot;label&quot;:&quot;Integer&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_f&quot;,&quot;label&quot;:&quot;Float&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_dt&quot;,&quot;label&quot;:&quot;Date&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_html&quot;,&quot;label&quot;:&quot;Data Type&quot;,&quot;selected&quot;:false}]</value>
 								<type>undefined</type>
 						</property>
 						<property>
-							<name>useSearch</name>
-							<value>false</value>
+							<name>componentPath</name>
+							<value>/site/taxonomy/nhom-san-pham-con.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
