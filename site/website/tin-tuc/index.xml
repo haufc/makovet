@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9148</objectGroupId>
+	<objectId>9148cbd5-890e-2e3b-a173-8081ff629950</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tin-tuc</folder-name>
+	<internal-name>Tin tức</internal-name>
+	<navLabel>Tin tức</navLabel>
+	<title_s>Bản tin Makovet</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Bản tin Makovet</description_t>
+	<createdDate>2020-06-23T07:30:13.239Z</createdDate>
+	<createdDate_dt>2020-06-23T07:30:13.239Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T07:30:13.239Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T07:30:13.239Z</lastModifiedDate_dt>
+</page>
