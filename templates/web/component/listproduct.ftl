@@ -1,5 +1,12 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 	<div class="container">
-	    <h1>List child product</h1>
+	    <#if (products)??>
+	        <#list products as item>
+            	<div class="col-md-2">
+        	        <a href="${item.url}"><img src="${item.avatar}"/></a>
+        	        <p class="d-block text-center">${item.title}</p>
+        	    </div>
+            </#list>
+	    </#if>
 	</div>
 <@studio.toolSupport />
