@@ -1,6 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <div id="slide" class="" data-ride="carousel" <@studio.iceAttr component=contentModel/>>
-    <div class="">
+    <div class="container">
         <#if (contentModel.slide_o.item)??>
         <#assign first = true>
         <#list contentModel.slide_o.item as element>
