@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a9e1</objectGroupId>
+	<objectId>a9e1c2ef-f754-fde9-fba5-c88a66e09caf</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>san-pham</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Sản phẩm</internal-name>
+	<navLabel>Sản phẩm</navLabel>
+	<t_s>Sản phẩm</t_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/group-products/0f27abdc-a3c9-aa4b-c133-12130888d348.xml</key>
+	<value>Nhóm sản phẩm</value>
+	<include>/site/items/group-products/0f27abdc-a3c9-aa4b-c133-12130888d348.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<createdDate>2020-06-23T03:28:29.300Z</createdDate>
+	<createdDate_dt>2020-06-23T03:28:29.300Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T03:28:29.300Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T03:28:29.300Z</lastModifiedDate_dt>
+</page>
