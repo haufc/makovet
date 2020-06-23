@@ -159,7 +159,7 @@
 					<id>categories_o</id>
 					<iceId></iceId>
 					<title>Categories</title>
-					<description>Phân loại</description>
+					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
@@ -423,7 +423,7 @@
 					<id>createdDate_dt</id>
 					<iceId></iceId>
 					<title>Created Date</title>
-					<description></description>
+					<description>Ngày viết bài</description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
