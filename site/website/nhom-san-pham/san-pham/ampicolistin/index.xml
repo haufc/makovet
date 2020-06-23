@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e133</objectGroupId>
+	<objectId>e1339d67-9419-32e8-adfb-ab74a3d902e5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin</folder-name>
+	<internal-name>Sản phẩm Ampicolistin</internal-name>
+	<navLabel>Ampicolistin</navLabel>
+	<productName_s>Ampicolistin</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Thuốc cho trâu - bò</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</productImage_s>
+	<productDescription_html>&lt;h2 style="margin: 0px 0px 10px; padding: 0px; font-weight: 400; font-family: DauphinPlain; font-size: 24px; line-height: 24px; background-color: #ffffff;"&gt;What is Lorem Ipsum?&lt;/h2&gt;
+&lt;p style="margin: 0px 0px 15px; padding: 0px; text-align: justify; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;&lt;strong style="margin: 0px; padding: 0px;"&gt;Lorem Ipsum&lt;/strong&gt;&amp;nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</productDescription_html>
+	<createdDate>2020-06-23T07:28:15.502Z</createdDate>
+	<createdDate_dt>2020-06-23T07:28:15.502Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T07:28:15.502Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T07:28:15.502Z</lastModifiedDate_dt>
+</page>
