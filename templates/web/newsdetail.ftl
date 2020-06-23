@@ -2,13 +2,12 @@
   <head>
   </head>
   <body>
-    <button onclick="topFunction()" id="btn-up-top" ><i class="fa fa-angle-up"></i></button>
     <div class="content">
         <@renderComponent component=contentModel.slideImage_o.item />
         <div class="content__title">
         <div class="container" style="padding-left:30px;">
             <#if contentModel.categories_o.item.key = "internalnews" >
-                <h2 style="color:red">Tin Mavinex</h2>
+                <h2 style="color:red">Tin nội bộ</h2>
             </#if>
             <#if contentModel.categories_o.item.key ="industrynews" >
                 <h2 style="color:red">Tin ngành</h2>
