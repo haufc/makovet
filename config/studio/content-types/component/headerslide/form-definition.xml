@@ -160,7 +160,7 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[true]]></value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
@@ -178,7 +178,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/slides</value>
 								<type>undefined</type>
 						</property>
 					</properties>
@@ -191,7 +191,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/slides</value>
 								<type>undefined</type>
 						</property>
 						<property>
