@@ -34,15 +34,17 @@
          <div>
          <hr/>
          <h4>SẢN PHẨM TƯƠNG TỰ</h4>
-         <div class="col-md-12">
-            <#if (productOther)??>
-                <#list productOther as item>
-                    <div class="col-md-2">
-                        <a href="${item.url}"><img src="${item.avatar}"/></a>
-                        <p>${item.title}</p>
-                    </div>
-                </#list>
-            </#if>
+         <div class="row">
+            <div class="col-md-12"> 
+                <#if (productOther)??>
+                    <#list productOther as item>
+                        <div class="col-md-2">
+                            <a href="${item.url}"><img src="${item.avatar}"/></a>
+                            <p>${item.title}</p>
+                        </div>
+                    </#list>
+                </#if>
+            </div>
          </div>
     </div>
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
