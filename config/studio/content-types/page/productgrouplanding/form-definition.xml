@@ -367,7 +367,7 @@
 						</property>
 						<property>
 							<name>type</name>
-							<value></value>
+							<value>/component/listproduct</value>
 								<type>undefined</type>
 						</property>
 					</properties>
