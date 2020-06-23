@@ -1,3 +1,4 @@
+<#import "/templates/system/common/cstudio-support.ftl" as studio />
 <div id="slide" class="" data-ride="carousel" <@studio.iceAttr component=contentModel/>>
     <div class="">
         <#if (contentModel.slide_o.item)??>
@@ -13,3 +14,4 @@
     </#if>
     </div>
 </div>
+<@studio.toolSupport />
