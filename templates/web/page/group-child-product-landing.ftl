@@ -18,9 +18,9 @@
   <body>
     <h1>Demo</h1>
     <div class="content">
-         <#if (contentModel.productChildgroup_o.item)?? && contentModel.section_o??>
+         <#if (contentModel.productChildgroup_o.item)??>
             <#list (contentModel.productChildgroup_o.item)![] as section>
-                <div class="group-pr-${section?index}">
+                <div>
                     <@renderComponent parent=contentModel component=section />
                 </div>
             </#list>
