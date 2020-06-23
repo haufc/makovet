@@ -18,9 +18,25 @@
 	<value>Slide  Tin tức</value>
 	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>12f6b92f-17f0-74ae-8861-83f34851eae5</key>
+	<value>Nội dung - Tin Tức</value>
+<component id="12f6b92f-17f0-74ae-8861-83f34851eae5">
+	<content-type>/component/news</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>12f6</objectGroupId>
+	<objectId>12f6b92f-17f0-74ae-8861-83f34851eae5</objectId>
+	<file-name>12f6b92f-17f0-74ae-8861-83f34851eae5.xml</file-name>
+	<internal-name>Nội dung - Tin Tức</internal-name>
+	<createdDate>2020-06-23T08:00:34.501Z</createdDate>
+	<createdDate_dt>2020-06-23T08:00:34.501Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T08:00:34.501Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T08:00:34.501Z</lastModifiedDate_dt>
+</component>
 	</item></sections_o>
 	<createdDate>2020-06-23T07:54:26.522Z</createdDate>
 	<createdDate_dt>2020-06-23T07:54:26.522Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T07:54:26.522Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T07:54:26.522Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-23T08:00:26.827Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T08:00:26.827Z</lastModifiedDate_dt>
 </page>
