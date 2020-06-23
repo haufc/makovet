@@ -15,7 +15,7 @@
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
-	<value>Slide  Tin tức</value>
+	<value> Header - Tin tức</value>
 	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="sections" inline="true">	<key>12f6b92f-17f0-74ae-8861-83f34851eae5</key>
@@ -37,6 +37,6 @@
 	</item></sections_o>
 	<createdDate>2020-06-23T07:54:26.522Z</createdDate>
 	<createdDate_dt>2020-06-23T07:54:26.522Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T08:00:26.827Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T08:00:26.827Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-23T08:14:57.581Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T08:14:57.581Z</lastModifiedDate_dt>
 </page>
