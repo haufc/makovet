@@ -550,7 +550,7 @@
 						</property>
 						<property>
 							<name>type</name>
-							<value>/component/slide</value>
+							<value>/component/headerslide</value>
 								<type>undefined</type>
 						</property>
 					</properties>
