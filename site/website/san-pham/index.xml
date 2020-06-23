@@ -23,19 +23,29 @@
 	<objectGroupId>4e9c</objectGroupId>
 	<objectId>4e9c6067-52f1-9da5-5530-87813985969d</objectId>
 	<groupProduct_o item-list="true">	<item>	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
-	<groupProductName_s>Nhóm sản phẩm cha</groupProductName_s>
+	<groupProductName_s>THUỐC CHO TRÂU - BÒ</groupProductName_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO HEO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO GÀ - VỊT</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO CHÓ - MÈO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO TÔM - CÁ</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO LOÀI VẬT KHÁC</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
 	</item></groupProduct_o>
 	<file-name>4e9c6067-52f1-9da5-5530-87813985969d.xml</file-name>
 	<internal-name>Nhóm sản phẩm cha</internal-name>
 	<title_s>Nhóm sản phẩm cha</title_s>
 	<createdDate>2020-06-23T03:39:50.888Z</createdDate>
 	<createdDate_dt>2020-06-23T03:39:50.888Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T03:39:50.888Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T03:39:50.888Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-23T03:40:47.032Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T03:40:47.032Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T03:28:29.300Z</createdDate>
 	<createdDate_dt>2020-06-23T03:28:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T03:39:42.159Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T03:39:42.159Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-23T03:40:42.063Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T03:40:42.063Z</lastModifiedDate_dt>
 </page>
