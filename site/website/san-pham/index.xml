@@ -13,13 +13,29 @@
 	<internal-name>Sản phẩm</internal-name>
 	<navLabel>Sản phẩm</navLabel>
 	<t_s>Sản phẩm</t_s>
-	<section_o item-list="true">	<item datasource="section">	<key>/site/items/group-products/0f27abdc-a3c9-aa4b-c133-12130888d348.xml</key>
-	<value>Nhóm sản phẩm</value>
-	<include>/site/items/group-products/0f27abdc-a3c9-aa4b-c133-12130888d348.xml</include>
-	<disableFlattening>false</disableFlattening>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>4e9c6067-52f1-9da5-5530-87813985969d</key>
+	<value>Nhóm sản phẩm cha</value>
+<component id="4e9c6067-52f1-9da5-5530-87813985969d">
+	<content-type>/component/nhomsanphamcha</content-type>
+	<display-template>/templates/web/component/group-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4e9c</objectGroupId>
+	<objectId>4e9c6067-52f1-9da5-5530-87813985969d</objectId>
+	<groupProduct_o item-list="true">	<item>	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	<groupProductName_s>Nhóm sản phẩm cha</groupProductName_s>
+	</item></groupProduct_o>
+	<file-name>4e9c6067-52f1-9da5-5530-87813985969d.xml</file-name>
+	<internal-name>Nhóm sản phẩm cha</internal-name>
+	<title_s>Nhóm sản phẩm cha</title_s>
+	<createdDate>2020-06-23T03:39:50.888Z</createdDate>
+	<createdDate_dt>2020-06-23T03:39:50.888Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T03:39:50.888Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T03:39:50.888Z</lastModifiedDate_dt>
+</component>
 	</item></section_o>
 	<createdDate>2020-06-23T03:28:29.300Z</createdDate>
 	<createdDate_dt>2020-06-23T03:28:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T03:28:29.300Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T03:28:29.300Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-23T03:39:42.159Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T03:39:42.159Z</lastModifiedDate_dt>
 </page>
