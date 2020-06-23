@@ -19,7 +19,6 @@
     <h1>Demo</h1>
     <div class="content">
          <#if (contentModel.productChildgroup_o.item)??>
-         <@renderComponent component=contentModel.productChildgroup_o.item />
             <#list (contentModel.productChildgroup_o.item)![] as section>
                 <div>
                     <@renderComponent parent=contentModel component=section />
