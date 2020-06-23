@@ -9,7 +9,7 @@ import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
 class NewsSearchHelper{
-    static final String NEWS_CONTENT_TYPE ="content-type:\"/page/newsdetail\" "
+    static final String NEWS_CONTENT_TYPE ="content-type:\"/page/pagenewsdetail\" "
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS  = 1000
     
