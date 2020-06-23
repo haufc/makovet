@@ -8,9 +8,9 @@
 	<objectId>37d09183-a58e-83dd-8722-182fce86f6bb</objectId>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/ab2b0846-6328-5fde-6263-fcc58c0d4bdb.xml</key>
-	<value>Nhóm bồi dưỡng tăng sức đề kháng</value>
-	<include>/site/items/ab2b0846-6328-5fde-6263-fcc58c0d4bdb.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/084dc809-576c-9981-4797-1d8bcf243c72.xml</key>
+	<value>Test</value>
+	<include>/site/items/084dc809-576c-9981-4797-1d8bcf243c72.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<file-name>index.xml</file-name>
@@ -22,6 +22,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-06-23T07:44:19.821Z</createdDate>
 	<createdDate_dt>2020-06-23T07:44:19.821Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T08:10:57.499Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T08:10:57.499Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-23T08:15:37.910Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T08:15:37.910Z</lastModifiedDate_dt>
 </page>
