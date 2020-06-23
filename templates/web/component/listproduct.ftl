@@ -4,7 +4,7 @@
     	    <#if (products)??>
     	        <#list products as item>
                 	<div class="col-md-2">
-            	        <a href="${item.url}"><img src="${item.avatar}"/></a>
+            	        <a href="${item.url}"><img style="max-width:100%; height:auto;" src="${item.avatar}"/></a>
             	        <p class="d-block text-center">${item.title}</p>
             	    </div>
                 </#list>
