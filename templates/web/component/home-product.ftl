@@ -16,7 +16,7 @@
                 <div class="col-md-12 d-flex" style="background-color: #FFCB08">
                 	<#list products as product>
                         <div class="col-md product-item">
-                            <img style="padding:10%;" class="img-full" src="${product.avatar}" />
+                            <a href="${product.url}"><img style="padding:10%;" class="img-full" src="${product.avatar}" /></a>
                             <p class="d-block text-center" style="padding:10%;">${product.title}</p>
                         </div>
                     </#list>
