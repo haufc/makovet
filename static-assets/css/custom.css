@@ -33,7 +33,7 @@ font-size: 20px;
     top: 50%;
     width: 9999px;
     /* Here is the modification */
-    border-top: 4px double red;
+    border-top: 10px double #FFCB08;
 }
 
 .strike > span:before {
