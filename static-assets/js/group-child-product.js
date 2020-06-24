@@ -48,7 +48,7 @@ $(document).ready(function(){
         }
     
         $(".pagi li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
-        $(".pagi li.current-page:eq(" + (currentPage -1) + ")").attr('style', 'background-color: #322372 !important');
+        $(".pagi li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
       }
     });
     
