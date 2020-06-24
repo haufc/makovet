@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c245</objectGroupId>
+	<objectId>c24595fc-bc8c-2c75-ee09-ebb3402672af</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test4</folder-name>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Thuốc cho trâu - bò</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<internal-name>Test4</internal-name>
+	<navLabel>Test4</navLabel>
+	<productName_s>Test4</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productImage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</productImage_s>
+	<productDescription_html>&lt;p&gt;Test3&lt;/p&gt;</productDescription_html>
+	<createdDate>2020-06-24T02:53:12.191Z</createdDate>
+	<createdDate_dt>2020-06-24T02:53:12.191Z</createdDate_dt>
+	<lastModifiedDate>2020-06-24T02:53:12.191Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T02:53:12.191Z</lastModifiedDate_dt>
+</page>
