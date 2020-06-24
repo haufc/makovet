@@ -1,6 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <div class="container">
-        <div class="d-fex">
+        <div class="d-flex">
             <div class="col-md-6">
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
