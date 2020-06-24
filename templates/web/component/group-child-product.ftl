@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="${contentModel.groupProductImg1_s}"/>
+                <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
             <div class="col-md-6" style="background-color: yeallow;">
                 <img src="${contentModel.groupProductImg2_s}"/>
