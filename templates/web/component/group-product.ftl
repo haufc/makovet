@@ -12,8 +12,14 @@
         <hr class="line-hozital"/>
         
         <div class="row">
-            <div class="col-md-2">
-            </div>
+            <#if (products)??>
+            	<#list products as product>
+                    <div class="col-md-2">
+                        <img src="${product.avatr}" />
+                        <p class="d-block">${product.title}</p>
+                    </div>
+                </#list>
+            </#if>
         </div>
     </div>
 <@studio.toolSupport />
