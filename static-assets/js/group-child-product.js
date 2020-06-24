@@ -9,13 +9,12 @@ $(document).ready(function(){
     var totalPages = Math.round(numberOfProducts / limitPerPage );
     
     $('.pagi').append("<li class='page-item current-page active'><a class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
-    
+    $(".pagi li.current-page:eq(" + 1 + ")").children().attr('style', 'background-color: #322372 !important');
     for (let i=2; i<= totalPages;i++){
         $(".pagi").append("<li class='page-item current-page'><a class='page-link' href='javascript:void(0)'>"+ i +"</a></li>");
     }
     
     $('.pagi').append("<li id='next-page' class='page-item'><a class='page-link' href='javascript:void(0)'><span class='fas fa-angle-right'></a></li>");
-    $(".pagi li.current-page").children().attr('style', 'background-color: #322372 !important');
     
     $('.pagi li.current-page').on("click", function(){
         if($(this).hasClass("active")){
