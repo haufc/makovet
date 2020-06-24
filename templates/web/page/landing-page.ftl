@@ -28,6 +28,7 @@
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/owlcarousel/dist/owl.carousel.min.js"></script>
+    <script src="/static-assets/js/group-product.js"></script>
   </body>
 </html>
 <@studio.toolSupport />
