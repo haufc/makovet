@@ -12,7 +12,7 @@
             <#list contentModel.groupproductchild_o.item as item>
             	<div class="col-md-4">
             	    <a href="${item.groupChildProductURL_s}"><img style="max-width:100%; height:auto;" src="${item.groupChildProductImage_s}"/></a>
-            	    <p class="d-flex">${item.groupChildProductName_s}</p>
+            	    <p class="d-block text-center">${item.groupChildProductName_s}</p>
             	</div>
             </#list>
         </div>
