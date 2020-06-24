@@ -38,7 +38,6 @@
     <script src="/static-assets/js/jquery.twbsPagination.min.js"></script>
     <script src="/static-assets/js/script.js"></script>
     <script src="/static-assets/js/language.js"></script>
-    <script src="/static-assets/js/group-product.js"></script>
   </body>
 </html>
 <@studio.toolSupport />
