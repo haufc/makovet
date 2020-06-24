@@ -24,34 +24,34 @@
 	<objectId>4e9c6067-52f1-9da5-5530-87813985969d</objectId>
 	<groupProduct_o item-list="true">	<item>	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
 	<groupProductName_s>THUỐC CHO TRÂU - BÒ</groupProductName_s>
-	<groupChildProductURL_s>/san-pham-1/thuoc-cho-trau-bo</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>THUỐC CHO HEO</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/thuoc-cho-heo</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>THUỐC CHO GÀ - VỊT</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/thuoc-cho-ga-vit</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-ga-vit/thuoc-cho-ga-vit</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>THUỐC CHO CHÓ - MÈO</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/thuoc-cho-cho-me</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>THUỐC CHO TÔM - CÁ</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/thuoc-cho-tom-ca</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-tom-ca/thuoc-cho-tom-ca</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>THUỐC CHO LOÀI VẬT KHÁC</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
 	</item></groupProduct_o>
 	<file-name>4e9c6067-52f1-9da5-5530-87813985969d.xml</file-name>
 	<internal-name>Nhóm sản phẩm cha</internal-name>
 	<title_s>Nhóm sản phẩm cha</title_s>
 	<createdDate>2020-06-23T03:39:50.888Z</createdDate>
 	<createdDate_dt>2020-06-23T03:39:50.888Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T07:39:18.654Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T07:39:18.654Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-24T03:45:42.909Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T03:45:42.909Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T03:28:29.300Z</createdDate>
 	<createdDate_dt>2020-06-23T03:28:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T07:39:15.701Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T07:39:15.701Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-24T03:45:39.231Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T03:45:39.231Z</lastModifiedDate_dt>
 </page>
