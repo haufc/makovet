@@ -13,7 +13,7 @@
         </div>
         <div class="row" id ="panigation-product">
             <#if (products)??>
-                <div class="col-md-12 row">
+                <div class="col-md-12 d-flex" style="background-color: #FFCB08">
                 	<#list products as product>
                         <div class="col-md product-item">
                             <img class="img-full" src="${product.avatar}" />
