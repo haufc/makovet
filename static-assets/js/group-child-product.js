@@ -41,7 +41,6 @@ $(document).ready(function(){
         $('.pagi *').removeAttr('style');
         currentPage++; 
         $(".pagi li").removeClass('active'); 
-        $(this).children().attr('style', 'background-color: #322372 !important');
         $("#child-product .child-product-item").hide();
         var total = limitPerPage * currentPage; 
         for (let i = total - limitPerPage; i < total; i++) {
@@ -49,6 +48,7 @@ $(document).ready(function(){
         }
     
         $(".pagi li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
+        $(".pagi li.current-page:eq(" + (currentPage -1) + ")").attr('style', 'background-color: #322372 !important');
       }
     });
     
