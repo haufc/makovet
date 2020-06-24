@@ -8,6 +8,8 @@
                 <img src="${contentModel.groupProductImg2_s}"/>
             </div>
         </div>
+        <hr class="line-hozital"/>
+        <hr class="line-hozital"/>
         <div class="row">
             <#list contentModel.groupproductchild_o.item as item>
             	<div class="col-md-4">
