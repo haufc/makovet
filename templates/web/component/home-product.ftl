@@ -9,8 +9,8 @@
             </#list>
         </div>
         
-        <div class="strike">
-            <span>Kringle</span>
+        <div class="strike mt-1 mb-1">
+            <span>SẢN PHẨM MỚI</span>
         </div>
         
         <div class="row" id ="panigation-product">
