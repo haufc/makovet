@@ -57,6 +57,7 @@ $(document).ready(function(){
           if (currentPage === 1) {
             return false; 
           } else {
+            $('.pagi *').removeAttr('style');
             currentPage--; 
             $(".pagi li").removeClass('active'); 
             $("#child-product .child-product-item").hide();
@@ -65,6 +66,7 @@ $(document).ready(function(){
               $("#child-product .child-product-item:eq(" + i + ")").show();
             }
             $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
+            $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").children().attr('style', 'background-color: #322372 !important'); 
           }
     });
     
