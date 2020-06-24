@@ -23,7 +23,7 @@ $(document).ready(function(){
             var currentPage = $(this).index();
             $('.pagi li').removeClass("active");
             $(this).addClass("active");
-            $(this).attr('style', 'background-color: #322372 !important');
+            $(this).children().attr('style', 'background-color: #322372 !important');
             $("#child-product .child-product-item").hide();
             var total = limitPerPage * currentPage;
             for(let i = total - limitPerPage; i<total; i++){
