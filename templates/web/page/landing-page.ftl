@@ -16,7 +16,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
-    <h1>Demo</h1>
     <div class="content">
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
@@ -29,7 +28,7 @@
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/owlcarousel/dist/owl.carousel.min.js"></script>
     <script src="/static-assets/js/group-product.js"></script>
-    <script src="/static-assets/js/group-child-product.js"></script>
+  <#--  <script src="/static-assets/js/group-child-product.js"></script> -->
   </body>
 </html>
 <@studio.toolSupport />

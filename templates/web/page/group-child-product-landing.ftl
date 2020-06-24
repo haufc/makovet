@@ -18,8 +18,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
-    <h1>Demo</h1>
     <div class="content">
+        <div class="container">
+            <h3>${contentModel.title_s}</h3>
+        </div>
          <#if (contentModel.productChildgroup_o.item)??>
             <#list (contentModel.productChildgroup_o.item)![] as section>
                 <div>
