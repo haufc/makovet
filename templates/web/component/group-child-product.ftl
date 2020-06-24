@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <div class="container">
         <div class="d-flex">
-            <div class="col-md-6">
+            <div class="col-md-6 p-left-0">
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
             <div class="col-md-6 banner-gr-child-pr">
