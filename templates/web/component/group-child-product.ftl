@@ -9,8 +9,8 @@
             </div>
         </div>
         <div class="row">
-            <hr class="line-hozital"/>
-            <hr class="line-hozital"/>
+            <hr class="line-hozital col-md-12"/>
+            <hr class="line-hozital col-md-12"/>
         </div>
         <div class="row">
             <#list contentModel.groupproductchild_o.item as item>
