@@ -8,8 +8,8 @@
                 </div>
             </#list>
         </div>
-        <hr/>
-        <hr/>
+        <hr class="line-hozital"/>
+        <hr class="line-hozital"/>
         
         <div class="row">
             <div class="col-md-2">
