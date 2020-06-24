@@ -15,7 +15,7 @@
             <#if (products)??>
             	<#list products as product>
                     <div class="col-md-2">
-                        <img src="${product.avatar}" />
+                        <img class="img-full" src="${product.avatar}" />
                         <p class="d-block">${product.title}</p>
                     </div>
                 </#list>
