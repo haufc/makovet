@@ -11,12 +11,12 @@
         <div class="strike mt-5 mb-5">
             <span>SẢN PHẨM MỚI</span>
         </div>
-        <div class="row" id ="panigation-product">
+        <div>
             <#if (products)??>
                 <div class="col-md-12 d-flex" style="background-color: #FFCB08">
                 	<#list products as product>
                         <div class="col-md product-item">
-                            <img class="img-full" src="${product.avatar}" />
+                            <img style="padding:24px;" class="img-full" src="${product.avatar}" />
                             <p class="d-block">${product.title}</p>
                         </div>
                     </#list>
