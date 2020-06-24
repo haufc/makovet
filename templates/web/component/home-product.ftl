@@ -8,12 +8,10 @@
                 </div>
             </#list>
         </div>
-        
-        <div class="strike mt-5 mb-5">
-            <span>SẢN PHẨM MỚI</span>
-        </div>
-        
         <div class="row" id ="panigation-product">
+            <div class="strike mt-5 mb-5">
+                <span>SẢN PHẨM MỚI</span>
+            </div>
             <#if (products)??>
             	<#list products as product>
                     <div class="col-md product-item">
@@ -23,10 +21,5 @@
                 </#list>
             </#if>
         </div>
-        <nav aria-label="Page navigation example">
-          <ul class="pagination pagi justify-content-center">
-            <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
-          </ul>
-        </nav>
     </div>
 <@studio.toolSupport />
