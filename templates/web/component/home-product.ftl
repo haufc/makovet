@@ -8,7 +8,7 @@
                 </div>
             </#list>
         </div>
-        <div class="strike mt-5 mb-5">
+        <div class="strike mt-5 mb-1">
             <span>SẢN PHẨM MỚI</span>
         </div>
         <div>
