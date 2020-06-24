@@ -8,10 +8,10 @@
                 </div>
             </#list>
         </div>
+        <div class="strike mt-5 mb-5">
+            <span>SẢN PHẨM MỚI</span>
+        </div>
         <div class="row" id ="panigation-product">
-            <div class="strike mt-5 mb-5">
-                <span>SẢN PHẨM MỚI</span>
-            </div>
             <#if (products)??>
             	<#list products as product>
                     <div class="col-md product-item">
