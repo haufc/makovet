@@ -15,6 +15,7 @@ $(document).ready(function(){
     }
     
     $('.pagi').append("<li id='next-page' class='page-item'><a class='page-link' href='javascript:void(0)'><span class='fas fa-angle-right'></a></li>");
+    $(".pagi li.current-page").children().attr('style', 'background-color: #322372 !important');
     
     $('.pagi li.current-page').on("click", function(){
         if($(this).hasClass("active")){
