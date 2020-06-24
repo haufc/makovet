@@ -7,8 +7,6 @@
             <div class="col-md-6 banner-gr-child-pr">
                 <img class="banner-img" src="${contentModel.groupProductImg2_s}"/>
             </div>
-        </div>
-        <div class="row">
             <hr class="line-hozital col-md-12"/>
             <hr class="line-hozital col-md-12"/>
         </div>
