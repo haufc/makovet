@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bd09</objectGroupId>
+	<objectId>bd096f3c-55be-bfb6-8033-5686fddcca2d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>trang-chu</folder-name>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>ee1d0e68-eb93-fd84-952a-14e86b3fdcf5</key>
+	<value>Danh sách nhóm sản phẩm cha</value>
+<component id="ee1d0e68-eb93-fd84-952a-14e86b3fdcf5">
+	<content-type>/component/nhomsanphamcha</content-type>
+	<display-template>/templates/web/component/group-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ee1d</objectGroupId>
+	<objectId>ee1d0e68-eb93-fd84-952a-14e86b3fdcf5</objectId>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>THUỐC CHO TRÂU - BÒ</groupProductName_s>
+	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo</groupChildProductURL_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO HEO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO GÀ - VỊT</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-ga-vit/thuoc-cho-ga-vit</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO CHÓ - MÈO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO TÔM - CÁ</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-tom-ca/thuoc-cho-tom-ca</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO LOÀI VẬT KHÁC</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
+	</item></groupProduct_o>
+	<file-name>ee1d0e68-eb93-fd84-952a-14e86b3fdcf5.xml</file-name>
+	<internal-name>Danh sách nhóm sản phẩm cha</internal-name>
+	<title_s>Sản phẩm</title_s>
+	<createdDate>2020-06-24T07:00:02.641Z</createdDate>
+	<createdDate_dt>2020-06-24T07:00:02.641Z</createdDate_dt>
+	<lastModifiedDate>2020-06-24T07:00:02.641Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T07:00:02.641Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<description_t>Trang chủ</description_t>
+	<internal-name>Trang chủ</internal-name>
+	<navLabel>Trang chủ</navLabel>
+	<title_s>Trang chủ</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-06-24T06:58:45.441Z</createdDate>
+	<createdDate_dt>2020-06-24T06:58:45.441Z</createdDate_dt>
+	<lastModifiedDate>2020-06-24T06:58:45.441Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T06:58:45.441Z</lastModifiedDate_dt>
+</page>
