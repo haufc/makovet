@@ -1,3 +1,7 @@
 .line-hozital {
     border: 5px solid #FFCB08;
 }
+.img-full {
+    max-width: 100%;
+    height: auto;
+}
