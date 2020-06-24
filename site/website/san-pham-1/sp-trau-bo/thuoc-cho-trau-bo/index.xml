@@ -29,7 +29,7 @@
 	<groupProductImg2_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm tăng sức đề kháng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
-	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/boi-duong-tan</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc kháng sinh</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
@@ -39,12 +39,12 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-06-23T04:34:45.063Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:45.063Z</createdDate_dt>
-	<lastModifiedDate>2020-06-24T03:51:31.709Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-24T03:51:31.709Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-24T03:52:54.657Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T03:52:54.657Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
-	<lastModifiedDate>2020-06-24T03:51:19.567Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-24T03:51:19.567Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-24T03:52:51.206Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T03:52:51.206Z</lastModifiedDate_dt>
 </page>
