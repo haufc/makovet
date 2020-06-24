@@ -30,7 +30,7 @@ font-size: 20px;
 .strike > span:after {
     content: "";
     position: absolute;
-    top: 50%;
+    top: 40%;
     width: 9999px;
     /* Here is the modification */
     border-top: 10px double #FFCB08;
