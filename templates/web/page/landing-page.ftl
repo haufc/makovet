@@ -17,7 +17,6 @@
   </head>
   <body>
     <div class="content">
-        <h3>${contentModel.title_s}</h3>
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
