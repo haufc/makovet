@@ -20,6 +20,7 @@ $(document).ready(function(){
         if($(this).hasClass("active")){
             return false;
         } else{
+            $('.pagi li.active').removeAttr('style');
             var currentPage = $(this).index();
             $('.pagi li').removeClass("active");
             $(this).addClass("active");
