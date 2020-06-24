@@ -13,12 +13,14 @@
         </div>
         <div class="row" id ="panigation-product">
             <#if (products)??>
-            	<#list products as product>
-                    <div class="col-md product-item">
-                        <img class="img-full" src="${product.avatar}" />
-                        <p class="d-block">${product.title}</p>
-                    </div>
-                </#list>
+                <div class="col-md-12">
+                	<#list products as product>
+                        <div class="col-md product-item">
+                            <img class="img-full" src="${product.avatar}" />
+                            <p class="d-block">${product.title}</p>
+                        </div>
+                    </#list>
+                </div>
             </#if>
         </div>
     </div>
