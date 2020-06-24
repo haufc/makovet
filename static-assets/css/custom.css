@@ -45,3 +45,13 @@ font-size: 20px;
     left: 100%;
     margin-left: 15px;
 }
+/*Group child product*/
+.banner-gr-child-pr {
+    background-color: #FFCB08;
+    position: relative;
+}
+.banner-gr-child-pr .banner-img {
+    position: absolute;
+    top: 22%;
+    left: 35%;
+}
