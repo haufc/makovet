@@ -4,7 +4,7 @@
             <div class="col-md-6">
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
-            <div class="col-md-6" style="background-color: yeallow;">
+            <div class="col-md-6" style="background-color: #FFCB08;">
                 <img src="${contentModel.groupProductImg2_s}"/>
             </div>
         </div>
