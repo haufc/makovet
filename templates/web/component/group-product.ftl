@@ -8,5 +8,12 @@
                 </div>
             </#list>
         </div>
+        <hr/>
+        <hr/>
+        
+        <div class="row">
+            <div class="col-md-2">
+            </div>
+        </div>
     </div>
 <@studio.toolSupport />
