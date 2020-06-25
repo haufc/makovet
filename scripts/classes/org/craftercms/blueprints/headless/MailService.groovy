@@ -22,7 +22,7 @@ class MailService {
 		mailSender.setUsername("keysoft.hotro@gmail.com")
 		mailSender.setPassword("1234567a@")
 		
-		//javaMailProperties["mail.transport.protocol"] = "smtp"
+		javaMailProperties["mail.transport.protocol"] = "smtp"
         javaMailProperties["mail.smtp.auth"] = "false"
         javaMailProperties["mail.smtp.starttls.enable"] = "true"
         mailSender.javaMailProperties = javaMailProperties
