@@ -1,4 +1,4 @@
-import org.craftercms.blueprints.services.MailService
+import org.craftercms.blueprints.headless.MailService
 
 println "Processing Contact Us Request with values:"
 println params
