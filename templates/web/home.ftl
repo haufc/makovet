@@ -14,8 +14,8 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  </head>
-  <body>
+      </head>
+      <body>
 
     <div class="content">
         <#list (contentModel.sections_o.item)![] as section>
@@ -26,12 +26,12 @@
     <@renderComponent component=contentModel.slideLogo_o.item />
     <script src="/static-assets/plugins/jquery341/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
-    <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/owlcarousel/dist/owl.carousel.min.js"></script>
     <script src="/static-assets/js/language_selector.js"></script>
     <script src="/static-assets/js/logos.js"></script>
+    <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/smooth_scroll.js"></script>
     <script src="/static-assets/js/responsive.js"></script>
