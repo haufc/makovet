@@ -32,7 +32,7 @@
             </div>
             <div class="col-md-12 mb-1 mt-1">
                 <p class="text-right">
-                    <button class="btn btn-warning" type="submit">Gửi</button>
+                    <button onclick="openSpinner()" class="btn btn-warning" type="submit">Gửi</button>
                     <button class="btn btn-warning" type="reset">Hủy</button>
                 </p>
             </div>
