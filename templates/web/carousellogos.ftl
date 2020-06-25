@@ -3,7 +3,7 @@
     <div class="logos__container content-block owl-carousel owl-theme">
         <#list contentModel.logo_o.item as element>
             <div class="logos__item item">
-                <img class="full-size" src="${element.}" alt="Logo">
+                <img class="full-size" src="${element.logo_s}" alt="Logo">
             </div>
         </#list>
     </div>
