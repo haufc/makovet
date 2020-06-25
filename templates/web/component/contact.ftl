@@ -3,7 +3,7 @@
     <h4 class="text-uppercase font-weight-bold violet-color">${contentModel.companyName_s}</h4>
     <p class="d-block font-weight-bold violet-color">Trụ sở chính:</p>
     <p class="d-block font-weight-bold violet-color">${contentModel.companyHeadquater_s}</p>
-    <p class="font-weight-bold violet-color">Điện thoại: ${contentModel.phoneNumber_s} - Fax: ${contentModel.fax_s} - Email: ${contentModel.email_s}</p>
+    <p class="font-weight-bold violet-color mb-3">Điện thoại: ${contentModel.phoneNumber_s} - Fax: ${contentModel.fax_s} - Email: ${contentModel.email_s}</p>
     <form action="/api/1/services/contactUs.json" method="POST">
         <div class="row">
             <label class="col-md-2 mb-1">Họ tên</label>
