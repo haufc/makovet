@@ -23,6 +23,7 @@
         </#list>
         
     </div>
+    <@renderComponent component=contentModel.slideLogo_o.item />
     <script src="/static-assets/plugins/jquery341/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/js/logos.js"></script>
