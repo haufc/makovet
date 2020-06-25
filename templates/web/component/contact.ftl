@@ -36,8 +36,7 @@
                     <button class="btn btn-warning" type="reset">Hủy</button>
                 </p>
             </div>
-            <label class="col-md-2"></label>
-            <div class="col-md-10">
+            <div class="col-md-12">
                 ${contentModel.maps_html}
             </div>
         </div>
