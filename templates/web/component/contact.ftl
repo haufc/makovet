@@ -30,8 +30,12 @@
             <div class="col-md-10">
                 <textarea class="form-control" name="content" id="content"></textarea>
             </div>
-            <button class="btn btn-warning" type="submit">Gửi</button>
-            <button class="btn btn-warning" type="reset">Hủy</button>
+            <div class="col-md-12 mb-1 mt-1">
+                <p class="text-right">
+                    <button class="btn btn-warning" type="submit">Gửi</button>
+                    <button class="btn btn-warning" type="reset">Hủy</button>
+                </p>
+            </div>
             <label class="col-md-2"></label>
             <div class="col-md-10">
                 ${contentModel.maps_html}
