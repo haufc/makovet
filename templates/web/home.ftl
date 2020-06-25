@@ -63,6 +63,16 @@
                 </div>
             </div>
         </div>
+        
+        <!-- =========================
+        MODAL SPINNERS
+        ============================== -->
+        <div class="modal fade" id="modal-spinner" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
+            <span class="fa fa-spinner fa-spin fa-3x"></span>
+        </div>
+</div>
+        
     </div>
     <script src="/static-assets/plugins/jquery341/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
