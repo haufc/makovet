@@ -28,17 +28,17 @@
         <div class="modal fade" id="success-dialog" role="dialog">
             <div class="modal-dialog modal-sm">
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <div class="modal-header text-left">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h3 id="success-dialog-header" class="modal-title">Thank you</h3>
+                        <h3 id="success-dialog-header" class="modal-title">Cảm ơn</h3>
                     </div>
                     <div class="modal-body">
                         <p>
-                            <span id="success-dialog-message" class="modal-main-message">Your request has been processed correctly.</span>
+                            <span id="success-dialog-message" class="modal-main-message">Yêu cầu của bạn đã được xử lý!</span>
                         </p>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Đóng</button>
                     </div>
                 </div>
             </div>
