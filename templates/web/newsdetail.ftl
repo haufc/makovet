@@ -15,27 +15,36 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/makovet.css"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <style>
+    table {
+        width: 100%;
+    }
+    table, tr, td {
+        border: 1px solid #333;
+    }
+    </style>
   </head>
   <body>
-
-    <div class="content">
+    <main>
         <@renderComponent component=contentModel.slideImage_o.item />
-        <div class="content__title">
-        <div class="container" style="padding-left:30px;">
-            <#if contentModel.categories_o.item.key = "internalnews" >
-                <h2 style="color:red">Tin nội bộ</h2>
-            </#if>
-            <#if contentModel.categories_o.item.key ="industrynews" >
-                <h2 style="color:red">Tin ngành</h2>
-            </#if>
-            <h3>${contentModel.title_s}</h3>
-            <img src="${contentModel.image_s!""}" >
-            <div>${contentModel.content_html}</div>
-            <span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
-            </a>
+        <div class="content">
+            <div class="content__title">
+            <div class="container" style="padding-left:30px;">
+                <#if contentModel.categories_o.item.key = "internalnews" >
+                    <h2 style="color:red">Tin nội bộ</h2>
+                </#if>
+                <#if contentModel.categories_o.item.key ="industrynews" >
+                    <h2 style="color:red">Tin ngành</h2>
+                </#if>
+                <h3>${contentModel.title_s}</h3>
+                <img src="${contentModel.image_s!""}" >
+                <div>${contentModel.content_html}</div>
+                <span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
+                </a>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
+    </main>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <script src="/static-assets/plugins/jquery341/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
