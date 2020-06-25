@@ -50,7 +50,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
       </head>
       <body>
-
+    <main>
     <div class="content">
         <#list (contentModel.sections_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
@@ -58,6 +58,7 @@
         
     </div>
     <@renderComponent component=contentModel.slideLogo_o.item />
+    </main>
     <script src="/static-assets/plugins/jquery341/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
