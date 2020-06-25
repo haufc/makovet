@@ -32,6 +32,10 @@
             </div>
             <button class="btn btn-warning" type="submit">Gửi</button>
             <button class="btn btn-warning" type="reset">Hủy</button>
+            <label class="col-md-2"></label>
+            <div class="col-md-10">
+                ${contentModel.maps_html}
+            </div>
         </div>
     </form>
 </div>
