@@ -8,5 +8,5 @@ def service = new MailService()
 service.setHost('smtp.gmail.com')
 service.setPort('587')
 
-service.sendEmail(params.email, "haufc1997@gmail.com", "anhnt@keysoft.vn", params.title ,
+service.sendEmail(params.email, "keysoft.hotro@gmail.com", "anhnt@keysoft.vn", params.title ,
                   "/templates/mail/mail.ftl",[data:"modle", "of":"theTemplate"])
