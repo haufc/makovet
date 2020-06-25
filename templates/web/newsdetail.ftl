@@ -46,8 +46,8 @@
     <@renderComponent component=contentModel.slideLogo_o.item />
     <script src="/static-assets/plugins/jquery/jquery.js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
-    <script src="/static-assets/js/slide.js"></script>
-    <script src="/static-assets/js/logos.js"></script> 
+<#--    <script src="/static-assets/js/slide.js"></script>
+    <script src="/static-assets/js/logos.js"></script>  -->
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/Owlcarousel/js/owl.carousel.min.js"></script>
@@ -60,6 +60,48 @@
     <script src="/static-assets/js/jquery.twbsPagination.min.js"></script>
     <script src="/static-assets/js/script.js"></script>
     <script src="/static-assets/js/language.js"></script>
+    
+    <script>
+        var owl = $('.logos__container');
+        owl.owlCarousel({
+            loop: true,
+            margin: 0,
+            dots: false,
+            autoplay: true,
+            autoplayTimeout: 1000,
+            autoplayHoverPause: true,
+            responsiveClass:true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                300: {
+                    items: 3
+                },
+                700: {
+                    items: 6
+                },
+                1200: {
+                    items: 8
+                }
+            }
+        });
+        $('.play').on('click',function(){
+            owl.trigger('play.owl.autoplay', [1000])
+        })
+        $('.stop').on('click',function(){
+            owl.trigger('stop.owl.autoplay')
+        })
+        
+        $('.slide__container').owlCarousel({
+            loop: true,
+            margin: 10,
+            nav: false,
+            dots: false,
+            items: 1,
+            autoplay: true
+            })
+    </script>
   </body>
 </html>
 <@studio.toolSupport />
