@@ -7,7 +7,7 @@
     <form action="/api/1/services/contactUs.json" method="POST">
         <div class="row">
             <label class="col-md-2 mb-1 mt-5">Họ tên</label>
-            <div class="col-md-10 mb-1 mt-5">
+            <div class="col-md-10 mb-1 mt-md-5">
                 <input type="text" class="form-control" name="name" id="name" required/>
             </div>
             <label class="col-md-2 mb-1">Công ty</label>
