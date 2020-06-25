@@ -25,7 +25,6 @@
     </head>
     <body>
         <main>
-            <@renderComponent component=contentModel.headerslide_o.item />
                 <div class="content">
                     <#list (contentModel.sections_o.item)![] as section>
                         <@renderComponent parent=contentModel component=section />
