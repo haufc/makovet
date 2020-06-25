@@ -42,8 +42,8 @@
             </div>
           </div>
         </div>
+        <@renderComponent component=contentModel.slideLogo_o.item />
     </main>
-    <@renderComponent component=contentModel.slideLogo_o.item />
     <script src="/static-assets/plugins/jquery/jquery.js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
