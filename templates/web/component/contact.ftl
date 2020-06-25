@@ -4,7 +4,7 @@
     <p class="d-block">Trụ sở chính:</p>
     <p class="d-block">${contentModel.companyHeadquater_s}</p>
     <p>Điện thoại: ${contentModel.phoneNumber_s} - Fax: ${contentModel.fax_s} - Email: ${contentModel.email_s}</p>
-    <form action="" method="POST">
+    <form action="/api/1/services/contactUs.json" method="POST">
         <div class="row">
             <label class="col-md-2">Họ tên</label>
             <div class="col-md-10">
