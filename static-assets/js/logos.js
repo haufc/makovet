@@ -1,4 +1,4 @@
-$('.owl-carousel').owlCarousel({
+$('.logos__container').owlCarousel({
     loop: true,
     margin: 0,
     dots: false,
