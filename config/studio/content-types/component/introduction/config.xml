@@ -1,5 +1,5 @@
 <content-type name="/component/introduction" is-wcm-type="true">
-	<label>Component - Giới thiệu + Cơ hội nghề nghiệp</label>
+	<label>Component - Giới thiệu </label>
 	<form>/component/introduction</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
