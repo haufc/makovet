@@ -15,7 +15,7 @@
     </div>
     </div> -->
     <section class="slide">
-        <div class="slide__bg" style="background-image: url(/static-assets/image/slide_bg.png)"></div>
+        <div class="slide__bg" style="background-image: url(/static-assets/images/slide_bg.png)"></div>
         <div class="slide__container owl-carousel owl-theme">
             <#if (contentModel.slide_o.item)??>
                 <#list contentModel.slide_o.item as element>
