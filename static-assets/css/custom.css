@@ -69,3 +69,17 @@ font-size: 20px;
     top: 22%;
     left: 35%;
 }
+/* Logos */
+.logos {
+  margin-top: 105px;
+  margin-bottom: 105px;
+}
+
+.logos__item {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+}
+.content-block {
+    width: 100%;
+  }

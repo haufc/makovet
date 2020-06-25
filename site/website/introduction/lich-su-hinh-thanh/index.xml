@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8db0</objectGroupId>
+	<objectId>8db0d020-de99-dfd7-8c05-a09f0a2bfc72</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>lich-su-hinh-thanh</folder-name>
+	<internal-name>Lịch sử hình thành</internal-name>
+	<navLabel>Lịch sử hình thành</navLabel>
+	<title_s>Lịch sử hình thành</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Lịch sử hình thành</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/9e5263a2-f260-2d40-ddf8-6bd1fbb853e8.xml</key>
+	<value>Header - Lịch sử hình thành</value>
+	<include>/site/items/slides/9e5263a2-f260-2d40-ddf8-6bd1fbb853e8.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>ab8ac07e-0daf-e479-b66d-39904cd18a75</key>
+	<value>Content - Lịch sử hình thành</value>
+<component id="ab8ac07e-0daf-e479-b66d-39904cd18a75">
+	<content-type>/component/introduction</content-type>
+	<display-template>/templates/web/introduction.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ab8a</objectGroupId>
+	<objectId>ab8ac07e-0daf-e479-b66d-39904cd18a75</objectId>
+	<image_s>/static-assets/images/introduction/Layer 191.png</image_s>
+	<file-name>ab8ac07e-0daf-e479-b66d-39904cd18a75.xml</file-name>
+	<internal-name>Content - Lịch sử hình thành</internal-name>
+	<title_s>LỊCH SỬ HÌNH THÀNH</title_s>
+	<content_html>&lt;p&gt;&lt;img src="/static-assets/images/introduction/Gioi thieu (LICH SU HINH THANH).png" alt="" width="1183" height="1101" /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-24T08:33:12.823Z</createdDate>
+	<createdDate_dt>2020-06-24T08:33:12.823Z</createdDate_dt>
+	<lastModifiedDate>2020-06-24T09:01:38.417Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T09:01:38.417Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-24T08:31:46.798Z</createdDate>
+	<createdDate_dt>2020-06-24T08:31:46.798Z</createdDate_dt>
+	<lastModifiedDate>2020-06-24T09:01:34.504Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-24T09:01:34.504Z</lastModifiedDate_dt>
+</page>

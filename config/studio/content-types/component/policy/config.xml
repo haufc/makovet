@@ -1,6 +1,6 @@
-<content-type name="/component/level-descriptor" is-wcm-type="true">
-	<label>Section Defaults</label>
-	<form>/component/level-descriptor</form>
+<content-type name="/component/policy" is-wcm-type="true">
+	<label>Component - Chính sách nhân sự</label>
+	<form>/component/policy</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>
@@ -10,9 +10,4 @@
 	<quickCreatePath></quickCreatePath>
 	<noThumbnail>true</noThumbnail>
 	<image-thumbnail></image-thumbnail>
-	<paths>
-		<includes>
-			<pattern>^/site/website/.*</pattern>
-		</includes>
-	</paths>
 </content-type>
