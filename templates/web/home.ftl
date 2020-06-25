@@ -14,16 +14,25 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/makovet.css"/>
-</head>
-     <body>
-
-    <div class="content">
-        <#list (contentModel.sections_o.item)![] as section>
-            <@renderComponent parent=contentModel component=section />
-        </#list>
-        
-    </div>
-    <@renderComponent component=contentModel.slideLogo_o.item />
+    <style>
+    table {
+        width: 100%;
+    }
+    table, tr, td {
+        border: 1px solid #333;
+    }
+    </style>
+    </head>
+    <body>
+        <main>
+            <@renderComponent component=contentModel.slideImage_o.item />
+            <div class="content">
+                <#list (contentModel.sections_o.item)![] as section>
+                    <@renderComponent parent=contentModel component=section />
+                </#list>
+            </div>
+        <@renderComponent component=contentModel.slideLogo_o.item />
+        </main>
     <script src="/static-assets/plugins/jquery/jquery.js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
@@ -40,6 +49,6 @@
     <script src="/static-assets/js/language.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/logos.js"></script> 
-  </body>
+    </body>
 </html>
 <@studio.toolSupport />
