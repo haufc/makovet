@@ -15,12 +15,14 @@ class MailService {
     def emailFactory = new EmailFactoryImpl()
     def javaMailProperties = new Properties()
     
-        mailSender.setHost('smtp.gmail.com')
+		
+    def MailService() {
+        mailSender.setHost("smtp.gmail.com")
 		mailSender.setPort(587)
 		mailSender.setUsername("keysoft.hotro@gmail.com")
 		mailSender.setPassword("1234567a@")
 		
-    def MailService() {
+		javaMailProperties["mail.transport.protocol"] = "smtp"
         javaMailProperties["mail.smtp.auth"] = "false"
         javaMailProperties["mail.smtp.starttls.enable"] = "true"
         mailSender.javaMailProperties = javaMailProperties
