@@ -47,12 +47,11 @@
     </main>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <script src="/static-assets/plugins/jquery/jquery.js"></script>
-    <script src="/static-assets/js/popper.min.js"></script>
+    <script src="/static-assets/plugins/Owlcarousel/js/owl.carousel.min.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
-    <script src="/static-assets/plugins/Owlcarousel/js/owl.carousel.min.js"></script>
     <script src="/static-assets/js/language_selector.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/nav.js"></script>
