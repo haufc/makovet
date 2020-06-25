@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<div id="slide" class="" data-ride="carousel" <@studio.iceAttr component=contentModel/> style="height:630px;>
+<div id="slide" class="" data-ride="carousel" <@studio.iceAttr component=contentModel/> style="height:630px;">
     <div class="">
         <#if (contentModel.slide_o.item)??>
         <#assign first = true>
