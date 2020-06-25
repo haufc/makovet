@@ -26,12 +26,12 @@
     <body>
         <main>
             <@renderComponent component=contentModel.slideImage_o.item />
-            <div class="content">
-                <#list (contentModel.sections_o.item)![] as section>
-                    <@renderComponent parent=contentModel component=section />
-                </#list>
-            </div>
-        <@renderComponent component=contentModel.slideLogo_o.item />
+                <div class="content">
+                    <#list (contentModel.sections_o.item)![] as section>
+                        <@renderComponent parent=contentModel component=section />
+                    </#list>
+                </div>
+            <@renderComponent component=contentModel.slideLogo_o.item />
         </main>
     <script src="/static-assets/plugins/jquery/jquery.js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
