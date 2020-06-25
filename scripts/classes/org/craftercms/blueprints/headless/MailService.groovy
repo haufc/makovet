@@ -1,3 +1,5 @@
+package org.craftercms.blueprints.headless
+
 import org.craftercms.commons.mail.EmailFactory
 import org.craftercms.engine.service.context.SiteContext
 
