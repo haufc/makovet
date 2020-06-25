@@ -21,7 +21,48 @@
         <#list (contentModel.sections_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
+        <!-- =========================
+        MODAL DIALOGS
+        ============================== -->
         
+        <div class="modal fade" id="success-dialog" role="dialog">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3 id="success-dialog-header" class="modal-title">Thank you</h3>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            <span id="success-dialog-message" class="modal-main-message">Your request has been processed correctly.</span>
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="modal fade" id="fail-dialog" role="dialog">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3 id="fail-dialog-header" class="modal-title">Error</h3>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            <span id="fail-dialog-message" class="modal-main-message">Unable to process your request. </br>Please try again later.</span>
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <script src="/static-assets/plugins/jquery341/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
@@ -36,7 +77,7 @@
     <script src="/static-assets/js/search-bar.js"></script>
     <script src="/static-assets/js/handlebars.min-latest.js"></script>
     <script src="/static-assets/js/jquery.twbsPagination.min.js"></script>
-    <script src="/static-assets/js/script.js"></script>
+    <script src="/static-assets/js/contact.js"></script>
     <script src="/static-assets/js/language.js"></script>
   </body>
 </html>
