@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/carouselmembers</content-type>
+	<display-template>/templates/web/carousellogos.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6f4b</objectGroupId>
+	<objectId>6f4b9de8-c742-d2a9-9d42-024c5a739f7e</objectId>
+	<logo_o item-list="true">	<item>	<logo_s>/static-assets/images/logos/logo_mavin_animal_health_cut.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/logo_mavin_aqua.png</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/logo_mavin_austfeed_2.png</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/logo_mavin_farm_moi.png</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/logo_duoc_thu_y_cai_lay.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/logo_mavin_foods_.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/logo_mavin_logistics.png</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/logo_mavinex.jpg</logo_s>
+	</item></logo_o>
+	<file-name>6f4b9de8-c742-d2a9-9d42-024c5a739f7e.xml</file-name>
+	<internal-name>Carousel Logo thành viên</internal-name>
+	<createdDate>2020-06-25T03:43:20.374Z</createdDate>
+	<createdDate_dt>2020-06-25T03:43:20.374Z</createdDate_dt>
+	<lastModifiedDate>2020-06-25T03:43:20.374Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-25T03:43:20.374Z</lastModifiedDate_dt>
+</component>
