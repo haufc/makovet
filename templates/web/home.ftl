@@ -14,8 +14,8 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/makovet.css"/>
-      </head>
-      <body>
+</head>
+     <body>
 
     <div class="content">
         <#list (contentModel.sections_o.item)![] as section>
