@@ -8,8 +8,8 @@ def service = new MailService()
 service.setHost('smtp.gmail.com')
 service.setPort('587')
 
-service.sendEmail(params.email, "keysoft.hotro@gmail.com", "hoandg@keysoft.vn", params.title ,
-                  "/templates/mail/mail.ftl",[data:"modle", "of":"theTemplate"])
+service.sendEmail(params.email, "keysoft.hotro@gmail.com", "hoandg@keysoft.vn", 
+                  params.title ,"Họ Tên: " + params.name + "Số điện thoại: " + params.phone + " Tên công ty: " + params.company + " Nội dung: " + params.content)
 
 def result=[:]
 result.success = true
