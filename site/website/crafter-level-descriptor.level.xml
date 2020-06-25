@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (C) 2007-2020 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License version 3 as published by
-  ~ the Free Software Foundation.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
-
-<levelDescriptor>
-  <descriptor-mapper>hierarchical-mapper</descriptor-mapper>
-  <content-type>/component/level-descriptor</content-type>
- </levelDescriptor>
+<component>
+	<content-type>/component/level-descriptor</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e6a4</objectGroupId>
+	<objectId>e6a4d445-315f-a175-b30f-4aa9234dc241</objectId>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<slideLogo_o item-list="true">	<item datasource="slideLogoDatasource">	<key>/site/items/carousel/6f4b9de8-c742-d2a9-9d42-024c5a739f7e.xml</key>
+	<value>Carousel Logo thành viên</value>
+	<include>/site/items/carousel/6f4b9de8-c742-d2a9-9d42-024c5a739f7e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideLogo_o>
+	<createdDate>2020-06-25T04:07:00.213Z</createdDate>
+	<createdDate_dt>2020-06-25T04:07:00.213Z</createdDate_dt>
+	<lastModifiedDate>2020-06-25T04:07:00.213Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-25T04:07:00.213Z</lastModifiedDate_dt>
+</component>
