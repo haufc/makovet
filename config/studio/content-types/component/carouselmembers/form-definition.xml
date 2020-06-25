@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value></value>
+			<value>/templates/web/carousellogos.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -145,7 +145,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>imagefromDesktop,imagefromRepository</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -175,7 +175,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/logos</value>
 								<type>undefined</type>
 						</property>
 					</properties>
@@ -188,7 +188,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/logos</value>
 								<type>undefined</type>
 						</property>
 						<property>
