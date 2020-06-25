@@ -15,7 +15,7 @@ class MailService {
     def emailFactory = new EmailFactoryImpl()
     def javaMailProperties = new Properties()
     
-        mailSender.setHost("smtp.gmail.com")
+        mailSender.setHost('smtp.gmail.com')
 		mailSender.setPort(587)
 		mailSender.setUsername("keysoft.hotro@gmail.com")
 		mailSender.setPassword("1234567a@")
