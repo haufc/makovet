@@ -89,7 +89,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1593052784707</title>
+			<title>Default Section Title 1593053033236</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>
@@ -268,7 +268,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/policies</value>
 								<type>undefined</type>
 						</property>
 					</properties>
@@ -281,7 +281,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/policies</value>
 								<type>undefined</type>
 						</property>
 						<property>
