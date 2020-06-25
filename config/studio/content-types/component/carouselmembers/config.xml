@@ -1,5 +1,5 @@
 <content-type name="/component/carouselmembers" is-wcm-type="true">
-	<label>Component - Carousel members</label>
+	<label>Component - Slide logo thành viên</label>
 	<form>/component/carouselmembers</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
