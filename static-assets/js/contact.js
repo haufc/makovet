@@ -35,5 +35,5 @@ function openSpinner() {
      $('#modal-spinner').modal('show');
         setTimeout(function () {
        	$('.modal').modal('hide');
-    }, 3000);
+    }, 4000);
 }
