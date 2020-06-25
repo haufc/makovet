@@ -21,6 +21,10 @@
     color : #322372;
 }
 
+iframe {
+    float: right;
+}
+
 /*Double line*/
 .strike {
     display: block;
