@@ -21,7 +21,7 @@ class MailService {
 		mailSender.setPassword("1234567a@")
 		
     def MailService() {
-        javaMailProperties["mail.smtp.auth"] = "true"
+        javaMailProperties["mail.smtp.auth"] = "false"
         javaMailProperties["mail.smtp.starttls.enable"] = "true"
         mailSender.javaMailProperties = javaMailProperties
         emailFactory.mailSender = mailSender
