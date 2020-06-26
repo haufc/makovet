@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>96f1</objectGroupId>
+	<objectId>96f1ebc7-0099-1f97-6533-472177f5699b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test</folder-name>
+	<internal-name>test</internal-name>
+	<navLabel>test</navLabel>
+	<diseaseName_s>test</diseaseName_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>33a8bdf3-1212-f43a-1baa-edadea31c7ad</key>
+	<value>test</value>
+<component id="33a8bdf3-1212-f43a-1baa-edadea31c7ad">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>33a8</objectGroupId>
+	<objectId>33a8bdf3-1212-f43a-1baa-edadea31c7ad</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 186.png</image_s>
+	</item></slide_o>
+	<file-name>33a8bdf3-1212-f43a-1baa-edadea31c7ad.xml</file-name>
+	<internal-name>test</internal-name>
+	<createdDate>2020-06-26T07:15:37.217Z</createdDate>
+	<createdDate_dt>2020-06-26T07:15:37.217Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T07:15:37.217Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T07:15:37.217Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p&gt;test&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-06-26T07:15:13.762Z</createdDate>
+	<createdDate_dt>2020-06-26T07:15:13.762Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T07:15:13.762Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T07:15:13.762Z</lastModifiedDate_dt>
+</page>
