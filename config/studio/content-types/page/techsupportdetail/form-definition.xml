@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value></value>
+			<value>/templates/web/page/technical-assis-detail.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -317,7 +317,7 @@
 						</property>
 						<property>
 							<name>componentPath</name>
-							<value></value>
+							<value>/site/taxonomy/list-of-diseases-type.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
