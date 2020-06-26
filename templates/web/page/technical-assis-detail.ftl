@@ -15,14 +15,19 @@
     <script src="https://ajax.googleapis.`com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
-    <div class="container">
-        <div class="sick-title" style="background-color:#FFCB08">
-            <h4 class="violet-color p-1">${contentModel.diseaseName_s}</h4>
+    <div class="content">
+        <#list (contentModel.section_o.item)![] as section>
+            <@renderComponent parent=contentModel component=section />
+        </#list>
+        <div class="container">
+            <div class="sick-title" style="background-color:#FFCB08">
+                <h4 class="violet-color p-1">${contentModel.diseaseName_s}</h4>
+            </div>
+            <div class="sick-content">
+                ${contentModel.diseaseContent_html}
+            </div>
+            <hr class="line-hozital"/>
         </div>
-        <div class="sick-content">
-            ${contentModel.diseaseContent_html}
-        </div>
-        <hr class="line-hozital"/>
     </div>
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
