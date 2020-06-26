@@ -1,6 +1,7 @@
-a {
+.noDecoration, a:link, a:visited {
     text-decoration: none;
 }
+
 .p-left-0 {
     padding-left: 0px;
 }
