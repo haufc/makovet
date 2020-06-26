@@ -27,6 +27,22 @@
                 ${contentModel.diseaseContent_html}
             </div>
             <hr class="line-hozital"/>
+            
+             <div class="row" id ="panigation-product">
+                <#if (products)??>
+                	<#list products as product>
+                        <div class="col-md-2 product-item">
+                            <img class="img-full" src="${product.avatar}" />
+                            <p class="d-block">${product.title}</p>
+                        </div>
+                    </#list>
+                </#if>
+            </div>
+            <nav aria-label="Page navigation example">
+              <ul class="pagination pagi justify-content-center">
+                <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+              </ul>
+            </nav>
         </div>
     </div>
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
