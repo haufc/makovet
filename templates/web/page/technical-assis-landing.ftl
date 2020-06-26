@@ -40,8 +40,8 @@
                 <div class="col-md-6">
                     ${contentModel.supportCustomerContent_html}
                     <div class="d-flex">
-                        <div class="col-md-6" style="background-color: #FFCB08;"><p class="violet-color p-2 font-weight-bold">${contentModel.phoneNumber_s}</p></div>
-                        <div class="col-md-6" style="background-color: #FFCB08;"><a class="p2 text-white font-weight-bold" href="#" >Email</a></div>
+                        <button class="btn-desc" style="width: 49%; margin-right: 2%;">${contentModel.phoneNumber_s}</button>
+                        <button class="btn-desc report-price" href="#" style="width: 49%;">Email</button>
                     </div>
                 </div>
             </div>
