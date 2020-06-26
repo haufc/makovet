@@ -30,6 +30,22 @@
                 </#if>
             </div>
         </div>
+        
+        <div style="background-color: #FFCB08; height: 15px;"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="${contentModel.supportCustomerImage_s}" class="img-full"/>
+                </div>
+                <div class="col-md-6">
+                    ${contentModel.supportCustomerContent_html}
+                    <div class="d-flex">
+                        <div class="col-md-6" style="background-color: #FFCB08;"><p class="violet-color p-2 font-weight-bold">${contentModel.phoneNumber_s}</p></div>
+                        <div class="col-md-6" style="background-color: #FFCB08;"><a class="p2 text-white font-weight-bold" href="#" >Email</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
