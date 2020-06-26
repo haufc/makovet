@@ -28,12 +28,11 @@
             </div>
             <hr class="line-hozital"/>
             
-             <div class="row" id ="panigation-product">
-                <#if (products)??>
-                	<#list products as product>
-                        <div class="col-md-2 product-item">
-                            <img class="img-full" src="${product.avatar}" />
-                            <p class="d-block">${product.title}</p>
+             <div class="row" id ="panigation-techsp">
+                <#if (supportTech)??>
+                	<#list supportTech as item>
+                        <div class="col-md-2 techsp-item">
+                            <p class="d-block">${item.title}</p>
                         </div>
                     </#list>
                 </#if>
@@ -50,6 +49,7 @@
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/owlcarousel/dist/owl.carousel.min.js"></script>
+    <script src="/static-assets/js/techsp-detail.js"></script>
   </body>
 </html>
 <@studio.toolSupport />
