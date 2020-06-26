@@ -29,7 +29,7 @@
             </div>
             <hr class="line-hozital"/>
             
-             <div id ="panigation-techsp">
+             <div id ="panigation-techsp mb-3">
                 <#if (supportTech)??>
                 	<#list supportTech as item>
                         <div class="techsp-item">
@@ -38,7 +38,7 @@
                     </#list>
                 </#if>
             </div>
-            <nav aria-label="Page navigation example mt-2">
+            <nav aria-label="Page navigation example">
               <ul class="pagination pagi justify-content-start">
                 <li id="previous-page" class="page-item"><a class="page-link violet-color font-weight-bold" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
               </ul>
