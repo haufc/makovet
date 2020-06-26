@@ -21,6 +21,13 @@
     color : #322372;
 }
 
+.btn-desc {
+    padding: 8px;
+    width: 40%;
+    bottom: 0;
+    border: 1px solid #FFF;
+}
+
 iframe {
     float: right;
 }
