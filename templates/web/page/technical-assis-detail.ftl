@@ -17,7 +17,7 @@
   <body>
     <div class="container">
         <div class="sick-title">
-            <h4>${contentModel.diseaseName_s}</h4>
+            <h4 class="violet-color">${contentModel.diseaseName_s}</h4>
         </div>
         <div class="sick-content">
             ${contentModel.diseaseContent_html}
