@@ -6,10 +6,13 @@
 	        <div class="list-tech-sp-vn">
         	    <#if (supportTech)??>
                     <#list supportTech as item>
-                    	<div class="item-pr"><a style="font-size: 16px;" class="text-white d-block pn-pr-vn" href="${productVN.url}">${productVN.title}</a></div>
+                    	<div class="item-pr"><a style="font-size: 16px;" class="text-white d-block pn-pr-vn" href="${item.url}">${item.title}</a></div>
                     </#list>
                 </#if>
             </div>
+            <ul class="pagination pagi pg-vn mt-3" >
+                <li class="page-item previous-page"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+            </ul>
         </div>
 	</div>
 <@studio.toolSupport />
