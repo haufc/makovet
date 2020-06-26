@@ -33,7 +33,7 @@
         
         <div style="background-color: #FFCB08; height: 15px;"></div>
         <div class="container">
-            <div class="row">
+            <div class="row mt-1">
                 <div class="col-md-6">
                     <img src="${contentModel.supportCustomerImage_s}" class="img-full"/>
                 </div>
