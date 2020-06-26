@@ -48,6 +48,7 @@
             </div>
         </div>
     </div>
+    <input hidden value="${contentModel.technicalAssistanceCompoent_o.item?size}" id="group-pr-length"/>
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
