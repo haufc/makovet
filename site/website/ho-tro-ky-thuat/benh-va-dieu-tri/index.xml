@@ -35,6 +35,10 @@
 	<value>Bệnh thủy sản</value>
 	<include>/site/items/3f22a296-340f-5779-79b5-390796fcf644.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="technicalAssistanceComponent">	<key>/site/items/ecbddf98-9b1e-fe67-d748-a161361083ae.xml</key>
+	<value>Bệnh thú cưng</value>
+	<include>/site/items/ecbddf98-9b1e-fe67-d748-a161361083ae.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></technicalAssistanceCompoent_o>
 	<internal-name>Bệnh và điều trị</internal-name>
 	<navLabel>Bệnh và điều trị</navLabel>
@@ -47,6 +51,6 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</supportCustomerContent_html>
 	<createdDate>2020-06-26T04:17:04.077Z</createdDate>
 	<createdDate_dt>2020-06-26T04:17:04.077Z</createdDate_dt>
-	<lastModifiedDate>2020-06-26T07:54:30.183Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-26T07:54:30.183Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-26T07:56:03.834Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T07:56:03.834Z</lastModifiedDate_dt>
 </page>
