@@ -38,7 +38,7 @@
                     </#list>
                 </#if>
             </div>
-            <nav aria-label="Page navigation example">
+            <nav aria-label="Page navigation example mt-2">
               <ul class="pagination pagi justify-content-start">
                 <li id="previous-page" class="page-item"><a class="page-link violet-color font-weight-bold" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
               </ul>
