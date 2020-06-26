@@ -21,12 +21,12 @@ class SupportTechSearchHelper {
         this.urlTransformationService = urlTransformationService
     }
     
-    def searchProducts(groupProduct, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
+    def searchSupportTech(category, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
         def q = "${TECHSUPPORT_CONTENT_TYPE_QUERY}"
         
-        if (groupProduct) {
-            def productGroupQuery = getFieldQueryWithMultipleValues("productgrouplv2_o.item.key", groupProduct)
-            q = "${q} AND ${productGroupQuery}"
+        if (category) {
+            def supportTechGroupQuery = getFieldQueryWithMultipleValues("supportTech_s.item.key", category)
+            q = "${q} AND ${supportTechGroupQuery}"
         }
         
         if (additionalCriteria) {
@@ -42,29 +42,27 @@ class SupportTechSearchHelper {
         def result = elasticsearch.search(new SearchRequest().source(builder))
         
         if (result) {
-            return processProductListingResults(result)
+            return processSupportTechListingResults(result)
         } else {
             result [];
         }
     }
     
-    private def processProductListingResults(result) {
-        def products = []
+    private def processSupportTechListingResults(result) {
+        def supportTechs = []
         
         def documents = result.hits.hits*.getSourceAsMap()
         
         if (documents) {
             documents.each {doc ->
-                def product = [:]
-                    product.title = doc.productName_s
-                    product.summary = doc.productDescription_html
-                    product.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
-                    product.avatar = doc.productImage_s
-                products << product
+                def supportTech = [:]
+                    supportTech.title = doc.diseaseName_s
+                    supportTech.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
+                supportTechs << supportTech
             }
         }
         
-        return products
+        return supportTechs
     }
     
     private def getFieldQueryWithMultipleValues(field, values) {
