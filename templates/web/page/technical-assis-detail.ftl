@@ -16,7 +16,7 @@
   </head>
   <body>
     <div class="container">
-        <div class="sick-title">
+        <div class="sick-title" style="background-color:#FFCB08">
             <h4 class="violet-color">${contentModel.diseaseName_s}</h4>
         </div>
         <div class="sick-content">
