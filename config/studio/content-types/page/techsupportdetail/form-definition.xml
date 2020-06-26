@@ -158,7 +158,7 @@
 					<properties>
 						<property>
 							<name>datasource</name>
-							<value></value>
+							<value>technicalAssistanceType</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
