@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>110b</objectGroupId>
+	<objectId>110bc91a-785d-6165-e2f6-105ec79d34b3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-lein-caukhuan-tren-ca-ro-phi</folder-name>
+	<internal-name>Bệnh liên cầu lợn trên cá rô phi</internal-name>
+	<navLabel>Bệnh liên cầu lợn trên cá rô phi</navLabel>
+	<diseaseName_s>Bệnh liên cầu lợn trên cá rô phi</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>d39abc96-d634-ddf2-e82a-48301ca9c4f8</key>
+	<value>Slide </value>
+<component id="d39abc96-d634-ddf2-e82a-48301ca9c4f8">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d39a</objectGroupId>
+	<objectId>d39abc96-d634-ddf2-e82a-48301ca9c4f8</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 190.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide </internal-name>
+	<file-name>d39abc96-d634-ddf2-e82a-48301ca9c4f8.xml</file-name>
+	<createdDate>2020-06-26T08:04:59.728Z</createdDate>
+	<createdDate_dt>2020-06-26T08:04:59.728Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T08:04:59.728Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T08:04:59.728Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistance_o>	<item>	<key>benh-thuy-san</key>
+	<value_smv>Bệnh thủy sản</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p&gt;Bệnh li&amp;ecirc;n cầu lợn tr&amp;ecirc;n c&amp;aacute; r&amp;ocirc; phi&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-06-26T08:04:17.634Z</createdDate>
+	<createdDate_dt>2020-06-26T08:04:17.634Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T08:04:17.634Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T08:04:17.634Z</lastModifiedDate_dt>
+</page>
