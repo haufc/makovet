@@ -6,7 +6,13 @@ $(document).ready(function(){
     
     $("#panigation-techsp .techsp-item:gt(" + (limitPerPage -1 )+")").hide();
     
-    var totalPages = Math.round(numberOfProducts / limitPerPage ) + 1;
+    var totalPages;
+    
+    if ((numberOfProducts / limitPerPage) % 2 === 0) {
+       totalPages =  Math.round(numberOfProducts / limitPerPage );
+    } else {
+        totalPages =  Math.round(numberOfProducts / limitPerPage ) + 1;
+    }
     
     $('.pagi').append("<li class='page-item current-page active'><a class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
     
