@@ -32,8 +32,8 @@
              <div class="row" id ="panigation-techsp">
                 <#if (supportTech)??>
                 	<#list supportTech as item>
-                        <div class="col-md-2 techsp-item">
-                            <p class="d-block">${item.title}</p>
+                        <div class="techsp-item">
+                            <a href="${item.url}"><p class="d-block violet-color font-weight-bold">${item.title}</p></a>
                         </div>
                     </#list>
                 </#if>
