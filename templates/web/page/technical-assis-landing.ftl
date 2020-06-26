@@ -37,11 +37,11 @@
                 <div class="col-md-6">
                     <img src="${contentModel.supportCustomerImage_s}" class="img-full"/>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 violet-color">
                     ${contentModel.supportCustomerContent_html}
                     <div class="d-flex">
-                        <button class="btn-desc" style="width: 49%; margin-right: 2%;">${contentModel.phoneNumber_s}</button>
-                        <button class="btn-desc report-price" href="#" style="width: 49%;">Email</button>
+                        <button class="btn-desc violet-color font-weight-bold" style="width: 49%; margin-right: 2%; background-color: #FFCB08;">${contentModel.phoneNumber_s}</button>
+                        <button class="btn-desc report-price font-weight-bold text-white" href="#" style="width: 49%; background-color: #322372;">Email</button>
                     </div>
                 </div>
             </div>
