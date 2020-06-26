@@ -11,7 +11,7 @@
 	<internal-name>Bệnh và điều trị</internal-name>
 	<navLabel>Bệnh và điều trị</navLabel>
 	<title_s>Bệnh và điều trị</title_s>
-	<phoneNumber_s/>
+	<phoneNumber_s>(0273) 3826462</phoneNumber_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>0952b1d9-a0a8-b09a-b669-2610abe329f8</key>
 	<value>Slide Bệnh và điều trị</value>
 <component id="0952b1d9-a0a8-b09a-b669-2610abe329f8">
@@ -38,10 +38,10 @@
 	</item></technicalAssistanceCompoent_o>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<supportCustomerImage_s/>
-	<supportCustomerContent_html/>
+	<supportCustomerImage_s>/static-assets/images/techsupport/left-img.png</supportCustomerImage_s>
+	<supportCustomerContent_html>&lt;p&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;Ch&amp;uacute;ng ta vẫn biết rằng, l&amp;agrave;m việc với một đoạn văn bản dễ đọc v&amp;agrave; r&amp;otilde; nghĩa dễ g&amp;acirc;y rối tr&amp;iacute; v&amp;agrave; cản trở việc tập trung v&amp;agrave;o yếu tố tr&amp;igrave;nh b&amp;agrave;y văn bản. Lorem Ipsum c&amp;oacute; ưu điểm hơn so với đoạn văn bản chỉ gồm nội dung kiểu "Nội dung, nội dung, nội dung" l&amp;agrave; n&amp;oacute; khiến văn bản giống thật hơn, b&amp;igrave;nh thường hơn. Nhiều phần mềm thiết kế giao diện web v&amp;agrave; d&amp;agrave;n trang ng&amp;agrave;y nay đ&amp;atilde; sử dụng Lorem Ipsum l&amp;agrave;m đoạn văn bản giả, v&amp;agrave; nếu bạn thử t&amp;igrave;m c&amp;aacute;c đoạn "Lorem ipsum" tr&amp;ecirc;n mạng th&amp;igrave; sẽ kh&amp;aacute;m ph&amp;aacute; ra nhiều trang web hiện vẫn đang trong qu&amp;aacute; tr&amp;igrave;nh x&amp;acirc;y dựng. C&amp;oacute; nhiều phi&amp;ecirc;n bản kh&amp;aacute;c nhau đ&amp;atilde; xuất hiện, đ&amp;ocirc;i khi do v&amp;ocirc; t&amp;igrave;nh, nhiều khi do cố &amp;yacute; (xen th&amp;ecirc;m v&amp;agrave;o những c&amp;acirc;u h&amp;agrave;i hước hay th&amp;ocirc;ng tục).&lt;/span&gt;&lt;/p&gt;</supportCustomerContent_html>
 	<createdDate>2020-06-26T03:54:10.581Z</createdDate>
 	<createdDate_dt>2020-06-26T03:54:10.581Z</createdDate_dt>
-	<lastModifiedDate>2020-06-26T03:54:10.581Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-26T03:54:10.581Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-26T04:00:51.084Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T04:00:51.084Z</lastModifiedDate_dt>
 </page>
