@@ -62,8 +62,11 @@
   <script>
     $(document).ready(function(){
         var lstCate = $('#lst-cate').children();
-        for (let i = 0: i< lstCate.length; i++) {
-           console.log(i);
+        for (let i = 0; i< lstCate.length; i++) {
+           let strSplit = lstCate[i].val().split('/');
+           if (strSplit[0] == $('#txt-key').val()) {
+               $('#parent-title').text(strSplit[1]);
+           }
         }
     });
   </script>
