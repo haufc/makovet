@@ -29,11 +29,11 @@
             </div>
             <hr class="line-hozital"/>
             
-             <div class="row" id ="panigation-techsp">
+             <div id ="panigation-techsp">
                 <#if (supportTech)??>
                 	<#list supportTech as item>
                         <div class="techsp-item">
-                            <a href="${item.url}"><p class="d-block violet-color font-weight-bold">${item.title}</p></a>
+                            <a class="d-block violet-color font-weight-bold" href="${item.url}">${item.title}</a>
                         </div>
                     </#list>
                 </#if>
