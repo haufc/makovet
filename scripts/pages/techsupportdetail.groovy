@@ -10,5 +10,5 @@ def supportTech = searchHelper.searchSupportTech(category.text,0)
 def categories = new TaxonomySearchHelper("list-of-diseases-type", elasticsearch, siteItemService)
 						.getItems()
 						
-templateModel.groupProduct = categories
+templateModel.categories = categories
 templateModel.supportTech = supportTech
