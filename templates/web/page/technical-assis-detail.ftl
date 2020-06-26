@@ -34,7 +34,7 @@
                 <#if (supportTech)??>
                 	<#list supportTech as item>
                         <div class="techsp-item">
-                            <a style="text-direction: none" class="d-block violet-color font-weight-bold" href="${item.url}">${item.title}</a>
+                            <a class="d-block violet-color font-weight-bold noDecoration" href="${item.url}">${item.title}</a>
                         </div>
                     </#list>
                 </#if>
