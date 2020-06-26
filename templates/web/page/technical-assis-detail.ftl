@@ -21,6 +21,7 @@
             <@renderComponent parent=contentModel component=section />
         </#list>
         <div class="container">
+            <h3 class="violet-color p-1" id="parent-title"></h3>
             <div class="sick-title" style="background-color:#FFCB08">
                 <h4 class="violet-color p-1">${contentModel.diseaseName_s}</h4>
             </div>
@@ -51,6 +52,20 @@
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/owlcarousel/dist/owl.carousel.min.js"></script>
     <script src="/static-assets/js/techsp-detail.js"></script>
+    <input hidden value="${contentModel.technicalAssistance_o.item.key}" id="txt-key"/>
+    <div id="lst-cate">
+        <#list categories.items as cate>
+            <input hidden value="${cate.value}/${cate.label}"/>
+        </#list>
+    </div>
   </body>
+  <script>
+    $(document).ready(function(){
+        var lstCate = $('#lst-cate').children();
+        for (let i = 0: i< lstCate.length; i++) {
+           console.log(i);
+        }
+    });
+  </script>
 </html>
 <@studio.toolSupport />
