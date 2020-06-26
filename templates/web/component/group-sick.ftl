@@ -4,8 +4,8 @@
 	    <p class="violet-color font-weight-bold">${contentModel.title_s}</p>
 	    <div class="paginate">
 	        <div class="list-tech-sp-vn">
-        	    <#if (techSupport)??>
-                    <#list techSupport as item>
+        	    <#if (supportTech)??>
+                    <#list supportTech as item>
                     	<div class="item-pr"><a style="font-size: 16px;" class="text-white d-block pn-pr-vn" href="${productVN.url}">${productVN.title}</a></div>
                     </#list>
                 </#if>
