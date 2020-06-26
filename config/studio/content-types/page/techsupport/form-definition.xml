@@ -480,7 +480,7 @@
 						</property>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/site/items</value>
 								<type>undefined</type>
 						</property>
 						<property>
@@ -490,7 +490,7 @@
 						</property>
 						<property>
 							<name>type</name>
-							<value></value>
+							<value>/component/techsupportcomponent</value>
 								<type>undefined</type>
 						</property>
 					</properties>
