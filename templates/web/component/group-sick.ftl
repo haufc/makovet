@@ -6,7 +6,7 @@
 	        <div class="list-tech-sp-vn">
         	    <#if (supportTech)??>
                     <#list supportTech as item>
-                    	<div class="item-pr"><a style="font-size: 16px;" class="text-white d-block pn-pr-vn" href="${item.url}">${item.title}</a></div>
+                    	<div class="item-pr"><a style="font-size: 16px;" class="violet-color d-block pn-pr-vn" href="${item.url}">${item.title}</a></div>
                     </#list>
                 </#if>
             </div>
