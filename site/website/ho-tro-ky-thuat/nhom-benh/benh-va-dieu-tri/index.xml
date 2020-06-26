@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupport</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b590</objectGroupId>
+	<objectId>b5902f2c-56a1-7c3b-1fe4-2c67d38e1284</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-va-dieu-tri</folder-name>
+	<internal-name>Bệnh và điều trị</internal-name>
+	<navLabel>Bệnh và điều trị</navLabel>
+	<title_s>Bệnh và điều trị</title_s>
+	<phoneNumber_s/>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>0952b1d9-a0a8-b09a-b669-2610abe329f8</key>
+	<value>Slide Bệnh và điều trị</value>
+<component id="0952b1d9-a0a8-b09a-b669-2610abe329f8">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0952</objectGroupId>
+	<objectId>0952b1d9-a0a8-b09a-b669-2610abe329f8</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 191.png</image_s>
+	</item></slide_o>
+	<file-name>0952b1d9-a0a8-b09a-b669-2610abe329f8.xml</file-name>
+	<internal-name>Slide Bệnh và điều trị</internal-name>
+	<createdDate>2020-06-26T03:54:37.678Z</createdDate>
+	<createdDate_dt>2020-06-26T03:54:37.678Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T03:54:37.678Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T03:54:37.678Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistanceCompoent_o item-list="true">	<item datasource="technicalAssistanceComponent">	<key>/site/items/4587f2c7-c92f-dff7-1be2-de40cf838f9a.xml</key>
+	<value>Bệnh gia súc - gia cầm</value>
+	<include>/site/items/4587f2c7-c92f-dff7-1be2-de40cf838f9a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></technicalAssistanceCompoent_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<supportCustomerImage_s/>
+	<supportCustomerContent_html/>
+	<createdDate>2020-06-26T03:54:10.581Z</createdDate>
+	<createdDate_dt>2020-06-26T03:54:10.581Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T03:54:10.581Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T03:54:10.581Z</lastModifiedDate_dt>
+</page>
