@@ -12,11 +12,11 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
-    <link rel="stylesheet" href="/static-assets/css/makovet.css"/>
+    <link rel="stylesheet" href="/static-assets/css/dtycl.css"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
-
+    <@renderComponent component=contentModel.header_o.item />
     <div class="content">
         <#list (contentModel.sections_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
