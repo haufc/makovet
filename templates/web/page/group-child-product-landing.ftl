@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="d-flex">
+            <div class="d-flex mb-md-3">
                 <div class="col-md-6 p-left-0">
                     <img class="img-full" src="${contentModel.leftImage_s}"/>
                 </div>
