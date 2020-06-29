@@ -22,17 +22,17 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>a756</objectGroupId>
 	<objectId>a756a8f6-0e8c-930e-9a0d-76e13e5118b0</objectId>
-	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 190.png</image_s>
 	</item></slide_o>
 	<file-name>a756a8f6-0e8c-930e-9a0d-76e13e5118b0.xml</file-name>
 	<internal-name>Job slide</internal-name>
 	<createdDate>2020-06-29T07:57:24.631Z</createdDate>
 	<createdDate_dt>2020-06-29T07:57:24.631Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T07:57:24.631Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T07:57:24.631Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-29T08:13:03.910Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T08:13:03.910Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="section" inline="true">	<key>2cae7693-42cd-fd51-d477-620a23b5c9eb</key>
-	<value>Danh sách tin tuyển dụng &amp;amp; CSNS</value>
+	<value>Danh sách tin tuyển dụng &amp; CSNS</value>
 <component id="2cae7693-42cd-fd51-d477-620a23b5c9eb">
 	<content-type>/component/jobs</content-type>
 	<display-template>/templates/web/component/jobs.ftl</display-template>
@@ -60,6 +60,6 @@
 	</item></section_o>
 	<createdDate>2020-06-29T07:56:45.886Z</createdDate>
 	<createdDate_dt>2020-06-29T07:56:45.886Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T08:12:01.047Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T08:12:01.047Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-29T08:13:00.167Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T08:13:00.167Z</lastModifiedDate_dt>
 </page>
