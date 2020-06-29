@@ -24,7 +24,7 @@
   <body>
     <@renderComponent component=contentModel.header_o.item />
     <div class="content">
-        <#list (contentModel.sections_o.item)![] as section>
+        <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
         <div class="container">
