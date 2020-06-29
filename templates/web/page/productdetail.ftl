@@ -23,12 +23,17 @@
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
-    <div class="content">
+    <main>
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
-        <div class="content">
-             <div class="container">
+        <main class="content">
+            <div class="section-title">
+                <div class="section-title__content block">
+                    <h1 class="section-title__content-text text--uppercase">${contentModel.productgrouplv1_o.item.key.text}</h1>
+                </div>
+            </div>
+            <div class="container">
                 <div class="row">
                     <div class="col-md-4" style="padding-right:0">
                         <p>${contentModel.productName_s}</p>
@@ -39,13 +44,13 @@
                     <div class="col-md-4" style="padding-right:0">
                         <p>Đặt mua</p>
                     </div>
-                 </div>
-                 <div class="col-md-12">
+                </div>
+                <div class="col-md-12">
                     ${contentModel.productDescription_html}
-                 <div>
-                 <hr/>
-                 <h4>SẢN PHẨM TƯƠNG TỰ</h4>
-                 <div class="col-md-12 row"> 
+                <div>
+                <hr/>
+                <h4>SẢN PHẨM TƯƠNG TỰ</h4>
+                <div class="col-md-12 row"> 
                     <#if (productOther)??>
                         <#list productOther as item>
                             <div class="col-md-2">
@@ -54,10 +59,10 @@
                             </div>
                         </#list>
                     </#if>
-                 </div>
-             </div>
+                </div>
+            </div>
         </div>
-    </div>
+    </main>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
