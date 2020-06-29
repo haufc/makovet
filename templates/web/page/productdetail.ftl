@@ -67,8 +67,12 @@
                     </#if>
                 </div>
             </div>
-            <div class="products__list-title">
-                <h1 class="text--uppercase">sản phẩm tương tự</h1>
+            <div class="products__container block">
+                <div class="products__content">
+                    <div class="products__list-title">
+                        <h1 class="text--uppercase">sản phẩm tương tự</h1>
+                    </div>
+                </div>
             </div>
         </div>
     </main>
