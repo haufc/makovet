@@ -373,7 +373,7 @@
         <script src="../settings/plugins/jQuery(3.5.1)/jquery.js"></script>
 
         <!-- Owl Carousel JS -->
-        <script src="/static-assets/plugins/owlcarousel/dist/owl.carousel.min.js"></script>
+        <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
         <script src="/static-assets/js/logos.js"></script>
         <script src="/static-assets/js/slide.js"></script>
         <script src="/static-assets/js/nav.js"></script>
