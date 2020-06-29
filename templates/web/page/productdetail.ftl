@@ -48,6 +48,9 @@
                 </div>
             </div>
             <div class="container">
+            <div class="products__list-title">
+                <h1 class="text--uppercase">sản phẩm tương tự</h1>
+            </div>
                 <div>
                     <div class="col-md-12">
                         ${contentModel.productDescription_html}
@@ -64,9 +67,6 @@
                         </#if>
                     </div>
                 </div>
-            </div>
-            <div class="products__list-title">
-                <h1 class="text--uppercase">sản phẩm tương tự</h1>
             </div>
         </div>
     </main>
