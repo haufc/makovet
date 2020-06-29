@@ -56,9 +56,6 @@
                 <div>
                 <hr/>
                 <h4>SẢN PHẨM TƯƠNG TỰ</h4>
-                <div class="products__list-title">
-                    <h1 class="text--uppercase">sản phẩm tương tự</h1>
-                </div>
                 <div class="col-md-12 row"> 
                     <#if (productOther)??>
                         <#list productOther as item>
@@ -69,6 +66,9 @@
                         </#list>
                     </#if>
                 </div>
+            </div>
+            <div class="products__list-title">
+                <h1 class="text--uppercase">sản phẩm tương tự</h1>
             </div>
         </div>
     </main>
