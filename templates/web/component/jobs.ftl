@@ -12,8 +12,8 @@
             </#if>
         </div>
         <nav aria-label="Page navigation example">
-          <ul class="pagination-job pagi justify-content-center">
-            <li id="previous-page-job" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+          <ul class="pagination pagi justify-content-center">
+            <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
         </nav>
 	    <h3>${contentModel.title2_s}</h3>
