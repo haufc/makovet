@@ -1,4 +1,4 @@
-var owl = $('.owl-carousel');
+var owl = $('.logos__container');
 owl.owlCarousel({
     loop: true,
     margin: 0,
@@ -11,13 +11,13 @@ owl.owlCarousel({
         0: {
             items: 1
         },
-        320: {
+        300: {
             items: 3
         },
-        768: {
+        700: {
             items: 6
         },
-        1400: {
+        1200: {
             items: 8
         }
     }
