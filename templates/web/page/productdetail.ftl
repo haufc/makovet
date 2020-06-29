@@ -33,8 +33,25 @@
                     <h1 class="section-title__content-text text--uppercase" id="product-title"></h1>
                 </div>
             </div>
+            <div class="products__container block">
+                <div class="products__content">
+                    <section class="products__list">
+                        <div class="products__list-items">
+                            <div class="products__list-item">
+                                <p>${contentModel.productName_s}</p>
+                            </div>
+                            <div class="products__list-item">
+                                <img src="${contentModel.productImage_s}"/>
+                            </div>
+                            <div class="products__list-item">
+                                <p>Đặt mua</p>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
             <div class="container" style="background-color: #ffcb08">
-                <div class="row">
+                <#--<div class="row">
                     <div class="col-md-4" style="padding-right:0">
                         <p>${contentModel.productName_s}</p>
                     </div>
@@ -44,7 +61,7 @@
                     <div class="col-md-4" style="padding-right:0">
                         <p>Đặt mua</p>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-12">
                     ${contentModel.productDescription_html}
                 <div>
