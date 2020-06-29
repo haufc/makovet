@@ -46,6 +46,8 @@
                         <p>Đặt mua</p>
                     </div>
                 </div>
+            </div>
+            <div class="container">
                 <div class="col-md-12">
                     ${contentModel.productDescription_html}
                 <div>
