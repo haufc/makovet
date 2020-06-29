@@ -23,7 +23,7 @@
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
-    <div class="content">
+    <main>
         <#list (contentModel.sections_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
@@ -77,7 +77,7 @@
         <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
             <span class="fa fa-spinner fa-spin fa-3x"></span>
         </div>
-    </div>
+    </main>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
