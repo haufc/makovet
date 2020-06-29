@@ -2,7 +2,7 @@ $(document).ready(function(){
     // Panigation list product
     
     var numberOfProducts = $("#child-product .child-product-item").length;
-    var limitPerPage = 4;
+    var limitPerPage = 15;
     
     $("#child-product .child-product-item:gt(" + (limitPerPage -1 )+")").hide();
     
