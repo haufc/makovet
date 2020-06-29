@@ -51,17 +51,6 @@
                 </div>
             </div>
             <div class="container" style="background-color: #ffcb08">
-                <div class="row">
-                    <div class="col-md-4" style="padding-right:0">
-                        <p>${contentModel.productName_s}</p>
-                    </div>
-                    <div class="col-md-4" style="padding:0">
-                        <img src="${contentModel.productImage_s}"/>
-                    </div>
-                    <div class="col-md-4" style="padding-right:0">
-                        <p>Đặt mua</p>
-                    </div>
-                </div>
                 <div class="col-md-12">
                     ${contentModel.productDescription_html}
                 <div>
