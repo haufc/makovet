@@ -21,7 +21,7 @@
 
                                 <a class="view-more flex" href="${firstNew.url}">
                                     <span>Xem thêm</span>
-                                    <img src="../settings/images/icon_arrow_yellow.png" alt="Arrow icon">
+                                    <img src="/static-assets/images/icon_arrow_yellow.png" alt="Arrow icon">
                                 </a>
                             </div>
                         </div>
@@ -34,24 +34,24 @@
 
                         <div class="news__block-content">
                             <div class="news__block-img">
-                                <img class="full-size" src="../settings/images/news_img_2.png" alt="News image">
+                                <img class="full-size" src="/static-assets/images/news_img_2.png" alt="News image">
                             </div>
 
                             <ul class="news__block-links">
                                 <li class="news__block-link">
-                                    <img src="../settings/images/news_img_3.png" alt="News image">
+                                    <img src="/static-assets/images/news_img_3.png" alt="News image">
 
                                     <a class="text--uppercase" href="#">thư viện ảnh</a>
                                 </li>
 
                                 <li class="news__block-link">
-                                    <img src="../settings/images/news_img_4.png" alt="News image">
+                                    <img src="/static-assets/images/news_img_4.png" alt="News image">
 
                                     <a class="text--uppercase" href="#">thư viện tư liệu</a>
                                 </li>
 
                                 <li class="news__block-link">
-                                    <img src="../settings/images/news_img_5.png" alt="News image">
+                                    <img src="/static-assets/images/news_img_5.png" alt="News image">
 
                                     <a class="text--uppercase" href="#">thư viện video</a>
                                 </li>
