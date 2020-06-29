@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3153</objectGroupId>
+	<objectId>3153acc0-5a08-0b7d-00e9-275507a389fc</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>co-hoi-nghe-nghiep</folder-name>
+	<internal-name>Cơ hội nghề nghiệp</internal-name>
+	<navLabel>Cơ hội nghề nghiệp</navLabel>
+	<t_s>Cơ hội nghề nghiệp</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>7bd1b627-9e44-dfd2-2f47-30e011ad6210</key>
+	<value>Danh sách tin tuyển dụng &amp;amp; CSNS</value>
+<component id="7bd1b627-9e44-dfd2-2f47-30e011ad6210">
+	<content-type>/component/jobs</content-type>
+	<display-template>/templates/web/component/jobs.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7bd1</objectGroupId>
+	<objectId>7bd1b627-9e44-dfd2-2f47-30e011ad6210</objectId>
+	<file-name>7bd1b627-9e44-dfd2-2f47-30e011ad6210.xml</file-name>
+	<contentLeftImage_s>/static-assets/images/policies/Layer 201.png</contentLeftImage_s>
+	<contentRightImage_s>/static-assets/images/policies/Layer 202.png</contentRightImage_s>
+	<internal-name>Danh sách tin tuyển dụng &amp; CSNS</internal-name>
+	<title1_s>Tin tuyển dụng</title1_s>
+	<title2_s>Chính sách nhân sự</title2_s>
+	<contentLeftTitle_s>Đào tạo và phát triển</contentLeftTitle_s>
+	<contentLeftDesc_s>Công ty Cổ phần dược thú y Cai Lậy đặc biệt quan tâm đến công tác phát triển nguồn nhân lực thông qua việc triển khai hiệu quả chính sách đào tạo, nâng cao hiểu biết, trình độ nghiệp vụ cho CBNV. Không chỉ tham gia các khóa đào tạo....</contentLeftDesc_s>
+	<contentLeftURL_s>#</contentLeftURL_s>
+	<contentRightTitle_s>Chế độ đãi ngộ và phúc lợi</contentRightTitle_s>
+	<contentRightDesc_s>Với đội ngũ kỹ thuật viên các trách nhiệm giàu kinh nghiệm, đội ngũ chăm sóc khách hàng nhiệt tình, Makovet luôn mong muốn nhận được những ý kiến đóng góp chia sẻ từ Quý khách hàng, Nhà chăn nuôi để góp phần cải thiện các sản phẩm của công ty ngày một tốt hơn....</contentRightDesc_s>
+	<contentRightURL_s>#</contentRightURL_s>
+	<createdDate>2020-06-29T07:03:38.142Z</createdDate>
+	<createdDate_dt>2020-06-29T07:03:38.142Z</createdDate_dt>
+	<lastModifiedDate>2020-06-29T07:03:38.142Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T07:03:38.142Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-06-29T07:03:13.660Z</createdDate>
+	<createdDate_dt>2020-06-29T07:03:13.660Z</createdDate_dt>
+	<lastModifiedDate>2020-06-29T07:03:13.660Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T07:03:13.660Z</lastModifiedDate_dt>
+</page>
