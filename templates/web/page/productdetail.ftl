@@ -30,7 +30,7 @@
         <main class="content">
             <div class="section-title">
                 <div class="section-title__content block">
-                    <h1 class="section-title__content-text text--uppercase"></h1>
+                    <h1 class="section-title__content-text text--uppercase" id="product-title"></h1>
                 </div>
             </div>
             <div class="container">
@@ -88,6 +88,29 @@
             <input hidden value="${cate.value}/${cate.label}"/>
         </#list>
     </div>
+    <script>
+    $(document).ready(function(){
+        var title = "";
+        var lstCate = $('#lst-categories').children();
+        var childCate = $('#child-cate').children();
+        
+        for (let i = 0; i< lstCate.length; i++) {
+           let strSplit = $(lstCate[i]).val().split('/');
+           if (strSplit[0] == $('#category').val()) {
+               title += (strSplit[1] + "/");
+           }
+        }
+        
+        for (let i = 0; i< childCate.length; i++) {
+           let strSplit = $(childCate[i]).val().split('/');
+           if (strSplit[0] == $('#child-category').val()) {
+               title += strSplit[1];
+           }
+        }
+        
+        $('#product-title').text(title);
+    });
+  </script>
   </body>
 </html>
 <@studio.toolSupport /> 
