@@ -33,7 +33,7 @@
                     <h1 class="section-title__content-text text--uppercase" id="product-title"></h1>
                 </div>
             </div>
-            <div class="container">
+            <div class="container" style="background-color: #ffcb08">
                 <div class="row">
                     <div class="col-md-4" style="padding-right:0">
                         <p>${contentModel.productName_s}</p>
