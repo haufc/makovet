@@ -34,7 +34,7 @@
 
             <div class="news__block-content">
                 <div class="news__block-img">
-                    <img class="full-size" src="/static-assets/images/news_img_2.png" alt="News image">
+                    <a href="/tin-tuc"><img class="full-size" src="/static-assets/images/news_img_2.png" alt="News image"></a>
                 </div>
 
                 <ul class="news__block-links">
