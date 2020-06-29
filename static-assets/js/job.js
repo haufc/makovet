@@ -6,7 +6,12 @@ $(document).ready(function(){
     
     $("#panigation-job .job-item:gt(" + (limitPerPage -1 )+")").hide();
     
-    var totalPages = Math.round(numberOfProducts / limitPerPage );
+    var totalPages;
+    if ((numberOfProducts / limitperPage) % 2 == 0) {
+       totalPages =  Math.round(numberOfProducts / limitperPage );
+    } else {
+        totalPages =  Math.round(numberOfProducts / limitperPage ) + 1;
+    }
     
     $('.pagi').append("<li class='page-item current-page active'><a class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
     
