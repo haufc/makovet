@@ -71,9 +71,6 @@
         <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
             <span class="fa fa-spinner fa-spin fa-3x"></span>
         </div>
-        </div>      
-        <#list aNews as aNews>
-        </#list>
     </div>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <script src="/static-assets/plugins/jquery341/jquery(3.4.1.).js"></script>
