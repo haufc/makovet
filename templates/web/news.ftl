@@ -78,17 +78,6 @@
 }
 </style>
 <script>
-     $(document).ready(function(){
-            var title= $('')
-            var url = window.location.href;
-            if (url.indexOf('/en') > -1) {
-                $('.title-vn').css('display', 'none');
-                $('.title-en').css('display', 'inline');
-            } else {
-                $('.title-vn').css('display', 'inline');
-                $('.title-en').css('display', 'none');
-            }
-        });
     $('.limit-text').each(function (f) {
       var newstr = $(this).text().substring(0,300);
       $(this).text(newstr).append("...");
