@@ -370,7 +370,7 @@
         </footer>
 
         <!-- jQuery -->
-        <script src="../settings/plugins/jQuery(3.5.1)/jquery.js"></script>
+        <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
 
         <!-- Owl Carousel JS -->
         <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
