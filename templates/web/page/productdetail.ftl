@@ -36,13 +36,15 @@
             
             <div class="container" style="background-color: #ffcb08">
                     <span>
-                        <h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1>
-                    </span>
-                    <span>
+                        <h1 class="font-weight-bold violet-color">${contentModel.productName_s}</h1>
                         <img src="${contentModel.productImage_s}"/>
+                        <span>Đặt mua</span>
                     </span>
                     <span>
-                        <p>Đặt mua</p>
+                        
+                    </span>
+                    <span>
+                        
                     </span>
             </div>
             <div class="container">
