@@ -24,16 +24,13 @@
   <body>
     <@renderComponent component=contentModel.header_o.item />
     <main>
-        <div class="section-title">
-            <div class="section-title__content block">
-                <h1 class="section-title__content-text text--uppercase">sản phẩm</h1>
-            </div>
-        </div>
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
-        <div class="container">
-            <h3>${contentModel.title_s}</h3>
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
+            </div>
         </div>
          <#if (contentModel.productChildgroup_o.item)??>
             <#list (contentModel.productChildgroup_o.item)![] as section>
