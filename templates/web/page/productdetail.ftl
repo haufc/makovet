@@ -55,6 +55,7 @@
             </#if>
          </div>
     </div>
+    </div>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
