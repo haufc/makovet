@@ -1,6 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <#list news as aNews>
-    <#if aNews?is_last>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mavinex">
         <div>
             <img src="${aNews.image}" alt="" class="img--news" width="540" height="352">
@@ -12,7 +11,5 @@
             </a>
         </div>
     </div>
-    </#if>
-    </#if>
 </#list>
 <@studio.toolSupport />
