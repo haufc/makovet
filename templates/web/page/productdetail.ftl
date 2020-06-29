@@ -35,7 +35,7 @@
             </div>
             
             <div class="container" style="background-color: #ffcb08">
-                <div class="d-flex">
+                <div class="row">
                     <div class="col-md-4 col-sm-12">
                         <h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1>
                     </div>
