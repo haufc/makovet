@@ -5,7 +5,7 @@
 
     <div class="services__container block flex">
         <section class="services__img">
-            <img class="full-size" src="../settings/images/services_img.png" alt="Services image">
+            <img class="full-size" src="/static-assets/images/services_img.png" alt="Services image">
         </section>
 
         <section class="services__content">
@@ -24,7 +24,7 @@
 
             <a class="view-more flex" href="#">
                 <span>Xem thêm</span>
-                <img src="../settings/images/icon_arrow_white.png" alt="Arrow icon">
+                <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
             </a>
 
             <div class="line"></div>
