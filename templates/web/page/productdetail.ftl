@@ -34,7 +34,7 @@
                 </div>
             </div>
             
-            <div class="container">
+            <div class="container" style="background-color: #ffcb08">
                 <div class="row">
                     <div class="col-md-4 col-sm-12">
                         <h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1>
@@ -54,11 +54,11 @@
                 <div class="products__list-title">
                     <h1 class="text--uppercase">sản phẩm tương tự</h1>
                 </div>
-                <div class="col-md-12 row"> 
+                <div class="products__list-items"> 
                     <#if (productOther)??>
                         <#list productOther as item>
-                            <div class="col-md-2">
-                                <a href="${item.url}"><img style="max-width:100%; height:auto;" src="${item.avatar}"/></a>
+                            <div class="products__list-item">
+                                <a href="${item.url}"><img class="products__img" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
                                 <p class="text-center">${item.title}</p>
                             </div>
                         </#list>
