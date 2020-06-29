@@ -498,7 +498,7 @@ p {
 }
 
 .news__block-title#tinNoiBoTitle {
-  background-image: url(../../images/title_bg_purple.png);
+  background-image: url(/static-assets/images/template/title_bg_purple.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
