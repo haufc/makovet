@@ -32,8 +32,8 @@
                 <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
             </div>
         </div>
-        <div class="container">
-            <div class="d-flex">
+        <div class="container mb-md-5">
+            <div class="d-flex mb-md-5">
                 <div class="col-md-6 p-left-0">
                     <img class="img-full" src="${contentModel.leftImage_s}"/>
                 </div>
