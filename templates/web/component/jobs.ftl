@@ -23,14 +23,14 @@
 	            <h4 class="violet-color font-weight-bold">${contentModel.contentLeftTitle_s}</h4>
 	            <p class="mt-md-4 mt-lg-4 violet-color">${contentModel.contentLeftDesc_s}</p>
 	            
-	            <p class="mt-md-4 mt-lg-4 violet-colo"><a href="${contentModel.contentLeftURL_s}">Xem tiếp</a></p>
+	            <p class="mt-md-4 mt-lg-4 violet-colo"><a href="${contentModel.contentLeftURL_s}"><span class="mr-1">Xem tiếp</span><i class="fa fa-play"></i></a></p>
 	        </div>
 	        <div class="col-lg-6 col-md-6">
 	            <img class="img-full" src="${contentModel.contentRightImage_s}" />
 	            <h4 class="violet-color font-weight-bold">${contentModel.contentRightTitle_s}</h4>
 	            <p class="mt-md-4 mt-lg-4 violet-color">${contentModel.contentRightDesc_s}</p>
 	            
-	            <p class="mt-md-4 mt-lg-4 violet-colo"><a href="${contentModel.contentRightURL_s}">Xem tiếp</a></p>
+	            <p class="mt-md-4 mt-lg-4 violet-colo"><a href="${contentModel.contentRightURL_s}"><span class="mr-1">Xem tiếp</span><i class="fa fa-play"></i></a></p>
 	        </div>
 	    </div>
 	</div>
