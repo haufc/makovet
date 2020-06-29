@@ -188,7 +188,7 @@ p {
   height: 50px;
   margin-bottom: 50px;
   margin-right: auto;
-  background-image: url(../../images/title_bg.png);
+  background-image: url(/static-assets/images/template/title_bg.png);
 }
 
 .section-title__content {
@@ -392,7 +392,7 @@ p {
 }
 
 .products__list-title {
-  background-image: url(../../images/product_title_bg.png);
+  background-image: url(/static-assets/images/template/product_title_bg.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
