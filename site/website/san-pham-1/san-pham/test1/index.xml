@@ -23,6 +23,13 @@
 	<productDescription_html>&lt;p&gt;test1&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-06-23T09:05:47.910Z</createdDate>
 	<createdDate_dt>2020-06-23T09:05:47.910Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T09:05:47.910Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T09:05:47.910Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-29T10:49:35.505Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T10:49:35.505Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/b588ebd2-a760-0669-dcc5-9e25db60070b.xml</key>
+	<value>Slide</value>
+	<include>/site/items/b588ebd2-a760-0669-dcc5-9e25db60070b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<createddate_dt>2020-06-29T04:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>EST5EDT</createddate_dt_tz>
 </page>
