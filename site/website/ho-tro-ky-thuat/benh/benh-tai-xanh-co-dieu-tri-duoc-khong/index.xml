@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b3ae</objectGroupId>
+	<objectId>b3ae4178-5a4f-8d09-ec6c-266592d0047c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-tai-xanh-co-dieu-tri-duoc-khong</folder-name>
+	<internal-name>Hỗ trợ về bệnh tai xanh</internal-name>
+	<navLabel>Hỗ trợ về bệnh tai xanh</navLabel>
+	<diseaseName_s>Bệnh tai xanh có điều trị được không?</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p&gt;&lt;strong style="margin: 0px; padding: 0px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;&amp;nbsp;chỉ đơn giản l&amp;agrave; một đoạn văn bản giả, được d&amp;ugrave;ng v&amp;agrave;o việc tr&amp;igrave;nh b&amp;agrave;y v&amp;agrave; d&amp;agrave;n trang phục vụ cho in ấn. Lorem Ipsum đ&amp;atilde; được sử dụng như một văn bản chuẩn cho ng&amp;agrave;nh c&amp;ocirc;ng nghiệp in ấn từ những năm 1500, khi một họa sĩ v&amp;ocirc; danh gh&amp;eacute;p nhiều đoạn văn bản với nhau để tạo th&amp;agrave;nh một bản mẫu văn bản. Đoạn văn bản n&amp;agrave;y kh&amp;ocirc;ng những đ&amp;atilde; tồn tại năm thế kỉ, m&amp;agrave; khi được &amp;aacute;p dụng v&amp;agrave;o tin học văn ph&amp;ograve;ng, nội dung của n&amp;oacute; vẫn kh&amp;ocirc;ng hề bị thay đổi. N&amp;oacute; đ&amp;atilde; được phổ biến trong những năm 1960 nhờ việc b&amp;aacute;n những bản giấy Letraset in những đoạn Lorem Ipsum, v&amp;agrave; gần đ&amp;acirc;y hơn, được sử dụng trong c&amp;aacute;c ứng dụng d&amp;agrave;n trang, như Aldus PageMaker.&lt;/span&gt;&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-06-26T03:16:49.531Z</createdDate>
+	<createdDate_dt>2020-06-26T03:16:49.531Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T03:34:26.107Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T03:34:26.107Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>3704b055-b942-6675-04cb-19120d98246c</key>
+	<value>Header Ho tro ky thuat</value>
+<component id="3704b055-b942-6675-04cb-19120d98246c">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3704</objectGroupId>
+	<objectId>3704b055-b942-6675-04cb-19120d98246c</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	</item></slide_o>
+	<file-name>3704b055-b942-6675-04cb-19120d98246c.xml</file-name>
+	<internal-name>Header Ho tro ky thuat</internal-name>
+	<createdDate>2020-06-26T03:34:39.480Z</createdDate>
+	<createdDate_dt>2020-06-26T03:34:39.480Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T03:34:39.480Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T03:34:39.480Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+</page>
