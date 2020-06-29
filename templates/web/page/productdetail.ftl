@@ -76,6 +76,18 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
+    <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
+    <input hidden value="${contentModel.productgrouplv2_o.item.key}" id="child-category"/>
+    <div id="lst-categories">
+        <#list categories.items as cate>
+            <input hidden value="${cate.value}/${cate.label}"/>
+        </#list>
+    </div>
+    <div id="child-cate">
+        <#list childCategories.items as cate>
+            <input hidden value="${cate.value}/${cate.label}"/>
+        </#list>
+    </div>
   </body>
 </html>
 <@studio.toolSupport /> 
