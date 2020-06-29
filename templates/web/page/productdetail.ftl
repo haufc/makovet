@@ -35,22 +35,20 @@
             </div>
             
             <div class="container" style="background-color: #ffcb08">
-                <div class="row">
-                    <div class="col-md-4 col-sm-12">
+                    <span>
                         <h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
+                    </span>
+                    <span>
                         <img src="${contentModel.productImage_s}"/>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
+                    </span>
+                    <span>
                         <p>Đặt mua</p>
-                    </div>
-                </div>
+                    </span>
             </div>
             <div class="container">
-            <div class="products__list-title">
-                <h1 class="text--uppercase">sản phẩm tương tự</h1>
-            </div>
+                <div class="products__list-title">
+                    <h1 class="text--uppercase">sản phẩm tương tự</h1>
+                </div>
                 <div>
                     <div class="col-md-12">
                         ${contentModel.productDescription_html}
