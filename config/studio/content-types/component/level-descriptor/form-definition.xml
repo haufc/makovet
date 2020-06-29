@@ -232,7 +232,7 @@
 						</property>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/site/items/footer</value>
 								<type>undefined</type>
 						</property>
 						<property>
