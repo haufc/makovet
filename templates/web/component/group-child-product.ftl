@@ -1,4 +1,9 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
+    <div class="section-title">
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
+        </div>
+    </div>
     <div class="container">
         <div class="d-flex">
             <div class="col-md-6 p-left-0">
