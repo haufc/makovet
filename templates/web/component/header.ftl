@@ -3,7 +3,7 @@
     <section class="nav">
         <div class="nav__container">
             <div class="nav__logo">
-                <img src="/static-assets/images/template/logo.png" alt="Logo">
+                <img src="${contentModel.logo_s}" alt="Logo">
             </div>
 
             <a class="nav__btn" onclick="toggleNav()">
