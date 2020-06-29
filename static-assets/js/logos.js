@@ -1,5 +1,4 @@
-var owl = $('.logos__container');
-owl.owlCarousel({
+$('.logos__container').owlCarousel({
     loop: true,
     margin: 0,
     dots: false,
