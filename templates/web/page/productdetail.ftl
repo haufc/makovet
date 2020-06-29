@@ -27,10 +27,13 @@
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
-        <main class="content">
+        <div class="content">
             <div class="section-title">
                 <div class="section-title__content block">
                     <h1 class="section-title__content-text text--uppercase" id="product-title"></h1>
+                </div>
+                <div class="products__list-title">
+                    <h1 class="text--uppercase">sản phẩm tương tự</h1>
                 </div>
             </div>
             <div class="products__container block">
@@ -65,13 +68,6 @@
                             </div>
                         </#list>
                     </#if>
-                </div>
-            </div>
-            <div class="products__container block">
-                <div class="products__content">
-                    <div class="products__list-title">
-                        <h1 class="text--uppercase">sản phẩm tương tự</h1>
-                    </div>
                 </div>
             </div>
         </div>
