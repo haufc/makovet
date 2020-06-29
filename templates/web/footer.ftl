@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<footer class="footer" <@studio.iceAttr component=contentModel/> style="background-image: url('${contentModel.backgroundImage_s}');">
+<footer class="footer" <@studio.iceAttr component=contentModel/>>
     <div class="footer__container block flex">
         <!-- address -->
         <section class="footer__item" id="address">
@@ -24,7 +24,7 @@
 
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
         <section class="footer__item" id="bct">
-            <img class="footer__item-img" src="../settings/images/bct_logo.png" alt="Bộ Công thương">
+            <img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương">
             <p>Bản quyền thuộc về Công ty CP Dược Thú y Cai Lậy 2020</p>
         </section>
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
