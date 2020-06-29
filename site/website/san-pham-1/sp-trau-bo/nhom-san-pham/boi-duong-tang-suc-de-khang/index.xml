@@ -22,6 +22,26 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-06-23T07:44:19.821Z</createdDate>
 	<createdDate_dt>2020-06-23T07:44:19.821Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T08:15:37.910Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T08:15:37.910Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-29T10:34:29.508Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T10:34:29.508Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>1d0a99b6-9b63-d208-a7cf-57a5d25cd2fb</key>
+	<value>Slide</value>
+<component id="1d0a99b6-9b63-d208-a7cf-57a5d25cd2fb">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1d0a</objectGroupId>
+	<objectId>1d0a99b6-9b63-d208-a7cf-57a5d25cd2fb</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 186.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/Layer 190.png</image_s>
+	</item></slide_o>
+	<file-name>1d0a99b6-9b63-d208-a7cf-57a5d25cd2fb.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-06-29T10:34:38.958Z</createdDate>
+	<createdDate_dt>2020-06-29T10:34:38.958Z</createdDate_dt>
+	<lastModifiedDate>2020-06-29T10:34:38.958Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T10:34:38.958Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
 </page>
