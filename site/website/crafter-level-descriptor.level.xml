@@ -15,11 +15,16 @@
 	</item></slideLogo_o>
 	<createdDate>2020-06-25T04:07:00.213Z</createdDate>
 	<createdDate_dt>2020-06-25T04:07:00.213Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T08:21:59.094Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T08:21:59.094Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-29T10:19:28.330Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T10:19:28.330Z</lastModifiedDate_dt>
 	<footer_o item-list="true">	<item datasource="footerDatasource">	<key>/site/items/footer/3d1d77a5-0bcd-1e06-1ce5-e6850de2d719.xml</key>
 	<value>Footer</value>
 	<include>/site/items/footer/3d1d77a5-0bcd-1e06-1ce5-e6850de2d719.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></footer_o>
+	<header_o item-list="true">	<item datasource="headerDatasource">	<key>/site/items/header/5b5e52bf-6158-d346-aebf-f57d0d76873f.xml</key>
+	<value>Header</value>
+	<include>/site/items/header/5b5e52bf-6158-d346-aebf-f57d0d76873f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
 </component>
