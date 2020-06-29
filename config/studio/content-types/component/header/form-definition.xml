@@ -117,7 +117,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>slideUpload,slideExisting</value>
+							<value>logoUpload,logoExisting</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
