@@ -38,7 +38,7 @@
                     <section class="products__list">
                         <div class="products__list-items">
                             <div class="products__list-item">
-                                <p>${contentModel.productName_s}</p>
+                                <h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1>
                             </div>
                             <div class="products__list-item">
                                 <img src="${contentModel.productImage_s}"/>
