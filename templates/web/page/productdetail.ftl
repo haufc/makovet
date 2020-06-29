@@ -48,13 +48,11 @@
                 </div>
             </div>
             <div class="container">
-                <div class="row">
+                <div>
                     <div class="col-md-12">
                         ${contentModel.productDescription_html}
                     </div>
-                    <div class="products__list-title">
-                        <h1 class="text--uppercase">sản phẩm tương tự</h1>
-                    </div>
+                   
                     <div class="products__list-items"> 
                         <#if (productOther)??>
                             <#list productOther as item>
@@ -66,6 +64,9 @@
                         </#if>
                     </div>
                 </div>
+            </div>
+            <div class="products__list-title">
+                <h1 class="text--uppercase">sản phẩm tương tự</h1>
             </div>
         </div>
     </main>
