@@ -3,10 +3,10 @@
     <div class="footer__container block flex">
         <!-- address -->
         <section class="footer__item" id="address">
-            <h3 class="text--uppercase">công ty cổ phần dược thú y cai lậy</h3>
-            <p>Địa chỉ trụ sở chính: Khu phố 1, phường 5, thị xã Cai Lậy, tỉnh Tiền Giang</p>
-            <p>Điện thoại: (0273)3826462 - Fax: 3826363</p>
-            <p>Email: info@cailayvetco.com</p>
+            <h3 class="text--uppercase">${contentModel.name_s}</h3>
+            <p>${contentModel.address_s}</p>
+            <p>Điện thoại: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
+            <p>${contentModel.email_s}</p>
         </section>
         <!-- /address -->
 
