@@ -48,21 +48,23 @@
                 </div>
             </div>
             <div class="container">
-                <div class="col-md-12">
-                    ${contentModel.productDescription_html}
-                <div>
-                <div class="products__list-title">
-                    <h1 class="text--uppercase">sản phẩm tương tự</h1>
-                </div>
-                <div class="products__list-items"> 
-                    <#if (productOther)??>
-                        <#list productOther as item>
-                            <div class="products__list-item">
-                                <a href="${item.url}"><img class="products__img" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
-                                <p class="text-center">${item.title}</p>
-                            </div>
-                        </#list>
-                    </#if>
+                <div class="row">
+                    <div class="col-md-12">
+                        ${contentModel.productDescription_html}
+                    </div>
+                    <div class="products__list-title">
+                        <h1 class="text--uppercase">sản phẩm tương tự</h1>
+                    </div>
+                    <div class="products__list-items"> 
+                        <#if (productOther)??>
+                            <#list productOther as item>
+                                <div class="products__list-item">
+                                    <a href="${item.url}"><img class="products__img" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
+                                    <p class="text-center">${item.title}</p>
+                                </div>
+                            </#list>
+                        </#if>
+                    </div>
                 </div>
             </div>
         </div>
