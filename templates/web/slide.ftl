@@ -1,21 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-    <#-- <div id="slide" class="" data-ride="carousel" <@studio.iceAttr component=contentModel/> style="height:630px;">
-    <div class="">
-        <#if (contentModel.slide_o.item)??>
-        <#assign first = true>
-        <#list contentModel.slide_o.item as element>
-            <#if first>
-                <img class="carousel-item active" src="${element.image_s!""}" alt="Slide Image">
-            <#assign first = false>
-            <#else>
-                <img class="carousel-item" src="${element.image_s!""}" alt="Slide Image">
-            </#if>
-        </#list>
-    </#if>
-    </div>
-    </div> -->
     <section class="slide">
-        <div class="slide__bg" style="background-image: url(/static-assets/images/slide_bg.png)"></div>
+        <div class="slide__bg" style="background-image: url(/static-assets/images/template/slide_bg.png)"></div>
         <div class="slide__container owl-carousel owl-theme">
             <#if (contentModel.slide_o.item)??>
                 <#list contentModel.slide_o.item as element>
