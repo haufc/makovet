@@ -20,6 +20,7 @@
   </head>
   <body>
     <div class="content">
+        <@renderComponent component=contentModel.header_o.item />
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
@@ -52,6 +53,8 @@
         </div>
     </div>
     <input hidden value="${contentModel.technicalAssistanceCompoent_o.item?size}" id="group-pr-length"/>
+    <@renderComponent component=contentModel.slideLogo_o.item />
+    <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
