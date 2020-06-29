@@ -25,7 +25,7 @@
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
         <section class="footer__item" id="bct">
             <img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương">
-            <p>${contentModel.copyrighted_S}</p>
+            <p>${contentModel.copyrighted_s}</p>
         </section>
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
     </div>
