@@ -30,7 +30,7 @@
         <main class="content">
             <div class="section-title">
                 <div class="section-title__content block">
-                    <h1 class="section-title__content-text text--uppercase">${contentModel.productgrouplv1_o.item.key.text}</h1>
+                    <h1 class="section-title__content-text text--uppercase"></h1>
                 </div>
             </div>
             <div class="container">
