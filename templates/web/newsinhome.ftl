@@ -13,7 +13,7 @@
 <@studio.toolSupport />
 <script>
 $('.firstnew-content').each(function (f) {
-  var newstr = $(this).text().substring(0,80);
+  var newstr = $(this).text().substring(0,140);
   $(this).text(newstr).append("...");
 });
 </script>
