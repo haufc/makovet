@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="d-flex mb-md-3">
+            <div class="d-flex">
                 <div class="col-md-6 p-left-0">
                     <img class="img-full" src="${contentModel.leftImage_s}"/>
                 </div>
@@ -41,6 +41,9 @@
                     <img class="banner-img" src="${contentModel.rightimage_s}"/>
                 </div>
             </div>
+            
+            <hr class="line-hozital"/>
+            <hr class="line-hozital"/>
         </div>
          <#if (contentModel.productChildgroup_o.item)??>
             <#list (contentModel.productChildgroup_o.item)![] as section>
