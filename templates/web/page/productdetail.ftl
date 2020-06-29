@@ -33,32 +33,25 @@
                     <h1 class="section-title__content-text text--uppercase" id="product-title"></h1>
                 </div>
             </div>
-            <div class="products__container block">
-                <div class="products__content">
-                    <div class="products__list-title">
-                        <h1 class="text--uppercase">sản phẩm tương tự</h1>
-                    </div>
-                    <section class="products__list">
-                        <div class="products__list-items">
-                            <div class="products__list-item">
-                                <h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1>
-                            </div>
-                            <div class="products__list-item">
-                                <img src="${contentModel.productImage_s}"/>
-                            </div>
-                            <div class="products__list-item">
-                                <p>Đặt mua</p>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
+            
             <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-sm-12">
+                        <h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <img src="${contentModel.productImage_s}"/>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Đặt mua</p>
+                    </div>
+                </div>
                 <div class="col-md-12">
                     ${contentModel.productDescription_html}
                 <div>
-                <hr/>
-                <h4>SẢN PHẨM TƯƠNG TỰ</h4>
+                <div class="products__list-title">
+                    <h1 class="text--uppercase">sản phẩm tương tự</h1>
+                </div>
                 <div class="col-md-12 row"> 
                     <#if (productOther)??>
                         <#list productOther as item>
