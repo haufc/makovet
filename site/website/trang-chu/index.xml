@@ -81,33 +81,6 @@
 	<lastModifiedDate>2020-06-29T03:44:02.275Z</lastModifiedDate>
 	<lastModifiedDate_dt>2020-06-29T03:44:02.275Z</lastModifiedDate_dt>
 </component>
-	</item>	<item datasource="sections" inline="true">	<key>40ae2a01-25e2-7c07-0d77-b7d793970006</key>
-	<value>Footer</value>
-<component id="40ae2a01-25e2-7c07-0d77-b7d793970006">
-	<content-type>/component/footer</content-type>
-	<display-template>/templates/web/footer.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>40ae</objectGroupId>
-	<objectId>40ae2a01-25e2-7c07-0d77-b7d793970006</objectId>
-	<file-name>40ae2a01-25e2-7c07-0d77-b7d793970006.xml</file-name>
-	<internal-name>Footer</internal-name>
-	<copyrighted_s>Bản quyền thuộc về Công ty CP Dược Thú y Cai Lậy 2</copyrighted_s>
-	<name_s>công ty cổ phần dược thú y cai lậy</name_s>
-	<address_s>Địa chỉ trụ sở chính: Khu phố 1, phường 5, thị xã </address_s>
-	<phone_s>(0273)3826462</phone_s>
-	<fax_s>3826363</fax_s>
-	<email_s>info@cailayvetco.com</email_s>
-	<fburl_s>https://www.facebook.com</fburl_s>
-	<twitterurl_s>https://www.twitter.com</twitterurl_s>
-	<youtubeurl_s>https://www.youtube.com</youtubeurl_s>
-	<linkedinurl_s>https://www.linkedin.com</linkedinurl_s>
-	<tick_s>/static-assets/images/bct_logo.png</tick_s>
-	<createdDate>2020-06-29T08:07:28.308Z</createdDate>
-	<createdDate_dt>2020-06-29T08:07:28.308Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T08:13:49.784Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T08:13:49.784Z</lastModifiedDate_dt>
-</component>
 	</item></sections_o>
 	<description_t>Trang chủ</description_t>
 	<internal-name>Trang chủ</internal-name>
@@ -117,6 +90,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-06-24T06:58:45.441Z</createdDate>
 	<createdDate_dt>2020-06-24T06:58:45.441Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T08:13:45.623Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T08:13:45.623Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-29T08:21:50.147Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T08:21:50.147Z</lastModifiedDate_dt>
 </page>
