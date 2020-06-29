@@ -1,8 +1,10 @@
 import org.craftercms.blueprints.headless.NewsSearchHelper
 def searchHelper = new NewsSearchHelper(elasticsearch, urlTransformationService)
-def cate = "internalnews";
-def news = searchHelper.searchNews(care, 0)
-println "News:"
-print news
+def news = searchHelper.searchNews(contentModel.newscategory_s, 0)
 
-templateModel.news = news
+def firstNew = news[0]
+def lastNew = news[news.size()-1]
+
+
+templateModel.firstNew = firstNew
+templateModel.lastNew = lastNew

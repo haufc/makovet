@@ -20,7 +20,6 @@
                         <h4 style="color: #322372; padding-top: 20px;"  style="padding-top:9px;">${aNews.title}</h4>
                         <p style="color: #828385; padding-top: 10px;" class="limit-text" max-length="50">${aNews.content}<p>
                             <span class="mr-1 text--italic title-vn" style="color:#828385">Xem tiếp</span>
-                            <span class="mr-1 text--italic title-en" style="color:#828385">See more</span>
                             <i class="fa fa-play text--red"></i>
                         </a>
                     </div>
@@ -54,7 +53,6 @@
                         <h4 style="color: #322372; padding-top: 20px;"  style="padding-top:9px;">${aNews.title}</h4>
                         <p style="color: #828385; padding-top: 10px;" class="limit-text">${aNews.content}<p>
                             <span class="mr-1 text--italic title-vn" style="color:#828385">Xem tiếp</span>
-                            <span class="mr-1 text--italic title-en" style="color:#828385">See more</span>
                             <i class="fa fa-play text--red"></i>
                         </a>
                     </div>
@@ -78,17 +76,6 @@
 }
 </style>
 <script>
-     $(document).ready(function(){
-            var title= $('')
-            var url = window.location.href;
-            if (url.indexOf('/en') > -1) {
-                $('.title-vn').css('display', 'none');
-                $('.title-en').css('display', 'inline');
-            } else {
-                $('.title-vn').css('display', 'inline');
-                $('.title-en').css('display', 'none');
-            }
-        });
     $('.limit-text').each(function (f) {
       var newstr = $(this).text().substring(0,300);
       $(this).text(newstr).append("...");

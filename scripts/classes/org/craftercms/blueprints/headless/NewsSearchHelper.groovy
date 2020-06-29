@@ -63,4 +63,18 @@ class NewsSearchHelper{
         
         return news
     }
+    
+    private def getFieldQueryWithMultipleValues(field, values) {
+        if (values.class.isArray()) {
+          values = values as List
+        }
+    
+        if (values instanceof Iterable) {
+          values = "(" + StringUtils.join((Iterable)values, " OR ") + ")"
+        } else {
+          values = "\"${values}\""
+        }
+    
+        return "${field}:${values}"
+    }
 }

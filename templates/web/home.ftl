@@ -71,9 +71,9 @@
         <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
             <span class="fa fa-spinner fa-spin fa-3x"></span>
         </div>
-</div>      
     </div>
     <@renderComponent component=contentModel.slideLogo_o.item />
+    <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery341/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
