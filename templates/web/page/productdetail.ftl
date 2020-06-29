@@ -50,7 +50,7 @@
                     </section>
                 </div>
             </div>
-            <div class="container" style="background-color: #ffcb08">
+            <div class="container">
                 <div class="col-md-12">
                     ${contentModel.productDescription_html}
                 <div>
