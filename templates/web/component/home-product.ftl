@@ -9,16 +9,14 @@
         <div class="products__container block">
             <div class="products__content">
                 <section class="products__logos">
-                    <div class="col-md-12 d-flex" style="background-color: #FFCB08">
-                    	<#list contentModel.groupProduct_o.item as item>
-                            <div class="products__logo text--center">
-                                <a href="${item.groupChildProductURL_s}">
-                                    <img class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
-                                    <h3 class="text--uppercase">${item.groupProductName_s}</h3>
-                                </a>
-                            </div>
-                        </#list>
-                    </div>
+                	<#list contentModel.groupProduct_o.item as item>
+                        <div class="products__logo text--center">
+                            <a href="${item.groupChildProductURL_s}">
+                                <img class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
+                                <h3 class="text--uppercase">${item.groupProductName_s}</h3>
+                            </a>
+                        </div>
+                    </#list>
                 </section>
                 <section class="products__list">
                     <div class="products__list-title">
@@ -26,14 +24,12 @@
                     </div>
                     <div class="products__list-items">
                         <#if (products)??>
-                            <div class="col-md-12 d-flex" style="background-color: #FFCB08">
-                            	<#list products as product>
-                                    <div class="products__list-item">
-                                        <a href="${product.url}"><img class="products__img" src="${product.avatar}" alt="Product image" width="135" height="140"/></a>
-                                        <p>${product.title}</p>
-                                    </div>
-                                </#list>
-                            </div>
+                        	<#list products as product>
+                                <div class="products__list-item">
+                                    <a href="${product.url}"><img class="products__img" src="${product.avatar}" alt="Product image" width="135" height="140"/></a>
+                                    <p>${product.title}</p>
+                                </div>
+                            </#list>
                         </#if>
                     </div>
                 </section>
