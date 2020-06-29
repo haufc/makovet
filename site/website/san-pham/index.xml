@@ -13,7 +13,26 @@
 	<internal-name>Sản phẩm</internal-name>
 	<navLabel>Sản phẩm</navLabel>
 	<t_s>Sản phẩm</t_s>
-	<section_o item-list="true">	<item datasource="section" inline="true">	<key>4e9c6067-52f1-9da5-5530-87813985969d</key>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b6c89187-a8da-02aa-bdd5-fdf71d48283e</key>
+	<value>Slide</value>
+<component id="b6c89187-a8da-02aa-bdd5-fdf71d48283e">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b6c8</objectGroupId>
+	<objectId>b6c89187-a8da-02aa-bdd5-fdf71d48283e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 186.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/Layer 190.png</image_s>
+	</item></slide_o>
+	<file-name>b6c89187-a8da-02aa-bdd5-fdf71d48283e.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-06-29T10:38:11.397Z</createdDate>
+	<createdDate_dt>2020-06-29T10:38:11.397Z</createdDate_dt>
+	<lastModifiedDate>2020-06-29T10:38:11.397Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T10:38:11.397Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>4e9c6067-52f1-9da5-5530-87813985969d</key>
 	<value>Nhóm sản phẩm cha</value>
 <component id="4e9c6067-52f1-9da5-5530-87813985969d">
 	<content-type>/component/nhomsanphamcha</content-type>
@@ -52,6 +71,6 @@
 	</item></section_o>
 	<createdDate>2020-06-23T03:28:29.300Z</createdDate>
 	<createdDate_dt>2020-06-23T03:28:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-06-24T03:45:39.231Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-24T03:45:39.231Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-29T10:38:05.409Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T10:38:05.409Z</lastModifiedDate_dt>
 </page>
