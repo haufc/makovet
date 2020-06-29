@@ -6,7 +6,7 @@ def searchHelper = new GroupProductSearchHelper(elasticsearch, urlTransformation
 def relatedProducts = searchHelper.searchProducts(productGroup.text, 0)
 
 def groupParent = contentModel.productgrouplv1_o.item.value
-printnl "========================="
+println "========================="
 println  productGroup.text
 print groupParent
 
