@@ -23,7 +23,12 @@
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
-    <div class="content">
+    <main>
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase">sản phẩm</h1>
+            </div>
+        </div>
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
@@ -37,7 +42,7 @@
                 </div>
             </#list>
         </#if>
-    </div>
+    </main>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
