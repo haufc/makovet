@@ -32,12 +32,14 @@
                 <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
             </div>
         </div>
-        <div class="d-flex">
-            <div class="col-md-6 p-left-0">
-                <img class="img-full" src="${contentModel.leftImage_s}"/>
-            </div>
-            <div class="col-md-6 banner-gr-child-pr">
-                <img class="banner-img" src="${contentModel.rightimage_s}"/>
+        <div class="container">
+            <div class="d-flex">
+                <div class="col-md-6 p-left-0">
+                    <img class="img-full" src="${contentModel.leftImage_s}"/>
+                </div>
+                <div class="col-md-6 banner-gr-child-pr">
+                    <img class="banner-img" src="${contentModel.rightimage_s}"/>
+                </div>
             </div>
         </div>
          <#if (contentModel.productChildgroup_o.item)??>
