@@ -10,14 +10,7 @@
             <div class="products__content">
                 <section class="products__logos">
                     <div class="col-md-12 d-flex" style="background-color: #FFCB08">
-                    	<#list contentModel.groupProduct_o.item as item>
-                            <div class="products__logo text--center">
-                                <a href="${item.url}">
-                                    <img class="products__img" src="${item.avatar}" alt="Product logo" width="265" height="240">
-                                    <h3 class="text--uppercase">${item.title}</h3>
-                                </a>
-                            </div>
-                        </#list>
+                    	
                     </div>
                 </section>
                 <section class="products__list">
