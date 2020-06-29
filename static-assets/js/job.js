@@ -8,9 +8,9 @@ $(document).ready(function(){
     
     var totalPages;
     if ((numberOfProducts / limitperPage) % 2 == 0) {
-       totalPages =  Math.round(numberOfProducts / limitperPage );
+       totalPages =  Math.round(numberOfProducts / limitPerPage );
     } else {
-        totalPages =  Math.round(numberOfProducts / limitperPage ) + 1;
+        totalPages =  Math.round(numberOfProducts / limitPerPage ) + 1;
     }
     
     $('.pagi').append("<li class='page-item current-page active'><a class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
