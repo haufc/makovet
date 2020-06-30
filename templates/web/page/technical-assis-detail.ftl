@@ -39,7 +39,7 @@
             </div>
             <hr class="line-hozital"/>
             
-             <div id ="panigation-techsp" class="mb-3">
+             <div id ="panigation-techsp" class="mb-3" style="line-height: 2;">
                 <#if (supportTech)??>
                 	<#list supportTech as item>
                         <div class="techsp-item">
