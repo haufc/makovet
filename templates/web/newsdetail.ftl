@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
-    <link rel="stylesheet" href="/static-assets/css/makovet.css"/>
+    <link rel="stylesheet" href="/static-assets/css/dtycl.css"/>
     <style>
     table {
         width: 100%;
