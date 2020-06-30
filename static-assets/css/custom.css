@@ -105,3 +105,8 @@ font-size: 20px;
     margin-right: auto;
     width: 50%;
 }
+.product-buy {
+    background-color: #322372;
+    border-radius: 50%;
+    padding: 26px 10px;
+}
