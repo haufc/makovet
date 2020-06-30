@@ -35,9 +35,9 @@
             </div>
             <div class="container">
                  <div class="d-flex">
-                        <div><h1 class="font-weight-bold violet-color">${contentModel.productName_s}</h1></div>
-                        <div><img src="${contentModel.productImage_s}"/></div>
-                        <div><span>Đặt mua</span></div>
+                        <div class="product-info"><h1 class="font-weight-bold violet-color">${contentModel.productName_s}</h1></div>
+                        <div class="product-info"><img src="${contentModel.productImage_s}"/></div>
+                        <div class="product-info"><span>Đặt mua</span></div>
                 </div>
                 <div class="products__list-title">
                     <h1 class="text--uppercase">sản phẩm tương tự</h1>
