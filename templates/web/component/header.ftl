@@ -32,7 +32,6 @@
                 <button class="nav__menu-btn" onclick="toggleNav()">
                     <i class="fas fa-times"></i>
                 </button>
-
                 <li class="nav__menu-item">
                     <div class="dropdown">
                         <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/gioi-thieu">Giới thiệu</a>
@@ -42,18 +41,6 @@
                             <a class="mavinex-nav__link dropdown-item" href="/introduction/thanh-tich-dat-duoc">Thành tích đạt được</a>
                         </div>
                     </div>
-                    
-                    
-                 <#-- <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Dropdown link
-                  </a>
-    
-                      <div class="" aria-labelledby="dropdownMenuLink">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                      </div>
-                    </div> -->
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link active" href="/san-pham">Sản phẩm</a>
