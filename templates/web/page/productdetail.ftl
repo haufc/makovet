@@ -34,7 +34,7 @@
                 </div>
             </div>
             <div class="container">
-                 <div class="d-flex">
+                 <div class="d-flex mb-4" style="background-color: #ffcb0c;">
                         <div class="product-info"><h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1></div>
                         <div class="product-info"><img class="img-center" src="${contentModel.productImage_s}"/></div>
                         <div class="product-info text-center"><span>Đặt mua</span></div>
