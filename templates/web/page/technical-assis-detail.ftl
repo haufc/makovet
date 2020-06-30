@@ -32,7 +32,7 @@
         </div>
         <div class="container">
             <div class="sick-title" style="background-color:#FFCB08">
-                <h3 class="violet-color p-2">${contentModel.diseaseName_s}</h3>
+                <h2 class="violet-color p-2">${contentModel.diseaseName_s}</h2>
             </div>
             <div class="sick-content">
                 ${contentModel.diseaseContent_html}
