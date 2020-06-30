@@ -24,6 +24,11 @@
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <#if (contentModel.technicalAssistanceCompoent_o.item)?? && contentModel.section_o??>
@@ -36,7 +41,11 @@
             </div>
         </div>
         
-        <div style="background-color: #FFCB08; height: 15px;"></div>
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase">hỗ trợ khách hàng</h1>
+            </div>
+        </div>
         <div class="container">
             <div class="row mt-3">
                 <div class="col-md-6">
