@@ -78,8 +78,11 @@
 	<internal-name>Điều trị bệnh</internal-name>
 	<createdDate>2020-06-29T03:44:02.275Z</createdDate>
 	<createdDate_dt>2020-06-29T03:44:02.275Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T03:44:02.275Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T03:44:02.275Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-30T09:46:48.823Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-30T09:46:48.823Z</lastModifiedDate_dt>
+	<desc_s>1. HIỆN TRẠNG  Các trại chăn nuôi thường hay gặp tình trạng viêm da trên heo rất khó điều trị, người chăn nuôi thường nghĩ rằng heo bệnh là do:  - Thiếu vitamin A, thiếu kẽm ...</desc_s>
+	<title_s>CHỨNG VIÊM DA TRÊN HEO</title_s>
+	<image_s>/static-assets/images/services_img.png</image_s>
 </component>
 	</item></sections_o>
 	<description_t>Trang chủ</description_t>
@@ -90,6 +93,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-06-24T06:58:45.441Z</createdDate>
 	<createdDate_dt>2020-06-24T06:58:45.441Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T08:21:50.147Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T08:21:50.147Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-06-30T09:46:44.883Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-30T09:46:44.883Z</lastModifiedDate_dt>
 </page>
