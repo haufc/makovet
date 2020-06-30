@@ -43,7 +43,7 @@
                     ${contentModel.productDescription_html}
                 </div>
                 <div class="products__list-title">
-                    <h1 class="text--uppercase violet-color">sản phẩm tương tự</h1>
+                    <h1 class="text--uppercase violet-color">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
                     <div class="col-lg -12 col-md-12 row p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
