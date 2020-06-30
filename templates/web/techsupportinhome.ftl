@@ -7,22 +7,20 @@
 
     <div class="services__container block flex">
         <section class="services__img">
-            <img class="full-size" src="/static-assets/images/services_img.png" alt="Services image">
+            <img class="full-size" src="${contentModel.image_s}" alt="Services image">
         </section>
 
         <section class="services__content">
-            <#if (firstItem)??>
                 <div class="services__content-text">
-                    <h3 class="text--uppercase">${firstItem.title}</h3>
+                    <h3 class="text--uppercase">${contentModel.title_s}</h3>
                     <p class="truncate-multi-line text--justify limit-text">
-                        ${firstItem.desc}
+                        ${contentModel.desc_s}
                     </p>
                 </div>
-                <a class="view-more flex" href="${firstItem.url}">
+                <a class="view-more flex" href="/ho-tro-ky-thuat/benh-dieu-tri">
                     <span>Xem thêm</span>
                     <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
                 </a>
-            </#if>
             <div class="line"></div>
 
             <a class="services__link" href="#"><h3>Bệnh viêm gan</h3></a>
