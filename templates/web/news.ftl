@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<section class="news" <@studio.iceAttr component=contentModel/>>
+<div class="content" <@studio.iceAttr component=contentModel/>>
     <div class="section-title">
         <div class="section-title__content block">
             <h1 class="section-title__content-text text--uppercase">Tin nội bộ</h1>
@@ -11,11 +11,11 @@
                 <#if aNews.category = "internalnews">
                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mavinex">
                     <div>
-                        <img src="${aNews.image}" alt="" class="" width="500" height="325">
+                        <img src="${aNews.image}" alt="" class="img--news" width="540" height="352">
                         <a class="mt-3 rounded-0" href="${aNews.url}">
-                        <h4 class="text--uppercase" style="color: #322372; padding-top: 20px;"  style="padding-top:9px;">${aNews.title}</h4>
+                        <h4 class="text--uppercase" style="color: #322372; padding-top: 20px; font-weight: bold;">${aNews.title}</h4>
                         <p style="color: #828385; padding-top: 10px;" class="limit-text" max-length="50">${aNews.content}<p>
-                            <span class="mr-1 text--italic title-vn text--uppercase" style="color:#828385">Xem tiếp</span>
+                            <span class="mr-1 text--italic title-vn" style="color:#828385">Xem tiếp</span>
                             <i class="fa fa-play text--red"></i>
                         </a>
                     </div>
@@ -23,7 +23,7 @@
                 </#if>
                 </#list>
         </div>
-        <nav aria-label="Page navigation example" style="margin-bottom: 40px;">
+        <nav aria-label="Page navigation example">
           <ul class="pagination pagi1 justify-content-center">
             <li id="previous-page1" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
@@ -42,7 +42,7 @@
                     <div>
                         <img src="${aNews.image}" alt="" class="img--news" width="540" height="352">
                         <a class="mt-3 rounded-0" href="${aNews.url}">
-                        <h4 style="color: #322372; padding-top: 20px;"  style="padding-top:9px;">${aNews.title}</h4>
+                        <h4  class="text--uppercase" style="color: #322372; padding-top: 20px; font-weight: bold;">${aNews.title}</h4>
                         <p style="color: #828385; padding-top: 10px;" class="limit-text">${aNews.content}<p>
                             <span class="mr-1 text--italic title-vn" style="color:#828385">Xem tiếp</span>
                             <i class="fa fa-play text--red"></i>
@@ -60,7 +60,7 @@
         </nav>
     </div>
 
-</section>
+</div>
 <style>
 .page-link{
     border-radius :50% !important;
