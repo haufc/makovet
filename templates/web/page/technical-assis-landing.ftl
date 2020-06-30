@@ -33,7 +33,7 @@
             <div class="row">
                 <#if (contentModel.technicalAssistanceCompoent_o.item)?? && contentModel.section_o??>
                     <#list (contentModel.technicalAssistanceCompoent_o.item)![] as section>
-                        <div class="group-pr-${section?index}">
+                        <div class="group-pr-${section?index} col-lg-4 col-md-4 col-sm-6 col-xs-6">
                             <@renderComponent parent=contentModel component=section />
                         </div>
                     </#list>
