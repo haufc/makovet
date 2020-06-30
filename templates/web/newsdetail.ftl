@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="container" style="padding-left:30px;">
-                <h2>${contentModel.title_s}</h3>
+                <h2 style="color: #322372; font-size: 22px;">${contentModel.title_s}</h3>
                 <img src="${contentModel.image_s!""}" >
                 <div style="line-height: 1.5;  font-size: 16px; padding-top:30px;">${contentModel.content_html}</div>
                 <span class="mr-1 text--italic" style="color: #00549a;>Quay lại trang tin tức</span>
