@@ -112,8 +112,8 @@
         $('#product-title').text(title);
         
         var prItem = $('#panigation-product').children();
-        for(let i = 1; i < prItem.length - 1; i++) {
-            $(prItem[i]).css('margin-right', '5%');
+        for(let i = 0; i < prItem.length - 1; i++) {
+            $(prItem[i]).css('margin-right', '3%');
         }
     });
   </script>
