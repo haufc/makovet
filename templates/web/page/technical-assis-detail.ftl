@@ -27,12 +27,12 @@
         </#list>
         <div class="section-title">
             <div class="section-title__content block">
-                <h1 class="section-title__content-text text--uppercase" id="parent-title" style="font-size: 30px;"></h1>
+                <h1 class="section-title__content-text text--uppercase" id="parent-title"></h1>
             </div>
         </div>
         <div class="container">
             <div class="sick-title" style="background-color:#FFCB08">
-                <h2 class="violet-color p-2">${contentModel.diseaseName_s}</h2>
+                <h2 class="violet-color p-2" style="font-size: 30px;">${contentModel.diseaseName_s}</h2>
             </div>
             <div class="sick-content">
                 ${contentModel.diseaseContent_html}
