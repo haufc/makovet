@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-	<div class="col-lg-4 col-md-4">
+	<div class="lst-sick">
 	    <img src="${contentModel.avatar_s}" class="img-full"/>
 	    <p class="violet-color font-weight-bold">${contentModel.title_s}</p>
 	    <div class="paginate">
