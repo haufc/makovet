@@ -25,10 +25,14 @@
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase" id="parent-title"></h1>
+            </div>
+        </div>
         <div class="container">
-            <h3 class="violet-color p-1" id="parent-title"></h3>
             <div class="sick-title" style="background-color:#FFCB08">
-                <h4 class="violet-color p-1">${contentModel.diseaseName_s}</h4>
+                <h3 class="violet-color p-2">${contentModel.diseaseName_s}</h3>
             </div>
             <div class="sick-content">
                 ${contentModel.diseaseContent_html}
