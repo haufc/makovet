@@ -28,7 +28,7 @@
                 </#if>
                 </div>
             </div>
-            <div>
+            <div class="container" style="padding-left:30px;">
                 <h2>${contentModel.title_s}</h3>
                 <img src="${contentModel.image_s!""}" >
                 <div>${contentModel.content_html}</div>
