@@ -27,7 +27,7 @@
         </#list>
         <div class="section-title">
             <div class="section-title__content block">
-                <h1 class="section-title__content-text text--uppercase" id="parent-title"></h1>
+                <h1 class="section-title__content-text text--uppercase" id="parent-title" style="font-size: 30px;"></h1>
             </div>
         </div>
         <div class="container">
