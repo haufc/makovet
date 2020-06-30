@@ -22,8 +22,10 @@
         </nav>
     </div>
     
-    <div class="section-title__content block">
-        <h1 class="section-title__content-text text--uppercase">${contentModel.title2_s}</h1>
+   <div class="section-title">
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">${contentModel.title1_s}</h1>
+        </div>
     </div>
     <div class="container">
 	    <div class="row">
