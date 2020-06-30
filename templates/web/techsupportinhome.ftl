@@ -22,7 +22,7 @@
                     <span>Xem thêm</span>
                     <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
                 </a>
-            </if>
+            </#if>
             <div class="line"></div>
 
             <a class="services__link" href="#"><h3>Bệnh viêm gan</h3></a>
