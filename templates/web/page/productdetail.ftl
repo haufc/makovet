@@ -42,11 +42,6 @@
                 <div class="products__list-title">
                     <h1 class="text--uppercase">sản phẩm tương tự</h1>
                 </div>
-                
-                <div class="strike">
-                    <span class="text--uppercase">sản phẩm tương tự</span>
-                </div>
-                
                 <div>
                     <div class="col-md-12">
                         ${contentModel.productDescription_html}
