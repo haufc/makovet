@@ -113,7 +113,7 @@
         
         var prItem = $('#panigation-product').children();
         for(let i = 0; i < prItem.length - 1; i++) {
-            $(prItem[i]).css('margin-right', '3.39%');
+            $(prItem[i]).css('margin-right', '3.33%');
         }
     });
   </script>
