@@ -34,26 +34,26 @@
                 </button>
 
                 <li class="nav__menu-item">
-                   <#-- <div class="dropdown">
+                    <div class="dropdown">
                         <a class="nav__menu-link" href="/gioi-thieu">Giới thiệu</a>
-                        <div class="dropdown-content">
-                            <a class="mavinex-nav__link" href="/introduction/lich-su-hinh-thanh">Lịch sử hình thành</a>
-                            <a class="mavinex-nav__link" href="/introduction/su-menh">Sứ mệnh tầm nhìn</a>
-                            <a class="mavinex-nav__link" href="/introduction/thanh-tich-dat-duoc">Thành tích đạt được</a>
+                        <div class="dropdown-menu">
+                            <a class="mavinex-nav__link dropdown-item" href="/introduction/lich-su-hinh-thanh">Lịch sử hình thành</a>
+                            <a class="mavinex-nav__link dropdown-item" href="/introduction/su-menh">Sứ mệnh tầm nhìn</a>
+                            <a class="mavinex-nav__link dropdown-item" href="/introduction/thanh-tich-dat-duoc">Thành tích đạt được</a>
                         </div>
                     </div>
-                    <div class="dropdown"> -->
                     
-                  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    
+                 <#-- <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Dropdown link
                   </a>
     
-                      <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                      <div class="" aria-labelledby="dropdownMenuLink">
                         <a class="dropdown-item" href="#">Action</a>
                         <a class="dropdown-item" href="#">Another action</a>
                         <a class="dropdown-item" href="#">Something else here</a>
                       </div>
-                    </div>
+                    </div> -->
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link active" href="/san-pham">Sản phẩm</a>
