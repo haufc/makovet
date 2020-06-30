@@ -39,14 +39,14 @@
                         <div class="product-info"><img class="img-center" src="${contentModel.productImage_s}"/></div>
                         <div class="product-info text-center"><span>Đặt mua</span></div>
                 </div>
-                <div class="col-md-12 p-lg-0 p-md-0">
+                <div class="col-md-12 p-lg-0 p-md-0 mb-3">
                     ${contentModel.productDescription_html}
                 </div>
                 <div class="products__list-title">
                     <h1 class="text--uppercase">sản phẩm tương tự</h1>
                 </div>
                 <div class="mt-4">
-                    <div class="col-lg -12 col-md-12 row" id ="panigation-product"> 
+                    <div class="col-lg -12 col-md-12 row p-lg-0 p-md-0" id ="panigation-product"> 
                         <#if (productOther)??>
                             <#list productOther as item>
                                 <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 product-item">
