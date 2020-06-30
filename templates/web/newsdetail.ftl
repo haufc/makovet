@@ -13,14 +13,6 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css"/>
-    <style>
-    table {
-        width: 100%;
-    }
-    table, tr, td {
-        border: 1px solid #333;
-    }
-    </style>
   </head>
   <body>
     <main>
@@ -36,11 +28,13 @@
                 </#if>
                 </div>
             </div>
+            <div>
                 <h2>${contentModel.title_s}</h3>
                 <img src="${contentModel.image_s!""}" >
                 <div>${contentModel.content_html}</div>
                 <span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
                 </a>
+            </div>
         </section>
         <@renderComponent component=contentModel.slideLogo_o.item />
         <@renderComponent component=contentModel.footer_o.item />
