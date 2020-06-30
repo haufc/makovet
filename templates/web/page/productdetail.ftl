@@ -46,7 +46,7 @@
                     <h1 class="text--uppercase">sản phẩm tương tự</h1>
                 </div>
                 <div class="mt-4">
-                    <div class="col-lg -12 col-md-12 row p-lg-0 p-md-0" id ="panigation-product"> 
+                    <div class="col-lg -12 col-md-12 row p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
                         <#if (productOther)??>
                             <#list productOther as item>
                                 <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 product-item">
