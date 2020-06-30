@@ -17,16 +17,15 @@
                         ${contentModel.description_html}
                     </p>
                 </div>
-                <a class="view-more flex" href="/ho-tro-ky-thuat/benh-dieu-tri">
+                <a class="view-more flex" href="/ho-tro-ky-thuat/benh-va-dieu-tri">
                     <span>Xem thêm</span>
                     <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
                 </a>
             <div class="line"></div>
 
-            <a class="services__link" href="#"><h3>Bệnh viêm gan</h3></a>
-            <a class="services__link" href="#"><h3>Bệnh nấm diều</h3></a>
-            <a class="services__link" href="#"><h3>Bệnh thương hàn trên cút</h3></a>
-            <a class="services__link" href="#"><h3>Bệnh bại huyết trên vịt</h3></a>
+            <#list lstTechSp as item>
+            	<a class="services__link" href="${item.url}"><h3>${item.title}</h3></a>
+            </#list>
         </section>
     </div>
 </section>
