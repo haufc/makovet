@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<div class="content" <@studio.iceAttr component=contentModel/>>
+<section class="news" <@studio.iceAttr component=contentModel/>>
     <div class="section-title">
         <div class="section-title__content block">
             <h1 class="section-title__content-text text--uppercase">Tin nội bộ</h1>
@@ -60,7 +60,7 @@
         </nav>
     </div>
 
-</div>
+</section>
 <style>
 .page-link{
     border-radius :50% !important;
