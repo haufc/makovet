@@ -117,7 +117,9 @@
         }
     });
     
-    $('body').find('strong').addClass('violet-color')
+    $('body').find('strong').addClass('violet-color');
+    $('body').find('strong').parent('span').children().removeClass('violet-color');
+    
   </script>
   </body>
 </html>
