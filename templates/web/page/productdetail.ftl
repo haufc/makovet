@@ -39,7 +39,7 @@
                         <div class="product-info" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}"/></div>
                         <div class="product-info text-center m-auto"><span class="product-buy text-white font-weight-bold">Đặt mua</span></div>
                 </div>
-                <div class="col-md-12 p-lg-0 p-md-0 mb-3">
+                <div class="col-md-12 p-lg-0 p-md-0 mb-3 violet-color">
                     ${contentModel.productDescription_html}
                 </div>
                 <div class="products__list-title">
