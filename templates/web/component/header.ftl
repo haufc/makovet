@@ -40,7 +40,7 @@
                     <a class="nav__menu-link active" href="/san-pham">Sản phẩm</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="#">Tin tức - Sự kiện</a>
+                    <a class="nav__menu-link" href="/tin-tuc">Tin tức - Sự kiện</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Hỗ trợ kỹ thuật</a>
