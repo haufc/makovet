@@ -56,6 +56,7 @@ class SupportTechSearchHelper {
             documents.each {doc ->
                 def supportTech = [:]
                     supportTech.title = doc.diseaseName_s
+                    supportTech.desc = doc.diseaseContent_html
                     supportTech.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 supportTechs << supportTech
             }
