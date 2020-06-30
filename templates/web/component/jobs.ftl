@@ -1,6 +1,10 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
+    <div class="section-title">
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">${contentModel.title1_s}</h1>
+        </div>
+    </div>
 	<div class="container">
-	    <h3>${contentModel.title1_s}</h3>
 	    <div id ="panigation-job">
             <#if (jobs)??>
             	<#list jobs as job>
@@ -16,7 +20,9 @@
             <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
         </nav>
-	    <h3>${contentModel.title2_s}</h3>
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">${contentModel.title2_s}</h1>
+        </div>
 	    <div class="row">
 	        <div class="col-lg-6 col-md-6">
 	            <img class="img-full" src="${contentModel.contentLeftImage_s}" />
