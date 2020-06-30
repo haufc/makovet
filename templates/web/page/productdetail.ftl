@@ -57,11 +57,11 @@
                         ${contentModel.productDescription_html}
                     </div>
                    
-                    <div class="products__list-items"> 
+                    <div class="col-lg -12 col-md-12 row"> 
                         <#if (productOther)??>
                             <#list productOther as item>
-                                <div class="products__list-item">
-                                    <a href="${item.url}"><img class="products__img" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
+                                <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+                                    <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
                                     <p class="text-center">${item.title}</p>
                                 </div>
                             </#list>
