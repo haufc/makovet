@@ -33,16 +33,6 @@
                     <h1 class="section-title__content-text text--uppercase" id="product-title"></h1>
                 </div>
             </div>
-            
-            <div class="container" style="background-color: #ffcb08">
-                   
-                    <span>
-                        
-                    </span>
-                    <span>
-                        
-                    </span>
-            </div>
             <div class="container">
                  <span>
                         <h1 class="font-weight-bold violet-color">${contentModel.productName_s}</h1>
@@ -52,6 +42,11 @@
                 <div class="products__list-title">
                     <h1 class="text--uppercase">sản phẩm tương tự</h1>
                 </div>
+                
+                <div class="strike">
+                    <span class="text--uppercase">sản phẩm tương tự</span>
+                </div>
+                
                 <div>
                     <div class="col-md-12">
                         ${contentModel.productDescription_html}
