@@ -1,4 +1,3 @@
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
         <section class="services">
                 <div class="section-title">
                     <div class="section-title__content block">
@@ -12,4 +11,3 @@
             <div style="color: #00549a; font-size: 16px; padding-top:30px;line-height: 1.5;">${contentModel.content_html}</div>
         </div>
         </section>
-<@studio.toolSupport />
