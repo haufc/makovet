@@ -1,12 +1,8 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <div class="content" <@studio.iceAttr component=contentModel/>>
-    <div class="content__title">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                  <h1 class="text--red title-vn">Tin nội bộ</h1>
-                </div>
-            </div>
+    <div class="section-title">
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">Tin nội bộ</h1>
         </div>
     </div>
     <div class="container">
