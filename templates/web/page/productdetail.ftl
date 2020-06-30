@@ -39,7 +39,7 @@
                         <div class="product-info"><img class="img-center" src="${contentModel.productImage_s}"/></div>
                         <div class="product-info text-center"><span>Đặt mua</span></div>
                 </div>
-                <div class="col-md-12">
+                <div class="col-md-12 p-lg-0 p-md-0">
                     ${contentModel.productDescription_html}
                 </div>
                 <div class="products__list-title">
