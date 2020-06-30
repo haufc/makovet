@@ -34,7 +34,15 @@
                 </button>
 
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="#">Giới thiệu</a>
+                    <div class="dropdown">
+                        <a class="nav__menu-link" href="#">Giới thiệu</a>
+                        <div class="dropdown-content">
+                            <a class="mavinex-nav__link" href="/introducts/gioi-thieu-chung">Giới thiệu chung</a>
+                            <a class="mavinex-nav__link" href="/introducts/lich-su-hinh-thanh">Lịch sử hình thành</a>
+                            <a class="mavinex-nav__link" href="/introducts/linh-vuc-hoat-dong">Lĩnh vực hoạt động</a>
+                            <a class="mavinex-nav__link" href="/introducts/doi-tac-chien-luoc">Đối tác chiến lược</a>
+                        </div>
+                    </div>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link active" href="/san-pham">Sản phẩm</a>
