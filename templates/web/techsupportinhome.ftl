@@ -11,24 +11,18 @@
         </section>
 
         <section class="services__content">
-            <div class="services__content-text">
-                <h3 class="text--uppercase">chứng viêm da trên heo</h3>
-                <p class="text--uppercase">1. hiện trạng</p>
-                <p>
-                    Các trại chăn nuôi thường hay gặp tình trạng viêm da trên heo rất khó
-                    điều trị, người chăn nuôi thường nghĩ rằng heo bệnh là do:
-                </p>
-                <p>
-                    - Thiếu vitamin A, thiếu kẽm
-                    ...
-                </p>
-            </div>
-
-            <a class="view-more flex" href="#">
-                <span>Xem thêm</span>
-                <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
-            </a>
-
+            <#if (firstItem)??>
+                <div class="services__content-text">
+                    <h3 class="text--uppercase">${firstItem.title}</h3>
+                    <p class="truncate-multi-line text--justify limit-text">
+                        ${firstItem.desc}
+                    </p>
+                </div>
+                <a class="view-more flex" href="${firstItem.url}">
+                    <span>Xem thêm</span>
+                    <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
+                </a>
+            </if>
             <div class="line"></div>
 
             <a class="services__link" href="#"><h3>Bệnh viêm gan</h3></a>
