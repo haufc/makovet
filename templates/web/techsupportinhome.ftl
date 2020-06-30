@@ -1,7 +1,9 @@
-<section class="services">
-    <div class="section-title">
-        <h1 class="section-title__text block text--uppercase">điều trị bệnh</h1>
-    </div>
+            <section class="services">
+                <div class="section-title">
+                    <div class="section-title__content block">
+                        <h1 class="section-title__content-text text--uppercase">điều trị bệnh</h1>
+                    </div>
+                </div>
 
     <div class="services__container block flex">
         <section class="services__img">
