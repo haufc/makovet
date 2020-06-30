@@ -41,8 +41,6 @@
                 <div>${contentModel.content_html}</div>
                 <span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
                 </a>
-            </div>
-          </div>
         </section>
         <@renderComponent component=contentModel.slideLogo_o.item />
         <@renderComponent component=contentModel.footer_o.item />
