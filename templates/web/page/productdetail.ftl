@@ -34,11 +34,11 @@
                 </div>
             </div>
             <div class="container">
-                 <span>
-                        <h1 class="font-weight-bold violet-color">${contentModel.productName_s}</h1>
-                        <img src="${contentModel.productImage_s}"/>
-                        <span>Đặt mua</span>
-                    </span>
+                 <div class="d-flex">
+                        <div><h1 class="font-weight-bold violet-color">${contentModel.productName_s}</h1></div>
+                        <div><img src="${contentModel.productImage_s}"/></div>
+                        <div><span>Đặt mua</span></div>
+                </div>
                 <div class="products__list-title">
                     <h1 class="text--uppercase">sản phẩm tương tự</h1>
                 </div>
