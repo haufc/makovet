@@ -35,8 +35,8 @@
 
                 <li class="nav__menu-item">
                     <div class="dropdown">
-                        <a class="nav__menu-link" href="/gioi-thieu">Giới thiệu</a>
-                        <div class="dropdown-menu">
+                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/gioi-thieu">Giới thiệu</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                             <a class="mavinex-nav__link dropdown-item" href="/introduction/lich-su-hinh-thanh">Lịch sử hình thành</a>
                             <a class="mavinex-nav__link dropdown-item" href="/introduction/su-menh">Sứ mệnh tầm nhìn</a>
                             <a class="mavinex-nav__link dropdown-item" href="/introduction/thanh-tich-dat-duoc">Thành tích đạt được</a>
