@@ -51,7 +51,7 @@
                             <#list productOther as item>
                                 <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 product-item">
                                     <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
-                                    <p class="text-center">${item.title}</p>
+                                    <p class="text-center violet-color font-weight-bold">${item.title}</p>
                                 </div>
                             </#list>
                         </#if>
