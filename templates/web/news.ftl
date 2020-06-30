@@ -29,14 +29,10 @@
           </ul>
         </nav>
     </div>
-    <div class="content__title">
-            <div class="container">
-                <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                          <h1 class="text--red title-vn">Tin ngành</h1>
-                        </div>
-                </div>
-            </div>
+    <div class="section-title">
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">Tin ngành</h1>
+        </div>
     </div>
     <div class="content__details container">
         <div class="row data-container" id="field-news">
