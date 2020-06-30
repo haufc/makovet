@@ -57,16 +57,21 @@
                         ${contentModel.productDescription_html}
                     </div>
                    
-                    <div class="col-lg -12 col-md-12 row"> 
+                    <div class="col-lg -12 col-md-12 row" id ="panigation-product"> 
                         <#if (productOther)??>
                             <#list productOther as item>
-                                <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+                                <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 product-item">
                                     <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
                                     <p class="text-center">${item.title}</p>
                                 </div>
                             </#list>
                         </#if>
                     </div>
+                    <nav aria-label="Page navigation example">
+                        <ul class="pagination pagi justify-content-center">
+                            <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+                        </ul>
+                    </nav>
                 </div>
             </div>
         </div>
@@ -84,6 +89,7 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
+    <script src="/static-assets/js/product-detail.js"></script>
     <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
     <input hidden value="${contentModel.productgrouplv2_o.item.key}" id="child-category"/>
     <div id="lst-categories">
