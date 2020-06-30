@@ -1,6 +1,11 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
+<div class="section-title">
+    <div class="section-title__content block">
+        <h1 class="section-title__content-text text--uppercase">liên hệ</h1>
+    </div>
+</div>
 <div class="container">
-    <h4 class="text-uppercase font-weight-bold violet-color">${contentModel.companyName_s}</h4>
+    <h4 style="margin-bottom: 0px;" class="text-uppercase font-weight-bold violet-color">${contentModel.companyName_s}</h4>
     <span class="d-block font-weight-bold violet-color">Trụ sở chính:</span>
     <span class="d-block font-weight-bold violet-color">${contentModel.companyHeadquater_s}</span>
     <span class="font-weight-bold violet-color">Điện thoại: ${contentModel.phoneNumber_s} - Fax: ${contentModel.fax_s} - Email: ${contentModel.email_s}</span>
