@@ -1,12 +1,17 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <section class="news">
-    <div class="news__title-bg"></div>
-
-    <div class="news__container block">
-        <section class="news__block" id="tinNoiBo">
-            <div class="news__block-title" id="tinNoiBoTitle">
-                <h1 class="text--uppercase">Tin nội bộ</h1>
+            <div class="news__title section-title" id="newsTitle">
+                <div class="news__title-container section-title__content block">
+                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle">tin nội bộ</h1>
+                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNganhTitle">tin ngành</h1>
+                </div>
             </div>
+
+            <div class="news__container block">
+                <section class="news__block" id="tinNoiBo">
+                    <div class="news__block-title" id="tinNoiBoTitle">
+                        <h1 class="text--uppercase">tin nội bộ</h1>
+                    </div>
 
             <div class="news__block-content">
                 <div class="news__block-img">
@@ -27,10 +32,10 @@
             </div>
         </section>
 
-        <section class="news__block" id="tinNganh">
-            <div class="news__block-title" id="tinNganhTitle">
-                <h1 class="text--uppercase">tin ngành</h1>
-            </div>
+            <section class="news__block" id="tinNganh">
+                    <div class="news__block-title" id="tinNganhTitle">
+                        <h1 class="text--uppercase">tin ngành</h1>
+                    </div>
 
             <div class="news__block-content">
                 <div class="news__block-img">

@@ -12,36 +12,30 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
-    <link rel="stylesheet" href="/static-assets/css/makovet.css"/>
-    <style>
-    table {
-        width: 100%;
-    }
-    table, tr, td {
-        border: 1px solid #333;
-    }
-    </style>
+    <link rel="stylesheet" href="/static-assets/css/dtycl.css"/>
   </head>
   <body>
     <main>
         <@renderComponent component=contentModel.slideImage_o.item />
-        <div class="content">
-            <div class="content__title">
+        <section class="services">
+            <div class="section-title">
+                <div class="section-title__content block">
+                    <#if contentModel.categories_o.item.key = "internalnews" >
+                    <h1 class="section-title__content-text text--uppercase">tin nội bộ</h1>
+                    </#if>
+                    <#if contentModel.categories_o.item.key ="industrynews" >
+                    <h1 class="section-title__content-text text--uppercase">tin ngành</h1>
+                </#if>
+                </div>
+            </div>
             <div class="container" style="padding-left:30px;">
-                <#if contentModel.categories_o.item.key = "internalnews" >
-                    <h2 style="color:red">Tin nội bộ</h2>
-                </#if>
-                <#if contentModel.categories_o.item.key ="industrynews" >
-                    <h2 style="color:red">Tin ngành</h2>
-                </#if>
-                <h3>${contentModel.title_s}</h3>
-                <img src="${contentModel.image_s!""}" >
-                <div>${contentModel.content_html}</div>
-                <span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
+                <h2 style="color: #322372; font-size: 22px;">${contentModel.title_s}</h3>
+                <img class="img-center" src="${contentModel.image_s!""}" >
+                <div style="line-height: 1.5;  font-size: 16px; padding-top:30px;">${contentModel.content_html}</div>
+                <span class="mr-1 text--italic" style="color: #00549a;>Quay lại trang tin tức</span>
                 </a>
             </div>
-          </div>
-        </div>
+        </section>
         <@renderComponent component=contentModel.slideLogo_o.item />
         <@renderComponent component=contentModel.footer_o.item />
     </main>

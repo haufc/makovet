@@ -1,12 +1,8 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <div class="content" <@studio.iceAttr component=contentModel/>>
-    <div class="content__title">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                  <h1 class="text--red title-vn">Tin nội bộ</h1>
-                </div>
-            </div>
+    <div class="section-title">
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">Tin nội bộ</h1>
         </div>
     </div>
     <div class="container">
@@ -17,7 +13,7 @@
                     <div>
                         <img src="${aNews.image}" alt="" class="img--news" width="540" height="352">
                         <a class="mt-3 rounded-0" href="${aNews.url}">
-                        <h4 style="color: #322372; padding-top: 20px;"  style="padding-top:9px;">${aNews.title}</h4>
+                        <h4 class="text--uppercase" style="color: #322372; padding-top: 20px; font-weight: bold;">${aNews.title}</h4>
                         <p style="color: #828385; padding-top: 10px;" class="limit-text" max-length="50">${aNews.content}<p>
                             <span class="mr-1 text--italic title-vn" style="color:#828385">Xem tiếp</span>
                             <i class="fa fa-play text--red"></i>
@@ -27,20 +23,16 @@
                 </#if>
                 </#list>
         </div>
-        <nav aria-label="Page navigation example">
+        <nav aria-label="Page navigation example" style="margin-bottom: 40px;">
           <ul class="pagination pagi1 justify-content-center">
             <li id="previous-page1" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
         </nav>
     </div>
-    <div class="content__title">
-            <div class="container">
-                <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                          <h1 class="text--red title-vn">Tin ngành</h1>
-                        </div>
-                </div>
-            </div>
+    <div class="section-title">
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">Tin ngành</h1>
+        </div>
     </div>
     <div class="content__details container">
         <div class="row data-container" id="field-news">
@@ -50,7 +42,7 @@
                     <div>
                         <img src="${aNews.image}" alt="" class="img--news" width="540" height="352">
                         <a class="mt-3 rounded-0" href="${aNews.url}">
-                        <h4 style="color: #322372; padding-top: 20px;"  style="padding-top:9px;">${aNews.title}</h4>
+                        <h4  class="text--uppercase" style="color: #322372; padding-top: 20px; font-weight: bold;">${aNews.title}</h4>
                         <p style="color: #828385; padding-top: 10px;" class="limit-text">${aNews.content}<p>
                             <span class="mr-1 text--italic title-vn" style="color:#828385">Xem tiếp</span>
                             <i class="fa fa-play text--red"></i>
