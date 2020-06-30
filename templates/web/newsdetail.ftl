@@ -32,7 +32,7 @@
                 <h2>${contentModel.title_s}</h3>
                 <img src="${contentModel.image_s!""}" >
                 <div>${contentModel.content_html}</div>
-                <span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
+                <span class="mr-1 text--italic" style="color: #00549a; line-height: 1.5">Quay lại trang tin tức</span>
                 </a>
             </div>
         </section>
