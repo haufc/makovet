@@ -14,7 +14,7 @@
                 <div class="services__content-text">
                     <h3 class="text--uppercase">${contentModel.title_s}</h3>
                     <p class="truncate-multi-line text--justify limit-text">
-                        ${contentModel.desc_s}
+                        ${contentModel.description_html}
                     </p>
                 </div>
                 <a class="view-more flex" href="/ho-tro-ky-thuat/benh-dieu-tri">
