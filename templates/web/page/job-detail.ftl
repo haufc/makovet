@@ -27,9 +27,13 @@
     <#list (contentModel.section_o.item)![] as section>
         <@renderComponent parent=contentModel component=section />
     </#list>
+    <div class="section-title">
+        <div class="section-title__content block">
+            <h1 class="section-title__content-text text--uppercase">${contentModel.jobTitle_s}</h1>
+        </div>
+    </div>
     <div class="content">
         <div class="container">
-            <h3>${contentModel.jobTitle_s}</h3>
             <hr class="line-hozital">
             <div class="job-content violet-color">
                 ${contentModel.jobContent_html}

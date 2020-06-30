@@ -25,17 +25,21 @@
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase" id="parent-title"></h1>
+            </div>
+        </div>
         <div class="container">
-            <h3 class="violet-color p-1" id="parent-title"></h3>
             <div class="sick-title" style="background-color:#FFCB08">
-                <h4 class="violet-color p-1">${contentModel.diseaseName_s}</h4>
+                <h2 class="violet-color p-2" style="font-size: 30px;">${contentModel.diseaseName_s}</h2>
             </div>
             <div class="sick-content">
                 ${contentModel.diseaseContent_html}
             </div>
             <hr class="line-hozital"/>
             
-             <div id ="panigation-techsp" class="mb-3">
+             <div id ="panigation-techsp" class="mb-3" style="line-height: 2;">
                 <#if (supportTech)??>
                 	<#list supportTech as item>
                         <div class="techsp-item">

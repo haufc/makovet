@@ -33,40 +33,34 @@
                     <h1 class="section-title__content-text text--uppercase" id="product-title"></h1>
                 </div>
             </div>
-            
-            <div class="container" style="background-color: #ffcb08">
-                   
-                    <span>
-                        
-                    </span>
-                    <span>
-                        
-                    </span>
-            </div>
             <div class="container">
-                 <span>
-                        <h1 class="font-weight-bold violet-color">${contentModel.productName_s}</h1>
-                        <img src="${contentModel.productImage_s}"/>
-                        <span>Đặt mua</span>
-                    </span>
+                 <div class="d-flex mb-4" style="background-color: #ffcb0c;">
+                        <div class="product-info m-auto"><h1 class="font-weight-bold violet-color text-center">${contentModel.productName_s}</h1></div>
+                        <div class="product-info" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}"/></div>
+                        <div class="product-info text-center m-auto"><span class="product-buy text-white font-weight-bold">Đặt mua</span></div>
+                </div>
+                <div class="col-md-12 p-lg-0 p-md-0 mb-3">
+                    ${contentModel.productDescription_html}
+                </div>
                 <div class="products__list-title">
                     <h1 class="text--uppercase">sản phẩm tương tự</h1>
                 </div>
-                <div>
-                    <div class="col-md-12">
-                        ${contentModel.productDescription_html}
-                    </div>
-                   
-                    <div class="products__list-items"> 
+                <div class="mt-4">
+                    <div class="col-lg -12 col-md-12 row p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
                         <#if (productOther)??>
                             <#list productOther as item>
-                                <div class="products__list-item">
-                                    <a href="${item.url}"><img class="products__img" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
-                                    <p class="text-center">${item.title}</p>
+                                <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 product-item">
+                                    <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
+                                    <p class="text-center violet-color font-weight-bold">${item.title}</p>
                                 </div>
                             </#list>
                         </#if>
                     </div>
+                    <nav aria-label="Page navigation example">
+                        <ul class="pagination pagi justify-content-center">
+                            <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+                        </ul>
+                    </nav>
                 </div>
             </div>
         </div>
@@ -79,11 +73,10 @@
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
     <script src="/static-assets/js/logos.js"></script>
-    <script src="/static-assets/js/group-product.js"></script>
-    <#--<script src="/static-assets/js/group-child-product.js"></script>-->
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
+    <script src="/static-assets/js/product-detail.js"></script>
     <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
     <input hidden value="${contentModel.productgrouplv2_o.item.key}" id="child-category"/>
     <div id="lst-categories">
@@ -117,6 +110,11 @@
         }
         
         $('#product-title').text(title);
+        
+        var prItem = $('#panigation-product').children();
+        for(let i = 0; i < prItem.length - 1; i++) {
+            $(prItem[i]).css('margin-right', '3.33%');
+        }
     });
   </script>
   </body>
