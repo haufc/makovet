@@ -16,4 +16,6 @@
           </ul>
         </nav>
 	</div>
+	<input hidden value="${contentModel.productgrouplevel1_s}" id="group-pr"/>
+	<input hidden value="${contentModel.productgrouplevel2_s}" id="group-cpr"/>
 <@studio.toolSupport />
