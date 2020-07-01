@@ -27,56 +27,6 @@
         <#list (contentModel.sections_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
-        <!-- =========================
-        MODAL DIALOGS
-        ============================== -->
-        
-        <div class="modal fade" id="success-dialog" role="dialog">
-            <div class="modal-dialog modal-sm">
-                <div class="modal-content">
-                    <div class="modal-header text-left">
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h3 id="success-dialog-header" class="modal-title">Cảm ơn</h3>
-                    </div>
-                    <div class="modal-body">
-                        <p>
-                            <span id="success-dialog-message" class="modal-main-message">Yêu cầu của bạn đã được xử lý!</span>
-                        </p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Đóng</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        
-        <div class="modal fade" id="fail-dialog" role="dialog">
-            <div class="modal-dialog modal-sm">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h3 id="fail-dialog-header" class="modal-title">Error</h3>
-                    </div>
-                    <div class="modal-body">
-                        <p>
-                            <span id="fail-dialog-message" class="modal-main-message">Unable to process your request. </br>Please try again later.</span>
-                        </p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <!-- =========================
-        MODAL SPINNERS
-        ============================== -->
-        <div class="modal fade" id="modal-spinner" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
-            <span class="fa fa-spinner fa-spin fa-3x"></span>
-        </div>
     </main>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
