@@ -5,21 +5,16 @@
     <title>${contentModel.title_s}</title>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <#--<link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/> -->
-    
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.carousel.min.css">
     <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.theme.default.min.css">
-    
+
     <!-- FontAwesome -->
     <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
-    
-   <#-- <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/> -->
+
+    <!-- Keysoft CSS -->
+    <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
-    <link rel="stylesheet" href="/static-assets/css/dtycl.css"/>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
