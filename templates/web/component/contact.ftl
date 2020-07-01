@@ -38,7 +38,7 @@
             <div class="col-md-12 mb-1 mt-1">
                 <p class="text-right">
                     <button onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
-                    <button class="btn btn-warning font-weight-bold" type="reset violet-color">Hủy</button>
+                    <button class="btn btn-warning font-weight-bold violet-color" type="reset">Hủy</button>
                 </p>
             </div>
             <div class="col-md-12">
