@@ -8,16 +8,14 @@
     <div class="products__container block">
         <div class="products__content">
             <section class="products__logos">
-                <#if (products)??>
-            	    <#list products as product>
-            	        <div class="products__logo text--center">
-                            <a href="${item.groupChildProductURL_s}">
-                                <img class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
-                                <h3 class="text--uppercase">${item.groupProductName_s}</h3>
-                            </a>
-                        </div>
-                	</#list>
-                </#if>
+        	    <#list contentModel.groupProduct_o.item as item>
+        	        <div class="products__logo text--center">
+                        <a href="${item.groupChildProductURL_s}">
+                            <img class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
+                            <h3 class="text--uppercase">${item.groupProductName_s}</h3>
+                        </a>
+                    </div>
+            	</#list>
             </section>
         </div>
     </div>
@@ -31,7 +29,7 @@
             </#list>
         </div>
         <hr class="line-hozital"/>
-        <hr class="line-hozital"/>
+        <hr class="line-hozital"/> -->
         
         <div class="row" id ="panigation-product">
             <#if (products)??>
@@ -42,7 +40,7 @@
                     </div>
                 </#list>
             </#if>
-        </div> -->
+        </div> 
         <nav aria-label="Page navigation example">
           <ul class="pagination pagi justify-content-center">
             <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
