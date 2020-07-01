@@ -54,7 +54,7 @@
               if (currentPage === totalPages) {
                 return false; 
               } else {
-                $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage - 1)+')').children().removeAttr('style');
+                $('.group-pr-' + i + ' .paginate #pagi-'+ i +')').children().removeAttr('style');
                 currentPage++; 
                 $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').removeClass("active");
                 $('.group-pr-'+i+' .list-tech-sp-vn .item-pr').hide();
