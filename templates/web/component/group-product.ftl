@@ -27,9 +27,9 @@
                     <p class="d-block text-center">${item.groupProductName_s}</p>
                 </div>
             </#list>
-        </div>
+        </div> -->
         <hr class="line-hozital"/>
-        <hr class="line-hozital"/> -->
+        <hr class="line-hozital"/>
         
         <div class="row" id ="panigation-product">
             <#if (products)??>
