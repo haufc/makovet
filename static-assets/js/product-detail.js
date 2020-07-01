@@ -25,6 +25,7 @@ $(document).ready(function(){
         if($(this).hasClass("active")){
             return false;
         } else{
+            $('.pagi *').removeAttr('style');
             var currentPage = $(this).index();
             $('.pagi li').removeClass("active");
             $(this).addClass("active");
