@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row">
             <#list contentModel.groupProduct_o.item as item>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-4 col-xs-6 col-sm-6">
                     <a href="${item.groupChildProductURL_s}"><img src="${item.groupProductIcon_s}" class="img-full"/></a>
                     <p class="d-block text-center">${item.groupProductName_s}</p>
                 </div>
@@ -19,8 +19,8 @@
         <div class="row" id ="panigation-product">
             <#if (products)??>
             	<#list products as product>
-                    <div class="col-md-2 product-item">
-                        <img class="img-full" src="${product.avatar}" />
+                    <div class="col-lg-2 col-md-2 col-xs-6 col-sm-6 product-item">
+                        <img class="img-full" src="${product.avatar}" width="135" height="140"/>
                         <p class="d-block">${product.title}</p>
                     </div>
                 </#list>

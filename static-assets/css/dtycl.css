@@ -1191,4 +1191,21 @@ p {
     margin-right: 30px;
   }
 }
+
+/*Product*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .banner-img {
+      top: 7% !important;
+      left: 23% !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .banner-img {
+        top: 15% !important;
+        left: 28% !important;
+        width: 45% !important;
+  }
+}
 /*# sourceMappingURL=dtycl.css.map */
