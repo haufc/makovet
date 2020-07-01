@@ -68,11 +68,6 @@
 }
 </style>
 <script>
-    $('.limit-text').each(function (f) {
-      var newstr = $(this).text().substring(0,300);
-      $(this).text(newstr).append("...");
-    });
-    
     var numberOfFieldsNews = $("#field-news .fields").length;
     var numberOfMavinexNews = $("#mavinex-news .mavinex").length;
     
@@ -196,5 +191,10 @@
             $(".pagi2 li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
           }
         });    
+    
+    $('.limit-text').each(function (f) {
+    var newstr = $(this).text().substring(0,300);
+    $(this).text(newstr).append("...");
+    });
 </script>  
 <@studio.toolSupport />
