@@ -7,7 +7,7 @@
     </div>
     <div class="products__container block">
         <div class="products__content">
-            <section class="products__logos">
+            <section class="products__logos container">
         	    <#list contentModel.groupProduct_o.item as item>
         	        <div class="products__logo text--center">
                         <a href="${item.groupChildProductURL_s}">
@@ -20,14 +20,6 @@
         </div>
     </div>
     <div class="container">
-        <#--<div class="row">
-            <#list contentModel.groupProduct_o.item as item>
-                <div class="col-lg-4 col-md-4 col-xs-6 col-sm-6">
-                    <a href="${item.groupChildProductURL_s}"><img src="${item.groupProductIcon_s}" class="img-full" width="265" height="240"/></a>
-                    <p class="d-block text-center">${item.groupProductName_s}</p>
-                </div>
-            </#list>
-        </div> -->
         <hr class="line-hozital"/>
         <hr class="line-hozital"/>
         
