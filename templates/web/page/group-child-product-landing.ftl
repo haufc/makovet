@@ -29,7 +29,7 @@
         </#list>
         <div class="section-title">
             <div class="section-title__content block">
-                <span><h1 class="section-title__content-text text--uppercase" id="parent-title"></h1><p id="child-pr"></p></span>
+                <span class="d-inline"><span class="section-title__content-text text--uppercase" id="parent-title"></span><span id="child-pr"></span></span>
             </div>
         </div>
         <div class="container mb-md-5">
