@@ -113,11 +113,3 @@ font-size: 20px;
 
 /*Responsive*/
 
-/*Product*/
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .banner-img {
-      top: 7%;
-      left: 23%;
-  }
-}
