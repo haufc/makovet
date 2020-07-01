@@ -28,6 +28,7 @@ $(document).ready(function(){
             var currentPage = $(this).index();
             $('.pagi li').removeClass("active");
             $(this).addClass("active");
+            $(this).children().attr('style', 'background-color: #322372 !important');
             $("#panigation-product .product-item").hide();
             var total = limitPerPage * currentPage;
             for(let i = total - limitPerPage; i<total; i++){
@@ -41,6 +42,7 @@ $(document).ready(function(){
       if (currentPage === totalPages) {
         return false; 
       } else {
+        $('.pagi *').removeAttr('style');
         currentPage++; 
         $(".pagi li").removeClass('active'); 
         $("#panigation-product .product-item").hide();
@@ -50,6 +52,7 @@ $(document).ready(function(){
         }
     
         $(".pagi li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
+        $(".pagi li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
       }
     });
     
@@ -58,6 +61,7 @@ $(document).ready(function(){
           if (currentPage === 1) {
             return false; 
           } else {
+            $('.pagi *').removeAttr('style');
             currentPage--; 
             $(".pagi li").removeClass('active'); 
             $("#panigation-product .product-item").hide();
@@ -65,7 +69,8 @@ $(document).ready(function(){
             for (var i = grandTotal - limitPerPage; i < grandTotal; i++) {
               $("#panigation-product .product-item:eq(" + i + ")").show();
             }
-            $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
+            $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").addClass('active');
+            $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").children().attr('style', 'background-color: #322372 !important');
           }
     });
     
