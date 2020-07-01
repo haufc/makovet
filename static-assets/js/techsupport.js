@@ -36,8 +36,8 @@
                 if($(this).hasClass("active")){
                     return false;
                 } else{
-                    $('.group-pr-' + i + ' .paginate #pagi-'+i).removeAttr('style');
                     var currentPage = $(this).index();
+                    $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage)+')').children().removeAttr('style');
                     $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').removeClass("active");
                     $(this).addClass("active");
                     $(this).children().attr('style', 'background-color: #322372 !important');
@@ -54,7 +54,7 @@
               if (currentPage === totalPages) {
                 return false; 
               } else {
-                $('.group-pr-' + i + ' .paginate #pagi-'+i).removeAttr('style');
+                $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage)+')').children().removeAttr('style');
                 currentPage++; 
                 $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').removeClass("active");
                 $('.group-pr-'+i+' .list-tech-sp-vn .item-pr').hide();
@@ -72,7 +72,7 @@
                   if (currentPage === 1) {
                     return false; 
                   } else {
-                    $('.group-pr-' + i + ' .paginate #pagi-'+i).removeAttr('style');
+                    $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage)+')').children().removeAttr('style');
                     currentPage--; 
                     $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').removeClass("active");
                     $('.group-pr-'+i+ ' .list-tech-sp-vn .item-pr').hide();
