@@ -84,7 +84,9 @@
                }
             }
             
-            $('#child-title').text(title);
+            let lstTitle = title.split('/');
+            
+            $('#child-title').html('<span><h1 class="section-title__content-text text--uppercase" id="child-title">' + lstTitle[0] +'</h1>' + '<h1>' + lstTitle[1] + '</h1>'+ '</span>');
         });
     </script>
   </body>
