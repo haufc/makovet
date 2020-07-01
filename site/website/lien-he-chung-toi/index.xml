@@ -7,7 +7,7 @@
 	<objectGroupId>508b</objectGroupId>
 	<objectId>508b1212-a705-c942-5f31-8f63d27fe842</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>lien-he-chung-toi</folder-name>
+	<folder-name>lien-he</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>21362482-e5d5-f0ee-6895-2140a2807a01</key>
@@ -57,6 +57,6 @@
 	<t_s>Liên Hệ</t_s>
 	<createdDate>2020-07-01T02:26:51.507Z</createdDate>
 	<createdDate_dt>2020-07-01T02:26:51.507Z</createdDate_dt>
-	<lastModifiedDate>2020-07-01T02:26:51.507Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-01T02:26:51.507Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-01T02:38:07.055Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-01T02:38:07.055Z</lastModifiedDate_dt>
 </page>
