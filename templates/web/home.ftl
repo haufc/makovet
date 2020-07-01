@@ -25,14 +25,18 @@
     </main>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
-     <!-- jQuery -->
-    <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
-
-    <!-- Owl Carousel JS -->
+      <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
+    <script src="/static-assets/js/popper.min.js"></script>
+    <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
+    <script src="/static-assets/js/logos.js"></script>
+    <script src="/static-assets/js/group-product.js"></script>
+    <#--<script src="/static-assets/js/group-child-product.js"></script>-->
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
+    <script src="/static-assets/js/contact.js"></script>
     </body>
 </html>
 <@studio.toolSupport />
