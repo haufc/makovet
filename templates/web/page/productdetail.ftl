@@ -107,7 +107,7 @@
         for (let i = 0; i< childCate.length; i++) {
            let strSplit = $(childCate[i]).val().split('/');
            if (strSplit[0] == $('#child-category').val()) {
-               $('child-title').text(strSplit[1])
+               $('#child-title').text(strSplit[1])
            }
         }
         
