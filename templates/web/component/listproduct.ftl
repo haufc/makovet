@@ -3,7 +3,7 @@
 	    <div class="row" id="child-product">
     	    <#if (products)??>
     	        <#list products as item>
-                	<div class="col-md-2 child-product-item">
+                	<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 child-product-item">
             	        <a href="${item.url}"><img style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
             	        <p class="d-block text-center">${item.title}</p>
             	    </div>
