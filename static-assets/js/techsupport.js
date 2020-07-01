@@ -37,7 +37,7 @@
                     return false;
                 } else{
                     var currentPage = $(this).index();
-                    $('.group-pr-' + i + ' .paginate #pagi-'+ i).children().removeAttr('style');
+                    $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').children().removeAttr('style');
                     $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').removeClass("active");
                     $(this).addClass("active");
                     $(this).children().attr('style', 'background-color: #322372 !important');
