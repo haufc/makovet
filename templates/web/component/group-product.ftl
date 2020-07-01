@@ -7,7 +7,7 @@
     </div>
     <div class="products__container block">
         <div class="products__content">
-            <section class="products__logos container">
+            <section class="products__logos container-fluid">
         	    <#list contentModel.groupProduct_o.item as item>
         	        <div class="products__logo text--center">
                         <a href="${item.groupChildProductURL_s}">
