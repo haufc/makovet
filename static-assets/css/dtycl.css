@@ -1196,8 +1196,8 @@ p {
 
 @media (min-width: 768px) and (max-width: 991px) {
   .banner-img {
-      top: 7%;
-      left: 23%;
+      top: 7% !important;
+      left: 23% !important;
   }
 }
 /*# sourceMappingURL=dtycl.css.map */
