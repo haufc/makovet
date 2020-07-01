@@ -30,7 +30,10 @@
         <div class="content">
             <div class="section-title">
                 <div class="section-title__content block">
-                    <h1 class="section-title__content-text text--uppercase" id="product-title"></h1>
+                    <span class="d-inline">
+                        <span class="section-title__content-text text--uppercase" id="parent-title"></span>
+                        <span class="text-white" id="child-title" style="font-size: 25px;"></span>
+                    </span>
                 </div>
             </div>
             <div class="container">
@@ -91,25 +94,22 @@
     </div>
     <script>
     $(document).ready(function(){
-        var title = "";
         var lstCate = $('#lst-categories').children();
         var childCate = $('#child-cate').children();
         
         for (let i = 0; i< lstCate.length; i++) {
            let strSplit = $(lstCate[i]).val().split('/');
            if (strSplit[0] == $('#category').val()) {
-               title += (strSplit[1] + "/");
+               $('#parent-title').text(strSplit[1] + "/");
            }
         }
         
         for (let i = 0; i< childCate.length; i++) {
            let strSplit = $(childCate[i]).val().split('/');
            if (strSplit[0] == $('#child-category').val()) {
-               title += strSplit[1];
+               $('child-title').text(strSplit[1])
            }
         }
-        
-        $('#product-title').text(title);
         
         var prItem = $('#panigation-product').children();
         for(let i = 0; i < prItem.length - 1; i++) {
