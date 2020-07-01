@@ -29,7 +29,7 @@
         </#list>
         <div class="section-title">
             <div class="section-title__content block">
-                <h1 class="section-title__content-text text--uppercase" id="child-title"></h1>
+                <h1 class="section-title__content-text text--uppercase" id="parent-title"></h1><p id="child-pr"></p>
             </div>
         </div>
         <div class="container mb-md-5">
@@ -66,25 +66,27 @@
     <script src="/static-assets/js/group-child-product.js"></script>
     <script>
         $(document).ready(function(){
-            var title = "";
+           // var title = "";
             var lstCate = $('#lst-categories').children();
             var childCate = $('#child-cate').children();
             
             for (let i = 0; i< lstCate.length; i++) {
                let strSplit = $(lstCate[i]).val().split('/');
                if (strSplit[0] == $('#group-pr').val()) {
-                   title += (strSplit[1] + "/");
+                  // title += (strSplit[1] + "/");
+                   $('#parent-title').text(strSplit[1] + "/");
                }
             }
             
             for (let i = 0; i< childCate.length; i++) {
                let strSplit = $(childCate[i]).val().split('/');
                if (strSplit[0] == $('#group-cpr').val()) {
-                   title += strSplit[1];
+                   //title += strSplit[1];
+                   $('#child-pr').text(strSplit[1]);
                }
             }
 
-            $('#child-title').text(title);
+           // $('#child-title').text(title);
         });
     </script>
   </body>
