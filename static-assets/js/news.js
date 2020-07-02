@@ -31,6 +31,7 @@ $('.pagi1 li.current-page').on("click", function(){
         var currentPage = $(this).index();
         $('.pagi1 li').removeClass("active");
         $(this).addClass("active");
+        $(this).children().attr('style', 'background-color: #322372 !important');
         $("#mavinex-news .mavinex").hide();
         var total = limitPerPage * currentPage;
         for(let i = total - limitPerPage; i<total; i++){
@@ -53,6 +54,7 @@ $("#next-page1").on("click", function() {
     }
 
     $(".pagi1 li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
+    $(".pagi1 li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
   }
 });
 
@@ -70,6 +72,7 @@ $("#previous-page1").on("click", function() {
           $("#mavinex-news .mavinex:eq(" + i + ")").show();
         }
         $(".pagi1 li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
+        $(".pagi1 li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
       }
     });
     
@@ -80,6 +83,7 @@ $('.pagi2 li.current-page').on("click", function(){
         var currentPage = $(this).index();
         $('.pagi2 li').removeClass("active");
         $(this).addClass("active");
+        $(this).children().attr('style', 'background-color: #322372 !important');
         $("#field-news .fields").hide();
         var total = limitPerPage * currentPage;
         for(let i = total - limitPerPage; i<total; i++){
@@ -102,6 +106,8 @@ $("#next-page2").on("click", function() {
     }
 
     $(".pagi2 li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
+    $(".pagi2 li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
+    
   }
 });
 
@@ -119,6 +125,7 @@ $("#previous-page2").on("click", function() {
           $("#field-news .fields:eq(" + i + ")").show();
         }
         $(".pagi2 li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
+        $(".pagi2 li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
       }
     });    
 
