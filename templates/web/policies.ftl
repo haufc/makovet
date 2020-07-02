@@ -7,9 +7,9 @@
                 </div>
         
         <div class="container" style="padding-left:30px;">
-            <h3 class="" style="color: #000; padding-top:20px; font-size: 22px;" >${contentModel.title_s}</h3>
+            <h3 class="" style="color: #000; font-size: 22px; background-color: #ffcb08; padding: 15px;" >${contentModel.title_s}</h3>
             <img style="padding-top:20px;" class="img-center img-responsive" src="${contentModel.image_s!""}" >
-            <div style="color: #00549a; font-size: 16px; padding-top:30px;line-height: 1.5;">${contentModel.content_html}</div>
+            <div style="color: #636466; font-size: 16px; padding-top:30px;line-height: 1.5; font-weight: 100">${contentModel.content_html}</div>
         </div>
         </section>
 <@studio.toolSupport />

@@ -5,18 +5,21 @@
     <title>${contentModel.title_s}</title>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/>
-    <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
-    <link rel="stylesheet" href="/static-assets/plugins/Owlcarousel/css/owl.carousel.min.css"/>
+     <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
+    
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.theme.default.min.css">
+    
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
-    <link rel="stylesheet" href="/static-assets/css/dtycl.css"/>
+    <link rel="stylesheet" href="/static-assets/css/dtycl.css">
   </head>
   <body>
-    <main>
+        <@renderComponent component=contentModel.header_o.item />
         <@renderComponent component=contentModel.slideImage_o.item />
+    <main>
         <section class="services">
             <div class="section-title">
                 <div class="section-title__content block">
@@ -31,30 +34,26 @@
             <div class="container" style="padding-left:30px;">
                 <h2 style="color: #322372; font-size: 22px;">${contentModel.title_s}</h3>
                 <img class="img-center" src="${contentModel.image_s!""}" >
-                <div style="line-height: 1.5;  font-size: 16px; padding-top:30px;">${contentModel.content_html}</div>
-                <span class="mr-1 text--italic" style="color: #00549a;>Quay lại trang tin tức</span>
+                <div style="line-height: 1.5;  font-size: 16px; padding-top:30px; color: #636466; font-weight: 100;">${contentModel.content_html}</div>
+                <a href="/tin-tuc"><span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
                 </a>
             </div>
         </section>
+        </main>
         <@renderComponent component=contentModel.slideLogo_o.item />
         <@renderComponent component=contentModel.footer_o.item />
-    </main>
-    <script src="/static-assets/plugins/jquery/jquery.js"></script>
+    <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
-    <script src="/static-assets/plugins/Owlcarousel/js/owl.carousel.min.js"></script>
-    <script src="/static-assets/js/language_selector.js"></script>
-    <script src="/static-assets/js/nav.js"></script>
-    <script src="/static-assets/js/smooth_scroll.js"></script>
-    <script src="/static-assets/js/responsive.js"></script>
-    <script src="/static-assets/js/search-bar.js"></script>
-    <script src="/static-assets/js/handlebars.min-latest.js"></script>
-    <script src="/static-assets/js/jquery.twbsPagination.min.js"></script>
-    <script src="/static-assets/js/script.js"></script>
-    <script src="/static-assets/js/language.js"></script>
+    <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
+    <script src="/static-assets/js/logos.js"></script>
+    <script src="/static-assets/js/group-product.js"></script>
+    <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
-    <script src="/static-assets/js/logos.js"></script> 
+    <script src="/static-assets/js/news.js"></script>
+    <script src="/static-assets/js/nav.js"></script>
+    <script src="/static-assets/js/contact.js"></script>
   </body>
 </html>
 <@studio.toolSupport />
