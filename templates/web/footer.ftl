@@ -21,6 +21,15 @@
             </ul>
         </section>
         <!-- /social -->
+        
+        <!-- links -->
+        <section class="footer__item text--center" id="social">
+            <ul class="footer__item-links flex">
+                <li><a class="text--uppercase" href="#">chính sách bảo mật thông tin</a></li>
+                <li><a class="text--uppercase" href="#">chính sách website</a></li>
+                <li><a class="text--uppercase" href="#">quy ước sử dụng website</a></li>
+            </ul>
+        </section>
 
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
         <section class="footer__item" id="bct">
