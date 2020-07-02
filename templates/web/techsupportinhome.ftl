@@ -12,7 +12,7 @@
 
         <section class="services__content">
                 <div class="services__content-text">
-                    <h3 class="text--uppercase">${contentModel.title_s}</h3>
+                    <h3 class="text--uppercase" style="font-weight: bold; font-size: 20px;">${contentModel.title_s}</h3>
                     <p class="truncate-multi-line text--justify">
                         ${contentModel.description_html}
                     </p>
