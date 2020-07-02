@@ -28,7 +28,7 @@
             	<#list products as product>
                     <div class="col-lg-2 col-md-2 col-xs-6 col-sm-6 product-item">
                         <a href="${product.url}"><img class="img-full" src="${product.avatar}" width="135" height="140"/></a>
-                        <p class="d-block">${product.title}</p>
+                        <p class="d-block text-md-center text-lg-center violet-color mt-1">${product.title}</p>
                     </div>
                 </#list>
             </#if>
