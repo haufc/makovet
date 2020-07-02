@@ -12,8 +12,8 @@
 
         <section class="services__content">
                 <div class="services__content-text">
-                    <h3 class="text--uppercase" style="font-weight: bold; font-size: 20px;">${contentModel.title_s}</h3>
-                    <p class="truncate-multi-line text--justify">
+                    <h3 class="text--uppercase" style="font-weight: bold; font-size: 20px;margin-bottom: 15px;">${contentModel.title_s}</h3>
+                    <p class="truncate-multi-line text--justify" style="font-size: 16px; line-height: 1.5">
                         ${contentModel.description_html}
                     </p>
                 </div>
