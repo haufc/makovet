@@ -199,18 +199,28 @@ p {
   background-color: #322372;
 }
 
+/*.section-title__content::after {*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  left: -2%;*/
+/*  width: 33.5px;*/
+/*  height: 100%;*/
+/*  content: "";*/
+/*  -webkit-transform: skew(-20deg);*/
+/*          transform: skew(-20deg);*/
+/*  background: #fff;*/
+/*}*/
 .section-title__content::after {
   position: absolute;
   top: 0;
-  left: -2%;
-  width: 33.5px;
+  left: -1%;
+  width: 21.5px;
   height: 100%;
   content: "";
   -webkit-transform: skew(-20deg);
           transform: skew(-20deg);
   background: #fff;
 }
-
 .section-title__content-text {
   line-height: 50px;
   font-size: 30px;
