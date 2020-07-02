@@ -1,5 +1,5 @@
             <section class="services">
-                <div class="section-title">
+                <div class="section-title" style="margin-bottom: 0px;">
                     <div class="section-title__content block">
                         <h1 class="section-title__content-text text--uppercase">điều trị bệnh</h1>
                     </div>
@@ -12,10 +12,10 @@
 
         <section class="services__content">
                 <div class="services__content-text">
-                    <h3 class="text--uppercase">${contentModel.title_s}</h3>
-                    <p class="truncate-multi-line text--justify limit-text">
+                    <h3 class="text--uppercase" style="font-weight: bold; font-size: 20px;margin-bottom: 15px;">${contentModel.title_s}</h3>
+                    <div class="truncate-multi-line text--justify" style="font-size: 16px; line-height: 1.5">
                         ${contentModel.description_html}
-                    </p>
+                    </div>
                 </div>
                 <a class="view-more flex" href="/ho-tro-ky-thuat/benh-va-dieu-tri">
                     <span>Xem thêm</span>
