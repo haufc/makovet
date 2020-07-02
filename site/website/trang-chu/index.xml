@@ -45,8 +45,8 @@
 	</item></groupProduct_o>
 	<createdDate>2020-06-24T07:18:47.466Z</createdDate>
 	<createdDate_dt>2020-06-24T07:18:47.466Z</createdDate_dt>
-	<lastModifiedDate>2020-06-24T07:18:47.466Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-24T07:18:47.466Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-02T07:50:41.824Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-02T07:50:41.824Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>e289d5fd-d50a-14c4-3f61-1d3d160a87f3</key>
 	<value>Tin tức</value>
@@ -95,6 +95,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-06-24T06:58:45.441Z</createdDate>
 	<createdDate_dt>2020-06-24T06:58:45.441Z</createdDate_dt>
-	<lastModifiedDate>2020-06-30T09:49:37.411Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-30T09:49:37.411Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-02T07:50:37.575Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-02T07:50:37.575Z</lastModifiedDate_dt>
 </page>
