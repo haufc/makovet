@@ -14,7 +14,7 @@ $(document).ready(function(){
         totalPages =  Math.round(numberOfProducts / limitPerPage ) + 1;
     }
     
-    $('.pagi').append("<li class='page-item current-page active'><a class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
+    $('.pagi').append("<li class='page-item current-page active'><a style='background-color: #322372 !important' class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
     
     for (let i=2; i<= totalPages;i++){
         $(".pagi").append("<li class='page-item current-page'><a class='page-link' href='javascript:void(0)'>"+ i +"</a></li>");
@@ -26,9 +26,11 @@ $(document).ready(function(){
         if($(this).hasClass("active")){
             return false;
         } else{
+            $('.pagi *').removeAttr('style');
             var currentPage = $(this).index();
             $('.pagi li').removeClass("active");
             $(this).addClass("active");
+            $(this).children().attr('style', 'background-color: #322372 !important');
             $("#panigation-techsp .techsp-item").hide();
             var total = limitPerPage * currentPage;
             for(let i = total - limitPerPage; i<total; i++){
@@ -42,6 +44,7 @@ $(document).ready(function(){
       if (currentPage === totalPages) {
         return false; 
       } else {
+          $('.pagi *').removeAttr('style');
         currentPage++; 
         $(".pagi li").removeClass('active'); 
         $("#panigation-techsp .techsp-item").hide();
@@ -51,6 +54,7 @@ $(document).ready(function(){
         }
     
         $(".pagi li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
+        $(".pagi li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
       }
     });
     
@@ -59,6 +63,7 @@ $(document).ready(function(){
           if (currentPage === 1) {
             return false; 
           } else {
+            $('.pagi *').removeAttr('style');
             currentPage--; 
             $(".pagi li").removeClass('active'); 
             $("#panigation-techsp .techsp-item").hide();
@@ -66,7 +71,8 @@ $(document).ready(function(){
             for (var i = grandTotal - limitPerPage; i < grandTotal; i++) {
               $("#panigation-techsp .techsp-item:eq(" + i + ")").show();
             }
-            $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
+            $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").addClass('active');
+            $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").children().attr('style', 'background-color: #322372 !important'); 
           }
     });
     

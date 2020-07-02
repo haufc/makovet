@@ -6,7 +6,13 @@ $(document).ready(function(){
     
     $("#child-product .child-product-item:gt(" + (limitPerPage -1 )+")").hide();
     
-    var totalPages = Math.round(numberOfProducts / limitPerPage );
+    var totalPages;
+    
+    if ((numberOfProducts / limitPerPage) % 2 === 0) {
+       totalPages =  Math.round(numberOfProducts / limitPerPage );
+    } else {
+        totalPages =  Math.round(numberOfProducts / limitPerPage ) + 1;
+    }
     
     $('.pagi').append("<li class='page-item current-page active'><a style='background-color: #322372 !important' class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
     for (let i=2; i<= totalPages;i++){

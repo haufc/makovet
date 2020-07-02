@@ -23,7 +23,7 @@
                 totalPages =  Math.round(numberOfGroupItem / limitperPage ) + 1;
             }
             
-            $('.group-pr-' + i + ' .paginate #pagi-'+i).append("<li class='page-item current-page active'><a class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
+            $('.group-pr-' + i + ' .paginate #pagi-'+i).append("<li class='page-item current-page active'><a style='background-color: #322372 !important' class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
             
             for (let j=2; j<= totalPages;j++){
                  $('.group-pr-' + i + ' .paginate #pagi-'+i).append("<li class='page-item current-page'><a class='page-link' href='javascript:void(0)'>"+ j +"</a></li>");
@@ -37,8 +37,10 @@
                     return false;
                 } else{
                     var currentPage = $(this).index();
+                    $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').children().removeAttr('style');
                     $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').removeClass("active");
                     $(this).addClass("active");
+                    $(this).children().attr('style', 'background-color: #322372 !important');
                     $('.group-pr-'+i+' .list-tech-sp-vn .item-pr').hide();
                     var total = limitperPage * currentPage;
                     for(let z = total - limitperPage; z<total; z++){
@@ -52,6 +54,7 @@
               if (currentPage === totalPages) {
                 return false; 
               } else {
+                $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage - 1)+')').children().removeAttr('style');
                 currentPage++; 
                 $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').removeClass("active");
                 $('.group-pr-'+i+' .list-tech-sp-vn .item-pr').hide();
@@ -60,6 +63,7 @@
                     $('.group-pr-'+ i +' .list-tech-sp-vn .item-pr').eq(z).show();
                 }
                 $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage - 1)+')').addClass('active');
+                $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage - 1)+')').children().attr('style', 'background-color: #322372 !important');
               }
             });
             
@@ -68,6 +72,7 @@
                   if (currentPage === 1) {
                     return false; 
                   } else {
+                    $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage - 1)+')').children().removeAttr('style');
                     currentPage--; 
                     $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li').removeClass("active");
                     $('.group-pr-'+i+ ' .list-tech-sp-vn .item-pr').hide();
@@ -76,6 +81,7 @@
                        $('.group-pr-'+ i +' .list-tech-sp-vn .item-pr').eq(z).show();
                     }
                     $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage - 1)+')').addClass('active');
+                    $('.group-pr-' + i + ' .paginate #pagi-'+ i +' li.current-page:eq('+ (currentPage - 1)+')').children().attr('style', 'background-color: #322372 !important');
                   }
                 });
         } else {

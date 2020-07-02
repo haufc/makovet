@@ -16,4 +16,16 @@
           </ul>
         </nav>
 	</div>
+	<input hidden value="${contentModel.productgrouplevel1_s}" id="group-pr"/>
+	<input hidden value="${contentModel.productgrouplevel2_s}" id="group-cpr"/>
+	<div id="lst-categories">
+        <#list categories.items as cate>
+            <input hidden value="${cate.value}/${cate.label}"/>
+        </#list>
+    </div>
+    <div id="child-cate">
+        <#list childCategories.items as cate>
+            <input hidden value="${cate.value}/${cate.label}"/>
+        </#list>
+    </div>
 <@studio.toolSupport />
