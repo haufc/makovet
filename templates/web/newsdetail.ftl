@@ -19,6 +19,7 @@
   <body>
     <main>
         <@renderComponent component=contentModel.slideImage_o.item />
+        <@renderComponent component=contentModel.header_o.item />
         <section class="services">
             <div class="section-title">
                 <div class="section-title__content block">
