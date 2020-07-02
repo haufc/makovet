@@ -34,9 +34,13 @@
         <div class="modal fade" id="success-dialog" role="dialog">
             <div class="modal-dialog modal-sm">
                 <div class="modal-content">
-                    <div class="modal-header text-left">
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h3 id="success-dialog-header" class="modal-title">Cảm ơn</h3>
+                    <div class="modal-header text-left mb-2 bg-success text-white">
+                        <#--<button type="button" class="close" data-dismiss="modal">&times;</button> 
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <i class="fa fa-times" aria-hidden="true"></i>
+                            <span class="close"></span>
+                        </button>-->
+                        <h3 id="success-dialog-header" class="modal-title" style="font-size: 20px;">Cảm ơn!</h3>
                     </div>
                     <div class="modal-body">
                         <p>
@@ -44,7 +48,7 @@
                         </p>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Đóng</button>
+                        <button type="button" class="btn btn-sm btn-info" data-dismiss="modal">Đóng</button>
                     </div>
                 </div>
             </div>

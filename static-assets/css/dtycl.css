@@ -1208,4 +1208,11 @@ p {
         width: 45% !important;
   }
 }
+
+/*Header nav*/
+@media (max-width: 750px) {
+  .nav__responsive {
+        margin: auto;
+  }
+}
 /*# sourceMappingURL=dtycl.css.map */

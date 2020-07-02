@@ -38,6 +38,12 @@
     <script src="/static-assets/js/news.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/contact.js"></script>
+    <script>
+        $('.limit-text').each(function (f) {
+          var newstr = $(this).text().substring(0,140);
+          $(this).text(newstr).append("...");
+        });
+    </script>
     </body>
 </html>
 <@studio.toolSupport />
