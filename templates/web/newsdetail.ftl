@@ -34,13 +34,13 @@
                 <h2 style="color: #322372; font-size: 22px;">${contentModel.title_s}</h3>
                 <img class="img-center" src="${contentModel.image_s!""}" >
                 <div style="line-height: 1.5;  font-size: 16px; padding-top:30px;">${contentModel.content_html}</div>
-                <span class="mr-1 text--italic" style="color: #00549a;>Quay lại trang tin tức</span>
+                <span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
                 </a>
             </div>
         </section>
+        </main>
         <@renderComponent component=contentModel.slideLogo_o.item />
         <@renderComponent component=contentModel.footer_o.item />
-    </main>
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
@@ -48,7 +48,6 @@
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/group-product.js"></script>
-    <#--<script src="/static-assets/js/group-child-product.js"></script>-->
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/news.js"></script>
