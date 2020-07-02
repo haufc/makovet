@@ -320,6 +320,7 @@ p {
 
 .nav__menu-link {
   font-weight: lighter;
+  color: #322372;
 }
 
 .nav__menu-link.active {
