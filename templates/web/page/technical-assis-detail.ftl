@@ -36,7 +36,7 @@
         </div>
         <div class="container">
             <div class="sick-title" style="background-color:#FFCB08">
-                <h2 class="violet-color p-2" style="font-size: 30px;">${contentModel.diseaseName_s}</h2>
+                <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.diseaseName_s}</h2>
             </div>
             <div class="sick-content">
                 ${contentModel.diseaseContent_html}
