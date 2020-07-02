@@ -17,9 +17,9 @@
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
   </head>
   <body>
-    <main>
-        <@renderComponent component=contentModel.slideImage_o.item />
         <@renderComponent component=contentModel.header_o.item />
+        <@renderComponent component=contentModel.slideImage_o.item />
+    <main>
         <section class="services">
             <div class="section-title">
                 <div class="section-title__content block">
