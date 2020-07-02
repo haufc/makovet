@@ -3,10 +3,10 @@
     <div class="footer__container block flex">
         <!-- address -->
         <section class="footer__item" id="address">
-            <h3 class="text--uppercase">${contentModel.name_s}</h3>
-            <p>${contentModel.address_s}</p>
-            <p>Điện thoại: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
-            <p>Email: ${contentModel.email_s}</p>
+            <h3 class="text--uppercase" style="font-weight: bold;">${contentModel.name_s}</h3>
+            <p style="font-weight: 100;">${contentModel.address_s}</p>
+            <p style="font-weight: 100;">Điện thoại: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
+            <p style="font-weight: 100;">Email: ${contentModel.email_s}</p>
         </section>
         <!-- /address -->
 
@@ -34,7 +34,7 @@
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
         <section class="footer__item" id="bct">
             <img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương">
-            <p>${contentModel.copyrighted_s}</p>
+            <p style="font-weight: 100; font-size: 14px;">${contentModel.copyrighted_s}</p>
         </section>
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
     </div>
