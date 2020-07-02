@@ -28,7 +28,7 @@ $('.pagi1 li.current-page').on("click", function(){
     if($(this).hasClass("active")){
         return false;
     } else{
-        $('.pagi *').removeAttr('style');
+        $('.pagi1 *').removeAttr('style');
         var currentPage = $(this).index();
         $('.pagi1 li').removeClass("active");
         $(this).addClass("active");
@@ -46,7 +46,7 @@ $("#next-page1").on("click", function() {
   if (currentPage === totalPages1) {
     return false; 
   } else {
-      $('.pagi *').removeAttr('style');
+      $('.pagi1 *').removeAttr('style');
     currentPage++; 
     $(".pagi1 li").removeClass('active'); 
     $("#mavinex-news .mavinex").hide();
@@ -66,7 +66,7 @@ $("#previous-page1").on("click", function() {
       if (currentPage === 1) {
         return false; 
       } else {
-          $('.pagi *').removeAttr('style');
+          $('.pagi1 *').removeAttr('style');
         currentPage--; 
         $(".pagi1 li").removeClass('active'); 
         $("#mavinex-news .mavinex").hide();
@@ -83,6 +83,7 @@ $('.pagi2 li.current-page').on("click", function(){
     if($(this).hasClass("active")){
         return false;
     } else{
+        $('.pagi2 *').removeAttr('style');
         var currentPage = $(this).index();
         $('.pagi2 li').removeClass("active");
         $(this).addClass("active");
@@ -100,7 +101,7 @@ $("#next-page2").on("click", function() {
   if (currentPage === totalPages2) {
     return false; 
   } else {
-      $('.pagi *').removeAttr('style');
+      $('.pagi2 *').removeAttr('style');
     currentPage++; 
     $(".pagi2 li").removeClass('active'); 
     $("#field-news .fields").hide();
@@ -121,7 +122,7 @@ $("#previous-page2").on("click", function() {
       if (currentPage === 1) {
         return false; 
       } else {
-          $('.pagi *').removeAttr('style');
+          $('.pagi2 *').removeAttr('style');
         currentPage--; 
         $(".pagi2 li").removeClass('active'); 
         $("#field-news .fields").hide();
