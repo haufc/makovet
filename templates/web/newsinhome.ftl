@@ -19,10 +19,10 @@
                 </div>
 
                 <div class="news__block-text">
-                    <h3>${firstNew.title}</h3>
-                    <p class="truncate-multi-line text--justify limit-text">
+                    <h3 style="font-size: 20px; font-weight: bold;">${firstNew.title}</h3>
+                    <div class="truncate-multi-line text--justify limit-text" style="font-size: 14px;">
                         ${firstNew.content}}
-                    </p>
+                    </div>
 
                     <a class="view-more flex" href="${firstNew.url}">
                         <span>Xem thêm</span>
