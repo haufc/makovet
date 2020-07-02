@@ -13,11 +13,11 @@ $('.pagi1').append("<li class='page-item current-page active'><a class='page-lin
 $('.pagi2').append("<li class='page-item current-page active'><a class='page-link' style='background-color: #322372 !important' href='javacript:void(0)'>"+ 1+"</a></li>");
 
 for (let i=2; i<= totalPages1;i++){
-    $(".pagi1").append("<li class='page-item current-page'><a class='page-link' style='background-color: #322372 !important' href='javascript:void(0)'>"+ i +"</a></li>");
+    $(".pagi1").append("<li class='page-item current-page'><a class='page-link'  href='javascript:void(0)'>"+ i +"</a></li>");
 }
 
 for (let i=2; i<= totalPages2;i++){
-    $(".pagi2").append("<li class='page-item current-page'><a class='page-link' style='background-color: #322372 !important' href='javascript:void(0)'>"+ i +"</a></li>");
+    $(".pagi2").append("<li class='page-item current-page'><a class='page-link'  href='javascript:void(0)'>"+ i +"</a></li>");
 }
 
 $('.pagi1').append("<li id='next-page1' class='page-item'><a class='page-link' href='javascript:void(0)'><span class='fas fa-angle-right'></a></li>");
