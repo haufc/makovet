@@ -110,6 +110,8 @@ font-size: 20px;
     border-radius: 50%;
     padding: 26px 10px;
 }
-
+.sick-content {
+    line-height: 1.5;
+}
 /*Responsive*/
 
