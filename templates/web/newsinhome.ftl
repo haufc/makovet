@@ -25,7 +25,7 @@
                     </div>
 
                     <a class="view-more flex" href="${firstNew.url}">
-                        <span>Xem thêm</span>
+                        <span style="color: #322372;">Xem thêm</span>
                         <img src="/static-assets/images/icon_arrow_yellow.png" alt="Arrow icon">
                     </a>
                 </div>
