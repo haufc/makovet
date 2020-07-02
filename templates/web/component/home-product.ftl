@@ -13,7 +13,7 @@
                         <div class="products__logo text--center">
                             <a href="${item.groupChildProductURL_s}">
                                 <img class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
-                                <h3 class="text--uppercase violet-color">${item.groupProductName_s}</h3>
+                                <h3 class="text--uppercase violet-color" style="font-size: 20px;">${item.groupProductName_s}</h3>
                             </a>
                         </div>
                     </#list>
