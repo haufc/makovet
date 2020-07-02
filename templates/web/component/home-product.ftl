@@ -13,14 +13,14 @@
                         <div class="products__logo text--center">
                             <a href="${item.groupChildProductURL_s}">
                                 <img class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
-                                <h3 class="text--uppercase">${item.groupProductName_s}</h3>
+                                <h3 class="text--uppercase violet-color">${item.groupProductName_s}</h3>
                             </a>
                         </div>
                     </#list>
                 </section>
                 <section class="products__list">
                     <div class="products__list-title">
-                        <h1 class="text--uppercase">sản phẩm mới</h1>
+                        <h1 class="text--uppercase violet-color">sản phẩm mới</h1>
                     </div>
                     <div class="products__list-items">
                         <#if (products)??>
