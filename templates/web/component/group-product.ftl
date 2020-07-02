@@ -27,7 +27,7 @@
             <#if (products)??>
             	<#list products as product>
                     <div class="col-lg-2 col-md-2 col-xs-6 col-sm-6 product-item">
-                        <img class="img-full" src="${product.avatar}" width="135" height="140"/>
+                        <a href="${contentModel.url}"><img class="img-full" src="${product.avatar}" width="135" height="140"/></a>
                         <p class="d-block">${product.title}</p>
                     </div>
                 </#list>
