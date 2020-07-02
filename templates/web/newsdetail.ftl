@@ -34,7 +34,7 @@
                 <h2 style="color: #322372; font-size: 22px;">${contentModel.title_s}</h3>
                 <img class="img-center" src="${contentModel.image_s!""}" >
                 <div style="line-height: 1.5;  font-size: 16px; padding-top:30px; color: #78797a;">${contentModel.content_html}</div>
-                <span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
+                <a href="/tin-tuc"><span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang tin tức</span>
                 </a>
             </div>
         </section>
