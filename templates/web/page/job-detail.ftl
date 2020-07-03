@@ -40,7 +40,7 @@
                 ${contentModel.jobContent_html}
             </div>
             <hr class="line-hozital">
-            <div id ="panigation-job">
+            <div id ="panigation-job mt-md-3">
                 <#if (jobs)??>
                 	<#list jobs as job>
                         <div class="job-item">
