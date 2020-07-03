@@ -47,7 +47,7 @@
 	<groupProductImg2_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/nhom-san-pham/nhom-dinh-duong-khoang-tang-suc-de-khang</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm Thuốc  Phòng, trị bệnh</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
@@ -57,12 +57,12 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-07-03T07:39:27.319Z</createdDate>
 	<createdDate_dt>2020-07-03T07:39:27.319Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T07:46:37.013Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T07:46:37.013Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T08:00:39.367Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T08:00:39.367Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-07-03T07:36:52.516Z</createdDate>
 	<createdDate_dt>2020-07-03T07:36:52.516Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T07:46:11.833Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T07:46:11.833Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T08:00:23.433Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T08:00:23.433Z</lastModifiedDate_dt>
 </page>
