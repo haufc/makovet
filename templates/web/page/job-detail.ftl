@@ -36,7 +36,7 @@
     <div class="content">
         <div class="container">
             <hr class="line-hozital">
-            <div class="job-content violet-color">
+            <div class="job-content violet-color mb-3">
                 ${contentModel.jobContent_html}
             </div>
             <hr class="line-hozital">
