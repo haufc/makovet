@@ -21,14 +21,14 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>cc84</objectGroupId>
 	<objectId>cc84e57d-dd05-c025-5620-178e03bd4f12</objectId>
-	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
 	</item></slide_o>
 	<file-name>cc84e57d-dd05-c025-5620-178e03bd4f12.xml</file-name>
 	<internal-name>Sldie Job Detail</internal-name>
 	<createdDate>2020-06-29T07:31:52.447Z</createdDate>
 	<createdDate_dt>2020-06-29T07:31:52.447Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T07:31:52.447Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T07:31:52.447Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T02:46:45.229Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:46:45.229Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<placeInNav>false</placeInNav>
@@ -36,6 +36,6 @@
 	<jobContent_html>&lt;p style="margin: 0px 0px 15px; padding: 0px; text-align: justify; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;</jobContent_html>
 	<createdDate>2020-06-29T07:30:45.116Z</createdDate>
 	<createdDate_dt>2020-06-29T07:30:45.116Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T07:30:45.116Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T07:30:45.116Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T02:46:37.273Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:46:37.273Z</lastModifiedDate_dt>
 </page>
