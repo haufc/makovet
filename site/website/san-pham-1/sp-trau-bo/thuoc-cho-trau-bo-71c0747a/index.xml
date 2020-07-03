@@ -12,7 +12,7 @@
 	<navLabel>Sản phẩm dành cho trâu bò</navLabel>
 	<t_s>Sản phẩm dành cho trâu bò</t_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>5e240c4e-2b7d-4147-b1ce-21eed1a3380b</key>
 	<value>Slide</value>
 <component id="5e240c4e-2b7d-4147-b1ce-21eed1a3380b">
@@ -73,6 +73,6 @@
 	</item></section_o>
 	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T02:33:04.062Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T02:33:04.062Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T07:00:49.990Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T07:00:49.990Z</lastModifiedDate_dt>
 </page>
