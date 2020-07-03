@@ -19,14 +19,14 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>2136</objectGroupId>
 	<objectId>21362482-e5d5-f0ee-6895-2140a2807a01</objectId>
-	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 186.png</image_s>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/lien-he-slide.png</image_s>
 	</item></slide_o>
 	<internal-name>Header slide liên hệ</internal-name>
 	<file-name>21362482-e5d5-f0ee-6895-2140a2807a01.xml</file-name>
 	<createdDate>2020-07-01T02:27:42.208Z</createdDate>
 	<createdDate_dt>2020-07-01T02:27:42.208Z</createdDate_dt>
-	<lastModifiedDate>2020-07-01T02:27:42.208Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-01T02:27:42.208Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T03:22:33.180Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T03:22:33.180Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="section" inline="true">	<key>7b411a13-5898-7530-061a-b044835b27d3</key>
 	<value>Liên hệ</value>
@@ -57,6 +57,6 @@
 	<t_s>Liên Hệ</t_s>
 	<createdDate>2020-07-01T02:26:51.507Z</createdDate>
 	<createdDate_dt>2020-07-01T02:26:51.507Z</createdDate_dt>
-	<lastModifiedDate>2020-07-01T02:38:07.055Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-01T02:38:07.055Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T03:22:28.264Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T03:22:28.264Z</lastModifiedDate_dt>
 </page>
