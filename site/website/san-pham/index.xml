@@ -55,7 +55,7 @@
 	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>THUỐC CHO TÔM - CÁ</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-cho-tom-ca/thuoc-cho-tom-ca</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>THUỐC CHO LOÀI VẬT KHÁC</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
@@ -65,12 +65,12 @@
 	<title_s>Sản phẩm</title_s>
 	<createdDate>2020-06-23T03:39:50.888Z</createdDate>
 	<createdDate_dt>2020-06-23T03:39:50.888Z</createdDate_dt>
-	<lastModifiedDate>2020-06-30T04:01:18.605Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-30T04:01:18.605Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T07:49:46.666Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T07:49:46.666Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T03:28:29.300Z</createdDate>
 	<createdDate_dt>2020-06-23T03:28:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T02:27:57.210Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T02:27:57.210Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T07:49:39.809Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T07:49:39.809Z</lastModifiedDate_dt>
 </page>
