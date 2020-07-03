@@ -49,6 +49,22 @@
           var newstr = $(this).text().substring(0,140);
           $(this).text(newstr).append("...");
         });
+        <script>
+    jQuery(function($) {
+    $('.nav__menu-item .dropdown').hover(function() {
+    $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
+    
+    }, function() {
+    $(this).find('.dropdown-menu').first().stop(true, true).delay(100).slideUp();
+    
+    });
+    
+    $('.nav__menu-item .dropdown > a').click(function(){
+    location.href = this.href;
+    });
+    
+    });
+</script>
     </script>
     </body>
 </html>
