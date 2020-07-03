@@ -29,6 +29,7 @@ $(document).ready(function(){
             var currentPage = $(this).index();
             $('.pagi li').removeClass("active");
             $(this).addClass("active");
+            $(this).children().attr('style', 'background-color: #322372 !important');
             $("#panigation-job .job-item").hide();
             var total = limitPerPage * currentPage;
             for(let i = total - limitPerPage; i<total; i++){
