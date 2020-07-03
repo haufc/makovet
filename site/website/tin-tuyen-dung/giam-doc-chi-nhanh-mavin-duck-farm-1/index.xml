@@ -8,9 +8,9 @@
 	<objectId>45853fff-577f-ab54-96c6-0628eb5bdafb</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>giam-doc-chi-nhanh-mavin-duck-farm-1</folder-name>
-	<internal-name>Giám đóc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</internal-name>
-	<navLabel>Giám đóc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</navLabel>
-	<jobTitle_s>Giám đóc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</jobTitle_s>
+	<internal-name>Giám đốc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</internal-name>
+	<navLabel>Giám đốc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</navLabel>
+	<jobTitle_s>Giám đốc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</jobTitle_s>
 	<jobDuration_s>14/07/2017</jobDuration_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b6cd5584-1b02-aa30-4709-bca64bbe501b</key>
 	<value>header Slide</value>
@@ -21,21 +21,21 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>b6cd</objectGroupId>
 	<objectId>b6cd5584-1b02-aa30-4709-bca64bbe501b</objectId>
-	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
 	</item></slide_o>
 	<file-name>b6cd5584-1b02-aa30-4709-bca64bbe501b.xml</file-name>
 	<internal-name>header Slide</internal-name>
 	<createdDate>2020-06-29T07:34:29.567Z</createdDate>
 	<createdDate_dt>2020-06-29T07:34:29.567Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T07:34:29.567Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T07:34:29.567Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T02:46:11.745Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:46:11.745Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<jobContent_html>&lt;p&gt;Gi&amp;aacute;m đ&amp;oacute;c Chi nh&amp;aacute;nh Mavin Duck Farm (Th&amp;agrave;nh vi&amp;ecirc;n TẬP ĐO&amp;Agrave;N MAVIN)&lt;/p&gt;</jobContent_html>
+	<jobContent_html>&lt;p&gt;Gi&amp;aacute;m đốc Chi nh&amp;aacute;nh Mavin Duck Farm (Th&amp;agrave;nh vi&amp;ecirc;n TẬP ĐO&amp;Agrave;N MAVIN)&lt;/p&gt;</jobContent_html>
 	<createdDate>2020-06-29T07:33:09.251Z</createdDate>
 	<createdDate_dt>2020-06-29T07:33:09.251Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T07:33:09.251Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T07:33:09.251Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T02:44:59.597Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:44:59.597Z</lastModifiedDate_dt>
 </page>
