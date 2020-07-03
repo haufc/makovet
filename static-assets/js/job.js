@@ -13,7 +13,7 @@ $(document).ready(function(){
         totalPages =  Math.round(numberOfProducts / limitPerPage ) + 1;
     }
     
-    $('.pagi').append("<li class='page-item current-page active'><a class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
+    $('.pagi').append("<li class='page-item current-page active'><a a style='background-color: #322372 !important' class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
     
     for (let i=2; i<= totalPages;i++){
         $(".pagi").append("<li class='page-item current-page'><a class='page-link' href='javascript:void(0)'>"+ i +"</a></li>");
@@ -25,6 +25,7 @@ $(document).ready(function(){
         if($(this).hasClass("active")){
             return false;
         } else{
+            $('.pagi *').removeAttr('style');
             var currentPage = $(this).index();
             $('.pagi li').removeClass("active");
             $(this).addClass("active");
@@ -41,6 +42,7 @@ $(document).ready(function(){
       if (currentPage === totalPages) {
         return false; 
       } else {
+        $('.pagi *').removeAttr('style');
         currentPage++; 
         $(".pagi li").removeClass('active'); 
         $("#panigation-job .job-item").hide();
@@ -50,6 +52,7 @@ $(document).ready(function(){
         }
     
         $(".pagi li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
+        $(".pagi li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
       }
     });
     
@@ -58,6 +61,7 @@ $(document).ready(function(){
           if (currentPage === 1) {
             return false; 
           } else {
+            $('.pagi *').removeAttr('style');
             currentPage--; 
             $(".pagi li").removeClass('active'); 
             $("#panigation-job .job-item").hide();
@@ -66,6 +70,7 @@ $(document).ready(function(){
               $("#panigation-job .job-item:eq(" + i + ")").show();
             }
             $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
+            $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").children().attr('style', 'background-color: #322372 !important');
           }
     });
     
