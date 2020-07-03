@@ -37,9 +37,9 @@
                     <div class="dropdown">
                         <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/gioi-thieu">Giới thiệu</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/introduction/lich-su-hinh-thanh">Lịch sử hình thành</a>
-                            <a class="nav__menu-link dropdown-item" href="/introduction/su-menh">Sứ mệnh tầm nhìn</a>
-                            <a class="nav__menu-link dropdown-item" href="/introduction/thanh-tich-dat-duoc">Thành tích đạt được</a>
+                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/lich-su-hinh-thanh">Lịch sử hình thành</a>
+                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/su-menh">Sứ mệnh tầm nhìn</a>
+                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/thanh-tich-dat-duoc">Thành tích đạt được</a>
                         </div>
                     </div>
                 </li>
@@ -59,8 +59,8 @@
                     <div class="dropdown">
                         <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/career-opportunities/che-do-dai-ngo">Chế độ đãi ngộ, phúc lợi</a>
-                            <a class="nav__menu-link dropdown-item" href="/career-opportunities/dao-tao-phat-trien">Đào tạo và Phát triển</a>
+                            <a class="nav__menu-link dropdown-item" href="/co-hoi/che-do-dai-ngo">Chế độ đãi ngộ, phúc lợi</a>
+                            <a class="nav__menu-link dropdown-item" href="/co-hoi/dao-tao-phat-trien">Đào tạo và Phát triển</a>
                         </div>
                     </div>
                 </li>
