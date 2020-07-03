@@ -49,7 +49,6 @@
           var newstr = $(this).text().substring(0,140);
           $(this).text(newstr).append("...");
         });
-        <script>
     jQuery(function($) {
     $('.nav__menu-item .dropdown').hover(function() {
     $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
