@@ -55,7 +55,7 @@
                 <div class="col-md-6">
                     <img src="${contentModel.supportCustomerImage_s}" class="img-full"/>
                 </div>
-                <div class="col-md-6 violet-color">
+                <div class="col-md-6">
                     ${contentModel.supportCustomerContent_html}
                     <div class="d-flex">
                         <button class="btn-desc violet-color font-weight-bold" style="width: 49%; margin-right: 2%; background-color: #FFCB08;">${contentModel.phoneNumber_s}</button>
