@@ -629,6 +629,9 @@ p {
 /* mobile - portrait */
 @media only screen and (min-width: 300px) and (max-width: 420px) and (orientation: portrait) {
   /* Modules */
+  .dropdown-item {
+     background-color: #332472;
+  }
   .section-title {
     background: #322372;
   }
