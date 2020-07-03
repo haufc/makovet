@@ -39,6 +39,22 @@
             <div class="job-content violet-color">
                 ${contentModel.jobContent_html}
             </div>
+            <hr class="line-hozital">
+            <div id ="panigation-job">
+                <#if (jobs)??>
+                	<#list jobs as job>
+                        <div class="job-item">
+                            <a class="violet-color font-weight-bold" href="${job.url}" class="d-block">${job.title}</a>
+                            <p class="violet-color">(${job.time})</p>
+                        </div>
+                    </#list>
+                </#if>
+            </div>
+            <nav aria-label="Page navigation example">
+              <ul class="pagination pagi justify-content-center">
+                <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+              </ul>
+            </nav>
         </div>
     </div>
     <@renderComponent component=contentModel.slideLogo_o.item />
