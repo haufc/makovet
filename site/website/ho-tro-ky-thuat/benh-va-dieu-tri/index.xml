@@ -17,15 +17,15 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>4994</objectGroupId>
 	<objectId>4994717c-b8ce-e289-159d-f097435237d1</objectId>
-	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 191.png</image_s>
-	</item>	<item>	<image_s>/static-assets/images/slides/Layer 186.png</image_s>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/slide-thuy-san.png</image_s>
 	</item></slide_o>
 	<file-name>4994717c-b8ce-e289-159d-f097435237d1.xml</file-name>
 	<internal-name>Silde Bệnh và điều trị</internal-name>
 	<createdDate>2020-06-26T04:17:50.478Z</createdDate>
 	<createdDate_dt>2020-06-26T04:17:50.478Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T11:12:01.361Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T11:12:01.361Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T02:14:04.060Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:14:04.060Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<technicalAssistanceCompoent_o item-list="true">	<item datasource="technicalAssistanceComponent">	<key>/site/items/4587f2c7-c92f-dff7-1be2-de40cf838f9a.xml</key>
@@ -52,6 +52,6 @@
 &lt;p style="margin: 0px 0px 15px; padding: 0px; text-align: justify; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;&lt;span style="font-family: Open Sans, Arial, sans-serif;"&gt;&lt;span style="font-size: 14px;"&gt;H&amp;atilde;y li&amp;ecirc;n hệ với ch&amp;uacute;ng t&amp;ocirc;i để nhận được sự tư vấn, hỗ trợ kịp thời với chất lượng phục vụ tốt nhất.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</supportCustomerContent_html>
 	<createdDate>2020-06-26T04:17:04.077Z</createdDate>
 	<createdDate_dt>2020-06-26T04:17:04.077Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T01:43:58.156Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T01:43:58.156Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-03T02:13:58.533Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:13:58.533Z</lastModifiedDate_dt>
 </page>
