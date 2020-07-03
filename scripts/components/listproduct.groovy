@@ -13,6 +13,12 @@ def categories = new TaxonomySearchHelper("nhom-san-pham", elasticsearch, siteIt
 def childCategories = new TaxonomySearchHelper("nhom-san-pham-con", elasticsearch, siteItemService)
 						.getItems()
 
+print productGroup
+
+print productChildGroup
+
+print products
+
 templateModel.products = products
 templateModel.categories = categories
 templateModel.childCategories = childCategories
