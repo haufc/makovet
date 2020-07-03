@@ -56,13 +56,7 @@
                     <a class="nav__menu-link" href="#">Quan hệ cổ đông</a>
                 </li>
                 <li class="nav__menu-item">
-                    <div class="dropdown">
-                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/co-hoi/che-do-dai-ngo">Chế độ đãi ngộ, phúc lợi</a>
-                            <a class="nav__menu-link dropdown-item" href="/co-hoi/dao-tao-phat-trien">Đào tạo và Phát triển</a>
-                        </div>
-                    </div>
+                    <a class="nav__menu-link" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/lien-he">Liên hệ</a>
