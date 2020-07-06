@@ -10,7 +10,7 @@
             	<#list jobs as job>
                     <div class="job-item">
                         <a class="violet-color font-weight-bold" style="font-size:20px;" href="${job.url}" class="d-block">${job.title}</a>
-                        <p >(${job.time})</p>
+                        <p class="dim-grey-color">(${job.time})</p>
                     </div>
                 </#list>
             </#if>
