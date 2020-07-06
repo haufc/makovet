@@ -6,7 +6,7 @@
                 </div>
 
     <div class="services__container block flex">
-        <section class="services__img">
+        <section class="services__img" style="padding-top: 15px;">
             <img class="full-size" src="${contentModel.image_s}" alt="Services image">
         </section>
 
