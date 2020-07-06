@@ -30,8 +30,6 @@ $(document).ready(function() {
       }
   });
   
-  // set width for google map
-  $('iframe').attr('width','83%');
 });
 
 function openSpinner() {
