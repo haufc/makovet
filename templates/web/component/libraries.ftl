@@ -35,10 +35,16 @@
                             <h3 class="text--center violet-color text--uppercase font-weight-bold" style="margin-top: 150%;font-size: 20px;">${contentModel.videoTitle_s}</h3>
                         </div>
                         <div class="col-md-5">
-                            <img class="products__img img-full" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
+                            <video width="400" controls>
+                              <source src="${contentModel.video1_s}" type="video/mp4">
+                              Your browser does not support HTML5 video.
+                            </video>
                         </div>
                         <div class="col-md-5">
-                            <img class="products__img img-full" src="${contentModel.photoAvatar2_s}" alt="Product image"/>
+                            <video width="400" controls>
+                              <source src="${contentModel.video2_s}" type="video/mp4">
+                              Your browser does not support HTML5 video.
+                            </video>
                         </div>
                         <div class="col-md-1">
                             <a href="${contentModel.videoURL_s}">Xem</a>
