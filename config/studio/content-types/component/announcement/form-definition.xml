@@ -1,5 +1,5 @@
 <form>
-	<title>Component- Announcement</title>
+	<title>Component - Công bố thông tin</title>
 	<description></description>
 	<objectType>component</objectType>
 	<content-type>/component/announcement</content-type>
@@ -89,7 +89,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594025551965</title>
+			<title>Default Section Title 1594025667282</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
