@@ -1,7 +1,9 @@
 .noDecoration, a:link, a:visited {
     text-decoration: none;
 }
-
+a:hover {
+    color: #ffcb08;
+}
 .p-left-0 {
     padding-left: 0px;
 }
