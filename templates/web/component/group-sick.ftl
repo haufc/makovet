@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 	<div class="lst-sick mb-3">
 	    <img src="${contentModel.avatar_s}" class="img-full"/>
-	    <p class="violet-color font-weight-bold text-center mt-3" style="font-size: 30px;">${contentModel.title_s}</p>
+	    <p class="violet-color font-weight-bold text-center mt-3 text-uppercase mb-3" style="font-size: 30px;">${contentModel.title_s}</p>
 	    <div class="paginate">
 	        <div class="list-tech-sp-vn mb-3" style="line-height: 1.5;">
         	    <#if (supportTech)??>
