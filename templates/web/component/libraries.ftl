@@ -2,7 +2,7 @@
 <!-- products -->
     <div class="section-title">
         <div class="section-title__content block">
-            <h1 class="section-title__content-text text--uppercase">sản phẩm</h1>
+            <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
         </div>
     </div>
     <section class="products">
