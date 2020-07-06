@@ -35,7 +35,9 @@ a:hover {
 .orange-color {
    color: #ffcb08;
 }
-
+.dim-grey-color{
+    color: dimgrey;
+}
 .btn-desc {
     padding: 8px;
     width: 40%;
