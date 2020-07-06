@@ -1,7 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <header>
     <section class="nav">
-    <div class="nav__responsive">
         <div class="nav__container">
             <div class="nav__logo">
                 <a href="/trang-chu"><img src="${contentModel.logo_s}" alt="Logo"></a>
@@ -80,7 +79,6 @@
                     </li>
                 </ul>
             </div>
-        </div>
     </section>
 </header>
 <@studio.toolSupport />
