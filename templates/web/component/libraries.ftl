@@ -14,10 +14,10 @@
                             <p class="text--center">${contentModel.photoTitle_s}</p>
                         </div>
                         <div class="col-md-5">
-                            <img class="products__img" src="${contentModel.photoAvatar1_s}" alt="Product image" width="135" height="140"/>
+                            <img class="products__img" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
                         </div>
                         <div class="col-md-5">
-                            <img class="products__img" src="${contentModel.photoAvatar2_s}" alt="Product image" width="135" height="140"/>
+                            <img class="products__img" src="${contentModel.photoAvatar2_s}" alt="Product image"/>
                         </div>
                         <div class="col-md-1">
                             <a href="${contentModel.photoURL_s}">Xem</a>
