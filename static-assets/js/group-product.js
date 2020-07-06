@@ -8,7 +8,7 @@ $(document).ready(function(){
     
     var totalPages;
     
-    if ((numberOfProducts / limitPerPage) % 2 === 0) {
+    if ((numberOfProducts / limitPerPage) % 2 == 0) {
        totalPages =  Math.round(numberOfProducts / limitPerPage );
     } else {
         totalPages =  Math.round(numberOfProducts / limitPerPage ) + 1;
