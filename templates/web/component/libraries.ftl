@@ -10,14 +10,18 @@
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items">
-                        <#--<#if (products)??> 
-                        	<#list products as product>-->
-                                <div class="products__list-item">
-                                    <a href="#"><img class="products__img" src="" alt="Product image" width="135" height="140"/></a>
-                                    <p class="text--center"></p>
-                                </div>
-                            <#--</#list>
-                        </#if> -->
+                        <div class="col-md-1">
+                            <p class="text--center">${contentModel.photoTitle_s}</p>
+                        </div>
+                        <div class="col-md-5">
+                            <img class="products__img" src="${contentModel.photoAvatar1_s}" alt="Product image" width="135" height="140"/>
+                        </div>
+                        <div class="col-md-5">
+                            <img class="products__img" src="${contentModel.photoAvatar2_s}" alt="Product image" width="135" height="140"/>
+                        </div>
+                        <div class="col-md-1">
+                            <a href="${contentModel.photoURL_s}">Xem</a>
+                        </div>
                     </div>
                 </section>
             </div>
