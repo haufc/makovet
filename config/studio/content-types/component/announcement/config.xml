@@ -1,5 +1,5 @@
 <content-type name="/component/announcement" is-wcm-type="true">
-	<label>Component- Announcement</label>
+	<label>Component - Công bố thông tin</label>
 	<form>/component/announcement</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
