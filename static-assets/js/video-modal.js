@@ -5,11 +5,9 @@ $(document).ready(function() {
 var $videoSrc;  
 $('#video-1').click(function() {
     $videoSrc = $('#btn-1').data( "src" );
+    console.log($videoSrc);
 });
-console.log($videoSrc);
 
-  
-  
 // when the modal is opened autoplay it  
 $('#myModal').on('shown.bs.modal', function (e) {
     
