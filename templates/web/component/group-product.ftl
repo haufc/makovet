@@ -20,8 +20,8 @@
         </div>
     </div>
     <div class="container">
-        <hr class="line-hozital"/>
-        <hr class="line-hozital"/>
+        <hr class="line-hozital" style="margin-bottom: 1%"/>
+        <hr class="line-hozital"style="margin-bottom: 5%"/>
         
         <div class="row" id ="panigation-product">
             <#if (products)??>
