@@ -610,9 +610,9 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>documentAvatar1_s</id>
+					<id>documentAvatar2_s</id>
 					<iceId></iceId>
-					<title>Document Avatar 1</title>
+					<title>Document Avatar 2</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
