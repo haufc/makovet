@@ -68,6 +68,8 @@
                 </section>
             </div>
         </div>
+        <input id="srcVideo1" value="${contentModel.video1_s}" hidden/>
+        <input id="srcVideo2" value="${contentModel.video2_s}" hidden/>
     </section>
     <!-- products -->
 <@studio.toolSupport />
