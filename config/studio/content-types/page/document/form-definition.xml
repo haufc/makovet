@@ -420,6 +420,44 @@
 						</constraint>
 					</constraints>
 				</field>
+				<field>
+					<type>box-file-upload</type>
+					<id>attachment</id>
+					<iceId></iceId>
+					<title>Attachment</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>profile_id</name>
+							<value>box-default</value>
+							<type>string</type>
+						</property>
+						<property>
+							<name>enable_upload</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>enable_multi_selection</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>logo</name>
+							<value>box</value>
+							<type>string</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
+				</field>
 					</fields>
 				</field>
 			</fields>
