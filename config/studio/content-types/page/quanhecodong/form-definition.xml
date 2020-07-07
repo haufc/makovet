@@ -1,5 +1,5 @@
 <form>
-	<title>Page - Quan he co dong</title>
+	<title>Page - Quan hệ cổ đông</title>
 	<description></description>
 	<objectType>page</objectType>
 	<content-type>/page/quanhecodong</content-type>
@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value></value>
+			<value>/templates/web/investorrelations.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -185,7 +185,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594091578267</title>
+			<title>Default Section Title 1594091782677</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
@@ -351,7 +351,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>imagefromDesktop,imagefromRepository</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -402,7 +402,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images</value>
 								<type>undefined</type>
 						</property>
 					</properties>
@@ -415,7 +415,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images</value>
 								<type>undefined</type>
 						</property>
 						<property>
