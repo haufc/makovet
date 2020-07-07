@@ -214,7 +214,7 @@
                 $(modal).css('display', 'block');
                 $(modalVideo).find("source").attr("src", srcvideo1);
                 $('.logos').css('display', 'none');
-                $(this).html('<source src="'+ srcvideo1 +'" type="video/mp4"></source>' );
+                $(modal).html('<source src="'+ srcvideo1 +'" type="video/mp4"></source>' );
             });
             
             var spanClose = $('.close');
