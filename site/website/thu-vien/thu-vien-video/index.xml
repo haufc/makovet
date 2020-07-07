@@ -9,6 +9,9 @@
 	<listVideo_o item-list="true">	<item>	<videoName_s>Tập đoàn Mavin: Doanh nghiệp Việt đầu tiên xuất khẩu thịt heo thành công</videoName_s>
 	<videoYoutubeURL_s>https://www.youtube.com/embed/oqNBznIK6d0</videoYoutubeURL_s>
 	<videoBanner_s>/static-assets/images/libraries/videos/xuat_khau_thit_heo_mavin_.jpg</videoBanner_s>
+	</item>	<item>	<videoName_s>Tập đoàn Mavin đầu tư dự án trăm tỷ ở huyện Cao Lãnh</videoName_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/dau_tu_tram_ty_vao_huyen_cao_lanh.jpg</videoBanner_s>
+	<videoYoutubeURL_s>https://www.youtube.com/embed/NrOR99DUPlk</videoYoutubeURL_s>
 	</item></listVideo_o>
 	<internal-name>Thư viện video</internal-name>
 	<title_s>Thư viện video</title_s>
@@ -23,6 +26,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-07-07T07:33:25.999Z</createdDate>
 	<createdDate_dt>2020-07-07T07:33:25.999Z</createdDate_dt>
-	<lastModifiedDate>2020-07-07T07:33:25.999Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-07T07:33:25.999Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-07T08:14:39.481Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T08:14:39.481Z</lastModifiedDate_dt>
 </page>
