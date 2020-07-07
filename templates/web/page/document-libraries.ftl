@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css">
-    
+    <link rel="stylesheet" href="./wow_book/wow_book.css" type="text/css" />
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <script src="/static-assets/js/pagination.js"></script>
@@ -80,13 +80,16 @@
             </div>
         </div>
     </main>
-  
+    <div id="my_flip_book">
+    </div>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
+    <script src="./wow_book/wow_book.min.js"></script>
+    <script type="text/javascript" src="./wow_book/pdf.combined.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
     <script src="/static-assets/js/logos.js"></script>
@@ -94,6 +97,11 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/video.js"></script>
+    <script>
+      $("#my_flip_book").wowBook({
+        pdf: '/static-asset/images/libraries/documents/sample-signed.pdf'
+      });
+</script>
   </body>
 </html>
 <@studio.toolSupport /> 
