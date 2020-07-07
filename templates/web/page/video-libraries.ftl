@@ -139,11 +139,12 @@
             </div>
             <div class="container">
                 <div class="row" id ="panigation-photo">
-                    <#list contentModel.listphoto_o.item as photo>
+                    <#list contentModel.listVideo_o.item as video>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <figure>
-                              <img class="img-full" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
-                              <figcaption class="mt-3" id="cap-${photo?index}">${photo.photoName_s}</figcaption>
+                              <a data-fancybox data-small-btn="true" href="${video.videoSource_s}">
+                              <img class="img-full" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
+                              <figcaption class="mt-3" id="cap-${video?index}">${video.videoName_s}</figcaption>
                             </figure>
                         </div>
                     </#list>
