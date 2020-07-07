@@ -53,6 +53,7 @@ class RelationSearchHelper{
             documents.each { doc ->
                 def aRelation = [:]
                     aRelation.title = doc.title_s
+                    aRelation.time = doc.date_dt?date
                     aRelation.category = doc.categories_o.item.key
                     aRelation.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 relations << aRelation
