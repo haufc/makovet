@@ -23,6 +23,9 @@
     
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css">
+    
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <script src="/static-assets/js/pagination.js"></script>
