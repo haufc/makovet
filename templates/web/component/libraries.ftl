@@ -30,7 +30,7 @@
         <div class="products__container block">
             <div class="products__content">
                 <section class="products__list">
-                    <div class="products__list-items">
+                    <div class="products__list-items" style="">
                         <div class="col-md-1">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold" style="margin-top: 150%;font-size: 20px;">${contentModel.videoTitle_s}</h3>
                         </div>
@@ -41,7 +41,7 @@
                            <img id="video-2" class="products__img img-full" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
                         </div>
                         <div class="col-md-1">
-                            <a href="${contentModel.videoURL_s}">Xem</a>
+                            <a style="position: absolute;top: 40%;" href="${contentModel.videoURL_s}"><i class="fa fa-play orange-color" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
