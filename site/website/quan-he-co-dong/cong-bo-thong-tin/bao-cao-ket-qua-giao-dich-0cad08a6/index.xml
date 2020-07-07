@@ -8,10 +8,10 @@
 	<objectId>1259bd15-17de-4fac-ae28-e8040b4d78d8</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>bao-cao-ket-qua-giao-dich-0cad08a6</folder-name>
-	<internal-name>Báo cáo kết quả giao dịch cổ phiếu của người nội bộ và người có liên quan 0cad08a6</internal-name>
+	<internal-name>Báo cáo kết quả giao dịch cổ phiếu của người nội bộ và người có liên quan 3</internal-name>
 	<navLabel>Báo cáo kết quả giao dịch cổ phiếu của người nội b</navLabel>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
 	<value>Header - Investor</value>
 	<include>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</include>
@@ -27,9 +27,9 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-07T03:58:35.624Z</createdDate>
 	<createdDate_dt>2020-07-07T03:58:35.624Z</createdDate_dt>
-	<lastModifiedDate>2020-07-07T04:42:01.904Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-07T04:42:01.904Z</lastModifiedDate_dt>
-	<date_dt>2017-07-14T04:00:00.000Z</date_dt>
+	<lastModifiedDate>2020-07-07T04:44:12.586Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T04:44:12.586Z</lastModifiedDate_dt>
+	<date_dt>2017-07-16T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
-	<title_s>Báo cáo kết quả giao dịch cổ phiếu của người nội bộ và người có liên quan</title_s>
+	<title_s>Báo cáo kết quả giao dịch cổ phiếu của người nội bộ và người có liên quan 3</title_s>
 </page>
