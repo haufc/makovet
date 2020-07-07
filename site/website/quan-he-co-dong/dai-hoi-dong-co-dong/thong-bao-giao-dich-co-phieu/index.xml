@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>48b312d1</objectGroupId>
+	<objectId>48b312d1-f4e2-47b3-8798-7febb26653c9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thong-bao-giao-dich-co-phieu</folder-name>
+	<internal-name>Thông báo giao dịch cổ phiếu nội bộ</internal-name>
+	<navLabel>Thông báo giao dịch cổ phiếu nội bộ</navLabel>
+	<title_s>Thông báo giao dịch cổ phiếu nội bộ</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</key>
+	<value>Header - Đại hội đồng cổ đông </value>
+	<include>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>shareholders</key>
+	<value_smv>Đại hội đồng cổ đông</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute; Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute; Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-07T04:34:44.805Z</createdDate>
+	<createdDate_dt>2020-07-07T04:34:44.805Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T07:04:13.213Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T07:04:13.213Z</lastModifiedDate_dt>
+	<date_dt>2020-07-03T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
