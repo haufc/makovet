@@ -91,7 +91,12 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/video.js"></script>
-   
+    <script>
+        $(function() {
+            //single book
+            $('#mybook').booklet();
+        });
+    </script>
   </body>
 </html>
 <@studio.toolSupport /> 
