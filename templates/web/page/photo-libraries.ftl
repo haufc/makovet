@@ -196,6 +196,7 @@
                 $(img).click(function() {
                     $(modal).css('display', 'block');
                     $(modalImg).attr('src', $(this).attr('src'));
+                    $(modalImg).attr('alt', $(this).attr('id'));
                     $(caption).text($(this).attr('alt'));
                     $('.logos').css('display', 'none');
                     $('.page-item').css('display', 'none');
@@ -210,8 +211,10 @@
             });
             
             $('#next').click(function() {
-                let srcIm =  "#img-" + (currentImg + 1);
-                $(modalImg).attr('src', $(srcIm).attr('src'));
+                let srcIm =  $(modalImg).attr('id');
+                let id = srcIm.split('-');
+                console.log(id);
+                //$(modalImg).attr('src', $(srcIm).attr('src'));
             });
         });
     </script>
