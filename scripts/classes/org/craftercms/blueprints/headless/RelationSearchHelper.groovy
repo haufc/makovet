@@ -41,25 +41,25 @@ class RelationSearchHelper{
         def result = elasticsearch.search(new SearchRequest().source(builder))
 
         if(result){
-            return processRelationListingResults(result)
+            return processNewsListingResults(result)
         }else{
             return[]
         }
     }
     def processRelationListingResults(result){
-        def posts = []
+        def relations = []
         def documents = result.hits.hits*.getSourceAsMap()
         if (documents){
             documents.each { doc ->
-                def aPost = [:]
-                    aPost.title = doc.title_s
-                    aPost.time = doc.date_dt?date?string('dd/MM/yyyy')
-                    aPost.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
-                posts << aPost
+                def aRelation = [:]
+                    aRelation.title = doc.title_s
+                    aRelation.category = doc.categories_o.item.key
+                    aRelation.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
+                relations << aRelation
             }
         }
         
-        return posts
+        return relations
     }
     
     private def getFieldQueryWithMultipleValues(field, values) {
