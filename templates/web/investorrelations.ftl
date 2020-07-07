@@ -19,7 +19,7 @@
   <body>
         <@renderComponent component=contentModel.header_o.item />
         
-    <#--    <@renderComponent component=contentModel.slideImage_o.item /> -->
+        <@renderComponent component=contentModel.slideImage_o.item /> 
     <main>
         <section class="services">
             <div class="section-title">
@@ -34,6 +34,7 @@
             </div>
             <div class="container" style="padding-left:30px;">
                 <h2 style="color: #322372; font-size: 28px; font-weight: bold;">${contentModel.title_s}</h2>
+                <h2 style="color: #322372; font-size: 28px; font-weight: bold;">${contentModel.date}</h2>
                 <div style="line-height: 1.5;  font-size: 16px; padding-top:30px; color: #636466; font-weight: 100;">${contentModel.content_html}</div>
                 <a href="/quan-he-co-dong"><span class="mr-1 text--italic" style="color: #00549a;">Quay lại trang quan hệ cổ đông</span>
                 </a>
