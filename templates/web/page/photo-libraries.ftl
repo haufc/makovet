@@ -157,38 +157,24 @@
         var lengthImg = $('.row').children().length;
         var modal = $('#myModal');
         var modalImg = $('#img01');
+        var caption = $('#caption');
         for(let i = 0; i < lengthImg; i++) {
-            String id = "#img-" + i;
-            String capId = "#cap-" + i;
+            let id = "#img-" + i;
+            let capId = "#cap-" + i;
             var img = $(id);
             var cap = $(capId);
+            
+            $(img).click(function() {
+                $(modal).css('display', 'block');
+                $(modalImg).attr('src', $(this).attr('src'));
+                $(caption).text($(this).attr('alt'));
+            });
         }
+        var spanClose = $('.close');
+        $(spanClose).click(function() {
+            $(modal).css('display', 'none');
+        });
     });
-    </script>
-    <#--<script>
-        var length
-        // Get the modal
-        var modal = document.getElementById("myModal");
-        
-        // Get the image and insert it inside the modal - use its "alt" text as a caption
-        var img = document.getElementsByClassName("img-full");
-        var modalImg = document.getElementById("img01");
-        var captionText = document.getElementById("caption");
-        img.onclick = function(){
-          modal.style.display = "block";
-          modalImg.src = this.src;
-          captionText.innerHTML = this.alt;
-        }
-        
-        // Get the <span> element that closes the modal
-        var span = document.getElementsByClassName("close")[0];
-        
-        // When the user clicks on <span> (x), close the modal
-        span.onclick = function() { 
-          modal.style.display = "none";
-        }
-    </script> -->
-
   </body>
 </html>
 <@studio.toolSupport /> 
