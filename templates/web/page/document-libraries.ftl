@@ -54,10 +54,7 @@
             </div>
             <div class="container">
                 <div class="row" id ="panigation-photo">
-                    <#list contentModel.pDF_o.item as pdf>
-                    	<#assign file =  pdf.key />
-                    	${file}
-                    </#list>
+                   ${contentModel.pDF_o.item}
                    <#list contentModel.document_o.item as doc>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <div class="item-box" style="position: relative;">
