@@ -18,7 +18,8 @@
   </head>
   <body>
         <@renderComponent component=contentModel.header_o.item />
-        <@renderComponent component=contentModel.slideImage_o.item />
+        
+    <#--    <@renderComponent component=contentModel.slideImage_o.item /> -->
     <main>
         <section class="services">
             <div class="section-title">
