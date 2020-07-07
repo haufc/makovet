@@ -9,7 +9,7 @@ $(document).ready(function(){
     $("#panigation-relation3 .relation3:gt(" + (limitPerPage -1 )+")").hide();
     
     var totalPages1;
-    if ((numberOfRelation1 / limitPerPage) % 2 == 0) {
+    if ((numberOfRelation1 / limitPerPage) % 2 === 0) {
        totalPages1 =  Math.round(numberOfRelation1 / limitPerPage );
     } else {
         totalPages1 =  Math.round(numberOfRelation1 / limitPerPage ) + 1;
