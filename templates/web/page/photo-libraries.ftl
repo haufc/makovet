@@ -162,7 +162,6 @@
     <script src="/static-assets/js/photos.js"></script>
     <script>
         $(document).ready(function(){
-            $("a.single_image").fancybox();
             var lengthImg = $('.row').children().length;
             var modal = $('#myModal');
             var modalImg = $('#img01');
