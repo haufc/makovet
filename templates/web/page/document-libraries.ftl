@@ -49,10 +49,13 @@
         <div class="content">
             <div class="section-title">
                 <div class="section-title__content block">
-                    <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
+                    <h1 class="section-title__content-text text--uppercase">THƯ VIỆN TÀI LIỆU</h1>
                 </div>
             </div>
             <div class="container">
+                <div class="sick-title" style="background-color:#FFCB08">
+                    <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
+                </div>
                 <div id="mybook">
                     <#list contentModel.document_o.item as doc>
                         <div class="page-${doc?index}">
