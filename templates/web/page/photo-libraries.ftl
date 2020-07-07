@@ -27,6 +27,11 @@
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
+            </div>
+        </div>
         <div class="content">
             <div class="section-title">
                 <div class="section-title__content block">
