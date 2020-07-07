@@ -212,9 +212,8 @@
             
             $('#video-1').click(function() {
                 $(modal).css('display', 'block');
-                $(modalVideo).find("source").attr("src", srcvideo1);
-                $('.logos').css('display', 'none');
                 $(modalVideo).html('<source src="'+ srcvideo1 +'" type="video/mp4"></source>' );
+                $('.logos').css('display', 'none');
             });
             
             var spanClose = $('.close');
