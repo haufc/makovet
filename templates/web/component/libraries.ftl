@@ -36,6 +36,21 @@
                         </div>
                         <div class="col-md-5">
                             <img id="video-1" class="products__img img-full" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
+                            <div class="item-box" style="position: relative;">
+                                <figure style="width: 100%; height: 256.757px;">
+                                  <a data-fancybox data-small-btn="true" href="#">
+                                    <span class="play-icon"><i class="fa fa-play-circle text-white"></i></span>
+                                  </a>
+                                  <a data-fancybox data-small-btn="true" href="#">
+                                    <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.photoAvatar1_s}"/>
+                                  </a>
+                                </figure>
+                                <div class="cap-content" style="background: #322372;left: 0;bottom:0;position: absolute;width: 100%;">
+                                    <a data-fancybox data-small-btn="true" href="#">
+                                        <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">Hau dep trai</h3>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-5">
                            <img id="video-2" class="products__img img-full" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
