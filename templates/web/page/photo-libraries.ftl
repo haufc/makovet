@@ -209,7 +209,7 @@
                 $('.page-item').css('display', 'block');
             });
             
-            $('next').click(function() {
+            $('#next').click(function() {
                 let srcIm =  "#img-" + (currentImg + 1);
                 $(modalImg).attr('src', $(srcIm).attr('src'));
             });
