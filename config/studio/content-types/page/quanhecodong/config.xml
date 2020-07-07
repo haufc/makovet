@@ -1,5 +1,5 @@
 <content-type name="/page/quanhecodong" is-wcm-type="true">
-	<label>Page - Quan he co dong</label>
+	<label>Page - Quan hệ cổ đông</label>
 	<form>/page/quanhecodong</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
