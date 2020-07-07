@@ -6,13 +6,15 @@
         </div>
     </div>
     <div class="container">
-	    <div id ="panigation-job">
+	    <div id ="">
             <#if (posts)??>
             	<#list posts as aPost>
+            	    <#if aPost.category = "announcement">
                     <div class="job-item">
                         <a class="violet-color font-weight-bold" href="${aPost.url}" class="d-block">${aPost.title}</a>
                         <p class="violet-color">(${aPost.time?date?string('dd/MM/yyyy')})</p>
                     </div>
+                    </#if>
                 </#list>
             </#if>
         </div>
@@ -27,6 +29,25 @@
         <div class="section-title__content block">
             <h1 class="section-title__content-text text--uppercase">Đại hội đồng cổ đông</h1>
         </div>
+    </div>
+    <div class="container">
+	    <div id ="">
+            <#if (posts)??>
+            	<#list posts as aPost>
+            	    <#if aPost.category = "announcement">
+                    <div class="job-item">
+                        <a class="violet-color font-weight-bold" href="${aPost.url}" class="d-block">${aPost.title}</a>
+                        <p class="violet-color">(${aPost.time?date?string('dd/MM/yyyy')})</p>
+                    </div>
+                    </#if>
+                </#list>
+            </#if>
+        </div>
+        <nav aria-label="Page navigation example">
+          <ul class="pagination pagi justify-content-center">
+            <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+          </ul>
+        </nav>
     </div>
  
 
