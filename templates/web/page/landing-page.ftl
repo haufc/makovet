@@ -171,10 +171,10 @@
         MODAL SPINNERS
         ============================== -->
         <div class="modal fade" id="modal-spinner" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
-            <span class="fa fa-spinner fa-spin fa-3x"></span>
+            <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
+                <span class="fa fa-spinner fa-spin fa-3x"></span>
+            </div>
         </div>
-        
         <!--Modal Video-->
         <div id="videoModal" class="modal">
           <span class="close">&times;</span>
