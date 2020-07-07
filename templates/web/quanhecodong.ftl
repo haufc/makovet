@@ -11,7 +11,7 @@
             	<#list posts as aPost>
                     <div class="job-item">
                         <a class="violet-color font-weight-bold" href="${aPost.url}" class="d-block">${aPost.title}</a>
-                        <p class="violet-color">(${aPost.time})</p>
+                        <p class="violet-color">(${aPost.time?date?string('dd/MM/yyyy')})</p>
                     </div>
                 </#list>
             </#if>
