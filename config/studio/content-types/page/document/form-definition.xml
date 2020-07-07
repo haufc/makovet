@@ -173,7 +173,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value></value>
+							<value>section</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -302,7 +302,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>imageBannerUpload,imageBannerExisting</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -432,6 +432,37 @@
 						<property>
 							<name>type</name>
 							<value>/component/headerslide</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>img-desktop-upload</type>
+					<id>imageBannerUpload</id>
+					<title>Image Banner Upload</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/images/libraries/documents</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>img-repository-upload</type>
+					<id>imageBannerExisting</id>
+					<title>Image Banner Existing</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/images/libraries/documents</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>useSearch</name>
+							<value>false</value>
 								<type>undefined</type>
 						</property>
 					</properties>
