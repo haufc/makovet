@@ -174,9 +174,7 @@
                     $(modal).css('display', 'block');
                     $(modalImg).attr('src', $(this).attr('src'));
                     $(caption).text($(this).attr('alt'));
-                    if ( 5 < i && i < 9) {
-                        $('.logos').css('display', 'none');
-                    }
+                    $('.logos').css('display', 'none');
                 });
             }
             var spanClose = $('.close');
