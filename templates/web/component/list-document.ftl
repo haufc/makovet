@@ -3,9 +3,19 @@
 	    <div class="row">
 	        <#if (docs)??>
                 <#list docs as doc>
-                	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-                	   <a href="${doc.url}"><img src="${doc.avatar}"/></a>
+                	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6" style="position: relative;">
+                	   <figure style="width: 100%; height: 256.757px;">
+                          <a href="${doc.url}">
+                            <img style="height: 100%;object-fit: cover;width: 100%;" src="${doc.avatar}"/>
+                          </a>
+                        </figure>
+                        <div class="cap-content" style="background: #322372;left: 3%;bottom:0;position: absolute;width: 93.5%;">
+                            <a  href="${doc.url}">
+                                <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${doc.title}</h3>
+                            </a>
+                        </div>
                 	</div>
+                	
                 </#list>
             </#if>
 	    </div>
