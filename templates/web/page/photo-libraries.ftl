@@ -36,7 +36,7 @@
             <div class="container">
                 <div class="row">
                     <#list contentModel.listphoto_o.item as photo>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 zoom">
                             <figure>
                               <img class="img-full" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
                               <figcaption class="mt-3">${photo.photoName_s}</figcaption>
