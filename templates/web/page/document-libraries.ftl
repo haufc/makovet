@@ -55,7 +55,7 @@
             <div class="container">
                 <div class="row" id ="panigation-photo">
                    <#list contentModel.document_o.item as doc>
-                        ${doc.pDF_o.item}
+                        ${doc.pDF_o}
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <div class="item-box" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
