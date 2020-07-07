@@ -168,11 +168,15 @@
                     $(modal).css('display', 'block');
                     $(modalImg).attr('src', $(this).attr('src'));
                     $(caption).text($(this).attr('alt'));
+                    if ( 5 < i && i < 9) {
+                        $('.logos').css('display', 'none');
+                    }
                 });
             }
             var spanClose = $('.close');
             $(spanClose).click(function() {
                 $(modal).css('display', 'none');
+                $('.logos').css('display', 'block');
             });
         });
     </script>
