@@ -14,10 +14,4 @@
  
 
 </div>
-<style>
-.page-link{
-    border-radius :50% !important;
-    margin: 0 5px;
-}
-</style>
 <@studio.toolSupport />
