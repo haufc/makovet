@@ -53,6 +53,8 @@
                 </div>
             </div>
             <div class="container">
+            
+                <div id="custom-menu"></div>
                 <div id="mybook">
                     <#list contentModel.document_o.item as doc>
                         <div class="page-${doc?index}">
@@ -88,7 +90,8 @@
                 width:  '100%',
                 height: 600,
                 menu: '#custom-menu',
-                pageSelector: true
+                pageSelector: true,
+                chapterSelector: true,
             });
         });
     </script>
