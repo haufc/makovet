@@ -58,7 +58,7 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <div class="item-box" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
-                                 <span class="play-icon"><i class="fa fa-play-circle"></i></span>
+                                 <span class="play-icon"><i class="fa fa-play-circle text-white"></i></span>
                                   <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
                                     <img style="height: 100%;object-fit: cover;width: 100%;" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
                                   </a>
