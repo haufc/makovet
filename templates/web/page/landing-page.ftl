@@ -227,6 +227,7 @@
                 $(modal).css('display', 'none');
                 $('.logos').css('display', 'block');
                 $(modalVideo).html('');
+                window.location.reload();
             });
         });
     </script>
