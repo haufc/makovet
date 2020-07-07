@@ -16,6 +16,10 @@
     
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
+    
+    <!-- fancybox -->
+    <link rel="stylesheet" href="/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+    
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <script src="/static-assets/js/pagination.js"></script>
@@ -126,7 +130,7 @@
                     <#list contentModel.listphoto_o.item as photo>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <figure>
-                              <img class="img-full" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
+                              <a class="single_image" <img class="img-full" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/></a>
                               <figcaption class="mt-3" id="cap-${photo?index}">${photo.photoName_s}</figcaption>
                             </figure>
                         </div>
@@ -154,6 +158,8 @@
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
     <script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <script type="text/javascript" src="/fancybox/jquery.easing-1.4.pack.js"></script>
+    <script type="text/javascript" src="/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
@@ -161,7 +167,8 @@
     <script src="/static-assets/js/photos.js"></script>
     <script>
         $(document).ready(function(){
-            var lengthImg = $('.row').children().length;
+            $("a.single_image").fancybox();
+           <#-- var lengthImg = $('.row').children().length;
             var modal = $('#myModal');
             var modalImg = $('#img01');
             var caption = $('#caption');
@@ -184,7 +191,8 @@
                 $(modal).css('display', 'none');
                 $('.logos').css('display', 'block');
                 $('.page-item').css('display', 'block');
-            });
+            }); -->
+            
         });
     </script>
   </body>
