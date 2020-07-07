@@ -6,7 +6,8 @@ $(document).ready(function(){
     var limitPerPage = 5;
     
     $("#panigation-relation3 .relation3:gt(" + (limitPerPage -1 )+")").hide();
-    totalPages1 =  Math.round(numberOfRelation1 / limitPerPage ) + 1;
+    totalPages1 =  Math.round(numberOfRelation1 / limitPerPage ) ;
+    
     $('.pagi3').append("<li class='page-item current-page active'><a a style='background-color: #322372 !important' class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
     
     for (let i=2; i<= totalPages1;i++){
