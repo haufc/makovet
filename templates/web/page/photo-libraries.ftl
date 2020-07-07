@@ -187,6 +187,14 @@
             var modalImg = $('#img01');
             var caption = $('#caption');
             for(let i = 0; i < lengthImg; i++) {
+                if (i == 0) {
+                    $('#prev').css('display', 'none');   
+                }
+                
+                if (i == (lengthImg - 1)) {
+                    $('#next').css('display', 'none');
+                }
+                
                 let id = "#img-" + i;
                 let capId = "#cap-" + i;
                 var img = $(id);
