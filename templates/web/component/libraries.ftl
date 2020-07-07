@@ -34,9 +34,9 @@
                         <div class="col-md-1">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold" style="font-size: 20px;position: absolute;top: 35%">${contentModel.videoTitle_s}</h3>
                         </div>
-                        <div class="col-md-5">
-                            <img id="video-1" class="products__img img-full" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
-                            <div class="item-box" style="position: relative;">
+                        <div class="col-md-5" style="position: relative;">
+                            <#--<img id="video-1" class="products__img img-full" src="${contentModel.photoAvatar1_s}" alt="Product image"/> -->
+                            <#--<div class="item-box" style="position: relative;"> -->
                                 <figure style="width: 100%; height: 256.757px;">
                                   <a data-fancybox data-small-btn="true" href="#">
                                     <span class="play-icon"><i class="fa fa-play-circle text-white"></i></span>
@@ -50,7 +50,7 @@
                                         <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">Hau dep trai</h3>
                                     </a>
                                 </div>
-                            </div>
+                            <#--</div> -->
                         </div>
                         <div class="col-md-5">
                            <img id="video-2" class="products__img img-full" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
