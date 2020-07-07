@@ -528,7 +528,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>videoBannerUpload,videoBannerExisting</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -576,7 +576,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>videoBannerUpload,videoBannerExisting</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
