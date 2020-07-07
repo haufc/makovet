@@ -210,12 +210,13 @@
             var srcvideo1 = $('#srcVideo1').val();
             var srcvideo2 = $('#srcVideo2').val();
             
-            $('#video-1').click(function()) {
+            $('#video-1').click(function() {
                 $(modal).css('display', 'block');
                 $(modalVideo).find("source").attr("src", srcvideo1);
                 $('.logos').css('display', 'none');
                 
-            }
+            });
+            
             var spanClose = $('.close');
             $(spanClose).click(function() {
                 $(modal).css('display', 'none');
