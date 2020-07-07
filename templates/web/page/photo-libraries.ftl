@@ -175,14 +175,14 @@
                     $(modalImg).attr('src', $(this).attr('src'));
                     $(caption).text($(this).attr('alt'));
                     $('.logos').css('display', 'none');
-                    $('.pagi').css('display', 'none');
+                    //$('.pagi').css('display', 'none');
                 });
             }
             var spanClose = $('.close');
             $(spanClose).click(function() {
                 $(modal).css('display', 'none');
                 $('.logos').css('display', 'block');
-                $('.pagi').css('display', 'block');
+                //$('.pagi').css('display', 'block');
             });
         });
     </script>
