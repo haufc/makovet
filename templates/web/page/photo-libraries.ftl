@@ -128,7 +128,7 @@
                     <#list contentModel.listphoto_o.item as photo>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <figure>
-                              <a class="single_image" <img class="img-full" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/></a>
+                              <img class="img-full" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
                               <figcaption class="mt-3" id="cap-${photo?index}">${photo.photoName_s}</figcaption>
                             </figure>
                         </div>
@@ -163,7 +163,7 @@
     <script>
         $(document).ready(function(){
             $("a.single_image").fancybox();
-           <#-- var lengthImg = $('.row').children().length;
+            var lengthImg = $('.row').children().length;
             var modal = $('#myModal');
             var modalImg = $('#img01');
             var caption = $('#caption');
@@ -186,7 +186,7 @@
                 $(modal).css('display', 'none');
                 $('.logos').css('display', 'block');
                 $('.page-item').css('display', 'block');
-            }); -->
+            });
             
         });
     </script>
