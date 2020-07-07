@@ -16,12 +16,12 @@ class NewsSearchHelper{
     def elasticsearch
     UrlTransformationService UrlTransformationService
     
-    NewsSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
+    RelationSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
         this.elasticsearch = elasticsearch
         this.urlTransformationService = urlTransformationService
     }
     
-    def searchNews(categories, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null){
+    def searchRelation(categories, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null){
         def q = "${NEWS_CONTENT_TYPE}"
         if(categories){
             def categoriesQuery = getFieldQueryWithMultipleValues("categories_o.item.key",categories)
@@ -41,12 +41,12 @@ class NewsSearchHelper{
         def result = elasticsearch.search(new SearchRequest().source(builder))
 
         if(result){
-            return processNewsListingResults(result)
+            return processRelationListingResults(result)
         }else{
             return[]
         }
     }
-    def processNewsListingResults(result){
+    def processRelationListingResults(result){
         def posts = []
         def documents = result.hits.hits*.getSourceAsMap()
         if (documents){
@@ -60,7 +60,7 @@ class NewsSearchHelper{
             }
         }
         
-        return news
+        return posts
     }
     
     private def getFieldQueryWithMultipleValues(field, values) {
