@@ -83,7 +83,10 @@
     <script>
         $(function() {
             //single book
-            $('#mybook').booklet();
+            $('#mybook').booklet({
+                width:  '100%',
+                height: 600;
+            });
         });
     </script>
   </body>
