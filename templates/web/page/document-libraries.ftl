@@ -53,6 +53,14 @@
                 </div>
             </div>
             <div class="container">
+            
+                <div id="mybook">
+                    <#list contentModel.document_o.item as doc>
+                        <div class="page-${doc?index}">
+                            ${doc.pageItemContent_html}
+                        </div>
+                    </#list>
+                </div>
                 <div class="row" id ="panigation-photo">
                    
                 </div>
