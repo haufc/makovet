@@ -219,6 +219,16 @@
                 $(modalImg).attr('alt', $(resulId).attr('id'));
                 srcIm = $(modalImg).attr('alt');
             });
+            
+            $('#prev').click(function() {
+                let srcIm =  $(modalImg).attr('alt');
+                let id = srcIm.split('-');
+                let resulId = "#img-" + (parseInt(id[1]) - 1);
+               
+                $(modalImg).attr('src', $(resulId).attr('src'));
+                $(modalImg).attr('alt', $(resulId).attr('id'));
+                srcIm = $(modalImg).attr('alt');
+            });
         });
     </script>
   </body>
