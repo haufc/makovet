@@ -31,11 +31,11 @@
         </div>
     </div>
     <div class="container">
-	    <div id ="">
+	    <div id ="panigation-relation4">
             <#if (posts)??>
             	<#list posts as aPost>
             	    <#if aPost.category = "announcement">
-                    <div class="job-item">
+                    <div class="relation4">
                         <a class="violet-color font-weight-bold" style="font-size: 22px" href="${aPost.url}" class="d-block">${aPost.title}</a>
                         <p style="line-height: 1.5;  font-size: 16px; color: #636466; font-weight: 100;">(${aPost.time?date?string('dd/MM/yyyy')})</p>
                     </div>
@@ -44,8 +44,8 @@
             </#if>
         </div>
         <nav aria-label="Page navigation example">
-          <ul class="pagination pagi justify-content-center">
-            <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+          <ul class="pagination pagi4 justify-content-center">
+            <li id="previous-page4" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
         </nav>
     </div>
