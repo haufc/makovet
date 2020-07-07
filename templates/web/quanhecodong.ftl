@@ -18,7 +18,7 @@
                 </#list>
             </#if>
         </div>
-        <nav aria-label="Page navigation example">
+        <nav aria-label="Page navigation example" style="margin-bottom: 20px;">
           <ul class="pagination pagi3 justify-content-center">
             <li id="previous-page3" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
