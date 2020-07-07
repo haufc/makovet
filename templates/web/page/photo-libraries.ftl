@@ -144,7 +144,13 @@
         <!-- The Modal -->
         <div id="myModal" class="modal">
           <span class="close">&times;</span>
+          <a href="#" id="prev">
+            <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
+          </a>
           <img class="modal-content" id="img01">
+          <a href="#" id="nex">
+            <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+          </a>
           <div id="caption"></div>
         </div>
     </main>
