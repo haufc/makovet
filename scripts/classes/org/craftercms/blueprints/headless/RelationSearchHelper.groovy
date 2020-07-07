@@ -53,7 +53,7 @@ class RelationSearchHelper{
             documents.each { doc ->
                 def aPost = [:]
                     aPost.title = doc.title_s
-                    aPost.content = doc.content_html
+                    aPost.time = doc.date_dt?date?string('dd/MM/yyyy')
                     aPost.category = doc.categories_o.item.key
                     aPost.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 posts << aPost
