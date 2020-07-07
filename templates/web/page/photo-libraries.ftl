@@ -20,6 +20,26 @@
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+        
+        .zoom {
+          padding: 50px;
+          background-color: green;
+          transition: transform .2s;
+          width: 200px;
+          height: 200px;
+          margin: 0 auto;
+        }
+        
+        .zoom:hover {
+          -ms-transform: scale(1.5); /* IE 9 */
+          -webkit-transform: scale(1.5); /* Safari 3-8 */
+          transform: scale(1.5); 
+        }
+    </style>
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
