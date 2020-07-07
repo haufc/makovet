@@ -178,7 +178,7 @@
         <!--Modal Video-->
         <div id="videoModal" class="modal">
           <span class="close">&times;</span>
-          <video class="modal-content" controls id="video01">
+          <video style="height: 80%;" class="modal-content" controls id="video01">
               
           </video>
         </div>
