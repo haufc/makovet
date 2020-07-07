@@ -345,7 +345,6 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
-    <script src="/static-assets/js/photos.js"></script>
   </body>
 </html>
 <@studio.toolSupport /> 
