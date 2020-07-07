@@ -10,9 +10,9 @@
             <#if (posts)??>
             	<#list posts as aPost>
             	    <#if aPost.category = "announcement">
-                    <div class="job-item">
+                    <div class="">
                         <a class="violet-color font-weight-bold" href="${aPost.url}" class="d-block">${aPost.title}</a>
-                        <p class="violet-color">(${aPost.time?date?string('dd/MM/yyyy')})</p>
+                        <p style="line-height: 1.5;  font-size: 20px; color: #636466; font-weight: 100;">(${aPost.time?date?string('dd/MM/yyyy')})</p>
                     </div>
                     </#if>
                 </#list>
@@ -37,7 +37,7 @@
             	    <#if aPost.category = "announcement">
                     <div class="job-item">
                         <a class="violet-color font-weight-bold" href="${aPost.url}" class="d-block">${aPost.title}</a>
-                        <p class="violet-color">(${aPost.time?date?string('dd/MM/yyyy')})</p>
+                        <p style="line-height: 1.5;  font-size: 20px; color: #636466; font-weight: 100;">(${aPost.time?date?string('dd/MM/yyyy')})</p>
                     </div>
                     </#if>
                 </#list>
