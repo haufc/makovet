@@ -7,12 +7,12 @@
 	<objectGroupId>2da6259d</objectGroupId>
 	<objectId>2da6259d-1262-4546-be0e-705247aa7260</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>mkv-cong-bo-d9250fbf</folder-name>
-	<internal-name>MKV công bố báo cáo tài chính quý 1 năm 2020 d9250fbf</internal-name>
+	<folder-name>cong-bo-thong-tin</folder-name>
+	<internal-name>Công bố thông tin Công văn về việc chấp thuận gia hạn thời gian tổ chức Đại hội đồng cổ đông thường niên 2020 đến trước ngày 30/06/2020</internal-name>
 	<navLabel>Công bố Nghị Quyết Hội đồng quản trị về việc tổ ch</navLabel>
-	<title_s>MKV công bố báo cáo tài chính quý 1 năm 2020</title_s>
+	<title_s>Công bố thông tin Công văn về việc chấp thuận gia hạn thời gian tổ chức Đại hội đồng cổ đông thường niên 2020 đến trước ngày 30/06/2020</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</key>
 	<value>Header - Đại hội đồng cổ đông </value>
 	<include>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</include>
@@ -28,8 +28,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-07T04:34:44.805Z</createdDate>
 	<createdDate_dt>2020-07-07T04:34:44.805Z</createdDate_dt>
-	<lastModifiedDate>2020-07-07T05:04:33.165Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-07T05:04:33.165Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-07T06:53:06.001Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T06:53:06.001Z</lastModifiedDate_dt>
 	<date_dt>2020-07-07T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
 </page>
