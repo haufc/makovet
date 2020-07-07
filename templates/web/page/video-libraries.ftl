@@ -44,9 +44,9 @@
                                     <img class="img-full" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
                                   </a>
                                 </figure>
-                                <div class="cap-content" style="background: #322372;left: 0;padding: 8px 15px 5px;position: absolute;width: 100%;">
+                                <div class="cap-content" style="background: #322372;left: 0;bottom:0; padding: 8px 15px 5px;position: absolute;width: 100%;">
                                     <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                                        <h3>${video.videoName_s}</h3>
+                                        <h3 class="video-name">${video.videoName_s}</h3>
                                     </a>
                                 </div>
                             </div>
@@ -74,6 +74,15 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
+    <script>
+        $(document).ready(function() {
+           var videoName = $('.video-name').text();
+           if (videoName.length > 36) {
+               videoName = videoName.slice(0, 33);
+           }
+           $('#video-name').text(videoName + '...');
+        });
+    </script>
   </body>
 </html>
 <@studio.toolSupport /> 
