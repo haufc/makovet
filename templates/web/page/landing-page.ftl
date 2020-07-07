@@ -205,7 +205,6 @@
     </script>
     <script>
         $(document).ready(function(){
-            var lengthImg = $('.row').children().length;
             var modal = $('#videoModal');
             var modalVideo = $('#video01');
             var srcvideo1 = $('#srcVideo1').val();
