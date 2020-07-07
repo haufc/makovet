@@ -187,18 +187,6 @@
             var modalImg = $('#img01');
             var caption = $('#caption');
             for(let i = 0; i < lengthImg; i++) {
-                if (i == 0) {
-                    $('#prev').css('display', 'none');   
-                } else {
-                    $('#prev').css('display', 'block');   
-                }
-                
-                if (i == (lengthImg - 1)) {
-                    $('#next').css('display', 'none');
-                } else {
-                    $('#next').css('display', 'block');
-                }
-                
                 let id = "#img-" + i;
                 let capId = "#cap-" + i;
                 var img = $(id);
@@ -206,6 +194,18 @@
                 var currentImg = 0;
                 
                 $(img).click(function() {
+                    if (i == 0) {
+                        $('#prev').css('display', 'none');   
+                    } else {
+                        $('#prev').css('display', 'block');   
+                    }
+                    
+                    if (i == (lengthImg - 1)) {
+                        $('#next').css('display', 'none');
+                    } else {
+                        $('#next').css('display', 'block');
+                    }
+                    
                     $(modal).css('display', 'block');
                     $(modalImg).attr('src', $(this).attr('src'));
                     $(modalImg).attr('alt', $(this).attr('id'));
