@@ -143,8 +143,11 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <figure>
                               <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                              <img class="img-full" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
-                              <figcaption class="mt-3" id="cap-${video?index}">${video.videoName_s}</figcaption>
+                                <img class="img-full" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
+                              </a>
+                              <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
+                                <figcaption class="mt-3" id="cap-${video?index}">${video.videoName_s}</figcaption>
+                              </a>
                             </figure>
                         </div>
                     </#list>
