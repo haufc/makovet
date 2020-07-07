@@ -378,7 +378,7 @@
 						</property>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/site/items/slides</value>
 								<type>undefined</type>
 						</property>
 						<property>
@@ -388,7 +388,7 @@
 						</property>
 						<property>
 							<name>type</name>
-							<value></value>
+							<value>/component/headerslide</value>
 								<type>undefined</type>
 						</property>
 					</properties>
