@@ -52,17 +52,18 @@
                     <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
                 </div>
             </div>
-            <div id="mybook">
-                <#list contentModel.document_o.item as doc>
-                    <div class="page-${doc?index}">
-                        ${doc.pageItemContent_html}
-                    </div>
-                </#list>
+            <div class="container">
+                <div id="mybook">
+                    <#list contentModel.document_o.item as doc>
+                        <div class="page-${doc?index}">
+                            ${doc.pageItemContent_html}
+                        </div>
+                    </#list>
+                </div>
             </div>
         </div>
     </main>
-    <div id="my_flip_book">
-    </div>
+
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
