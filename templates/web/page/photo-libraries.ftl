@@ -153,28 +153,29 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script>
-    $(document).ready(function(){
-        var lengthImg = $('.row').children().length;
-        var modal = $('#myModal');
-        var modalImg = $('#img01');
-        var caption = $('#caption');
-        for(let i = 0; i < lengthImg; i++) {
-            let id = "#img-" + i;
-            let capId = "#cap-" + i;
-            var img = $(id);
-            var cap = $(capId);
-            
-            $(img).click(function() {
-                $(modal).css('display', 'block');
-                $(modalImg).attr('src', $(this).attr('src'));
-                $(caption).text($(this).attr('alt'));
+        $(document).ready(function(){
+            var lengthImg = $('.row').children().length;
+            var modal = $('#myModal');
+            var modalImg = $('#img01');
+            var caption = $('#caption');
+            for(let i = 0; i < lengthImg; i++) {
+                let id = "#img-" + i;
+                let capId = "#cap-" + i;
+                var img = $(id);
+                var cap = $(capId);
+                
+                $(img).click(function() {
+                    $(modal).css('display', 'block');
+                    $(modalImg).attr('src', $(this).attr('src'));
+                    $(caption).text($(this).attr('alt'));
+                });
+            }
+            var spanClose = $('.close');
+            $(spanClose).click(function() {
+                $(modal).css('display', 'none');
             });
-        }
-        var spanClose = $('.close');
-        $(spanClose).click(function() {
-            $(modal).css('display', 'none');
         });
-    });
+    </script>
   </body>
 </html>
 <@studio.toolSupport /> 
