@@ -228,8 +228,10 @@
                 
                 if (parseInt(id[1]) == lengthImg - 1) {
                     $('#next').css('display', 'none');
+                    $('#prev').css('display', 'block');
                 } else {
                     $('#next').css('display', 'block');
+                    $('#prev').css('display', 'block');
                 }
                 
                 let resulId = "#img-" + (parseInt(id[1]) + 1);
@@ -245,8 +247,10 @@
                 
                 if (parseInt(id[1]) == 0) {
                     $('#prev').css('display', 'none');
+                    $('#next').css('display', 'block');
                 } else {
                     $('#prev').css('display', 'block');
+                    $('#next').css('display', 'block');
                 }
                 
                 let resulId = "#img-" + (parseInt(id[1]) - 1);
