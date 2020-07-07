@@ -1,5 +1,5 @@
 <content-type name="/component/quanhecodong" is-wcm-type="true">
-	<label>Component - Quan hệ cổ đônng</label>
+	<label>Component - Quan hệ cổ đông</label>
 	<form>/component/quanhecodong</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
