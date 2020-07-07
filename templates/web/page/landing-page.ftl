@@ -174,6 +174,13 @@
         <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
             <span class="fa fa-spinner fa-spin fa-3x"></span>
         </div>
+        
+        <!--Modal Video-->
+        <div id="videoModal" class="modal">
+          <span class="close">&times;</span>
+          <img class="modal-content" id="img01">
+          <div id="caption"></div>
+        </div>
     </main>
     
     <@renderComponent component=contentModel.slideLogo_o.item />
