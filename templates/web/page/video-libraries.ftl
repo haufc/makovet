@@ -41,7 +41,7 @@
                             <div class="item-box" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
                                   <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                                    <img class="img-full" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
+                                    <img style="height: 100%;object-fit: cover;width: 100%;" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
                                   </a>
                                 </figure>
                                 <div class="cap-content" style="background: #322372;left: 0;bottom:0;position: absolute;width: 100%;">
