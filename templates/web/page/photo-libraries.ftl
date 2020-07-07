@@ -103,6 +103,20 @@
           cursor: pointer;
         }
         
+        #next {
+            position: absolute;
+            top: 60%;
+            right: 15%;
+            font-size: 35px;
+        }
+        
+        #prev {
+             position: absolute;
+             top: 60%;
+             left: 15%;
+             font-size: 35px;
+        }
+        
         /* 100% Image Width on Smaller Screens */
         @media only screen and (max-width: 700px){
           .modal-content {
