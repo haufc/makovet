@@ -153,7 +153,6 @@
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
     <script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/logos.js"></script>
