@@ -53,7 +53,7 @@
                     <a class="nav__menu-link" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Hỗ trợ kỹ thuật</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="#">Quan hệ cổ đông</a>
+                    <a class="nav__menu-link" href="/quan-he-co-dong">Quan hệ cổ đông</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
