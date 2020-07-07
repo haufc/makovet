@@ -36,31 +36,31 @@
                         </div>
                         <div class="col-md-5" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
-                                  <a data-fancybox data-small-btn="true" href="#">
+                                  <a data-fancybox data-small-btn="true" href="${contentModel.videoURL1_s}">
                                     <span class="play-icon"><i class="fa fa-play-circle text-white"></i></span>
                                   </a>
-                                  <a data-fancybox data-small-btn="true" href="#">
-                                    <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.photoAvatar1_s}"/>
+                                  <a data-fancybox data-small-btn="true" href="${contentModel.videoURL1_s}">
+                                    <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.videoBanner_s}"/>
                                   </a>
                                 </figure>
                                 <div class="cap-content" style="background: #322372;left: 3%;bottom:0;position: absolute;width: 93.5%;">
-                                    <a data-fancybox data-small-btn="true" href="#">
-                                        <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">Hau dep trai</h3>
+                                    <a data-fancybox data-small-btn="true" href="${contentModel.videoURL1_s}">
+                                        <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${contentModel.namesVideo1_s}</h3>
                                     </a>
                                 </div>
                         </div>
                         <div class="col-md-5">
                            <figure style="width: 100%; height: 256.757px;">
-                                  <a data-fancybox data-small-btn="true" href="#">
+                                  <a data-fancybox data-small-btn="true" href="${contentModel.videoURL2_s}">
                                     <span class="play-icon"><i class="fa fa-play-circle text-white"></i></span>
                                   </a>
-                                  <a data-fancybox data-small-btn="true" href="#">
-                                    <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.photoAvatar1_s}"/>
+                                  <a data-fancybox data-small-btn="true" href="${contentModel.videoURL2_s}">
+                                    <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.videoBanner2_s}"/>
                                   </a>
                                 </figure>
                                 <div class="cap-content" style="background: #322372;left: 3%;bottom:0;position: absolute;width: 93.5%;">
-                                    <a data-fancybox data-small-btn="true" href="#">
-                                        <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">Hau dep trai</h3>
+                                    <a data-fancybox data-small-btn="true" href="${contentModel.videoURL2_s}">
+                                        <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${contentModel.namesVideo2_s}</h3>
                                     </a>
                                 </div>
                         </div>
