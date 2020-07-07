@@ -211,12 +211,14 @@
             var srcvideo2 = $('#srcVideo2').val();
             
             $('#video-1').click(function() {
+                $(modalVideo).html('<source src="#" type="video/mp4"></source>');
                 $(modal).css('display', 'block');
                 $(modalVideo).html('<source src="'+ srcvideo1 +'" type="video/mp4"></source>' );
                 $('.logos').css('display', 'none');
             });
             
             $('#video-2').click(function() {
+                $(modalVideo).html('<source src="#" type="video/mp4"></source>');
                 $(modal).css('display', 'block');
                 $(modalVideo).html('<source src="'+ srcvideo2 +'" type="video/mp4"></source>' );
                 $('.logos').css('display', 'none');
