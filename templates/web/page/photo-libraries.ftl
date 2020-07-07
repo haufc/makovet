@@ -211,7 +211,7 @@
             });
             
             $('#next').click(function() {
-                let srcIm =  $(modalImg).attr('id');
+                let srcIm =  $(modalImg).attr('alt');
                 let id = srcIm.split('-');
                 console.log(id);
                 //$(modalImg).attr('src', $(srcIm).attr('src'));
