@@ -54,25 +54,23 @@
             </div>
             <div class="container">
                 <div class="row" id ="panigation-photo">
-                   <#-- <#list contentModel.listVideo_o.item as video>
+                   <#list contentModel.document_o.item as doc>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <div class="item-box" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
-                                  <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                                    <span class="play-icon"><i class="fa fa-play-circle text-white"></i></span>
-                                  </a>
-                                  <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                                    <img style="height: 100%;object-fit: cover;width: 100%;" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
+                                 
+                                  <a data-fancybox data-small-btn="true" href="#">
+                                    <img style="height: 100%;object-fit: cover;width: 100%;" id="img-${doc?index}" src="${doc.banner_s}" alt="${doc.documentName_s}"/>
                                   </a>
                                 </figure>
                                 <div class="cap-content" style="background: #322372;left: 0;bottom:0;position: absolute;width: 100%;">
-                                    <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                                        <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${video.videoName_s}</h3>
+                                    <a data-fancybox data-small-btn="true" href="#">
+                                        <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${doc.documentName_s}</h3>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </#list> -->
+                    </#list>
                 </div>
                 <nav aria-label="Page navigation example">
                     <ul class="pagination pagi justify-content-center">
