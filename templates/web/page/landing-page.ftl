@@ -179,8 +179,8 @@
         <div id="videoModal" class="modal">
           <span class="close">&times;</span>
           <video class="modal-content" controls id="video01">
-              <source src="movie.mp4" type="video/mp4">
-            </video>
+              
+          </video>
         </div>
     </main>
     
@@ -214,7 +214,7 @@
                 $(modal).css('display', 'block');
                 $(modalVideo).find("source").attr("src", srcvideo1);
                 $('.logos').css('display', 'none');
-                
+                $(this).html('<source src="'+ srcvideo1 +'" type="video/mp4"></source>' );
             });
             
             var spanClose = $('.close');
