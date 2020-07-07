@@ -8,7 +8,7 @@ import org.elasticsearch.search.builder.SearchSourceBuilder
 import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
-class NewsSearchHelper{
+class RelationSearchHelper{
     static final String NEWS_CONTENT_TYPE ="content-type:\"/page/quanhecodongdetail\" "
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS  = 1000
