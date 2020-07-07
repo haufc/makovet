@@ -32,13 +32,13 @@ $(document).ready(function(){
             }
         }
     });
-    
+        
     $("#next-page3").on("click", function() {
-      var currentPage = $(".pagi3 li.active").index(); 
-      if (currentPage === totalPages) {
+      var currentPage = $(".pagination li.active").index(); 
+      if (currentPage === totalPages1) {
         return false; 
       } else {
-        $('.pagi3 *').removeAttr('style');
+          $('.pagi3 *').removeAttr('style');
         currentPage++; 
         $(".pagi3 li").removeClass('active'); 
         $("#panigation-relation3 .relation3").hide();
@@ -50,7 +50,7 @@ $(document).ready(function(){
         $(".pagi3 li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
         $(".pagi3 li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
       }
-    });
+});
     
     $("#previous-page3").on("click", function() {
           var currentPage = $(".pagi3 li.active").index(); 
