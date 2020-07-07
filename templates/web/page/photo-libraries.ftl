@@ -226,7 +226,7 @@
                 let srcIm =  $(modalImg).attr('alt');
                 let id = srcIm.split('-');
                 
-                if ((parseInt(id[1]) == lengthImg - 1) {
+                if (parseInt(id[1]) == lengthImg - 1) {
                     $('#next').css('display', 'none');
                 } else {
                     $('#next').css('display', 'block');
@@ -243,7 +243,7 @@
                 let srcIm =  $(modalImg).attr('alt');
                 let id = srcIm.split('-');
                 
-                if ((parseInt(id[1]) == 0) {
+                if (parseInt(id[1]) == 0) {
                     $('#prev').css('display', 'none');
                 } else {
                     $('#prev').css('display', 'block');
