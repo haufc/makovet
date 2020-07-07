@@ -122,9 +122,9 @@
                 </div>
             </div>
             <div class="container">
-                <div class="row">
+                <div class="row" id ="panigation-photo">
                     <#list contentModel.listphoto_o.item as photo>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <figure>
                               <img class="img-full" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
                               <figcaption class="mt-3" id="cap-${photo?index}">${photo.photoName_s}</figcaption>
@@ -132,6 +132,11 @@
                         </div>
                     </#list>
                 </div>
+                <nav aria-label="Page navigation example">
+                    <ul class="pagination pagi justify-content-center">
+                        <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
+                    </ul>
+                </nav>
             </div>
         </div>
         <!-- The Modal -->
@@ -152,6 +157,7 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
+    <script src="/static-assets/js/photos.js"></script>
     <script>
         $(document).ready(function(){
             var lengthImg = $('.row').children().length;
