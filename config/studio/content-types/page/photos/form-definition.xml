@@ -345,7 +345,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value> /static-assets/images/libraries/photos</value>
 								<type>undefined</type>
 						</property>
 						<property>
