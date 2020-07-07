@@ -1,10 +1,10 @@
 $(document).ready(function(){
     // Panigation list product
     
-    var numberOfRelation1 = $("#panigation-relation1 .relation1").length;
+    var numberOfRelation1 = $("#panigation-relation3 .relation1").length;
     var limitPerPage = 5;
     
-    $("#panigation-relation1 .relation1:gt(" + (limitPerPage -1 )+")").hide();
+    $("#panigation-relation3 .relation1:gt(" + (limitPerPage -1 )+")").hide();
     
     var totalPages;
     if ((numberOfRelation1 / limitPerPage) % 2 == 0) {
