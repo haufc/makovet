@@ -41,7 +41,7 @@ $(document).ready(function(){
     });
     
     $("#next-page3").on("click", function() {
-      var currentPage = $(".pagination li.active").index(); 
+      var currentPage = $(".pagi3 li.active").index(); 
       if (currentPage === totalPages) {
         return false; 
       } else {
