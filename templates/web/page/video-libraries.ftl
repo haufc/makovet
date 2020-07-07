@@ -95,6 +95,7 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
+    <script src="/static-assets/js/video.js"></script>
     <script>
         $(document).ready(function() {
            var videoName = $('.video-name').text();
