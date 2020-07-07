@@ -178,8 +178,9 @@
         <!--Modal Video-->
         <div id="videoModal" class="modal">
           <span class="close">&times;</span>
-          <img class="modal-content" id="img01">
-          <div id="caption"></div>
+          <video class="modal-content" controls id="video01">
+              <source src="movie.mp4" type="video/mp4">
+            </video>
         </div>
     </main>
     
@@ -197,10 +198,31 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/contact.js"></script>
-    <script src="/static-assets/js/video-modal.js">
+    <script src="/static-assets/js/video-modal.js"></script>
     <script>
         // set width for google map
         $('iframe').attr('width','83%');
+    </script>
+    <script>
+        $(document).ready(function(){
+            var lengthImg = $('.row').children().length;
+            var modal = $('#videoModal');
+            var modalVideo = $('#video01');
+            var srcvideo1 = $('#srcVideo1').val();
+            var srcvideo2 = $('#srcVideo2').val();
+            
+            $('#video-1').click(function()) {
+                $(modal).css('display', 'block');
+                $(modalVideo).find("source").attr("src", srcvideo1);
+                $('.logos').css('display', 'none');
+                
+            }
+            var spanClose = $('.close');
+            $(spanClose).click(function() {
+                $(modal).css('display', 'none');
+                $('.logos').css('display', 'block');
+            });
+        });
     </script>
   </body>
 </html>
