@@ -14,7 +14,7 @@ $(document).ready(function(){
     } else {
         totalPages1 =  Math.round(numberOfRelation1 / limitPerPage ) + 1;
     }
-    
+    console.log(totalPages1);
     $('.pagi3').append("<li class='page-item current-page active'><a a style='background-color: #322372 !important' class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
     
     for (let i=2; i<= totalPages1;i++){
