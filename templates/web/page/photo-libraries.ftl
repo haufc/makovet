@@ -225,6 +225,13 @@
             $('#next').click(function() {
                 let srcIm =  $(modalImg).attr('alt');
                 let id = srcIm.split('-');
+                
+                if ((parseInt(id[1]) == lengthImg - 1) {
+                    $('#next').css('display', 'none');
+                } else {
+                    $('#next').css('display', 'block');
+                }
+                
                 let resulId = "#img-" + (parseInt(id[1]) + 1);
                
                 $(modalImg).attr('src', $(resulId).attr('src'));
@@ -235,6 +242,13 @@
             $('#prev').click(function() {
                 let srcIm =  $(modalImg).attr('alt');
                 let id = srcIm.split('-');
+                
+                if ((parseInt(id[1]) == 0) {
+                    $('#prev').css('display', 'none');
+                } else {
+                    $('#prev').css('display', 'block');
+                }
+                
                 let resulId = "#img-" + (parseInt(id[1]) - 1);
                
                 $(modalImg).attr('src', $(resulId).attr('src'));
