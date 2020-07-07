@@ -20,19 +20,6 @@
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <style>
-        * {
-          box-sizing: border-box;
-        }
-        .zoom {
-          transition: transform .2s;
-        }
-        .zoom:hover {
-          -ms-transform: scale(1.5); /* IE 9 */
-          -webkit-transform: scale(1.5); /* Safari 3-8 */
-          transform: scale(1.5); 
-        }
-    </style>
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
@@ -49,7 +36,7 @@
             <div class="container">
                 <div class="row">
                     <#list contentModel.listphoto_o.item as photo>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 zoom">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5">
                             <figure>
                               <img class="img-full" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
                               <figcaption class="mt-3">${photo.photoName_s}</figcaption>
