@@ -13,8 +13,8 @@
                 <img class="banner-img" src="${contentModel.groupProductImg2_s}"/>
             </div>
         </div>
-        <hr class="line-hozital"/>
-        <hr class="line-hozital"/>
+        <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 4%;"/>
+        <hr class="line-hozital"style="margin-bottom: 4%; margin-top: 0;"/>
         <div class="row">
             <#list contentModel.groupproductchild_o.item as item>
             	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">

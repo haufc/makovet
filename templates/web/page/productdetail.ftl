@@ -49,10 +49,10 @@
                     <h1 class="text--uppercase violet-color">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
-                    <div class="col-lg -12 col-md-12 row p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
+                    <div class="col-lg -12 col-md-12 row row-cols-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
                         <#if (productOther)??>
                             <#list productOther as item>
-                                <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 product-item">
+                                <div class="col product-item">
                                     <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
                                     <p class="text-center violet-color font-weight-bold mt-3">${item.title}</p>
                                 </div>
@@ -111,10 +111,10 @@
            }
         }
         
-        var prItem = $('#panigation-product').children();
-        for(let i = 0; i < prItem.length - 1; i++) {
-            $(prItem[i]).css('margin-right', '3.33%');
-        }
+        //var prItem = $('#panigation-product').children();
+        //for(let i = 0; i < prItem.length - 1; i++) {
+        //    $(prItem[i]).css('margin-right', '3.33%');
+        //}
     });
     
     $('body').find('strong').addClass('violet-color');
