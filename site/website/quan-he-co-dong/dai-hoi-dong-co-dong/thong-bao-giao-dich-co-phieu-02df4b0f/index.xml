@@ -7,12 +7,12 @@
 	<objectGroupId>d8a75609</objectGroupId>
 	<objectId>d8a75609-95ce-408b-bb83-149921876f63</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>thong-bao-giao-dich-co-phieu-02df4b0f</folder-name>
-	<internal-name>Thông báo giao dịch cổ phiếu nội bộ 02df4b0f</internal-name>
+	<folder-name>thong-bao-ve-ngay-dang-ki</folder-name>
+	<internal-name>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2020</internal-name>
 	<navLabel>Thông báo giao dịch cổ phiếu nội bộ</navLabel>
-	<title_s>Thông báo giao dịch cổ phiếu nội bộ</title_s>
+	<title_s>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2020</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</key>
 	<value>Header - Đại hội đồng cổ đông </value>
 	<include>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</include>
@@ -28,8 +28,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-07T04:34:44.805Z</createdDate>
 	<createdDate_dt>2020-07-07T04:34:44.805Z</createdDate_dt>
-	<lastModifiedDate>2020-07-07T07:04:13.213Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-07T07:04:13.213Z</lastModifiedDate_dt>
-	<date_dt>2020-07-03T04:00:00.000Z</date_dt>
+	<lastModifiedDate>2020-07-07T07:06:07.664Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T07:06:07.664Z</lastModifiedDate_dt>
+	<date_dt>2020-07-04T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
 </page>
