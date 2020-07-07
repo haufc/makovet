@@ -34,7 +34,7 @@
 	    <div id ="panigation-relation4">
             <#if (posts)??>
             	<#list posts as aPost>
-            	    <#if aPost.category = "announcement">
+            	    <#if aPost.category = "shareholders">
                     <div class="relation4">
                         <a class="violet-color font-weight-bold" style="font-size: 22px" href="${aPost.url}" class="d-block">${aPost.title}</a>
                         <p style="line-height: 1.5;  font-size: 16px; color: #636466; font-weight: 100;">(${aPost.time?date?string('dd/MM/yyyy')})</p>
