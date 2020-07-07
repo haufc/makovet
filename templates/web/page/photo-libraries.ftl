@@ -213,9 +213,9 @@
             $('#next').click(function() {
                 let srcIm =  $(modalImg).attr('alt');
                 let id = srcIm.split('-');
-                let resulId = "img-" + (parseInt(id[1]) + 1);
-                console.log(resulId);
-                //$(modalImg).attr('src', $(srcIm).attr('src'));
+                let resulId = "#img-" + (parseInt(id[1]) + 1);
+               
+                $(modalImg).attr('src', $(resulId).attr('src'));
             });
         });
     </script>
