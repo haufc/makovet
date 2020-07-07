@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="container">
-                <div class="sick-title" style="background-color:#FFCB08">
+                <div class="doc-title ml-lg-2" style="background-color:#FFCB08;width:100%;">
                     <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
                 </div>
                 <div id="mybook">
