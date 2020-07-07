@@ -41,7 +41,7 @@ class RelationSearchHelper{
         def result = elasticsearch.search(new SearchRequest().source(builder))
 
         if(result){
-            return processNewsListingResults(result)
+            return processRelationListingResults(result)
         }else{
             return[]
         }
