@@ -41,12 +41,12 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
@@ -69,13 +69,23 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
@@ -185,7 +195,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594091782677</title>
+			<title>Content</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
@@ -200,12 +210,12 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
