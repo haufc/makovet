@@ -442,7 +442,7 @@
 						</property>
 						<property>
 							<name>type</name>
-							<value></value>
+							<value>/component/headerslide</value>
 								<type>undefined</type>
 						</property>
 					</properties>
