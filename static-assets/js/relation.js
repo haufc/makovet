@@ -2,6 +2,8 @@ $(document).ready(function(){
     // Panigation list product
     
     var numberOfRelation1 = $("#panigation-relation3 .relation3").length;
+    console.log(numberOfRelation1);
+    
     var limitPerPage = 5;
     
     $("#panigation-relation3 .relation3:gt(" + (limitPerPage -1 )+")").hide();
