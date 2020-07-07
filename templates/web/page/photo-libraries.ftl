@@ -162,7 +162,7 @@
             <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
           </a>
           <img class="modal-content" id="img01">
-          <a href="#" id="nex">
+          <a href="#" id="next">
             <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
           </a></span>
           <div id="caption"></div>
