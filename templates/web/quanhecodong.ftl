@@ -6,7 +6,7 @@
         </div>
     </div>
     <div class="container">
-	    <div id ="pagination-relation3">
+	    <div id ="panigation-relation3">
             <#if (posts)??>
             	<#list posts as aPost>
             	    <#if aPost.category = "announcement">
