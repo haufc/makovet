@@ -20,7 +20,7 @@
                             <img class="products__img img-full" src="${contentModel.photoAvatar2_s}" alt="Product image"/>
                         </div>
                         <div class="col-md-1">
-                            <a href="${contentModel.photoURL_s}">Xem</a>
+                            <a style="position: absolute;top: 40%;" href="${contentModel.photoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
@@ -41,7 +41,7 @@
                            <img id="video-2" class="products__img img-full" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
                         </div>
                         <div class="col-md-1">
-                            <a style="position: absolute;top: 40%;" href="${contentModel.videoURL_s}"><i class="fa fa-play orange-color" aria-hidden="true"></i></a>
+                            <a style="position: absolute;top: 40%;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
@@ -62,7 +62,7 @@
                             <img class="products__img img-full" src="${contentModel.documentAvatar2_s}" alt="Product image"/>
                         </div>
                         <div class="col-md-1">
-                            <a href="${contentModel.documentURL_s}">Xem</a>
+                            <a style="position: absolute;top: 40%;" href="${contentModel.documentURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
