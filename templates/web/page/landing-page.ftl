@@ -216,6 +216,12 @@
                 $('.logos').css('display', 'none');
             });
             
+            $('#video-2').click(function() {
+                $(modal).css('display', 'block');
+                $(modalVideo).html('<source src="'+ srcvideo2 +'" type="video/mp4"></source>' );
+                $('.logos').css('display', 'none');
+            });
+            
             var spanClose = $('.close');
             $(spanClose).click(function() {
                 $(modal).css('display', 'none');
