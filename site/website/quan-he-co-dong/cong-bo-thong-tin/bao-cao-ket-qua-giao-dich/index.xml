@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f421</objectGroupId>
+	<objectId>f421ee55-c2c7-51c5-9bb2-a62be6847edb</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>bao-cao-ket-qua-giao-dich</folder-name>
+	<internal-name>Báo cáo kết quả giao dịch cổ phiếu của người nội bộ và người có liên quan</internal-name>
+	<navLabel>Báo cáo kết quả giao dịch cổ phiếu của người nội b</navLabel>
+	<input_s>Báo cáo kết quả giao dịch cổ phiếu của người nội bộ và người có liên quan</input_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slideImage_o item-list="true"/>
+	<categories_o>	<item>	<key>announcement</key>
+	<value_smv>Công bố thông tin</value_smv>
+	</item></categories_o>
+	<content_html/>
+	<createdDate>2020-07-07T03:58:35.624Z</createdDate>
+	<createdDate_dt>2020-07-07T03:58:35.624Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T03:58:35.624Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T03:58:35.624Z</lastModifiedDate_dt>
+	<date_dt>2020-07-06T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
