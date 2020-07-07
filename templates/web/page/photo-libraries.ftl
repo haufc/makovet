@@ -191,6 +191,7 @@
                 let capId = "#cap-" + i;
                 var img = $(id);
                 var cap = $(capId);
+                var currentImg = 0;
                 
                 $(img).click(function() {
                     $(modal).css('display', 'block');
@@ -198,6 +199,7 @@
                     $(caption).text($(this).attr('alt'));
                     $('.logos').css('display', 'none');
                     $('.page-item').css('display', 'none');
+                    currentImg = $(this).index();
                 });
             }
             var spanClose = $('.close');
@@ -207,6 +209,10 @@
                 $('.page-item').css('display', 'block');
             });
             
+            $('next').click(function() {
+                let srcIm =  "#img-" + (currentImg + 1);
+                $(modalImg).attr('src', $(srcIm).attr('src'));
+            });
         });
     </script>
   </body>
