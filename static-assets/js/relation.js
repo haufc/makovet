@@ -2,19 +2,11 @@ $(document).ready(function(){
     // Panigation list product
     
     var numberOfRelation1 = $("#panigation-relation3 .relation3").length;
-    console.log(numberOfRelation1);
     
     var limitPerPage = 5;
     
     $("#panigation-relation3 .relation3:gt(" + (limitPerPage -1 )+")").hide();
-    
-    var totalPages1;
-    if ((numberOfRelation1 / limitPerPage) % 2 === 0) {
-       totalPages1 =  Math.round(numberOfRelation1 / limitPerPage );
-    } else {
-        totalPages1 =  Math.round(numberOfRelation1 / limitPerPage ) + 1;
-    }
-    console.log(totalPages1);
+    totalPages1 =  Math.round(numberOfRelation1 / limitPerPage ) + 1;
     $('.pagi3').append("<li class='page-item current-page active'><a a style='background-color: #322372 !important' class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
     
     for (let i=2; i<= totalPages1;i++){
