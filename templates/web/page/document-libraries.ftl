@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="./wow_book/wow_book.css" type="text/css" />
+    <link href="/static-assets/plugins/booklet/src/jquery.booklet.latest.css" type="text/css" rel="stylesheet" media="screen, projection, tv" />
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <script src="/static-assets/js/pagination.js"></script>
@@ -88,20 +88,18 @@
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
-    <script src="./wow_book/wow_book.min.js"></script>
-    <script type="text/javascript" src="./wow_book/pdf.combined.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
+    <script> window.jQuery || document.write('<script src="/static-assets/plugins/booklet/src/jquery-2.1.0.min.js"><\/script>') </script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+    <script src="/static-assets/plugins/booklet/src/jquery.easing.1.3.js"></script>
+    <script src="/static-assets/plugins/booklet/src/jquery.booklet.latest.min.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/video.js"></script>
-    <script>
-      $("#my_flip_book").wowBook({
-        pdf: '/static-asset/images/libraries/documents/sample-signed.pdf'
-      });
-</script>
+   
   </body>
 </html>
 <@studio.toolSupport /> 
