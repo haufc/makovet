@@ -216,6 +216,8 @@
                 let resulId = "#img-" + (parseInt(id[1]) + 1);
                
                 $(modalImg).attr('src', $(resulId).attr('src'));
+                $(modalImg).attr('alt', $(resulId).attr('id'));
+                srcIm = $(modalImg).attr('alt');
             });
         });
     </script>
