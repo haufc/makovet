@@ -99,7 +99,7 @@
     </section>
 </header>
 <style>
-    .searh-bar{
+    .search-bar{
         display:none;
     }
 </style>
