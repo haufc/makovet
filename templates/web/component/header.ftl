@@ -46,7 +46,7 @@
 <header>
     <section class="nav">   
         <div class="search-bar" id="searchBar">
-            <input type="text">
+            <input type="text" id="txtSearch">
             <i class="fas fa-search"></i>
         </div>
         <div class="nav__responsive" style="margin-left: auto">
