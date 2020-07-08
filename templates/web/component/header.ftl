@@ -47,7 +47,9 @@
     <section class="nav">   
         <div class="search-bar" id="searchBar">
             <input type="text" id="txtSearch">
-            <i class="fas fa-search"></i>
+            <button onclick="search()">
+                <i class="fas fa-search"></i>
+            </button>
         </div>
         <div class="nav__responsive" style="margin-left: auto">
         <div class="nav__container">
