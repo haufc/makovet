@@ -18,7 +18,10 @@
   <script src="/static-assets/js/pdf.js"></script>
   <script src="/static-assets/js/pdf.worker.js"></script>
   <script>
+var PDFJS = window['pdfjs-dist/build/pdf'];
 
+            // The workerSrc property shall be specified.
+            PDFJS.GlobalWorkerOptions.workerSrc = 'https://mozilla.github.io/pdf.js/build/pdf.worker.js';
         if (!window.requestAnimationFrame) {
               window.requestAnimationFrame = (function() {
                 return window.webkitRequestAnimationFrame ||
