@@ -5,7 +5,7 @@
     	        <#list products as item>
                 	<div class="col-lg col-md col-sm-6 col-xs-6 child-product-item mb-3">
             	        <a href="${item.url}"><img style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;"  src="${item.avatar}"/></a>
-            	        <p class="d-block text-md-center text-lg-center violet-color mt-3">${item.title}</p>
+            	        <p class="d-block text-center violet-color mt-3">${item.title}</p>
             	    </div>
                 </#list>
     	    </#if>
