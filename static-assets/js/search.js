@@ -19,13 +19,8 @@ function search() {
     else {
         var urlService = "";
         var urlRedirect = "";
-        if (url.href.indexOf('/en') > -1 || prevUrl.indexOf('/en') > -1) {
-            urlService += this.getContextPath() + "/api/searchen.json?q="+ userTerm;
-            urlRedirect += "/en/search-result"
-        } else {
-            urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
-            urlRedirect += "/search-result";
-        }
+        urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
+        urlRedirect += "/search-result";
         
         localStorage.setItem("userTerm", userTerm);
         $.ajax({
