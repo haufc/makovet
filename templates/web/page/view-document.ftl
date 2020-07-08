@@ -1,97 +1,22 @@
-
 <!DOCTYPE html>
-<html lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Title Page</title>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="PDF Viewer"/>
 
-        <!-- Bootstrap CSS -->
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <title>PDF Viewer</title>
 
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.3/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
-    </head>
-    <body>
-        <script src="/static-assets/js/pdf.js"></script>
+    <link rel="stylesheet" type="text/css" href="/static-assets/css/style.css"/>
+</head>
 
-        <h1>PDF.js 'Hello, world!' example</h1>
-        <div id="the-svg"></div>
-        <canvas id="the-canvas"></canvas>
-        <script>
-            // If absolute URL from the remote server is provided, configure the CORS
-            // header on that server.
-            var url = '/static-assets/images/libraries/sample-signed.pdf';
+<body>
+  <div id="page">
+    <canvas id="canvas"></canvas>
+  </div>
 
-            // Loaded via <script> tag, create shortcut to access PDF.js exports.
-            var pdfjsLib = window['pdfjs-dist/build/pdf'];
-
-            // The workerSrc property shall be specified.
-            pdfjsLib.GlobalWorkerOptions.workerSrc = '/static-assets/js/pdf.worker.js';
-
-            // Asynchronous download of PDF
-            var loadingTask = pdfjsLib.getDocument(url);
-            loadingTask.promise.then(function(pdf) {
-            console.log('PDF loaded');
-            
-            // Fetch the first page
-            var pageNumber = 1;
-            pdf.getPage(pageNumber).then(function(page) {
-                console.log('Page loaded');
-                
-                var scale = 1.5;
-                var viewport = page.getViewport(scale);
-
-                // Prepare canvas using PDF page dimensions
-                var canvas = document.getElementById('the-canvas');
-                var context = canvas.getContext('2d');
-                canvas.height = viewport.height;
-                canvas.width = viewport.width;
-
-                // Render PDF page into canvas context
-                var renderContext = {
-                canvasContext: context,
-                viewport: viewport
-                };
-                var renderTask = page.render(renderContext);
-                renderTask.then(function () {
-                console.log('Page rendered');
-                });
-            }).then(function(page) {
-
-                // Set scale (zoom) level
-                var scale = 1.5;
-
-                // Get viewport (dimensions)
-                var viewport = page.getViewport(scale);
-
-                // Get div#the-svg
-                var container = document.getElementById('the-svg');
-
-                // Set dimensions
-                container.style.width = viewport.width + 'px';
-                container.style.height = viewport.height + 'px';
-
-                // SVG rendering by PDF.js
-                page.getOperatorList()
-                .then(function (opList) {
-                    var svgGfx = new PDFJS.SVGGraphics(page.commonObjs, page.objs);
-                    return svgGfx.getSVG(opList, viewport);
-                })
-                .then(function (svg) {
-                    container.appendChild(svg);
-                });
-
-                });
-            }, function (reason) {
-            // PDF loading error
-            console.error(reason);
-            });
-        </script>
-    </body>
+  <script src="/static-assets/js/pdf.js"></script>
+  <script src="/static-assets/js/pdf.worker.js"></script>
+  <script src="/static-assets/js/main.js"></script>
+</body>
 </html>
