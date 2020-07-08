@@ -28,11 +28,8 @@ function search() {
             url:urlService,
             success: function(resp){
                 localStorage.setItem("mergeLst", JSON.stringify(resp[0].concat(resp[1]).concat(resp[2]).concat(resp[3])));
-
                 window.location.replace(getContextPath()+ urlRedirect);
             }
         });
-        
-        $('.nav-bar__search').css("display", "none");
     }
 }
