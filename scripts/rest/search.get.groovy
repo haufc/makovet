@@ -4,9 +4,9 @@ println "This is param :"
 println params.q
 def searchHelper = new SearchContentHelper(elasticsearch, urlTransformationService)
 
-def results = searchHelper.searchProducts(params.q)
-println results
-results.each{ product ->
+def products = searchHelper.searchProducts(params.q)
+println products
+products.each{ product ->
  product.highlight = product.highlight.replaceAll("\\<.*?\\>", "");
  
  if (product.highlight.length() > 100) {
@@ -15,4 +15,4 @@ results.each{ product ->
  }
 }
 
-return results
+return products
