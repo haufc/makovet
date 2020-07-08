@@ -89,5 +89,6 @@
     .nav__menu-search-btn{
         border: none;
     }
+    .nav__menu-search-btn:hover {color : yellow;}
 </style>
 <@studio.toolSupport />
