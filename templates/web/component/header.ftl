@@ -22,9 +22,9 @@
                         <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
                     </a>
                 </li>
-                <li class="nav__tool-item">
-                    <a href="#" class="nav__menu-link" toggleSearchBar()>
-                        <#-- <img class="full-size" src="/static-assets/images/template/icon_search.png" alt="Search icon"> -->
+                <#---------- Search Form ---------->
+                <li class="nav__tool-item search-form">
+                    <a href="#" class="nav__menu-link" data-toggle="search-form">
                         <i class="fas fa-search"></i>
                     </a>
                 </li>
