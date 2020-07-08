@@ -23,6 +23,7 @@
                     </a>
                 </li>
                 <li class="nav__tool-item">
+                    <input class="search_input" type="text" name="" placeholder="Nhập từ khoá tìm kiếm...">
                     <a href="#">
                         <img class="full-size" src="/static-assets/images/template/icon_search.png" alt="Search icon">
                     </a>
