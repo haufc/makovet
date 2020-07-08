@@ -19,7 +19,7 @@ function search() {
     else {
         var urlService = "";
         var urlRedirect = "";
-        urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
+        urlService += this[0].getContextPath() + "/api/search.json?q="+ userTerm;
         urlRedirect += "/tim-kiem";
         
         localStorage.setItem("userTerm", userTerm);
