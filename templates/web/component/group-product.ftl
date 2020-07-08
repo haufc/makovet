@@ -11,7 +11,7 @@
         	    <#list contentModel.groupProduct_o.item as item>
         	        <div class="products__logo text--center">
                         <a href="${item.groupChildProductURL_s}">
-                            <img class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
+                            <img style="display: block;margin-left: auto;margin-right: auto;" class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
                             <h3 class="text--uppercase violet-color" style="font-size:20px;">${item.groupProductName_s}</h3>
                         </a>
                     </div>
