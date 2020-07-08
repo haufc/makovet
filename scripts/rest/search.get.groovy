@@ -15,4 +15,4 @@ products.each{ product ->
  }
 }
 
-return products
+return [products]
