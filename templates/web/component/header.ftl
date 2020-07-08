@@ -24,7 +24,7 @@
                 </li>
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
-                    <button class="nav__menu-link" toggleSearchBar()>
+                    <button class="nav__menu-search-btn" toggleSearchBar()>
                         <i class="fas fa-search"></i>
                     </button>
                 </li>
@@ -85,7 +85,9 @@
 </header>
 <style>
     .search-bar{
-        display:none;
+    }
+    .nav__menu-search-btn{
+        border: none;
     }
 </style>
 <@studio.toolSupport />
