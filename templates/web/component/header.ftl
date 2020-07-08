@@ -22,8 +22,7 @@
                         <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
                     </a>
                 </li>
-                <li class="nav__tool-item search-bar">
-                    <input class="search_input" type="text" name="" placeholder="Nhập từ khoá tìm kiếm...">
+                <li class="nav__tool-item">
                     <a href="#">
                         <img class="full-size" src="/static-assets/images/template/icon_search.png" alt="Search icon">
                     </a>
@@ -82,29 +81,26 @@
                 </ul>
             </div>
         </div>
+        <div id="searchBar" class="search-bar">
+            <div class="input-group">
+                <input 
+                    type="text" 
+                    class="form-control rounded-0" 
+                    placeholder="" 
+                    id="txtSearch"
+                    onfocus="this.placeholder=' '"
+                    onblur="this.placeholder='Nhập từ khóa tìm kiếm!'"
+                >
+                <div class="input-group-append">
+                  <button type="button" class="btn btn-secondary rounded-0" onclick="search()"><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+        </div>
     </section>
 </header>
 <style>
-    .search_input{
-    color: white;
-    border: 0;
-    outline: 0;
-    background: none;
-    width: 0;
-    caret-color:transparent;
-    line-height: 40px;
-    transition: width 0.4s linear;
-    }
-    .searchbar:hover > .search_input{
-    padding: 0 10px;
-    width: 450px;
-    caret-color:red;
-    transition: width 0.4s linear;
-    }
-
-    .searchbar:hover > .search_icon{
-    background: white;
-    color: #e74c3c;
+    .searh-bar{
+        display:none;
     }
 </style>
 <@studio.toolSupport />
