@@ -96,10 +96,7 @@
                 autoCenter: true,
                 auto: true,
                 delay: 9000,
-                keyboard: true,
-                tabs:  true,
-                tabWidth:  180,
-                tabHeight:  20
+                keyboard: true
             });
         });
     </script>
