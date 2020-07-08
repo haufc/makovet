@@ -53,7 +53,7 @@
                         <#if (productOther)??>
                             <#list productOther as item>
                                 <div class="col-lg col-md col-sm-6 col-xs-6 product-item">
-                                    <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="${item.avatar}" width="135" height="140"/></a>
+                                    <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="${item.avatar}" width="150" height="155"/></a>
                                     <p class="text-center violet-color font-weight-bold mt-3">${item.title}</p>
                                 </div>
                             </#list>
