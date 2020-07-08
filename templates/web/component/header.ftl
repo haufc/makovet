@@ -25,7 +25,7 @@
                 <li class="nav__tool-item">
                     <a href="#">
                         <#-- <img class="full-size" src="/static-assets/images/template/icon_search.png" alt="Search icon"> -->
-                        <i class="fas fa-search"></i>
+                        <i class="fas fa-search" style="color: #322372"></i>
                     </a>
                 </li>
             </ul>
