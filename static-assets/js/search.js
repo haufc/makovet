@@ -43,3 +43,74 @@ function search() {
         $('.nav-bar__search').css("display", "none");
     }
 }
+
+$(document).ready(function() {
+    // Display content for search page
+    if(url == getContextPath()+ "/search-result" || url == getContextPath()+ "/en/search-result") {
+        
+        var $pagination = $('#pagination'), 
+            totalRecords = 0,
+            records = [],
+            displayRecords = [],
+            recPerPage = 10,
+            page = 1,
+            totalPages = 0;
+            
+        var storedLstSearch = JSON.parse(localStorage.getItem("mergeLst"));
+        records = storedLstSearch;
+        totalRecords = records.length;
+        totalPages = Math.ceil(totalRecords / recPerPage);
+        apply_pagination();
+        
+        $('.totalSearch').text(totalRecords);
+        $('.keywordSearch').text(localStorage.getItem("userTerm"))
+        $('.content').css("background-color", "#FFF")
+        // --- limit desc search --
+        var lent = $(".limit-text-250");
+       
+        for (let i = 0; i < lent.length; i++) {
+             var txtDesc = $(lent[i]).html();
+             console.log(txtDesc);
+            if(txtDesc.length > 150) {
+               let txt = txtDesc.substr(0, 150);
+               $(lent[i]).html(txt)
+            }
+        }
+
+        $(".limit-text-250 em").css("font-weight", "bold");
+    }
+    
+    function apply_pagination() {
+          $pagination.twbsPagination({
+                totalPages: totalPages,
+                visiblePages: 6,
+                onPageClick: function (event, page) {
+                      displayRecordsIndex = Math.max(page - 1, 0) * recPerPage;
+                      endRec = (displayRecordsIndex) + recPerPage;
+                     
+                      displayRecords = records.slice(displayRecordsIndex, endRec);
+                      generateContent();
+                }
+          });
+    }
+    
+    // generate content search result
+    function generateContent() {
+         var source = $("#search-results-template").html();
+         var template = Handlebars.compile(source);
+         var context = { results: displayRecords };
+         var html = template(context);
+        
+        $('.search-result_item').html(html);
+    }
+});
+
+
+
+
+
+
+
+
+
+
