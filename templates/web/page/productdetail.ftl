@@ -49,11 +49,11 @@
                     <h1 class="text--uppercase violet-color">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
-                    <div class="col-lg -12 col-md-12 row row-cols-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
+                    <div class="col-lg -12 col-md-12 row row-cols-lg-5 row-cols-md-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
                         <#if (productOther)??>
                             <#list productOther as item>
-                                <div class="col product-item">
-                                    <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;" src="${item.avatar}" width="135" height="140"/></a>
+                                <div class="col-lg col-md col-sm-6 col-xs-6 product-item">
+                                    <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="${item.avatar}"/></a>
                                     <p class="text-center violet-color font-weight-bold mt-3">${item.title}</p>
                                 </div>
                             </#list>
