@@ -10,79 +10,80 @@ import org.elasticsearch.search.sort.SortOrder
 
 class SearchContentHelper {
     static final String PRODUCT_CONTENT_TYPE_QUERY = "content-type:\"/page/productdetail\""
+    static final String[] PRODUCTS_HIGHLIGHT_FIELDS = ["productName_s", "productDescription_html"]
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS = 10000
     
     def elasticsearch
     UrlTransformationService urlTransformationService
     
-     GroupProductSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
+    SearchContentHelper(elasticsearch, UrlTransformationService urlTransformationService) {
         this.elasticsearch = elasticsearch
         this.urlTransformationService = urlTransformationService
     }
     
-    def searchProducts(groupProduct, childProduct ,start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
+    def searchProducts(String userTerm ,start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
         def q = "${PRODUCT_CONTENT_TYPE_QUERY}"
         
-        if (groupProduct) {
-            def productGroupQuery = getFieldQueryWithMultipleValues("productgrouplv1_o.item.key", groupProduct)
-            q = "${q} AND ${productGroupQuery}"
+        if (userTerm) {
+            if(!userTerm.contains(" ")) {
+                userTerm = "${userTerm}~1 OR *${userTerm}*"
+            }
+            
+            def userTermQuery = "(productName_s:(${userTerm}) OR productDescription_html:(${userTerm}))"
+            q = "${q} AND ${userTermQuery}"
         }
         
-        if (childProduct) {
-            def productGroupChildQuery = getFieldQueryWithMultipleValues("productgrouplv2_o.item.key", childProduct)
-            q = "${q} AND ${productGroupChildQuery}"
-        }
-        
-        if (additionalCriteria) {
-          q = "${q} AND ${additionalCriteria}"
-        }
+        def highlighter = SearchSourceBuilder.highlight()
+        PRODUCTS_HIGHLIGHT_FIELDS.each{ field -> highlighter.field(field) }
         
         def builder = new SearchSourceBuilder()
-            .query(QueryBuilders.queryStringQuery(q))
-            .from(start)
-            .size(rows)
-            .sort(new FieldSortBuilder("createddate_dt").order(SortOrder.DESC))
+          .query(QueryBuilders.queryStringQuery(q))
+          .from(start)
+          .size(rows)
+          .highlighter(highlighter)
         
         def result = elasticsearch.search(new SearchRequest().source(builder))
         
         if (result) {
-            return processProductListingResults(result)
+          return processUserSearchProductResults(result)
         } else {
-            result [];
+          return []
         }
     }
     
-    private def processProductListingResults(result) {
+    def processUserSearchProductResults(result) {
         def products = []
+        def hits = result.hits.hits
         
-        def documents = result.hits.hits*.getSourceAsMap()
-        
-        if (documents) {
-            documents.each {doc ->
+        if (hits) {
+            hits.each { hit -> 
+                def doc = hit.getSourceAsMap()
+                
                 def product = [:]
                     product.title = doc.productName_s
                     product.summary = doc.productDescription_html
                     product.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                     product.avatar = doc.productImage_s
+                    
+                if (hit.highlightFields) {
+                    def productHighlights = hit.highlightFields.values()*.getFragments().flatten()*.string()
+                    
+                    if (productHighlights) {
+                        def highlightValues = []
+                        
+                        productHighlights.each { value -> 
+                            highlightValues = value
+                        }
+                        
+                        product.highlight = StringUtils.join(highlightValues, "... ")
+                        product.highlight = StringUtils.strip(product.highlight)
+                    }
+                }
+                
                 products << product
             }
         }
-        
-        return products
-    }
-    
-    private def getFieldQueryWithMultipleValues(field, values) {
-        if (values.class.isArray()) {
-          values = values as List
-        }
-    
-        if (values instanceof Iterable) {
-          values = "(" + StringUtils.join((Iterable)values, " OR ") + ")"
-        } else {
-          values = "\"${values}\""
-        }
-    
-        return "${field}:${values}"
+      return products 
     }
 }
