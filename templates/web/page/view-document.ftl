@@ -21,7 +21,7 @@
         <script src="/static-assets/js/pdf.js"></script>
 
         <h1>PDF.js 'Hello, world!' example</h1>
-        
+        <div id="the-svg"></div>
         <canvas id="the-canvas"></canvas>
         <script>
             // If absolute URL from the remote server is provided, configure the CORS
@@ -62,7 +62,32 @@
                 renderTask.then(function () {
                 console.log('Page rendered');
                 });
-            });
+            }).then(function(page) {
+
+                // Set scale (zoom) level
+                var scale = 1.5;
+
+                // Get viewport (dimensions)
+                var viewport = page.getViewport(scale);
+
+                // Get div#the-svg
+                var container = document.getElementById('the-svg');
+
+                // Set dimensions
+                container.style.width = viewport.width + 'px';
+                container.style.height = viewport.height + 'px';
+
+                // SVG rendering by PDF.js
+                page.getOperatorList()
+                .then(function (opList) {
+                    var svgGfx = new PDFJS.SVGGraphics(page.commonObjs, page.objs);
+                    return svgGfx.getSVG(opList, viewport);
+                })
+                .then(function (svg) {
+                    container.appendChild(svg);
+                });
+
+                });
             }, function (reason) {
             // PDF loading error
             console.error(reason);
