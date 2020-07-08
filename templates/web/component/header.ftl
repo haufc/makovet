@@ -24,7 +24,7 @@
                 </li>
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
-                    <button class="nav__menu-link" data-toggle="search-form">
+                    <button class="nav__menu-link" toggleSearchBar()>
                         <i class="fas fa-search"></i>
                     </button>
                 </li>
