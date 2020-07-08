@@ -90,6 +90,9 @@
             $('#mybook').booklet({
                 width:  '100%',
                 height: 600,
+                easing:  'easeInOutElastic',
+                easeIn:  'easeInElastic',
+                easeOut: 'easeOutElastic'
             });
         });
     </script>
