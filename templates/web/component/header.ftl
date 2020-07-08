@@ -113,20 +113,21 @@
                     <a class="nav__menu-link" href="/lien-he">Liên hệ</a>
                 </li>
                 <ul class="nav__menu-tools">
-                    <li>
-                        <a href="#">
-                            <img class="full-size" src="../settings/images/icon_home.png" alt="Home icon">
-                        </a>
+                    <li class="nav__tool-item">
+                    <a href="/trang-chu" class="search_icon">
+                        <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
+                    </a>
                     </li>
-                    <li>
-                        <a href="#">
-                            <img class="full-size" src="../settings/images/icon_flag.png" alt="Flag icon">
-                        </a>
+                    <li class="nav__tool-item">
+                    <a href="#">
+                        <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
+                    </a>
                     </li>
-                    <li>
-                        <a href="#">
-                            <img class="full-size" src="../settings/images/icon_search.png" alt="Search icon">
-                        </a>
+                    <#---------- Search Form ---------->
+                    <li class="nav__tool-item search-form">
+                    <button class="nav__menu-search-btn" onclick="toggleSearchBar()">
+                        <i class="fas fa-search"></i>
+                    </button>
                     </li>
                 </ul>
                 </ul>
