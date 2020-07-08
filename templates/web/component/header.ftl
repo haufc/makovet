@@ -14,7 +14,7 @@
         z-index: 5;
         width: 100%;
         max-width: 500px;
-        padding: 10px;
+        padding: 5px;
         display: flex;
         background-color: #333;
         transition: 0.5s ease-in-out;
