@@ -1,4 +1,44 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
+<style>
+    .nav {
+        position: relative;
+    }
+    .btn-search {
+        border: none;
+        background: transparent;
+    }
+    .search-bar {
+        position: absolute;
+        bottom: -10%;
+        left: -100%;
+        z-index: 5;
+        width: 100%;
+        max-width: 500px;
+        padding: 10px;
+        display: flex;
+        background-color: #333;
+        transition: 0.5s ease-in-out;
+    }
+    .search-bar.show {
+        left: 15%;
+    }
+    .search-bar > input,
+    .search-bar > i {
+        border: none;
+    }
+    .search-bar > input {
+        padding: 0 15px;
+        width: 100%;
+    }
+    .search-bar > input:focus {
+        border: none;
+    }
+    .search-bar > i {
+        padding: 5px;
+        cursor: pointer;
+        background-color: #fff;
+    }
+</style>
 <header>
     <section class="nav">   
         <div class="search-bar" id="searchBar">
@@ -88,15 +128,4 @@
         </div>
     </section>
 </header>
-<style>
-    .search-bar{
-    }
-    .nav__menu-search-btn{
-        border: none;
-        background: #fff;
-    }
-    .nav__menu-search-btn:hover {
-    color : #ffcb08;
-    }
-</style>
 <@studio.toolSupport />
