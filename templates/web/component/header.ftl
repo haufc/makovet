@@ -88,6 +88,7 @@
     }
     .nav__menu-search-btn{
         border: none;
+        background: #fff;
     }
     .nav__menu-search-btn:hover {
     color : #ffcb08;
