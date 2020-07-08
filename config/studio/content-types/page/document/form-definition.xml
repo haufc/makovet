@@ -269,7 +269,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value></value>
+							<value>fileUpload,fileExisting</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
