@@ -11,7 +11,7 @@
         	    <#list contentModel.groupProduct_o.item as item>
         	        <div class="products__logo text--center">
                         <a href="${item.groupChildProductURL_s}">
-                            <img style="display: block;margin-left: auto;margin-right: auto;" class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
+                            <img class="products__img" src="${item.groupProductIcon_s}" alt="Product logo" width="265" height="240">
                             <h3 class="text--uppercase violet-color" style="font-size:20px;">${item.groupProductName_s}</h3>
                         </a>
                     </div>
@@ -27,7 +27,7 @@
             <#if (products)??>
             	<#list products as product>
                     <div class="col-lg col-md col-sm-6 product-item mb-3">
-                        <a href="${product.url}"><img class="img-full" src="${product.avatar}" width="135" height="140"/></a>
+                        <a href="${product.url}"><img style="display: block;margin-left: auto;margin-right: auto;" class="img-full" src="${product.avatar}" width="135" height="140"/></a>
                         <p class="d-block text-md-center text-lg-center violet-color mt-1">${product.title}</p>
                     </div>
                 </#list>
