@@ -18,7 +18,7 @@
   <script src="/static-assets/js/pdf.js"></script>
   <script src="/static-assets/js/pdf.worker.js"></script>
   <script>
-    $(document).ready(function() {
+
         if (!window.requestAnimationFrame) {
               window.requestAnimationFrame = (function() {
                 return window.webkitRequestAnimationFrame ||
@@ -149,7 +149,6 @@
               openPage(pdf, currPageNumber, 1);
             });
             
-                });
   </script>
 </body>
 </html>
