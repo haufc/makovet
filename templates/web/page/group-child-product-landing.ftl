@@ -45,7 +45,7 @@
                 </div>
             </div>
             
-            <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 0;"/>
+            <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 1%;"/>
             <hr class="line-hozital"style="margin-bottom: 5%; margin-top: 0;"/>
         </div>
          <#if (contentModel.productChildgroup_o.item)??>
