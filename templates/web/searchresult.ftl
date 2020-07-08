@@ -26,7 +26,7 @@
      <div class="container">
     <div class="row " style="padding-left: 15px;">
         <div class="col-lg-12 col-md-12 col-sm-12" style="padding: 0; margin-bottom: 20px;">
-            <span id="search-result-vn" style="font-size: 18px;"></p> Tìm được <b class="totalSearch">727</b> kết quả với từ khóa "<b class="keywordSearch"></b>"</span>
+            <span id="search-result-vn" style="font-size: 18px;"></p> Tìm được <b class="totalSearch"></b> kết quả với từ khóa "<b class="keywordSearch"></b>"</span>
         </div>
         <div class="search-result_item row">
         </div>
