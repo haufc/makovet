@@ -16,6 +16,7 @@ $(document).ready(function() {
         totalRecords = records.length;
         totalPages = Math.ceil(totalRecords / recPerPage);
         // apply_pagination();
+        generateContent();
         
         $('.totalSearch').text(totalRecords);
         $('.keywordSearch').text(localStorage.getItem("userTerm"))
