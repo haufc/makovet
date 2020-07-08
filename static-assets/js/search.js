@@ -6,3 +6,38 @@ function toggleSearchBar() {
         nav.className = "search-bar";
     }
 }
+
+function search() {
+    var url = window.location;
+    var prevUrl = document.referrer;
+    
+    let userTerm = $('#txtSearch').val();
+    if (userTerm === "") {
+        alert("Bạn cần nhập từ khóa tìm kiếm!");
+        $('#txtSearch').focus();
+    }
+    else {
+        var urlService = "";
+        var urlRedirect = "";
+        if (url.href.indexOf('/en') > -1 || prevUrl.indexOf('/en') > -1) {
+            urlService += this.getContextPath() + "/api/searchen.json?q="+ userTerm;
+            urlRedirect += "/en/search-result"
+        } else {
+            urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
+            urlRedirect += "/search-result";
+        }
+        
+        localStorage.setItem("userTerm", userTerm);
+        $.ajax({
+            type: "GET",
+            url:urlService,
+            success: function(resp){
+                localStorage.setItem("mergeLst", JSON.stringify(resp[0].concat(resp[1]).concat(resp[2]).concat(resp[3])));
+
+                window.location.replace(getContextPath()+ urlRedirect);
+            }
+        });
+        
+        $('.nav-bar__search').css("display", "none");
+    }
+}
