@@ -92,6 +92,7 @@
                 height: 600,
                 easing:  'easeInOutElastic',
                 closed: true,
+                covers: true,
                 autoCenter: true
             });
         });
