@@ -2,7 +2,7 @@
     <div class="section-title">
         <div class="section-title__content block">
             <span class="d-inline">
-                <span class="section-title__content-text text--uppercase">${contentModel.title_s}</span>
+                <span class="section-title__content-text text--uppercase">Thư viện tài liệu</span>
             </span>
         </div>
     </div>
