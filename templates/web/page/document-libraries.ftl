@@ -56,6 +56,8 @@
                 <div class="doc-title ml-lg-2" style="background-color:#FFCB08;width:100%;">
                     <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
                 </div>
+                <a href="#" id="custom-prev">Prev</a>
+                <a href="#" id="custom-next">Next</a>
                 <div id="mybook">
                     <#list contentModel.document_o.item as doc>
                         <div class="page-${doc?index}">
@@ -96,7 +98,9 @@
                 autoCenter: true,
                 auto: true,
                 delay: 9000,
-                keyboard: true
+                keyboard: true,
+                next: '#custom-next',
+                prev: '#custom-prev'
             });
         });
     </script>
