@@ -35,19 +35,19 @@ $(document).ready(function() {
         $(".limit-text-250 em").css("font-weight", "bold");
     }
     
-    function apply_pagination() {
-          $pagination.twbsPagination({
-                totalPages: totalPages,
-                visiblePages: 6,
-                onPageClick: function (event, page) {
-                      displayRecordsIndex = Math.max(page - 1, 0) * recPerPage;
-                      endRec = (displayRecordsIndex) + recPerPage;
+    // function apply_pagination() {
+    //       $pagination.twbsPagination({
+    //             totalPages: totalPages,
+    //             visiblePages: 6,
+    //             onPageClick: function (event, page) {
+    //                   displayRecordsIndex = Math.max(page - 1, 0) * recPerPage;
+    //                   endRec = (displayRecordsIndex) + recPerPage;
                      
-                      displayRecords = records.slice(displayRecordsIndex, endRec);
-                      generateContent();
-                }
-          });
-    }
+    //                   displayRecords = records.slice(displayRecordsIndex, endRec);
+    //                   generateContent();
+    //             }
+    //       });
+    // }
     
     // generate content search result
     function generateContent() {
