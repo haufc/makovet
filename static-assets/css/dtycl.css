@@ -1251,4 +1251,10 @@ p {
         margin: auto;
   }
 }
+
+@media (min-width: 768px){
+  .product-buy {
+     padding: 13% 6% !important;
+  }
+}
 /*# sourceMappingURL=dtycl.css.map */
