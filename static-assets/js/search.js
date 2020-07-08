@@ -1,8 +1,8 @@
 function toggleSearchBar() {
-    var search = document.getElementById("searchBar");
-    if(search.className === "search-bar") {
-        search.className += " active";
+    var nav = document.getElementById("searchBar");
+    if(nav.className === "search-bar") {
+        nav.className += " show";
     } else {
-        search.className = "search-bar";
+        nav.className = "search-bar";
     }
 }
