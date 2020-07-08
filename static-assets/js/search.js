@@ -31,7 +31,7 @@ function search() {
             type: "GET",
             url:urlService,
             success: function(resp){
-                localStorage.setItem("mergeLst", JSON.stringify(resp[0].concat(resp[1]).concat(resp[2]).concat(resp[3])));
+                localStorage.setItem("mergeLst", JSON.stringify(resp[0].concat(resp[1])));
                 window.location.replace(getContextPath()+ urlRedirect);
             }
         });
