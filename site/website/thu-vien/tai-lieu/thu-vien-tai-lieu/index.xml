@@ -33,7 +33,12 @@
 	</item></document_o>
 	<createdDate>2020-07-07T14:29:19.147Z</createdDate>
 	<createdDate_dt>2020-07-07T14:29:19.147Z</createdDate_dt>
-	<lastModifiedDate>2020-07-08T05:07:23.910Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-08T05:07:23.910Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-08T07:56:43.193Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-08T07:56:43.193Z</lastModifiedDate_dt>
 	<avatar_s>/static-assets/images/libraries/documents/catalog_san_pham_stargro.jpg</avatar_s>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/sample-signed.pdf</key>
+	<value>/static-assets/images/libraries/sample-signed.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>70693</fileSize_s>
+	</item></pDFfile_o>
 </page>
