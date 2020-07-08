@@ -4,7 +4,7 @@
 		{{#each results}}
 		    <div class="col-lg-4 col-md-4 col-sm-12 row search-result_content" style="margin-bottom: 20px;">
                 <div class="search--img col-lg-6 col-md-6 col-sm-12" >
-                    <a href="{{url}}"><img src="{{image}}" alt="" class="img--full"></a>
+                    <a href="{{url}}"><img src="{{avatar}}" alt="" class="img--full"></a>
                 </div>
                 <div class="search--text col-lg-6 col-md-6 col-sm-12">
                     <a href="{{url}}"><h5 ><b>{{title}}</b></h5></a>
