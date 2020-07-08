@@ -5,7 +5,7 @@ println params.q
 def searchHelper = new SearchContentHelper(elasticsearch, urlTransformationService)
 
 def products = searchHelper.searchProducts(params.q)
- 
+println products
 products.each{ product ->
  product.highlight = product.highlight.replaceAll("\\<.*?\\>", "");
  
