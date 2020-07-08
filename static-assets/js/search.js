@@ -101,7 +101,7 @@ $(document).ready(function() {
          var template = Handlebars.compile(source);
          var context = { results: displayRecords };
          var html = template(context);
-        
+        console.log(html);
         $('.search-result_item').html(html);
     }
 });
