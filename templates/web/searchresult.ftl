@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!-- Handlebar Templates -->
 	<script id="search-results-template" type="text/x-handlebars-template">
-		{{#each results}}
+		{{#each products}}
 		    <div class="col-lg-4 col-md-4 col-sm-12 row search-result_content" style="margin-bottom: 20px;">
                 <div class="search--img col-lg-6 col-md-6 col-sm-12" >
                     <a href="{{url}}"><img src="{{avatar}}" alt="" class="img--full"></a>
