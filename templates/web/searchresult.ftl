@@ -23,7 +23,7 @@
     <h1 class="text--red" id="search-title">Kết quả tìm kiếm</h1></div>
 </div>
 <div class="content__details">
-    <div class="container">
+    <#-- <div class="container">
     <div class="row " style="padding-left: 15px;">
         <div class="col-lg-12 col-md-12 col-sm-12" style="padding: 0; margin-bottom: 20px;">
             <span id="search-result-vn" style="font-size: 18px;"></p> Tìm được <b class="totalSearch">727</b> kết quả với từ khóa "<b class="keywordSearch"></b>"</span>
@@ -34,6 +34,9 @@
     <div class="col-lg-2 col-md-2 col-sm-12 mx-auto" style="margin-top: 20px;" id="pager">
       <ul class="float-right" id="pagination" class="pagination-sm"></ul>
     </div>
-    </div>
+    </div> -->
+    <#list products as product>
+        product.name
+    </#list>
 </div>
 <@studio.toolSupport />
