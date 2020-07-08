@@ -1257,4 +1257,16 @@ p {
      padding: 10% 6% !important;
   }
 }
+
+@media (min-width: 614px) and (max-width: 799px) {
+  .section-title__content-text {
+      font-size: 21px !important;
+  }
+  
+  #child-title {
+      font-size: 21px !important;
+  }
+  
+}
+
 /*# sourceMappingURL=dtycl.css.map */
