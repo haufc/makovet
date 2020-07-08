@@ -90,9 +90,6 @@
             $('#mybook').booklet({
                 width:  '100%',
                 height: 600,
-                menu: '#custom-menu',
-                pageSelector: true,
-                chapterSelector: true,
             });
         });
     </script>
