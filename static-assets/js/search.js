@@ -46,6 +46,7 @@ function search() {
 
 $(document).ready(function() {
     // Display content for search page
+    var url = window.location;
     if(url == getContextPath()+ "/search-result" || url == getContextPath()+ "/en/search-result") {
         
         var $pagination = $('#pagination'), 
