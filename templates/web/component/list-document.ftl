@@ -1,4 +1,11 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
+    <div class="section-title">
+        <div class="section-title__content block">
+            <span class="d-inline">
+                <span class="section-title__content-text text--uppercase">${contentModel.title_s}</span>
+            </span>
+        </div>
+    </div>
 	<div class="container">
 	    <div class="row mb-5" id="panigation-doc">
 	        <#if (docs)??>
