@@ -7,6 +7,10 @@ function toggleSearchBar() {
     }
 }
 
+function getContextPath() {
+   return  window.location.protocol + "//" + window.location.host
+}
+
 function search() {
     var url = window.location;
     var prevUrl = document.referrer;
@@ -19,7 +23,7 @@ function search() {
     else {
         var urlService = "";
         var urlRedirect = "";
-        urlService += this[0].getContextPath() + "/api/search.json?q="+ userTerm;
+        urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
         urlRedirect += "/tim-kiem";
         
         localStorage.setItem("userTerm", userTerm);
