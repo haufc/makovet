@@ -1,49 +1,3 @@
-function toggleSearchBar() {
-    var nav = document.getElementById("searchBar");
-    if(nav.className === "search-bar") {
-        nav.className += " show";
-    } else {
-        nav.className = "search-bar";
-    }
-}
-
-function getContextPath() {
-   return  window.location.protocol + "//" + window.location.host
-}
-
-function search() {
-    var url = window.location;
-    var prevUrl = document.referrer;
-    
-    let userTerm = $('#txtSearch').val();
-    if (userTerm === "") {
-            alert("Bạn cần nhập từ khóa tìm kiếm!");
-        
-        $('#txtSearch').focus();
-    }
-    else {
-        //var urlService = this.getContextPath() + "/api/search.json?q="+ userTerm
-        
-        var urlService = "";
-        var urlRedirect = "";
-        urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
-        urlRedirect += "/tim-kiem";
-        
-        localStorage.setItem("userTerm", userTerm);
-        $.ajax({
-            type: "GET",
-            url:urlService,
-            success: function(resp){
-                localStorage.setItem("mergeLst", JSON.stringify(resp[0]));
-
-                window.location.replace(getContextPath()+ urlRedirect);
-            }
-        });
-        
-        $('.nav-bar__search').css("display", "none");
-    }
-}
-
 $(document).ready(function() {
     // Display content for search page
     var url = window.location;
@@ -101,11 +55,56 @@ $(document).ready(function() {
          var template = Handlebars.compile(source);
          var context = { results: displayRecords };
          var html = template(context);
-        console.log(html);
         $('.search-result_item').html(html);
     }
 });
 
+
+function toggleSearchBar() {
+    var nav = document.getElementById("searchBar");
+    if(nav.className === "search-bar") {
+        nav.className += " show";
+    } else {
+        nav.className = "search-bar";
+    }
+}
+
+function getContextPath() {
+   return  window.location.protocol + "//" + window.location.host
+}
+
+function search() {
+    var url = window.location;
+    var prevUrl = document.referrer;
+    
+    let userTerm = $('#txtSearch').val();
+    if (userTerm === "") {
+            alert("Bạn cần nhập từ khóa tìm kiếm!");
+        
+        $('#txtSearch').focus();
+    }
+    else {
+        //var urlService = this.getContextPath() + "/api/search.json?q="+ userTerm
+        
+        var urlService = "";
+        var urlRedirect = "";
+        urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
+        urlRedirect += "/tim-kiem";
+        
+        localStorage.setItem("userTerm", userTerm);
+        $.ajax({
+            type: "GET",
+            url:urlService,
+            success: function(resp){
+                localStorage.setItem("mergeLst", JSON.stringify(resp[0]));
+
+                window.location.replace(getContextPath()+ urlRedirect);
+            }
+        });
+        
+        $('.nav-bar__search').css("display", "none");
+    }
+}
 
 
 
