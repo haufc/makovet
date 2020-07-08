@@ -26,7 +26,7 @@
         <div class="row row-cols-lg-5 row-cols-md-5" id ="panigation-product">
             <#if (products)??>
             	<#list products as product>
-                    <div class="col-lg col-md col-sm-6 product-item mb-3">
+                    <div class="col-lg col-md col-sm-6 product-item mb-3 p-0">
                         <a href="${product.url}"><img class="img-full" src="${product.avatar}" width="135" height="140"/></a>
                         <p class="d-block text-md-center text-lg-center violet-color mt-1">${product.title}</p>
                     </div>
