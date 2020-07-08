@@ -1269,4 +1269,15 @@ p {
   
 }
 
+@media (max-width: 613px) {
+  .section-title__content-text {
+      font-size: 16px !important;
+  }
+  
+  #child-title {
+      font-size: 16px !important;
+  }
+  
+}
+
 /*# sourceMappingURL=dtycl.css.map */
