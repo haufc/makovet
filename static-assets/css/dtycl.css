@@ -184,6 +184,10 @@ p {
   margin-right: 5px;
 }
 
+.b-page-cover {
+    background: #322372 !important;
+}
+
 .section-title {
   height: 50px;
   margin-bottom: 50px;
