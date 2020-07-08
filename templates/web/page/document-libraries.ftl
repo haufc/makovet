@@ -57,8 +57,8 @@
                     <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
                 </div>
                 <div class="ml-lg-2">
-                    <a href="#" id="custom-prev">Prev</a>
-                    <a href="#" id="custom-next">Next</a>
+                    <a href="#" id="custom-prev"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i>Prev</a>
+                    <a href="#" id="custom-next">Next<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a>
                 </div>
                 <div id="mybook">
                     <#list contentModel.document_o.item as doc>
