@@ -15,7 +15,7 @@ $(document).ready(function() {
         records = storedLstSearch;
         totalRecords = records.length;
         totalPages = Math.ceil(totalRecords / recPerPage);
-        apply_pagination();
+        // apply_pagination();
         
         $('.totalSearch').text(totalRecords);
         $('.keywordSearch').text(localStorage.getItem("userTerm"))
