@@ -34,6 +34,7 @@
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
     <script src="/static-assets/js/handlebars.min-latest.js"></script>
     <script src="/static-assets/js/jquery.twbsPagination.min.js"></script>
+    <script src="/static-assets/js/pagination.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
