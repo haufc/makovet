@@ -93,7 +93,9 @@
                 easing:  'easeInOutElastic',
                 closed: true,
                 covers: true,
-                autoCenter: true
+                autoCenter: true,
+                auto: true,
+                delay: 2000
             });
         });
     </script>
