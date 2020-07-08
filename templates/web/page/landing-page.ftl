@@ -23,10 +23,117 @@
     
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css">
+    
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <style>
+
+        #myImg {
+          border-radius: 5px;
+          cursor: pointer;
+          transition: 0.3s;
+        }
+        
+        #myImg:hover {opacity: 0.7;}
+        
+        /* The Modal (background) */
+        .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 1; /* Sit on top */
+          padding-top: 100px; /* Location of the box */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+        }
+        
+        /* Modal Content (image) */
+        .modal-content {
+          margin: auto;
+          display: block;
+          width: 80%;
+          max-width: 700px;
+        }
+        
+        /* Caption of Modal Image */
+        #caption {
+          margin: auto;
+          display: block;
+          width: 80%;
+          max-width: 700px;
+          text-align: center;
+          color: #ccc;
+          padding: 10px 0;
+          height: 150px;
+        }
+        
+        /* Add Animation */
+        .modal-content, #caption {  
+          -webkit-animation-name: zoom;
+          -webkit-animation-duration: 0.6s;
+          animation-name: zoom;
+          animation-duration: 0.6s;
+        }
+        
+        @-webkit-keyframes zoom {
+          from {-webkit-transform:scale(0)} 
+          to {-webkit-transform:scale(1)}
+        }
+        
+        @keyframes zoom {
+          from {transform:scale(0)} 
+          to {transform:scale(1)}
+        }
+        
+        /* The Close Button */
+        .close {
+          position: absolute;
+          top: 15px;
+          right: 35px;
+          color: #f1f1f1;
+          font-size: 40px;
+          font-weight: bold;
+          transition: 0.3s;
+        }
+        
+        .close:hover,
+        .close:focus {
+          color: #bbb;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        
+        /* 100% Image Width on Smaller Screens */
+        @media only screen and (max-width: 700px){
+          .modal-content {
+            width: 100%;
+          }
+        }
+        .play-icon {
+            background: #FEBD11;
+            border-radius: 50%;
+            color: #00559a;
+            display: block;
+            font-size: 25px;
+            height: 45px;
+            left: 50%;
+            line-height: 45px;
+            position: absolute;
+            text-align: center;
+            top: 40%;
+            transform: translate(-50%, -50%);
+            -webkit-transform: translate(-50%, -50%);
+            width: 45px;
+        }
+    </style>
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
@@ -83,8 +190,16 @@
         MODAL SPINNERS
         ============================== -->
         <div class="modal fade" id="modal-spinner" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
-            <span class="fa fa-spinner fa-spin fa-3x"></span>
+            <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
+                <span class="fa fa-spinner fa-spin fa-3x"></span>
+            </div>
+        </div>
+        <!--Modal Video-->
+        <div id="videoModal" class="modal">
+          <span class="close">&times;</span>
+          <video style="height: 80%;" class="modal-content" controls id="video01">
+              
+          </video>
         </div>
     </main>
     
@@ -94,6 +209,7 @@
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/group-product.js"></script>
@@ -102,10 +218,39 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/contact.js"></script>
-    <script src="/static-assets/js/video-modal.js">
+    <script src="/static-assets/js/video-modal.js"></script>
+    <script src="/static-assets/js/doccument.js"></script>
     <script>
         // set width for google map
         $('iframe').attr('width','83%');
+    </script>
+    <script>
+        $(document).ready(function(){
+            var modal = $('#videoModal');
+            var modalVideo = $('#video01');
+            var srcvideo1 = $('#srcVideo1').val();
+            var srcvideo2 = $('#srcVideo2').val();
+            
+            $('#video-1').click(function() {
+                $(modalVideo).html('<source src="'+ srcvideo1 +'" type="video/mp4"></source>' );
+                $(modal).css('display', 'block');
+                $('.logos').css('display', 'none');
+            });
+            
+            $('#video-2').click(function() {
+                $(modalVideo).html('<source src="'+ srcvideo2 +'" type="video/mp4"></source>' );
+                $(modal).css('display', 'block');
+                $('.logos').css('display', 'none');
+            });
+            
+            var spanClose = $('.close');
+            $(spanClose).click(function() {
+                $(modal).css('display', 'none');
+                $('.logos').css('display', 'block');
+                $(modalVideo).html('');
+                window.location.reload();
+            });
+        });
     </script>
   </body>
 </html>

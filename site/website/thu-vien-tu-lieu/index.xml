@@ -43,28 +43,30 @@
 	<file-name>e34f6839-ebac-4975-f3fe-aa95ed777646.xml</file-name>
 	<internal-name>Thư viện tư liệu</internal-name>
 	<photoTitle_s>Thư viện ảnh</photoTitle_s>
-	<photoURL_s>#</photoURL_s>
+	<photoURL_s>/thu-vien/thu-vien-anh</photoURL_s>
 	<videoTitle_s>Thư viện video</videoTitle_s>
 	<namesVideo1_s>Phim giới thiệu công ty thú...</namesVideo1_s>
 	<namesVideo2_s>Phim giới thiệu công ty thú...</namesVideo2_s>
-	<videoURL_s>#</videoURL_s>
+	<videoURL_s>/thu-vien/thu-vien-video</videoURL_s>
 	<documentTitle_s>Thư viện tài liệu</documentTitle_s>
-	<documentURL_s>#</documentURL_s>
-	<video1_s>/static-assets/images/libraries/videos/video-1.mp4</video1_s>
-	<video2_s>/static-assets/images/libraries/videos/video-2.mp4</video2_s>
+	<documentURL_s>/thu-vien/thu-vien-tai-lieu</documentURL_s>
 	<photoAvatar1_s>/static-assets/images/libraries/photos/photo1.png</photoAvatar1_s>
 	<photoAvatar2_s>/static-assets/images/libraries/photos/photo2.png</photoAvatar2_s>
 	<documentAvatar1_s>/static-assets/images/libraries/documents/doc1.png</documentAvatar1_s>
 	<createdDate>2020-07-06T08:24:37.440Z</createdDate>
 	<createdDate_dt>2020-07-06T08:24:37.440Z</createdDate_dt>
-	<lastModifiedDate>2020-07-06T08:53:17.803Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-06T08:53:17.803Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-07T09:10:56.639Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T09:10:56.639Z</lastModifiedDate_dt>
 	<documentAvatar2_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar2_s>
 	<title_s>Thư viện tư liệu</title_s>
+	<videoURL1_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL1_s>
+	<videoURL2_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL2_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/img__41.jpg</videoBanner_s>
+	<videoBanner2_s>/static-assets/images/libraries/videos/img__41.jpg</videoBanner2_s>
 </component>
 	</item></section_o>
 	<createdDate>2020-07-06T08:23:25.674Z</createdDate>
 	<createdDate_dt>2020-07-06T08:23:25.674Z</createdDate_dt>
-	<lastModifiedDate>2020-07-06T08:53:12.079Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-06T08:53:12.079Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-07T09:10:50.748Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T09:10:50.748Z</lastModifiedDate_dt>
 </page>

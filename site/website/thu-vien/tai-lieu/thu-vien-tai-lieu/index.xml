@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/document</content-type>
+	<display-template>/templates/web/page/document-libraries.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d868</objectGroupId>
+	<objectId>d8681ccb-79b3-9d58-cc46-47decb5ef34b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-vien-tai-lieu</folder-name>
+	<internal-name>Thư viện tài liệu</internal-name>
+	<title_s>Thư viện tài liệu</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/5b2205bc-01ef-0734-6b63-da848eae19d0.xml</key>
+	<value>Slide header</value>
+	<include>/site/items/5b2205bc-01ef-0734-6b63-da848eae19d0.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<document_o item-list="true">	<item>	<documentName_s>Catalog sản phẩm thức ăn chăn nuôi Stargro</documentName_s>
+	<pDF_o>		<item><key>/static-asset/images/libraries/documents/sample-signed.pdf</key>
+<value>/static-asset/images/libraries/documents/sample-signed.pdf</value>
+<fileType_mvs>pdf</fileType_mvs>
+<fileSize_s>70693</fileSize_s>
+<datasource>fileUpload</datasource>
+		</item></pDF_o>
+	<banner_s>/static-assets/images/libraries/documents/catalog_san_pham_stargro.jpg</banner_s>
+	<pageItemContent_html>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</pageItemContent_html>
+	</item>	<item>	<pageItemContent_html>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</pageItemContent_html>
+	</item>	<item>	<pageItemContent_html>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</pageItemContent_html>
+	</item></document_o>
+	<createdDate>2020-07-07T14:29:19.147Z</createdDate>
+	<createdDate_dt>2020-07-07T14:29:19.147Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T15:51:29.809Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T15:51:29.809Z</lastModifiedDate_dt>
+	<avatar_s>/static-assets/images/libraries/documents/catalog_san_pham_stargro.jpg</avatar_s>
+</page>

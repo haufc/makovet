@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/photos</content-type>
+	<display-template>/templates/web/page/photo-libraries.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5791</objectGroupId>
+	<objectId>5791f280-7ed9-c513-5c44-9c62735633cf</objectId>
+	<listphoto_o item-list="true">	<item>	<photoName_s>Ảnh Nhà máy (5.2000)</photoName_s>
+	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo2.png</photoImage_s>
+	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo3.png</photoImage_s>
+	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
+	<photoName_s>Ảnh Nhà máy (5.2000)</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo2.png</photoImage_s>
+	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo3.png</photoImage_s>
+	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
+	<photoName_s>Ảnh Nhà máy (5.2000)</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo2.png</photoImage_s>
+	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo3.png</photoImage_s>
+	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
+	</item></listphoto_o>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-vien-anh</folder-name>
+	<internal-name>Thư viện ảnh</internal-name>
+	<title_s>Thư viện ảnh</title_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-07-07T02:23:27.255Z</createdDate>
+	<createdDate_dt>2020-07-07T02:23:27.255Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T02:32:20.193Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T02:32:20.193Z</lastModifiedDate_dt>
+</page>
