@@ -37,10 +37,21 @@
                 </div>
             </div>
             <div class="container">
-                 <div class="d-flex mb-4" style="background-color: #ffcb0c;">
+                 <#--<div class="d-flex mb-4" style="background-color: #ffcb0c;">
                         <div class="product-info m-auto"><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px;">${contentModel.productName_s}</h1></div>
                         <div class="product-info" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}"/></div>
                         <div class="product-info text-center m-auto"><span class="product-buy text-white font-weight-bold">Đặt mua</span></div>
+                </div> -->
+                <div class="row" style="background-color: #ffcb0c;">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <h1 class="font-weight-bold violet-color text-center" style="font-size: 20px;">${contentModel.productName_s}</h1>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <img class="img-center" src="${contentModel.productImage_s}"/>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <span class="product-buy text-white font-weight-bold">Đặt mua</span>
+                    </div>
                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-3">
                     ${contentModel.productDescription_html}
