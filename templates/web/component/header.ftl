@@ -38,6 +38,10 @@
         cursor: pointer;
         background-color: #fff;
     }
+    nav__menu-search-btn{
+        border: none;
+        background: #fff;
+    }
 </style>
 <header>
     <section class="nav">   
