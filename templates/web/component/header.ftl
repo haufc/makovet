@@ -13,7 +13,7 @@
 
             <ul class="nav__tools flex">
                 <li class="nav__tool-item">
-                    <a href="/trang-chu">
+                    <a href="/trang-chu" class="search_icon">
                         <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
                     </a>
                 </li>
@@ -22,7 +22,7 @@
                         <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
                     </a>
                 </li>
-                <li class="nav__tool-item">
+                <li class="nav__tool-item search-bar">
                     <input class="search_input" type="text" name="" placeholder="Nhập từ khoá tìm kiếm...">
                     <a href="#">
                         <img class="full-size" src="/static-assets/images/template/icon_search.png" alt="Search icon">
@@ -84,4 +84,27 @@
         </div>
     </section>
 </header>
+<style>
+    .search_input{
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color:transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+    }
+    .searchbar:hover > .search_input{
+    padding: 0 10px;
+    width: 450px;
+    caret-color:red;
+    transition: width 0.4s linear;
+    }
+
+    .searchbar:hover > .search_icon{
+    background: white;
+    color: #e74c3c;
+    }
+</style>
 <@studio.toolSupport />
