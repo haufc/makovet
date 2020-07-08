@@ -1,6 +1,10 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <header>
-    <section class="nav">
+    <section class="nav">   
+        <div class="search-bar" id="searchBar">
+            <input type="text">
+            <i class="fas fa-search"></i>
+        </div>
         <div class="nav__responsive" style="margin-left: auto">
         <div class="nav__container">
             <div class="nav__logo">
@@ -24,7 +28,7 @@
                 </li>
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
-                    <button class="nav__menu-search-btn" toggleSearchBar()>
+                    <button class="nav__menu-search-btn" onclick="toggleSearchBar()">
                         <i class="fas fa-search"></i>
                     </button>
                 </li>
@@ -62,23 +66,24 @@
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/lien-he">Liên hệ</a>
                 </li>
-
-              
-            </div>
-        </div>
-        <div id="searchBar" class="search-bar">
-            <div class="input-group">
-                <input 
-                    type="text" 
-                    class="form-control rounded-0" 
-                    placeholder="" 
-                    id="txtSearch"
-                    onfocus="this.placeholder=' '"
-                    onblur="this.placeholder='Nhập từ khóa tìm kiếm!'"
-                >
-                <div class="input-group-append">
-                  <button type="button" class="btn btn-secondary rounded-0" onclick="search()"><i class="fas fa-search"></i></button>
-                </div>
+                <ul class="nav__menu-tools">
+                    <li>
+                        <a href="#">
+                            <img class="full-size" src="../settings/images/icon_home.png" alt="Home icon">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img class="full-size" src="../settings/images/icon_flag.png" alt="Flag icon">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img class="full-size" src="../settings/images/icon_search.png" alt="Search icon">
+                        </a>
+                    </li>
+                </ul>
+                </ul>
             </div>
         </div>
     </section>
