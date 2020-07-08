@@ -63,23 +63,7 @@
                     <a class="nav__menu-link" href="/lien-he">Liên hệ</a>
                 </li>
 
-                <ul class="nav__menu-tools">
-                    <li>
-                        <a href="#">
-                            <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
-                        </a>
-                    </li>
-                    <li class="nav__tool-item">
-                        <a href="#">
-                            <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
-                        </a>
-                    </li>
-                    <li class="nav__tool-item">
-                        <a href="#">
-                            <img class="full-size" src="/static-assets/images/template/icon_search.png" alt="Search icon">
-                        </a>
-                    </li>
-                </ul>
+              
             </div>
         </div>
         <div id="searchBar" class="search-bar">
