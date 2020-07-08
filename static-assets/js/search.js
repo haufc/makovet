@@ -1,7 +1,7 @@
 $(document).ready(function() {
     // Display content for search page
     var url = window.location;
-    if(url == getContextPath()+ "/search-result" || url == getContextPath()+ "/en/search-result") {
+    if(url == getContextPath()+ "/tim-kiem") {
         
         var $pagination = $('#pagination'), 
             totalRecords = 0,
