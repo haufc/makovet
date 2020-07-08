@@ -27,7 +27,7 @@
         border: none;
     }
     .search-bar > input {
-        padding: 0 15px;
+        padding: 0 5px;
         width: 100%;
     }
     .search-bar > input:focus {
