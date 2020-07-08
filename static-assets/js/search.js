@@ -3,7 +3,7 @@ $(document).ready(function() {
     var url = window.location;
     if(url == getContextPath()+ "/tim-kiem") {
         
-        var $pagination = $('#pagination'), 
+        var pagination = $('#pagination'), 
             totalRecords = 0,
             records = [],
             displayRecords = [],
