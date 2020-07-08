@@ -95,7 +95,7 @@
                 covers: true,
                 autoCenter: true,
                 auto: true,
-                delay: 2000
+                delay: 9000
             });
         });
     </script>
