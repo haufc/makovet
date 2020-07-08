@@ -38,7 +38,7 @@
         cursor: pointer;
         background-color: #fff;
     }
-    nav__menu-search-btn{
+    .nav__menu-search-btn{
         border: none;
         background: #fff;
     }
