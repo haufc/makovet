@@ -140,7 +140,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>avatarUpload,avatarExisting</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -152,7 +152,7 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[true]]></value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
@@ -273,6 +273,37 @@
 						<property>
 							<name>repoPath</name>
 							<value>/static-assets/images/libraries</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>img-desktop-upload</type>
+					<id>avatarUpload</id>
+					<title>Avatar Upload</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/images/libraries</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>img-repository-upload</type>
+					<id>avatarExisting</id>
+					<title>Avatar Existing</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/images/libraries</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>useSearch</name>
+							<value>false</value>
 								<type>undefined</type>
 						</property>
 					</properties>
