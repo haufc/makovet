@@ -194,11 +194,11 @@
         <div id="myModal" class="modal">
           <span class="close">&times;</span>
           <div class="modal__content">
-              <a href="#" id="prev">
+              <a href="" id="prev">
                 <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
               </a>
               <img class="modal-content" id="img01">
-              <a href="#" id="next">
+              <a href="" id="next">
                 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
               </a>
           </div>
