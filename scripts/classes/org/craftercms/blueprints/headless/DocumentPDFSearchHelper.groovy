@@ -8,7 +8,7 @@ import org.elasticsearch.search.builder.SearchSourceBuilder
 import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
-class DocumentSearchHelper {
+class DocumentPDFSearchHelper {
     static final String DOC_CONTENT_TYPE_QUERY = "content-type:\"/page/pagedemo\""
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS = 10000
@@ -16,7 +16,7 @@ class DocumentSearchHelper {
     def elasticsearch
     UrlTransformationService urlTransformationService
     
-     DocumentSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
+     DocumentPDFSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
         this.elasticsearch = elasticsearch
         this.urlTransformationService = urlTransformationService
     }
