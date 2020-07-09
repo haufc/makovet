@@ -57,12 +57,9 @@
         </div>
 		<main>
 		    <div id="magazine">
-    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/01.jpg);"></div>
-    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/02.jpg);"></div>
-    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/03.jpg);"></div>
-    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/04.jpg);"></div>
-    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/05.jpg);"></div>
-    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/06.jpg);"></div>
+    			<#list contentModel.document_o.item as img>
+                	<div style="background-image:url(${img.imageDocument_s});"></div>
+                </#list>
     		</div>
 		</main>
 		
