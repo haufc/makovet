@@ -36,8 +36,8 @@
 		<![endif]-->
 		<style type="text/css">
 			#magazine{
-				width:576px;
-				height:752px;
+				width:100%;
+				height:100%;
 			}
 			#magazine .turn-page{
 				background-color:#ccc;
