@@ -2,7 +2,7 @@
 <!-- Handlebar Templates -->
 	<script id="search-results-template" type="text/x-handlebars-template">
 		{{#each results}}
-		    <div class="col-lg-4 col-md-4 col-sm-12 row search-result_content" style="margin-bottom: 20px;">
+		    <#-- <div class="col-lg-4 col-md-4 col-sm-12 row search-result_content" style="margin-bottom: 20px;">
                 <div class="search--img col-lg-6 col-md-6 col-sm-12" >
                     <a href="{{url}}"><img src="{{avatar}}" alt="" class="img--full"></a>
                 </div>
@@ -12,7 +12,14 @@
         		        <a href="{{url}}"><p class="limit-text-250">{{{highlight}}}</p></a>
         			{{/if}}
                 </div>
-            </div>
+            </div> -->
+            <div class="col-lg col-md col-sm-6 col-xs-6 child-product-item mb-3">
+    	        <a href="{{url}}"><img style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="{{avatar}}" width="150" height="155"/></a>
+    	        <p class="d-block text-center violet-color mt-3">{{title}}</p>
+    	        {{#if highlight}}
+    		        <a href="{{url}}"><p class="limit-text-250">{{{highlight}}}</p></a>
+    			{{/if}}
+    	    </div>
 		{{else}}
 		    <p>No results found</p>
 		{{/each}}
