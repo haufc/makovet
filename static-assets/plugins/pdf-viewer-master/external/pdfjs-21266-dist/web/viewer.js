@@ -5125,14 +5125,20 @@ var OptionKind = {
   API: 'api',
   WORKER: 'worker'
 };
+
 exports.OptionKind = OptionKind;
+
+var pdfFilePath = $('#pdf-file').val();
+exports.pdfFilePath = pdfFilePath;
+
 var defaultOptions = {
   cursorToolOnLoad: {
     value: 0,
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: '/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/compressed.tracemonkey-pldi-09.pdf',
+    //value: '/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/compressed.tracemonkey-pldi-09.pdf',
+    value: pdfFilePath,
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
