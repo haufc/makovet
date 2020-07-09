@@ -130,6 +130,10 @@
           .modal-content {
             width: 100%;
           }
+          .modal__content {
+              left: 0;
+              transform: translate(0, -50%);
+          }
         }
     </style>
   </head>
