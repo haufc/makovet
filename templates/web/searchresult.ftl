@@ -25,9 +25,10 @@
 		{{/each}}
 		
 </script>
-<div class="content__title" style="background-color: #FFF">
-    <div class="container">
-    <h1 class="text--red" id="search-title">Kết quả tìm kiếm</h1></div>
+<div class="section-title">
+    <div class="section-title__content block">
+        <h1 class="section-title__content-text text--uppercase">Tin nội bộ</h1>
+    </div>
 </div>
 <div class="content__details">
      <div class="container">
