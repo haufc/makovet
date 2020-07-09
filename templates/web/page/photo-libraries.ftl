@@ -126,13 +126,13 @@
         }
         
         /* 100% Image Width on Smaller Screens */
-        @media only screen and (max-width: 320px){
+        @media only screen and (min-width: 320px) and (max-width: 400px) {
           .modal-content {
             width: 100%;
           }
-          .modal__content {
-              left: 0;
-              transform: translate(0, -50%);
+          #next,
+          #prev {
+              bottom: 0;
           }
         }
     </style>
