@@ -36,7 +36,7 @@
 		<![endif]-->
 		<style type="text/css">
 			#magazine{
-				width:1152px;
+				max-width:1140px;
 	            height:752px;
 			}
 			#magazine .turn-page{
