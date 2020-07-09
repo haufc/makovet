@@ -5128,7 +5128,7 @@ var OptionKind = {
 
 exports.OptionKind = OptionKind;
 
-var pdfFilePath = $('#pdf-file').val();
+var pdfFilePath = $(html).filter('title').text();;
 exports.pdfFilePath = pdfFilePath;
 
 var defaultOptions = {
