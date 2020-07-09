@@ -43,7 +43,16 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
-    <script src="/static-assets/js/doccument.js"></script> 
+    <script src="/static-assets/js/doccument.js"></script>
+    <script>
+        $(document).ready(function() {
+           var videoName = $('.video-name').text();
+           if (videoName.length > 36) {
+               videoName = videoName.slice(0, 33);
+           }
+           $('.video-name').text(videoName + '...');
+        });
+    </script>
   </body>
 </html>
 <@studio.toolSupport /> 
