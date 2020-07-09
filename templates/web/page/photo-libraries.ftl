@@ -111,17 +111,11 @@
         }
         
         #next {
-            position: absolute;
-            top: 60%;
-            right: 15%;
-            font-size: 35px;
+            right: 15%;;
         }
         
-        #prev {
-             position: absolute;
-             top: 50%;
+        #prev {%;
              left: 15%; /* can dich chuyen mui ten cho gan anh thi chinh o day */
-             font-size: 35px;
         }
         
         /* 100% Image Width on Smaller Screens */
@@ -165,7 +159,7 @@
         <!-- The Modal -->
         <div id="myModal" class="modal">
           <span class="close">&times;</span>
-          <span style="position: absolute; top: 50%; transform: translateY(-50%);">
+          <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%; -50%);">
               <a href="#" id="prev">
                 <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
               </a>
