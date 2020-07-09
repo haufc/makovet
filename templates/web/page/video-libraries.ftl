@@ -103,7 +103,7 @@
                 let id = "#video-" + i;
                let lengthName = $(id).text();
                if (lengthName.length > 36) {
-                   let docName = videoName.slice(0, 33);
+                   let docName = lengthName.slice(0, 33);
                    $(id).text(docName + '...');
                }
            }
