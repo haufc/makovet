@@ -1,5 +1,5 @@
 <content-type name="/page/pagedemo" is-wcm-type="true">
-	<label>Page - Demo</label>
+	<label>Page - Thư viện tài liệu (PDF)</label>
 	<form>/page/pagedemo</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
