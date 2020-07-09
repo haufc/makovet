@@ -134,7 +134,6 @@
           .modal__content {
             left: 0;
             transform: translate(0, -50%);
-            width: 100%;
           }
           #next,
           #prev {
