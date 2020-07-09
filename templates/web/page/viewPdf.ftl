@@ -48,6 +48,7 @@ See https://github.com/adobe-type-tools/cmap-resources
   </head>
 
   <body tabindex="1" class="loadingInProgress">
+    <input hidden value="${contentModel.pDFfile_o.item.key}"/>
     <div id="outerContainer">
       <div id="sidebarContainer">
         <div id="toolbarSidebar">
