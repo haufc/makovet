@@ -1,0 +1,47 @@
+/*
+    Theme name          : Galaxy  
+    Theme description   : 
+    Version             : 1.0.0
+    Author              : Phong VG
+*/
+/*
+    Table of content   
+    1, Reset  css
+    2, Header 
+*/
+/* ========== 1,Reset ========== */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+    padding: 0 15px;
+}
+/* ========== 2,Header ========== */
+.header{
+    height: 90px;
+    display: flex;
+    background: red;
+}
+.header .header-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header .header-top .header__logo{}
+.header .header-top .header__mennu{
+    font-weight: 400;
+    font-size: 13px;
+    color: #97999b;
+}
