@@ -7,6 +7,6 @@
         
         <div class="container" style="padding-left:30px;">
             <img style=" padding-top:20px;" class="img-responsive" src="${contentModel.image_s!""}" >
-            <div style="color: #00549a; font-size: 16px; padding-top:30px;line-height: 1.5;">${contentModel.content_html}</div>
+            <div class="img-responsive" style="color: #00549a; font-size: 16px; padding-top:30px;line-height: 1.5;">${contentModel.content_html}</div>
         </div>
         </section>
