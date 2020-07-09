@@ -81,6 +81,7 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/product-detail.js"></script>
+    <script src="/static-assets/js/search.js"></script>
     <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
     <input hidden value="${contentModel.productgrouplv2_o.item.key}" id="child-category"/>
     <div id="lst-categories">
