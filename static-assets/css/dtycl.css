@@ -1293,4 +1293,106 @@ p {
       font-size: 14px !important;
   }
 }
+
+@media only screen and (max-width: 1024px) {
+    #magazine{
+        max-width: 1024px !important;
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    #magazine{
+        max-width: 980px !important;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #magazine{
+        max-width: 800px !important;
+    }
+}
+
+@media only screen and (max-width: 780px) {
+    #magazine{
+        max-width: 780px !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #magazine{
+         max-width: 768px !important;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    #magazine{
+        max-width: 720px !important;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    #magazine{
+        max-width: 640px !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #magazine{
+        max-width: 600px !important;
+    }
+}
+
+@media only screen and (max-width: 568px) {
+    #magazine{
+        max-width: 568px !important;
+    }
+}
+
+@media only screen and (max-width: 563px) {
+    #magazine{
+        max-width: 563px !important;
+    }
+}
+
+@media only screen and (max-width: 549px) {
+    #magazine{
+        max-width: 549px !important;
+    }
+}
+
+@media only screen and (max-width: 534px) {
+    #magazine{
+        max-width: 534px !important;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #magazine{
+        max-width: 480px !important;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    #magazine{
+        max-width: 360px !important;
+    }
+}
+
+@media only screen and (max-width: 338px) {
+    #magazine{
+        max-width: 338px !important;
+    }
+}
+
+@media only screen and (max-width: 330px) {
+    #magazine{
+        max-width: 330px !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    #magazine{
+        max-width: 320px !important;
+    }
+}
 /*# sourceMappingURL=dtycl.css.map */
