@@ -16,8 +16,8 @@
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.carousel.min.css">
     <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.theme.default.min.css">
-    
-    <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
+    <script src="/static-assets/js/handlebars.min-latest.js"></script>
+    <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>  
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
@@ -32,6 +32,9 @@
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
     <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
+    <script src="/static-assets/js/handlebars.min-latest.js"></script>
+    <script src="/static-assets/js/jquery.twbsPagination.min.js"></script>
+    <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
@@ -45,6 +48,7 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/contact.js"></script>
     <script src="/static-assets/js/relation.js"></script>
+    <script src="/static-assets/js/search.js"></script>
     <script>
         $('.limit-text').each(function (f) {
           var newstr = $(this).text().substring(0,140);
