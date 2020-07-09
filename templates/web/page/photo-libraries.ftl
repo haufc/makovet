@@ -139,9 +139,16 @@
           }
           #next,
           #prev {
-              bottom: 0;
+            top: unset;
+            bottom: 0;
+            transform: unset;
           }
-          
+          #next {
+              right: 0;
+          }
+          #prev {
+              left: 0;
+          }
         }
     </style>
   </head>
