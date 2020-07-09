@@ -286,7 +286,7 @@ p {
   -ms-grid-column: 1;
   grid-area: tools;
   width: 120px;
-  margin-left: 130px;
+  margin-left: 30px;
 }
 
 .nav__tool-item {
