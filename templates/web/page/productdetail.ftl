@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css">
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
@@ -80,6 +81,7 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/product-detail.js"></script>
+    <script src="/static-assets/js/search.js"></script>
     <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
     <input hidden value="${contentModel.productgrouplv2_o.item.key}" id="child-category"/>
     <div id="lst-categories">

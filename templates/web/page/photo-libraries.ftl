@@ -20,6 +20,7 @@
     
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css">
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <style>
@@ -37,7 +38,7 @@
           display: none; /* Hidden by default */
           position: fixed; /* Stay in place */
           z-index: 1; /* Sit on top */
-          padding-top: 100px; /* Location of the box */
+          
           left: 0;
           top: 0;
           width: 100%; /* Full width */
@@ -103,24 +104,58 @@
           cursor: pointer;
         }
         
-        #next {
+        .modal__content {
             position: absolute;
-            top: 60%;
-            right: 15%;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 100%;
+        }
+        
+        #next,
+        #prev {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
             font-size: 35px;
         }
         
-        #prev {
-             position: absolute;
-             top: 60%;
-             left: 15%;
-             font-size: 35px;
+        #next {
+            right: 15%;;
+        }
+        
+        #prev {%;
+             left: 15%; /* can dich chuyen mui ten cho gan anh thi chinh o day */
         }
         
         /* 100% Image Width on Smaller Screens */
-        @media only screen and (max-width: 700px){
+        @media only screen and (min-width: 320px) and (max-width: 400px) {
           .modal-content {
             width: 100%;
+          }
+          .modal__content {
+            left: 0;
+            transform: translate(0, -50%);
+            width: auto;
+          }
+          .close {
+            top: unset;
+            left: 50%;
+            right: 0;
+            bottom: 0;
+            transform: translateX(-50%);
+          }
+          #next,
+          #prev {
+            top: unset;
+            bottom: -15%;
+            transform: unset;
+          }
+          #next {
+              right: 0;
+          }
+          #prev {
+              left: 0;
           }
         }
     </style>
@@ -158,13 +193,15 @@
         <!-- The Modal -->
         <div id="myModal" class="modal">
           <span class="close">&times;</span>
-          <span><a href="#" id="prev">
-            <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
-          </a>
-          <img class="modal-content" id="img01">
-          <a href="#" id="next">
-            <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-          </a></span>
+          <div class="modal__content">
+              <a href="javascript:void(0)" id="prev">
+                <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
+              </a>
+              <img class="modal-content" id="img01">
+              <a href="javascript:void(0)" id="next">
+                <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+              </a>
+          </div>
           <div id="caption"></div>
         </div>
     </main>

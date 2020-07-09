@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css">
     <title>${contentModel.title_s}</title
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -44,6 +45,7 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/job.js"></script> 
+    <script src="/static-assets/js/search.js"></script>
   </body>
 </html>
 <@studio.toolSupport /> 

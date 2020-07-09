@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css">
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
@@ -49,6 +50,7 @@
     <script src="/static-assets/js/contact.js"></script>
     <script src="/static-assets/js/relation.js"></script>
     <script src="/static-assets/js/search.js"></script>
+    
     <script>
         $('.limit-text').each(function (f) {
           var newstr = $(this).text().substring(0,140);
