@@ -137,10 +137,16 @@
             transform: translate(0, -50%);
             width: auto;
           }
+          .close {
+            top: unset;
+            left: 50%;
+            bottom: -15%;
+            transform: translateX(-50%);
+          }
           #next,
           #prev {
             top: unset;
-            bottom: 0;
+            bottom: -15%;
             transform: unset;
           }
           #next {
