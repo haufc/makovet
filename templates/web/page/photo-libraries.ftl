@@ -115,6 +115,7 @@
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
+            font-size: 35px;
         }
         
         #next {
@@ -128,6 +129,11 @@
         /* 100% Image Width on Smaller Screens */
         @media only screen and (min-width: 320px) and (max-width: 400px) {
           .modal-content {
+            width: 100%;
+          }
+          .modal__content {
+            left: 0;
+            transform: translate(0, -50%);
             width: 100%;
           }
           #next,
