@@ -13,7 +13,7 @@
         			{{/if}}
                 </div>
             </div> -->
-            <div class="col-lg col-md col-sm-6 col-xs-6 child-product-item mb-3">
+            <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 child-product-item mb-3">
     	        <a href="{{url}}"><img class="img-responsive" src="{{avatar}}" width="150" height="155"/></a>
     	        <p class="d-block text-center violet-color mt-3">{{title}}</p>
     	        {{#if highlight}}
