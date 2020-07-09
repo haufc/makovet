@@ -37,10 +37,11 @@ See https://github.com/adobe-type-tools/cmap-resources
 <script src="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/build/pdf.js"></script>
 
 
-    <script src="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.js"></script>
+    <#--<script src="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.js"></script> -->
 
     <!-- $FB: additional files included -->
     <script src="/static-assets/plugins/pdf-viewer-master/external/jquery-3.4.1.min.js"></script>
+    <script src="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.js"></script>
     <script src="/static-assets/plugins/pdf-viewer-master/external/turn.min.js"></script>
     <link rel="stylesheet" href="/static-assets/plugins/pdf-viewer-master/pdf-turn/pdf-turn.css">
     <script src="/static-assets/plugins/pdf-viewer-master/pdf-turn/pdf-turn.js"></script>
