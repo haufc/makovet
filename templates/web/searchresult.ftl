@@ -27,7 +27,7 @@
 </script>
 <div class="section-title">
     <div class="section-title__content block">
-        <h1 class="section-title__content-text text--uppercase">Tin nội bộ</h1>
+        <h1 class="section-title__content-text text--uppercase">Kết quả tìm kiếm</h1>
     </div>
 </div>
 <div class="content__details">
