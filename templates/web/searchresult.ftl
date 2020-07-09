@@ -13,9 +13,8 @@
         			{{/if}}
                 </div>
             </div> -->
-        <div class="row row-cols-lg-5 row-cols-md-5" id="child-product">
             <div class="col-lg col-md col-sm-6 col-xs-6 child-product-item mb-3">
-    	        <a href="{{url}}"><img style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="{{avatar}}" width="150" height="155"/></a>
+    	        <a href="{{url}}"><img class="img-responsive" src="{{avatar}}" width="150" height="155"/></a>
     	        <p class="d-block text-center violet-color mt-3">{{title}}</p>
     	        {{#if highlight}}
     		        <a href="{{url}}"><p class="limit-text-250">{{{highlight}}}</p></a>
@@ -24,7 +23,6 @@
 		{{else}}
 		    <p>No results found</p>
 		{{/each}}
-	    </div>
 		
 </script>
 <div class="section-title">
