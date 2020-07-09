@@ -108,6 +108,7 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
+            width: 100%;
         }
         
         #next,
@@ -134,11 +135,13 @@
           .modal__content {
             left: 0;
             transform: translate(0, -50%);
+            width: auto;
           }
           #next,
           #prev {
               bottom: 0;
           }
+          
         }
     </style>
   </head>
