@@ -97,12 +97,16 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/video.js"></script>
     <script>
-        $(document).ready(function() {
-           var videoName = $('.video-name').text();
-           if (videoName.length > 36) {
-               videoName = videoName.slice(0, 33);
+       $(document).ready(function() {
+           var itemTotal = $('.video-name').length;
+           for(let i = 0; i < itemTotal; i++) {
+                let id = "#video-" + i;
+               let lengthName = $(id).text();
+               if (lengthName.length > 36) {
+                   let docName = videoName.slice(0, 33);
+                   $(id).text(docName + '...');
+               }
            }
-           $('.video-name').text(videoName + '...');
         });
     </script>
   </body>
