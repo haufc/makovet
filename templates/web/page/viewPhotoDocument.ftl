@@ -17,9 +17,6 @@
 			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 		<![endif]-->
 		<style type="text/css">
-			body{
-				background:#ccc;
-			}
 			#magazine{
 				width:576px;
 				height:752px;
