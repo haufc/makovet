@@ -33,12 +33,12 @@
 	<body>
 		<h1 class="text-center">Hello World</h1>
 		<div id="magazine">
-			<div style="background-image:url(pages/01.jpg);"></div>
-			<div style="background-image:url(pages/02.jpg);"></div>
-			<div style="background-image:url(pages/03.jpg);"></div>
-			<div style="background-image:url(pages/04.jpg);"></div>
-			<div style="background-image:url(pages/05.jpg);"></div>
-			<div style="background-image:url(pages/06.jpg);"></div>
+			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/01.jpg);"></div>
+			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/02.jpg);"></div>
+			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/03.jpg);"></div>
+			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/04.jpg);"></div>
+			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/05.jpg);"></div>
+			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/06.jpg);"></div>
 		</div>
 		<!-- jQuery -->
 		<script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
