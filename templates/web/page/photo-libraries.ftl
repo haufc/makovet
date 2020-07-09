@@ -140,7 +140,8 @@
           .close {
             top: unset;
             left: 50%;
-            bottom: -15%;
+            right: 0;
+            bottom: 0;
             transform: translateX(-50%);
           }
           #next,
