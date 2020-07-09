@@ -67,6 +67,7 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/group-child-product.js"></script>
+    <script src="/static-assets/js/search.js"></script>
     <script>
         $(document).ready(function(){
            // var title = "";
