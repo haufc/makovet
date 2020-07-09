@@ -13,7 +13,9 @@
 .nav__btn{
     color: #fff !important;
 }
+@media only screen and (max-width: 800px) and (min-width: 700px) and (orientation: portrait){
 .dropdown-menu{
     background: #332472;
+}
 }
 /* ========== 2,Header ========== */
