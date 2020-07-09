@@ -59,7 +59,7 @@
                             <div class="item-box" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
                                   <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                                    <span class="play-icon"><i class="fa fa-play-circle text-white"></i></span>
+                                    <span class="play-icon"><i class="fa fa-play text-white"></i></span>
                                   </a>
                                   <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
                                     <img style="height: 100%;object-fit: cover;width: 100%;" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
@@ -67,7 +67,7 @@
                                 </figure>
                                 <div class="cap-content" style="background: #322372;left: 0;bottom:0;position: absolute;width: 100%;">
                                     <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                                        <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${video.videoName_s}</h3>
+                                        <h3 id="video-${video?index}" style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${video.videoName_s}</h3>
                                     </a>
                                 </div>
                             </div>
@@ -97,12 +97,16 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/video.js"></script>
     <script>
-        $(document).ready(function() {
-           var videoName = $('.video-name').text();
-           if (videoName.length > 36) {
-               videoName = videoName.slice(0, 33);
+       $(document).ready(function() {
+           var itemTotal = $('.video-name').length;
+           for(let i = 0; i < itemTotal; i++) {
+                let id = "#video-" + i;
+               let lengthName = $(id).text();
+               if (lengthName.length > 36) {
+                   let docName = lengthName.slice(0, 33);
+                   $(id).text(docName + '...');
+               }
            }
-           $('.video-name').text(videoName + '...');
         });
     </script>
   </body>

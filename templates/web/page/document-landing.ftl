@@ -43,7 +43,20 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
-    <script src="/static-assets/js/doccument.js"></script> 
+    <script src="/static-assets/js/doccument.js"></script>
+    <script>
+        $(document).ready(function() {
+           var itemTotal = $('.video-name').length;
+           for(let i = 0; i < itemTotal; i++) {
+                let id = "#doc-" + i;
+               let lengthName = $(id).text();
+               if (lengthName.length > 36) {
+                   let docName = lengthName.slice(0, 33);
+                   $(id).text(docName + '...');
+               }
+           }
+        });
+    </script>
   </body>
 </html>
 <@studio.toolSupport /> 

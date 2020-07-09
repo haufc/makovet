@@ -1,5 +1,5 @@
 <form>
-	<title>Page - Thư viện tài liệu</title>
+	<title>Page - Thư viện tài liệu (Photo)</title>
 	<description></description>
 	<objectType>page</objectType>
 	<content-type>/page/document</content-type>
@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/web/page/document-libraries.ftl</value>
+			<value>/templates/web/page/viewPhotoDocument.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -248,54 +248,6 @@
 						</constraint>
 					</constraints>
 				</field>
-				<field>
-					<type>node-selector</type>
-					<id>pDFfile_o</id>
-					<iceId></iceId>
-					<title>PDF file</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>minSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>itemManager</name>
-							<value>fileUpload,fileExisting</value>
-							<type>datasource:item</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>disableFlattening</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>useSingleValueFilename</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>allowDuplicates</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
 			</fields>
 		</section>
 		<section>
@@ -309,12 +261,12 @@
 					<iceId></iceId>
 					<title>Document </title>
 					<description></description>
-					<minOccurs>0</minOccurs>
+					<minOccurs>2</minOccurs>
 					<maxOccurs>*</maxOccurs>
 					<properties>
 						<property>
 							<name>minOccurs</name>
-							<value>0</value>
+							<value>2</value>
 							<type>string</type>
 						</property>
 						<property>
@@ -325,53 +277,33 @@
 					</properties>
 					<fields>
 				<field>
-					<type>rte-tinymce5</type>
-					<id>pageItemContent_html</id>
+					<type>image-picker</type>
+					<id>imageDocument_s</id>
 					<iceId></iceId>
-					<title>Page Item Content</title>
+					<title>Image Document</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
 							<name>width</name>
-							<value></value>
-							<type>int</type>
+							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
+							<type>range</type>
 						</property>
 						<property>
 							<name>height</name>
+							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
+							<type>range</type>
+						</property>
+						<property>
+							<name>thumbnailWidth</name>
 							<value></value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>autoGrow</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
+							<name>thumbnailHeight</name>
 							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
+							<type>int</type>
 						</property>
 						<property>
 							<name>imageManager</name>
@@ -379,14 +311,9 @@
 							<type>datasource:image</type>
 						</property>
 						<property>
-							<name>videoManager</name>
+							<name>readonly</name>
 							<value></value>
-							<type>datasource:video</type>
-						</property>
-						<property>
-							<name>fileManager</name>
-							<value></value>
-							<type>datasource:item</type>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
@@ -467,32 +394,6 @@
 						<property>
 							<name>useSearch</name>
 							<value>false</value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>file-desktop-upload</type>
-					<id>fileUpload</id>
-					<title>File Upload</title>
-					<interface>item</interface>
-					<properties>
-						<property>
-							<name>repoPath</name>
-							<value>/static-assets/images/libraries</value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>file-browse-repo</type>
-					<id>fileExisting</id>
-					<title>File Existing</title>
-					<interface>item</interface>
-					<properties>
-						<property>
-							<name>repoPath</name>
-							<value>/static-assets/images/libraries</value>
 								<type>undefined</type>
 						</property>
 					</properties>

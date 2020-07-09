@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemo</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e637</objectGroupId>
+	<objectId>e6377d86-aa08-9425-599c-249e26ee160f</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Tạp chí nông nghiệp</internal-name>
+	<title_s>Tạp chí nông nghiệp</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>magazine-1</folder-name>
+	<avatar_s>/static-assets/images/libraries/photos/photo2.png</avatar_s>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/turnjs4-api-docs.pdf</key>
+	<value>/static-assets/images/libraries/turnjs4-api-docs.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>178329</fileSize_s>
+	</item></pDFfile_o>
+	<createdDate>2020-07-09T08:17:59.650Z</createdDate>
+	<createdDate_dt>2020-07-09T08:17:59.650Z</createdDate_dt>
+	<lastModifiedDate>2020-07-09T08:17:59.650Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-09T08:17:59.650Z</lastModifiedDate_dt>
+</page>

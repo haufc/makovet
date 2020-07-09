@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/document</content-type>
+	<display-template>/templates/web/page/viewPhotoDocument.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0b21</objectGroupId>
+	<objectId>0b214e9e-f7c6-61d2-c260-bcfe1434a5b1</objectId>
+	<internal-name>Magazine</internal-name>
+	<title_s>Magazine</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>magazine</folder-name>
+	<avatar_s>/static-assets/images/libraries/documents/doc1.png</avatar_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<document_o item-list="true">	<item>	<imageDocument_s>/static-assets/images/libraries/documents/01.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/02.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/03.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/04.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/05.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/06.jpg</imageDocument_s>
+	</item></document_o>
+	<createdDate>2020-07-09T07:04:24.295Z</createdDate>
+	<createdDate_dt>2020-07-09T07:04:24.295Z</createdDate_dt>
+	<lastModifiedDate>2020-07-09T07:53:49.722Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-09T07:53:49.722Z</lastModifiedDate_dt>
+</page>
