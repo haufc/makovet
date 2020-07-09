@@ -78,6 +78,7 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/techsupport.js"></script>
+    <script src="/static-assets/js/search.js"></script>
   </body>
 </html>
 <@studio.toolSupport />
