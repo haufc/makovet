@@ -47,15 +47,19 @@
 	</head>
 	<body>
 	    <@renderComponent component=contentModel.header_o.item />
-		<h1 class="text-center">Hello World</h1>
-		<div id="magazine">
-			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/01.jpg);"></div>
-			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/02.jpg);"></div>
-			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/03.jpg);"></div>
-			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/04.jpg);"></div>
-			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/05.jpg);"></div>
-			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/06.jpg);"></div>
-		</div>
+		<#list (contentModel.section_o.item)![] as section>
+            <@renderComponent parent=contentModel component=section />
+        </#list>
+		<main>
+		    <div id="magazine">
+    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/01.jpg);"></div>
+    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/02.jpg);"></div>
+    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/03.jpg);"></div>
+    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/04.jpg);"></div>
+    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/05.jpg);"></div>
+    			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/06.jpg);"></div>
+    		</div>
+		</main>
 		
 		<@renderComponent component=contentModel.slideLogo_o.item />
         <@renderComponent component=contentModel.footer_o.item />
