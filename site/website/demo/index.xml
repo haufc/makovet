@@ -13,6 +13,13 @@
 	<folder-name>demo</folder-name>
 	<createdDate>2020-07-08T09:52:43.091Z</createdDate>
 	<createdDate_dt>2020-07-08T09:52:43.091Z</createdDate_dt>
-	<lastModifiedDate>2020-07-09T03:38:59.711Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-09T03:38:59.711Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-09T03:50:16.594Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-09T03:50:16.594Z</lastModifiedDate_dt>
+	<avatar_s/>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/sample-signed.pdf</key>
+	<value>/static-assets/images/libraries/sample-signed.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>70693</fileSize_s>
+	</item></pDFfile_o>
+	<title_s>Thư viện</title_s>
 </page>
