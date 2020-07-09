@@ -56,11 +56,13 @@
             </div>
         </div>
 		<main>
-		    <div id="magazine">
-    			<#list contentModel.document_o.item as img>
-                	<div style="background-image:url(${img.imageDocument_s});"></div>
-                </#list>
-    		</div>
+		    <div class="container">
+		        <div id="magazine">
+        			<#list contentModel.document_o.item as img>
+                    	<div style="background-image:url(${img.imageDocument_s});"></div>
+                    </#list>
+        		</div>
+		    </div>
 		</main>
 		
 		<@renderComponent component=contentModel.slideLogo_o.item />
