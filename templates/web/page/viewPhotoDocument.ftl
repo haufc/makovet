@@ -1,4 +1,4 @@
-
+<#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!DOCTYPE html>
 <html lang="">
 	<head>
@@ -28,6 +28,7 @@
 			</style>
 	</head>
 	<body>
+	    <@renderComponent component=contentModel.header_o.item />
 		<h1 class="text-center">Hello World</h1>
 		<div id="magazine">
 			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/01.jpg);"></div>
@@ -37,6 +38,9 @@
 			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/05.jpg);"></div>
 			<div style="background-image:url(/static-assets/plugins/turnjs-master/pages/06.jpg);"></div>
 		</div>
+		
+		<@renderComponent component=contentModel.slideLogo_o.item />
+        <@renderComponent component=contentModel.footer_o.item />
 		<!-- jQuery -->
 		<script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
 		<!-- Bootstrap JavaScript -->
@@ -71,7 +75,7 @@
 		</script>
 	</body>
 </html>
-
+<@studio.toolSupport /> 
 
 
 
