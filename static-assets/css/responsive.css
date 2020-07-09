@@ -11,15 +11,20 @@
     
 */
 /* ========== 1,Header ========== */
-    .nav__btn{
-        color: #fff !important;
-    }
+.nav__btn{
+    color: #fff !important;
+}
 @media only screen and (max-width: 800px) and (min-width: 700px) and (orientation: portrait){
     .dropdown-menu{
         background: #332472;
     }
 }
-/* ========== 2,Footer ========== */
+/* ========== 2,Content ========== */
+.img-responsive{
+    width: 100%;
+    height: auto;
+}
+/* ========== 3,Footer ========== */
 @media only screen and (max-width: 420px) and (min-width: 300px) and (orientation: portrait){
     .footer__item{
         width: 100%;
