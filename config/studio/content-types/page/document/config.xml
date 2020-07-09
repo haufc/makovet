@@ -1,5 +1,5 @@
 <content-type name="/page/document" is-wcm-type="true">
-	<label>Page - Thư viện tài liệu</label>
+	<label>Page - Thư viện tài liệu (Photo)</label>
 	<form>/page/document</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
