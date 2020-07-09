@@ -159,7 +159,7 @@
         <!-- The Modal -->
         <div id="myModal" class="modal">
           <span class="close">&times;</span>
-          <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%; -50%);">
+          <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
               <a href="#" id="prev">
                 <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
               </a>
