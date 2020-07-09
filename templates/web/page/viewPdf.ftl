@@ -29,7 +29,7 @@ See https://github.com/adobe-type-tools/cmap-resources
     <title>PDF.js viewer</title>
 
 
-    <link rel="stylesheet" href="viewer.css">
+    <link rel="stylesheet" href="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.css">
 
 
 <!-- This snippet is used in production (included from viewer.html) -->
