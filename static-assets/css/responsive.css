@@ -6,16 +6,22 @@
 */
 /*
     Table of content   
-    1, Header Slide
+    1, Header
+    2, Footer
     
 */
-/* ========== 1,Header Slide ========== */
-.nav__btn{
-    color: #fff !important;
-}
+/* ========== 1,Header ========== */
+    .nav__btn{
+        color: #fff !important;
+    }
 @media only screen and (max-width: 800px) and (min-width: 700px) and (orientation: portrait){
-.dropdown-menu{
-    background: #332472;
+    .dropdown-menu{
+        background: #332472;
+    }
 }
+/* ========== 2,Footer ========== */
+@media only screen and (max-width: 420px) and (min-width: 300px) and (orientation: portrait){
+    .footer__item{
+        width: 100%;
+    }
 }
-/* ========== 2,Header ========== */
