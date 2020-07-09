@@ -120,22 +120,32 @@
 					</constraints>
 				</field>
 				<field>
-					<type>video-picker</type>
-					<id>videoIntro_s</id>
+					<type>input</type>
+					<id>videoURL_s</id>
 					<iceId></iceId>
-					<title>Video Intro</title>
+					<title>Video URL</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>videoManager</name>
-							<value>videoUpload,videoExisting</value>
-							<type>datasource:video</type>
+							<name>size</name>
+							<value>250</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>250</value>
+							<type>int</type>
 						</property>
 						<property>
 							<name>readonly</name>
 							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
 							<type>boolean</type>
 						</property>
 					</properties>
@@ -144,6 +154,11 @@
 							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
 						</constraint>
 					</constraints>
 				</field>
