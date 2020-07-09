@@ -18,10 +18,15 @@
 	<include>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
-	<document_o item-list="true">	<item>	<imageDocument_s>/static-assets/images/libraries/documents/catalog_san_pham_stargro.jpg</imageDocument_s>
+	<document_o item-list="true">	<item>	<imageDocument_s>/static-assets/images/libraries/documents/01.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/02.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/03.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/04.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/05.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/06.jpg</imageDocument_s>
 	</item></document_o>
 	<createdDate>2020-07-09T07:04:24.295Z</createdDate>
 	<createdDate_dt>2020-07-09T07:04:24.295Z</createdDate_dt>
-	<lastModifiedDate>2020-07-09T07:04:24.295Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-09T07:04:24.295Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-09T07:53:49.722Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-09T07:53:49.722Z</lastModifiedDate_dt>
 </page>
