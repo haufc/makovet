@@ -103,6 +103,13 @@
           cursor: pointer;
         }
         
+        .modal__content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        
         #next,
         #prev {
             position: absolute;
@@ -119,7 +126,7 @@
         }
         
         /* 100% Image Width on Smaller Screens */
-        @media only screen and (max-width: 700px){
+        @media only screen and (max-width: 320px){
           .modal-content {
             width: 100%;
           }
@@ -159,15 +166,15 @@
         <!-- The Modal -->
         <div id="myModal" class="modal">
           <span class="close">&times;</span>
-          <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
+          <div class="modal__content">
               <a href="#" id="prev">
                 <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
               </a>
-              <img class="modal-content" id="img01" style="width: 100%;">
+              <img class="modal-content" id="img01">
               <a href="#" id="next">
                 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
               </a>
-          </span>
+          </div>
           <div id="caption"></div>
         </div>
     </main>
