@@ -37,7 +37,7 @@
 		<style type="text/css">
 			#magazine{
 				max-width:1140px;
-	            height:auto;
+	            height:752px;
 			}
 			#magazine .turn-page{
 				background-color:#ccc;
