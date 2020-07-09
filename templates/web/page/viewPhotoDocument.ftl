@@ -34,36 +34,36 @@
 	<div>
 		<ul>
 			<li class="i">
-				<img src="pages/1-thumb.jpg" width="76" height="100" class="page-1">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/1-thumb.jpg" width="76" height="100" class="page-1">
 				<span>1</span>
 			</li>
 			<li class="d">
-				<img src="pages/2-thumb.jpg" width="76" height="100" class="page-2">
-				<img src="pages/3-thumb.jpg" width="76" height="100" class="page-3">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/2-thumb.jpg" width="76" height="100" class="page-2">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/3-thumb.jpg" width="76" height="100" class="page-3">
 				<span>2-3</span>
 			</li>
 			<li class="d">
-				<img src="pages/4-thumb.jpg" width="76" height="100" class="page-4">
-				<img src="pages/5-thumb.jpg" width="76" height="100" class="page-5">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/4-thumb.jpg" width="76" height="100" class="page-4">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/5-thumb.jpg" width="76" height="100" class="page-5">
 				<span>4-5</span>
 			</li>
 			<li class="d">
-				<img src="pages/6-thumb.jpg" width="76" height="100" class="page-6">
-				<img src="pages/7-thumb.jpg" width="76" height="100" class="page-7">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/6-thumb.jpg" width="76" height="100" class="page-6">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/7-thumb.jpg" width="76" height="100" class="page-7">
 				<span>6-7</span>
 			</li>
 			<li class="d">
-				<img src="pages/8-thumb.jpg" width="76" height="100" class="page-8">
-				<img src="pages/9-thumb.jpg" width="76" height="100" class="page-9">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/8-thumb.jpg" width="76" height="100" class="page-8">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/9-thumb.jpg" width="76" height="100" class="page-9">
 				<span>8-9</span>
 			</li>
 			<li class="d">
-				<img src="pages/10-thumb.jpg" width="76" height="100" class="page-10">
-				<img src="pages/11-thumb.jpg" width="76" height="100" class="page-11">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/10-thumb.jpg" width="76" height="100" class="page-10">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/11-thumb.jpg" width="76" height="100" class="page-11">
 				<span>10-11</span>
 			</li>
 			<li class="i">
-				<img src="pages/12-thumb.jpg" width="76" height="100" class="page-12">
+				<img src="/static-assets/plugins/turnjs4/magazine/pages/12-thumb.jpg" width="76" height="100" class="page-12">
 				<span>12</span>
 			</li>
 		<ul>
@@ -457,9 +457,9 @@ function loadApp() {
 
 yepnope({
 	test : Modernizr.csstransforms,
-	yep: ['../../lib/turn.js'],
-	nope: ['../../lib/turn.html4.min.js'],
-	both: ['../../lib/zoom.min.js', 'js/magazine.js', 'css/magazine.css'],
+	yep: ['/static-assets/plugins/turnjs4/lib/turn.js'],
+	nope: ['/static-assets/plugins/turnjs4/lib/turn.html4.min.js'],
+	both: ['/static-assets/plugins/turnjs4/lib/zoom.min.js', '/static-assets/plugins/turnjs4/magazine/js/magazine.js', '/static-assets/plugins/turnjs4/magazine/css/magazine.css'],
 	complete: loadApp
 });
 
