@@ -26,7 +26,7 @@ See https://github.com/adobe-type-tools/cmap-resources
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="google" content="notranslate">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>PDF.js viewer</title>
+    <title>${contentModel.pDFfile_o.item.key}</title>
 
 
     <link rel="stylesheet" href="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.css">
