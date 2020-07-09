@@ -261,12 +261,12 @@
 					<iceId></iceId>
 					<title>Document </title>
 					<description></description>
-					<minOccurs>0</minOccurs>
+					<minOccurs>2</minOccurs>
 					<maxOccurs>*</maxOccurs>
 					<properties>
 						<property>
 							<name>minOccurs</name>
-							<value>0</value>
+							<value>2</value>
 							<type>string</type>
 						</property>
 						<property>
