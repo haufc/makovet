@@ -56,6 +56,10 @@
                 <div class="doc-title ml-lg-2" style="background-color:#FFCB08;width:100%;">
                     <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
                 </div>
+                <div class="ml-lg-2">
+                    <a href="#" id="custom-prev"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i>Prev</a>
+                    <a href="#" id="custom-next">Next<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a>
+                </div>
                 <div id="mybook">
                     <#list contentModel.document_o.item as doc>
                         <div class="page-${doc?index}">
@@ -90,9 +94,15 @@
             $('#mybook').booklet({
                 width:  '100%',
                 height: 600,
-                menu: '#custom-menu',
-                pageSelector: true,
-                chapterSelector: true,
+                easing:  'easeInOutElastic',
+                closed: true,
+                covers: true,
+                autoCenter: true,
+                auto: true,
+                delay: 9000,
+                keyboard: true,
+                next: '#custom-next',
+                prev: '#custom-prev'
             });
         });
     </script>

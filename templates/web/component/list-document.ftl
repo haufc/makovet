@@ -1,6 +1,13 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
+    <div class="section-title">
+        <div class="section-title__content block">
+            <span class="d-inline">
+                <span class="section-title__content-text text--uppercase">Thư viện tài liệu</span>
+            </span>
+        </div>
+    </div>
 	<div class="container">
-	    <div class="row" id="panigation-doc">
+	    <div class="row mb-5" id="panigation-doc">
 	        <#if (docs)??>
                 <#list docs as doc>
                 	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 doc-item" style="position: relative;">
