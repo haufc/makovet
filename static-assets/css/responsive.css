@@ -19,6 +19,16 @@
         background: #332472;
     }
 }
+@media only screen and (min-width: 1900px) and (orientation: portrait){
+    .slide__bg{
+        left: -3%;
+    }
+}
+@media only screen and (max-width: 1367px) and (min-width: 1025px) and (orientation: portrait){
+    .slide__bg{
+        left: -23%;
+    }
+}
 /* ========== 2,Content ========== */
 .img-responsive{
     width: 100%;
