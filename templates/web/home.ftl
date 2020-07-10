@@ -37,7 +37,7 @@
         <div class="modal fade" id="success-dialog" role="dialog">
             <div class="modal-dialog modal-sm">
                 <div class="modal-content">
-                    <div class="modal-header text-left mb-2 text-white" style="background-color: #322372">
+                    <div class="modal-header text-left mb-2 text-white" >
                         <h3 id="success-dialog-header" class="modal-title" style="font-size: 20px;">Cảm ơn!</h3>
                     </div>
                     <div class="modal-body">
