@@ -9,15 +9,15 @@
 	<file-name>index.xml</file-name>
 	<folder-name>test</folder-name>
 	<internal-name>Test</internal-name>
-	<powerPoitFile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/documents/DIGITAL SIGNATURE.pptx</key>
-	<value>/static-assets/images/libraries/documents/DIGITAL SIGNATURE.pptx</value>
+	<powerPoitFile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/documents/Phong.pptx</key>
+	<value>/static-assets/images/libraries/documents/Phong.pptx</value>
 	<fileType_mvs>pptx</fileType_mvs>
-	<fileSize_s>854240</fileSize_s>
+	<fileSize_s>11294478</fileSize_s>
 	</item></powerPoitFile_o>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-07-10T01:48:06.982Z</createdDate>
 	<createdDate_dt>2020-07-10T01:48:06.982Z</createdDate_dt>
-	<lastModifiedDate>2020-07-10T01:48:06.982Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-10T01:48:06.982Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-10T01:58:33.440Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-10T01:58:33.440Z</lastModifiedDate_dt>
 </page>
