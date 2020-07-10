@@ -19,7 +19,7 @@
         background: #332472;
     }
 }
-@media only screen and (min-width: 1900px) and (orientation: portrait){
+@media (min-width: 1900px){
     .slide__bg{
         left: -3%;
     }
