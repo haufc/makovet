@@ -42,9 +42,6 @@
                 </p>
             </div>
             <div class="col-md-12">
-                ${contentModel.maps_html}
-            </div>
-            <div class="col-md-12">
                 ${contentModel.mapsFrame_s}
             </div>
         </div>
