@@ -32,7 +32,7 @@
 	<lastModifiedDate_dt>2020-07-03T02:43:16.730Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="section" inline="true">	<key>2cae7693-42cd-fd51-d477-620a23b5c9eb</key>
-	<value>Danh sách tin tuyển dụng &amp; CSNS</value>
+	<value>Danh sách tin tuyển dụng &amp;amp; CSNS</value>
 <component id="2cae7693-42cd-fd51-d477-620a23b5c9eb">
 	<content-type>/component/jobs</content-type>
 	<display-template>/templates/web/component/jobs.ftl</display-template>
@@ -51,15 +51,15 @@
 	<contentLeftURL_s>/career-opportunities/dao-tao-phat-trien</contentLeftURL_s>
 	<contentRightTitle_s>Chế độ đãi ngộ và phúc lợi</contentRightTitle_s>
 	<contentRightDesc_s>Với đội ngũ kỹ thuật viên các trách nhiệm giàu kinh nghiệm, đội ngũ chăm sóc khách hàng nhiệt tình, Makovet luôn mong muốn nhận được những ý kiến đóng góp chia sẻ từ Quý khách hàng, Nhà chăn nuôi để góp phần cải thiện các sản phẩm của công ty ngày một tốt hơn....</contentRightDesc_s>
-	<contentRightURL_s>/career-opportunities/che-do-dai-ngo</contentRightURL_s>
+	<contentRightURL_s>/co-hoi/che-do-dai-ngo</contentRightURL_s>
 	<createdDate>2020-06-29T07:57:46.997Z</createdDate>
 	<createdDate_dt>2020-06-29T07:57:46.997Z</createdDate_dt>
-	<lastModifiedDate>2020-06-29T08:12:05.567Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-29T08:12:05.567Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-10T08:09:46.123Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-10T08:09:46.123Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-29T07:56:45.886Z</createdDate>
 	<createdDate_dt>2020-06-29T07:56:45.886Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T02:43:10.396Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T02:43:10.396Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-10T08:09:40.843Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-10T08:09:40.843Z</lastModifiedDate_dt>
 </page>
