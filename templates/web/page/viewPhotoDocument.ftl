@@ -65,6 +65,8 @@
                     	<div style="background-image:url(${img.imageDocument_s});"></div>
                     </#list>
         		</div>
+        		<hr class="line-hozital" style="margin-bottom: 3%; margin-top: 7%;"/>
+        		<a href="/thu-vien-tai-lieu"><i class="fa fa-arrow-left" aria-hidden="true"></i> Quay lại trang thư viện tài liệu</a>
 		    </div>
 		</main>
 		
