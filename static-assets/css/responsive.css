@@ -24,7 +24,7 @@
         left: -3%;
     }
 }
-@media only screen and (max-width: 1367px) and (min-width: 1025px) and (orientation: portrait){
+@media only screen and (max-width: 1366px) and (min-width: 1025px) and (orientation: portrait){
     .slide__bg{
         left: -23%;
     }
