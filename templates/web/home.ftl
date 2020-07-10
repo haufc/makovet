@@ -23,6 +23,11 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <style>
+        .bg-dialog{
+            background-color: #322372;
+        }
+    </style>
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
@@ -37,7 +42,7 @@
         <div class="modal fade" id="success-dialog" role="dialog">
             <div class="modal-dialog modal-sm">
                 <div class="modal-content">
-                    <div class="modal-header text-left mb-2 text-white" >
+                    <div class="modal-header text-left mb-2 text-white bg-dialog" >
                         <h3 id="success-dialog-header" class="modal-title" style="font-size: 20px;">Cảm ơn!</h3>
                     </div>
                     <div class="modal-body">
