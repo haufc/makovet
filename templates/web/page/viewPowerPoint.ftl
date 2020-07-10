@@ -19,8 +19,7 @@
     </head>
     <body>
         <h1 class="text-center">Hello World</h1>
-        <iframe src="//docs.google.com/gview?url=${contentModel.powerPoitFile_o}&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
-
+        <iframe src="//docs.google.com/gview?url=${contentModel.powerPoitFile_o.item.key}&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
         <!-- jQuery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!-- Bootstrap JavaScript -->
