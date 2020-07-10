@@ -1,4 +1,4 @@
-
+<#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!DOCTYPE html>
 <html lang="">
     <head>
@@ -19,7 +19,7 @@
     </head>
     <body>
         <h1 class="text-center">Hello World</h1>
-        <iframe src="//docs.google.com/gview?url=./DIGITAL SIGNATURE.pptx&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+        <iframe src="//docs.google.com/gview?url=${contentModel.powerPoitFile_o}&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
         <!-- jQuery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -27,3 +27,4 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </body>
 </html>
+<@studio.toolSupport />
