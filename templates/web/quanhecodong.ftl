@@ -7,12 +7,12 @@
     </div>
     <div class="container">
 	    <div id ="panigation-relation3">
-            <#if (posts)??>
-            	<#list posts as aPost>
+            <#if (relations)??>
+            	<#list relations as aPost>
             	    <#if aPost.category = "announcement">
                     <div class="relation3">
                         <a class="violet-color font-weight-bold" style="font-size: 22px" href="${aPost.url}" class="d-block">${aPost.title}</a>
-                        <p style="line-height: 1.5;  font-size: 16px; color: #636466; font-weight: 100;">(${aPost.time})</p>
+                        <p style="line-height: 1.5;  font-size: 16px; color: #636466; font-weight: 100;">(${aPost.time?date})</p>
                     </div>
                     </#if>
                 </#list>
