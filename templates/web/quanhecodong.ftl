@@ -12,7 +12,7 @@
             	    <#if aPost.category = "announcement">
                     <div class="relation3">
                         <a class="violet-color font-weight-bold" style="font-size: 22px" href="${aPost.url}" class="d-block">${aPost.title}</a>
-                        <p style="line-height: 1.5;  font-size: 16px; color: #636466; font-weight: 100;">(${aPost.time?date?string('dd/MM/yyyy')})</p>
+                        <p style="line-height: 1.5;  font-size: 16px; color: #636466; font-weight: 100;">(${aPost.time})</p>
                     </div>
                     </#if>
                 </#list>
