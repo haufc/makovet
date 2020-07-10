@@ -19,9 +19,9 @@
         background: #332472;
     }
 }
-@media (min-width: 1900px){
+@media (min-width: 1920px){
     .slide__bg{
-        left: -3%;
+        left: -1%;
     }
 }
 @media (max-width: 1366px){
