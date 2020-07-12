@@ -5,7 +5,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="d-flex">
+        <div class="row" style="margin-right: 0 !important;margin-left: 0 !important;">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 p-left-0">
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
