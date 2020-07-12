@@ -5,12 +5,13 @@
         </div>
     </div>
     <div class="container">
-        <div class="row">
+        <div class="d-flex">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 p-left-0">
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
-            <div class="col-lg-6 col-md-6 banner-gr-child-pr">
-                <img class="banner-img" src="${contentModel.groupProductImg2_s}"/>
+            <#--banner-gr-child-pr, class="banner-img" -->
+            <div class="col-lg-6 col-md-6 ">
+                <img src="${contentModel.groupProductImg2_s}"/>
             </div>
         </div>
         <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 3%;"/>
