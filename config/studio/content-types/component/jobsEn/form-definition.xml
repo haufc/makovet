@@ -1,5 +1,5 @@
 <form>
-	<title>Component - Cơ hội nghề nghiệp (EN)</title>
+	<title>Component - En Cơ hội nghề nghiệp</title>
 	<description></description>
 	<objectType>component</objectType>
 	<content-type>/component/jobsEn</content-type>
@@ -185,7 +185,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594608720147</title>
+			<title>Default Section Title 1594615538475</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
