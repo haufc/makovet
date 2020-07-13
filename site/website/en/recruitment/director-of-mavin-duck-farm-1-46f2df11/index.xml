@@ -11,9 +11,9 @@
 	<jobTitle_s> Director of Mavin Duck Farm Branch (Member of MAVIN GROUP)</jobTitle_s>
 	<jobDuration_s/>
 	<file-name>index.xml</file-name>
-	<folder-name>director-of-mavin-duck-farm-1-46f2df11</folder-name>
+	<folder-name>director-of-mavin-duck-farm-2</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>2de55976-8a07-9838-c041-286a5799022d</key>
 	<value>Slide</value>
 <component id="2de55976-8a07-9838-c041-286a5799022d">
@@ -64,6 +64,6 @@
 &lt;p&gt;- Candidates applying by mail please scan diplomas, certificates, transcripts, CV and related documents sent to the Company mail: tuyendung@cailayvetco.com&lt;/p&gt;</jobContent_html>
 	<createdDate>2020-07-13T08:55:18.477Z</createdDate>
 	<createdDate_dt>2020-07-13T08:55:18.477Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T08:55:18.477Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T08:55:18.477Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T08:59:49.956Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:59:49.956Z</lastModifiedDate_dt>
 </page>
