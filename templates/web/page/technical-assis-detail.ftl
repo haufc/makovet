@@ -72,7 +72,7 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/techsp-detail.js"></script>
     <script src="/static-assets/js/search.js"></script>
-    <input hidden value="${contentModel.technicalAssistanceType_o.item.key}" id="txt-key"/>
+    <input hidden value="${contentModel.technicalAssistance_o.item.key}" id="txt-key"/>
     <div id="lst-cate">
         <#list categories.items as cate>
             <input hidden value="${cate.value}/${cate.label}"/>
