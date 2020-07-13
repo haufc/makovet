@@ -71,9 +71,9 @@
       <div class="modal-dialog" role="document">
         <div class="modal-content">
          <form action="/api/1/services/contactUs.json" method="POST">
-          <div class="modal-header" style="background-color: #322372">
-            <h5 class="modal-title" id="exampleModalLabel">Trung tâm hỗ trợ khách hàng</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <div class="modal-header text-white" style="background-color: #322372">
+            <h5 class="modal-title text-white" id="exampleModalLabel">Trung tâm hỗ trợ khách hàng</h5>
+            <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
@@ -113,8 +113,8 @@
            
           </div>
           <div class="modal-footer">
-            <button onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
-            <button class="btn btn-default font-weight-bold violet-color" type="reset">Hủy</button>
+            <button id="btn-send" onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
+            <button class="btn btn-danger font-weight-bold violet-color" type="reset">Hủy</button>
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
           </div>
           </form>
@@ -183,6 +183,13 @@
     <script src="/static-assets/js/techsupport.js"></script>
     <script src="/static-assets/js/search.js"></script>
     <script src="/static-assets/js/contact.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#btn-send').click(function() {
+                $('#exampleModal').hide();
+            });
+        });
+    </script>
   </body>
 </html>
 <@studio.toolSupport />
