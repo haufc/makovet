@@ -180,7 +180,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594609384407</title>
+			<title>Default Section Title 1594610765211</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
@@ -195,12 +195,12 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
@@ -238,12 +238,12 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
@@ -324,12 +324,12 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
@@ -402,7 +402,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594609384408</title>
+			<title>Default Section Title 1594610765212</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
