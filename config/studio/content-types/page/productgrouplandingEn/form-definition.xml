@@ -299,9 +299,9 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594614654842</title>
+			<title>Metadata</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>node-selector</type>
