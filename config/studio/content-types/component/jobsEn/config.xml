@@ -1,5 +1,5 @@
 <content-type name="/component/jobsEn" is-wcm-type="true">
-	<label>Component - Cơ hội nghề nghiệp (EN)</label>
+	<label>Component - En Cơ hội nghề nghiệp</label>
 	<form>/component/jobsEn</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
