@@ -99,7 +99,7 @@
                     <div class="col-md-10 mb-1">
                         <input type="text" class="form-control" name="title" id="title" required/>
                     </div>
-                    <label class="col-md-2 mb-1 content">Nội dung</label>
+                    <label class="col-md-2 mb-1 content-form">Nội dung</label>
                     <div class="col-md-10 mb-1">
                         <textarea class="form-control" name="content" id="content"></textarea>
                     </div>
@@ -181,6 +181,17 @@
             var url = window.location.href;
             if (url.indexOf('/en') > -1) {
                 $('#sp-customer').text('customer support');
+                $('.name').text('Name');
+                $('.company').text('Company');
+                $('.phone').text('Phone');
+                $('.title').text('Title');
+                $('.content-form').text('Content');
+                $('#btn-send').text('Send');
+                $('.btn-cancel').text('Reset');
+                $('#exampleModalLabel').text('Customer Support Center');
+                $('#success-dialog-header').text('Thank you!');
+                $('#success-dialog-message').text('Your request has been processed!');
+                $('.sniper-close').text('Close');
                 
             }
             
