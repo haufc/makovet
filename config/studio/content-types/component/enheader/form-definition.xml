@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/web/component/header.ftl</value>
+			<value>/templates/web/component/enheader.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
