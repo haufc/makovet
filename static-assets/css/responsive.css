@@ -24,7 +24,7 @@
         left: -1%;
     }
 }
-@media (max-width: 1920px){
+@media (min-width: 1441px){
     .slide__bg{
         left: -1%;
     }
