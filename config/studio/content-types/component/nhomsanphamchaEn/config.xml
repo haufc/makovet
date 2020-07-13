@@ -1,5 +1,5 @@
 <content-type name="/component/nhomsanphamchaEn" is-wcm-type="true">
-	<label>Component - Nhóm sản phẩm cha</label>
+	<label>Component - Nhóm sản phẩm cha(EN))</label>
 	<form>/component/nhomsanphamchaEn</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
