@@ -37,7 +37,7 @@
             	    <#if aPost.category = "shareholders">
                     <div class="relation4">
                         <a class="violet-color font-weight-bold" style="font-size: 22px" href="${aPost.url}" class="d-block">${aPost.title}</a>
-                        <p style="line-height: 1.5;  font-size: 16px; color: #636466; font-weight: 100;">(${aPost.time?datetime?string("dd/MM/yyyy")})</p>
+                        <p class="dim-grey-color" style="line-height: 1.5;  font-size: 16px;  font-weight: 400;">(${aPost.time?datetime?string("dd/MM/yyyy")})</p>
                     </div>
                     </#if>
                 </#list>
