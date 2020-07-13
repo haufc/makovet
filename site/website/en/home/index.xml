@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enhome</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>018a</objectGroupId>
+	<objectId>018a5cfa-f675-3b81-57d6-0234f17ae049</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>home</folder-name>
+	<internal-name>Home Page</internal-name>
+	<navLabel>Home Page</navLabel>
+	<title_s>Home Page</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Home Page</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</key>
+	<value>Header - Home Page</value>
+	<include>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
+	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
+	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T03:21:01.634Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T03:21:01.634Z</lastModifiedDate_dt>
+</page>
