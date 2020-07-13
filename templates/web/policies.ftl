@@ -2,7 +2,7 @@
         <section class="services">
                 <div class="section-title">
                     <div class="section-title__content block">
-                        <h1 class="section-title__content-text text--uppercase">CHÍNH SÁCH NHÂN SỰ</h1>
+                        <h1 class="section-title__content-text text--uppercase policy-title">CHÍNH SÁCH NHÂN SỰ</h1>
                     </div>
                 </div>
         
