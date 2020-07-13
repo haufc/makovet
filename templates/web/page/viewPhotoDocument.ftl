@@ -15,7 +15,7 @@
         
         <!-- FontAwesome -->
         <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
-		<title>Title Page</title>
+		<title>${contentModel.title_s}</title>
         
         <!-- Owl Carousel CSS -->
         <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.carousel.min.css">
