@@ -66,7 +66,7 @@
                     </#list>
         		</div>
         		<hr class="line-hozital" style="margin-bottom: 3%; margin-top: 7%;"/>
-        		<span><i class="fa fa-arrow-left" aria-hidden="true"></i><a href="/thu-vien/thu-vien-tai-lieu" class="violet-color back-title"> Quay lại trang thư viện tài liệu</a></span>
+        		<span><a><i class="fa fa-arrow-left" aria-hidden="true"></i> </a><a href="/thu-vien/thu-vien-tai-lieu" class="violet-color back-title"> Quay lại trang thư viện tài liệu</a></span>
 		    </div>
 		</main>
 		
