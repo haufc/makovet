@@ -119,8 +119,8 @@
                     </a>
                     </li>
                     <li class="nav__tool-item">
-                    <a href="#">
-                        <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
+                    <a href="/trang-chu">
+                        <img class="full-size" src="/static-assets/images/template/vietnam-flag-icon-32.png" alt="Flag icon">
                     </a>
                     </li>
                     <#---------- Search Form ---------->
