@@ -40,7 +40,7 @@
                                     <span class="play-icon"><i class="fa fa-play text-white"></i></span>
                                   </a>
                                   <a data-fancybox data-small-btn="true" href="${contentModel.videoURL1_s}">
-                                    <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.videoBanner1_s}"/>
+                                    <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.videoBanner_s}"/>
                                   </a>
                                 </figure>
                                 <div class="cap-content" style="background: #322372;left: 3%;bottom:0;position: absolute;width: 93.5%;">
