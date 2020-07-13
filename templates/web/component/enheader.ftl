@@ -86,11 +86,11 @@
                 </button>
                 <li class="nav__menu-item">
                     <div class="dropdown">
-                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/about-makovet">Introduction</a>
+                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/introduction/about-makovet">Introduction</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/about-makovet/history">History</a>
-                            <a class="nav__menu-link dropdown-item" href="/about-makovet/vision">Vision, Mission</a>
-                            <a class="nav__menu-link dropdown-item" href="/about-makovet/achievement">Achievement</a>
+                            <a class="nav__menu-link dropdown-item" href="/introduction/history">History</a>
+                            <a class="nav__menu-link dropdown-item" href="/introduction/vision">Vision, Mission</a>
+                            <a class="nav__menu-link dropdown-item" href="/introduction/achievement">Achievements</a>
                         </div>
                     </div>
                 </li>
