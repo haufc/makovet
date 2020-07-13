@@ -46,6 +46,15 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/job.js"></script> 
     <script src="/static-assets/js/search.js"></script>
+    <script>
+        view-more
+         $(document).ready(function(){
+             var url = window.location.href;
+             if (url.indexOf('/en') > -1) {
+                 $('.view-more').text('See more');
+             }
+         });
+    </script>
   </body>
 </html>
 <@studio.toolSupport /> 
