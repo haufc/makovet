@@ -66,7 +66,7 @@
                     </#list>
         		</div>
         		<hr class="line-hozital" style="margin-bottom: 3%; margin-top: 7%;"/>
-        		<a href="/thu-vien/thu-vien-tai-lieu" class="violet-color"><i class="fa fa-arrow-left" aria-hidden="true"></i> Quay lại trang thư viện tài liệu</a>
+        		<a href="/thu-vien/thu-vien-tai-lieu" class="violet-color back-title"><i class="fa fa-arrow-left" aria-hidden="true"></i> Quay lại trang thư viện tài liệu</a>
 		    </div>
 		</main>
 		
@@ -117,6 +117,8 @@
 		        var url = window.location.href;
                 if (url.indexOf('/en') > -1) {
                     $('.document-title').text('Document library');
+                    $('.back-title').text('Back to document libary');
+                    $('.back-title').attr('href', '/en/library/catalog-library');
                 } 
 		     });
 		</script>
