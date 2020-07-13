@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplandingEn</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3440</objectGroupId>
+	<objectId>344036e9-1e68-e686-4896-d2c20c600e41</objectId>
+	<internal-name>Increasing resistance</internal-name>
+	<title_s>Increasing resistance</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>7cfaf7ed-b370-ac76-0e09-0c9f29872791</key>
+	<value>Increasing resistance</value>
+<component id="7cfaf7ed-b370-ac76-0e09-0c9f29872791">
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7cfa</objectGroupId>
+	<objectId>7cfaf7ed-b370-ac76-0e09-0c9f29872791</objectId>
+	<file-name>7cfaf7ed-b370-ac76-0e09-0c9f29872791.xml</file-name>
+	<internal-name>Increasing resistance</internal-name>
+	<productgrouplevel1_s>thuoc-cho-trau-bo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-boi-duong-tang-suc-de-khang</productgrouplevel2_s>
+	<createdDate>2020-07-13T06:55:02.277Z</createdDate>
+	<createdDate_dt>2020-07-13T06:55:02.277Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T06:55:02.277Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T06:55:02.277Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true"/>
+	<file-name>index.xml</file-name>
+	<folder-name>increasing-resistance</folder-name>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
+	<createdDate>2020-07-13T06:53:56.964Z</createdDate>
+	<createdDate_dt>2020-07-13T06:53:56.964Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T06:53:56.964Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T06:53:56.964Z</lastModifiedDate_dt>
+</page>
