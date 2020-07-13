@@ -9,7 +9,7 @@ import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
 class SupportTechEnSearchHelper {
-    static final String TECHSUPPORT_CONTENT_TYPE_QUERY = "content-type:\"/page/techsupportdetail\""
+    static final String TECHSUPPORT_CONTENT_TYPE_QUERY = "content-type:\"/page/techsupportdetailEn\""
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS = 10000
     
