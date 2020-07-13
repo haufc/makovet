@@ -46,19 +46,19 @@
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_3.png" alt="News image">
 
-                        <a class="text--uppercase" href="/thu-vien/thu-vien-anh" style="color: #322372;">image category</a>
+                        <a class="text--uppercase" href="/en/library/photo-library" style="color: #322372;">image category</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_4.png" alt="News image">
 
-                        <a class="text--uppercase" href="/thu-vien-tu-lieu" style="color: #322372;">document category</a>
+                        <a class="text--uppercase" href="/en/document-library" style="color: #322372;">document category</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_5.png" alt="News image">
 
-                        <a class="text--uppercase" href="/thu-vien/thu-vien-video" style="color: #322372;">video category</a>
+                        <a class="text--uppercase" href="/en/library/video-libary" style="color: #322372;">video category</a>
                     </li>
                 </ul>
             </div>
