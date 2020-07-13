@@ -70,6 +70,7 @@
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
+         <form action="/api/1/services/contactUs.json" method="POST">
           <div class="modal-header">
             <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -77,7 +78,7 @@
             </button>
           </div>
           <div class="modal-body">
-            <form action="/api/1/services/contactUs.json" method="POST">
+            
                 <div class="row">
                     <label class="col-md-2 mb-1 mt-5">Họ tên</label>
                     <div class="col-md-10 mb-1 mt-md-5">
@@ -105,20 +106,18 @@
                     </div>
                     <div class="col-md-12 mb-1 mt-1">
                         <p class="text-right">
-                            <button onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
-                            <button class="btn btn-warning font-weight-bold violet-color" type="reset">Hủy</button>
+                            
                         </p>
                     </div>
-                    <div class="col-md-12">
-                        ${contentModel.mapsFrame_s}
-                    </div>
                 </div>
-            </form>
+           
           </div>
           <div class="modal-footer">
+            <button onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
+            <button class="btn btn-warning font-weight-bold violet-color" type="reset">Hủy</button>
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            <button type="button" class="btn btn-primary">Save changes</button>
           </div>
+          </form>
         </div>
       </div>
     </div>
