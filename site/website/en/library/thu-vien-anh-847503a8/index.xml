@@ -6,10 +6,10 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>89f34624</objectGroupId>
 	<objectId>89f34624-e6d1-4752-b272-2e957a4d077d</objectId>
-	<listphoto_o item-list="true">	<item>	<photoName_s>Ảnh Nhà máy (5.2000)</photoName_s>
+	<listphoto_o item-list="true">	<item>	<photoName_s>Factory photo (5.2000)</photoName_s>
 	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
 	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo2.png</photoImage_s>
-	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
+	<photoName_s>Factory photo (5.2018)</photoName_s>
 	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo3.png</photoImage_s>
 	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
 	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
@@ -26,9 +26,9 @@
 	<photoName_s>Ảnh Nhà máy (5.2018)</photoName_s>
 	</item></listphoto_o>
 	<file-name>index.xml</file-name>
-	<folder-name>thu-vien-anh-847503a8</folder-name>
-	<internal-name>Thư viện ảnh 847503a8</internal-name>
-	<title_s>Thư viện ảnh</title_s>
+	<folder-name>photo-library</folder-name>
+	<internal-name>Photo Libary</internal-name>
+	<title_s>Photo Libary</title_s>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</key>
 	<value>Slide</value>
 	<include>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</include>
@@ -38,6 +38,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-07-07T02:23:27.255Z</createdDate>
 	<createdDate_dt>2020-07-07T02:23:27.255Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T11:01:35.251Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T11:01:35.251Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T11:01:57.444Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T11:01:57.444Z</lastModifiedDate_dt>
 </page>
