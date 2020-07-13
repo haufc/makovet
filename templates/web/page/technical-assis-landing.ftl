@@ -71,8 +71,8 @@
       <div class="modal-dialog" role="document">
         <div class="modal-content">
          <form action="/api/1/services/contactUs.json" method="POST">
-          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+          <div class="modal-header" style="background-color: #322372">
+            <h5 class="modal-title" id="exampleModalLabel">Trung tâm hỗ trợ khách hàng</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
@@ -114,7 +114,7 @@
           </div>
           <div class="modal-footer">
             <button onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
-            <button class="btn btn-warning font-weight-bold violet-color" type="reset">Hủy</button>
+            <button class="btn btn-default font-weight-bold violet-color" type="reset">Hủy</button>
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
           </div>
           </form>
