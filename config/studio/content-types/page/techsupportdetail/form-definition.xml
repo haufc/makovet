@@ -197,7 +197,7 @@
 				</field>
 				<field>
 					<type>checkbox-group</type>
-					<id>technicalAssistance_o</id>
+					<id>technicalAssistanceType_o</id>
 					<iceId></iceId>
 					<title>Technical Assistance Type</title>
 					<description></description>
