@@ -10,10 +10,10 @@
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
             <#--banner-gr-child-pr, class="banner-img" -->
-            <div class="col-lg-6 col-md-6 ">
+            <div class="col-lg-6 col-md-6 " style="background-color:#ffcb08;">
                 <div class="banner-content">
                     <img style="width:40%;" class="img-center" src="${contentModel.groupProductImg2_s}"/>
-                    <p class="font-weight-bold violet-color">${contentModel.rightTitle_s}</p>
+                    <p style="1.3em" class="font-weight-bold violet-color text-center">${contentModel.rightTitle_s}</p>
                 </div>
             </div>
         </div>
