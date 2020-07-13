@@ -68,7 +68,7 @@
                     </a>
                 </li>
                 <li class="nav__tool-item">
-                    <a href="#">
+                    <a href="/en/home">
                         <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
                     </a>
                 </li>
