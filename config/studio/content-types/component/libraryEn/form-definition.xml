@@ -595,7 +595,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>videoYoutubeURL1_s</id>
+					<id>videoURL1_s</id>
 					<iceId></iceId>
 					<title>Video Youtube URL 1</title>
 					<description></description>
@@ -638,7 +638,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>videoYoutubeURL2_s</id>
+					<id>videoURL2_s</id>
 					<iceId></iceId>
 					<title>Video Youtube URL 2</title>
 					<description></description>
