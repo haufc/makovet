@@ -1,11 +1,11 @@
-import org.craftercms.blueprints.headless.GroupProductSearchHelper
+import org.craftercms.blueprints.headless.GroupProductEnSearchHelper
 import org.craftercms.blueprints.headless.TaxonomySearchHelper
 
 def productGroup = contentModel.productgrouplevel1_s
 def productChildGroup = contentModel.productgrouplevel2_s
 
 
-def searchHelper = new GroupProductSearchHelper(elasticsearch, urlTransformationService)
+def searchHelper = new GroupProductEnSearchHelper(elasticsearch, urlTransformationService)
 def products = searchHelper.searchProducts(productGroup, productChildGroup, 0)
 
 def categories = new TaxonomySearchHelper("groupproduct", elasticsearch, siteItemService)
