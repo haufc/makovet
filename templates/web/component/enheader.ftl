@@ -63,7 +63,7 @@
 
             <ul class="nav__tools flex">
                 <li class="nav__tool-item">
-                    <a href="/trang-chu" class="search_icon">
+                    <a href="/home" class="search_icon">
                         <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
                     </a>
                 </li>
