@@ -52,7 +52,7 @@
         </#list>
         <div class="section-title">
             <div class="section-title__content block">
-                <h1 class="section-title__content-text text--uppercase">Thư viện tài liệu</h1>
+                <h1 class="section-title__content-text text--uppercase document-title">Thư viện tài liệu</h1>
             </div>
         </div>
 		<main>
@@ -112,7 +112,13 @@
 					$('#magazine').turn('next');
 					
 			});
-		
+		    
+		     $(document).ready(function(){
+		        var url = window.location.href;
+                if (url.indexOf('/en') > -1) {
+                    $('.document-title').text('Document library');
+                } 
+		     });
 		</script>
 	</body>
 </html>
