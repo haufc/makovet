@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/documentEn</content-type>
+	<display-template>/templates/web/page/viewPhotoDocument.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1763</objectGroupId>
+	<objectId>1763f914-953f-09dc-d851-12fb07369454</objectId>
+	<document_o item-list="true">	<item>	<imageDocument_s>/static-assets/images/libraries/documents/01.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/02.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/03.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/04.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/05.jpg</imageDocument_s>
+	</item>	<item>	<imageDocument_s>/static-assets/images/libraries/documents/06.jpg</imageDocument_s>
+	</item></document_o>
+	<internal-name>Agricultural magazine</internal-name>
+	<title_s>Agricultural magazine</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<avatar_s>/static-assets/images/libraries/documents/doc1.png</avatar_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/c21b193a-2153-2f9e-36e2-4e933df3f9b3.xml</key>
+	<value>Slide</value>
+	<include>/site/items/c21b193a-2153-2f9e-36e2-4e933df3f9b3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>tap-chi-nong-nghiep</folder-name>
+	<createdDate>2020-07-13T10:44:15.811Z</createdDate>
+	<createdDate_dt>2020-07-13T10:44:15.811Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T10:44:15.811Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T10:44:15.811Z</lastModifiedDate_dt>
+</page>
