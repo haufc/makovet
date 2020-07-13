@@ -462,7 +462,7 @@
 						</property>
 						<property>
 							<name>type</name>
-							<value>/component/techsupportcomponent</value>
+							<value>/component/techsupportcomponentEn</value>
 								<type>undefined</type>
 						</property>
 					</properties>
