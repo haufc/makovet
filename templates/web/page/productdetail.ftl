@@ -47,7 +47,7 @@
                     ${contentModel.productDescription_html}
                 </div>
                 <div class="products__list-title">
-                    <h1 class="text--uppercase violet-color">sản phẩm khác</h1>
+                    <h1 class="text--uppercase violet-color diffrence-product">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
                     <div class="col-lg -12 col-md-12 row row-cols-lg-5 row-cols-md-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
@@ -113,10 +113,10 @@
            }
         }
         
-        //var prItem = $('#panigation-product').children();
-        //for(let i = 0; i < prItem.length - 1; i++) {
-        //    $(prItem[i]).css('margin-right', '3.33%');
-        //}
+        var url = window.location.href;
+        if (url.indexOf('/en') > -1) {
+            $('.diffrence-product').text('other products');
+        }
     });
     
     $('body').find('strong').addClass('violet-color');
