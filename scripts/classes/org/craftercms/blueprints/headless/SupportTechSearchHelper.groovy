@@ -25,7 +25,7 @@ class SupportTechSearchHelper {
         def q = "${TECHSUPPORT_CONTENT_TYPE_QUERY}"
         
         if (category) {
-            def supportTechGroupQuery = getFieldQueryWithMultipleValues("technicalAssistance_o.item.key", category)
+            def supportTechGroupQuery = getFieldQueryWithMultipleValues("technicalAssistanceType_o.item.key", category)
             q = "${q} AND ${supportTechGroupQuery}"
         }
         
