@@ -1,5 +1,5 @@
 <content-type name="/component/listdocumentEn" is-wcm-type="true">
-	<label>Component - Danh sách tài liệu(EN)</label>
+	<label>Component - En Danh sách tài liệu</label>
 	<form>/component/listdocumentEn</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
