@@ -34,7 +34,7 @@
             </div>
             <div class="container" style="padding-left:30px;">
                 <p style="color: #322372; font-size: 20px; font-weight: bold; margin-bottom: 0px !important;">${contentModel.title_s}</p>
-                <h2 style="line-height: 1.5;  font-size: 16px; color: #696969; font-weight: 400;">(${contentModel.date_dt?date?string('dd/MM/yyyy')})</h2>
+                <p class="dim-grey-color" style="line-height: 1.5;  font-size: 16px; font-weight: 400;">(${contentModel.date_dt?date?string('dd/MM/yyyy')})</p>
                 <div style="line-height: 1.5;  font-size: 16px; padding-top:30px; color: #636466; font-weight: 100;">${contentModel.content_html}</div>
                 <a href="/quan-he-co-dong"><i class="fa fa-arrow-left violet-color" style="padding-right:10px;" aria-hidden="true"></i><span class="mr-1 text--italic violet-color" style="color: #00549a;">Quay lại trang quan hệ cổ đông</span>
                 </a>
