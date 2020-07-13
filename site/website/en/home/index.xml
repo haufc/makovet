@@ -18,6 +18,42 @@
 	<value>Header - Home Page</value>
 	<include>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>6144f401-5e6b-c204-a9fc-1bc302f35f0d</key>
+	<value>List of products</value>
+<component id="6144f401-5e6b-c204-a9fc-1bc302f35f0d">
+	<content-type>/component/enproductinhome</content-type>
+	<display-template>/templates/web/enproductinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6144</objectGroupId>
+	<objectId>6144f401-5e6b-c204-a9fc-1bc302f35f0d</objectId>
+	<file-name>6144f401-5e6b-c204-a9fc-1bc302f35f0d.xml</file-name>
+	<internal-name>List of products</internal-name>
+	<title_s>products</title_s>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>MEDITION FOR BUFFALO - COW</groupProductName_s>
+	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo</groupChildProductURL_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>MEDITION FOR PIG</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>MEDITION FOR CHICKEN - DUCK</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-ga-vit/thuoc-cho-ga-vit</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>MEDITION FOR DOG - CAT</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>MEDITION FOR SCRIMP - FISH</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>OTHER MEDITION</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
+	</item></groupProduct_o>
+	<createdDate>2020-07-13T11:38:11.028Z</createdDate>
+	<createdDate_dt>2020-07-13T11:38:11.028Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T11:38:11.028Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T11:38:11.028Z</lastModifiedDate_dt>
+</component>
 	</item>	<item datasource="sections" inline="true">	<key>d1f59fa4-0444-6716-7621-1e083fc5fa4b</key>
 	<value>News</value>
 <component id="d1f59fa4-0444-6716-7621-1e083fc5fa4b">
@@ -37,7 +73,7 @@
 	<lastModifiedDate_dt>2020-07-13T09:29:23.498Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>47cc037b-a914-16cc-b822-05712b69a838</key>
-	<value>Disease &amp;amp; Treatment</value>
+	<value>Disease &amp; Treatment</value>
 <component id="47cc037b-a914-16cc-b822-05712b69a838">
 	<content-type>/component/entechinhome</content-type>
 	<display-template>/templates/web/entechinhome.ftl</display-template>
@@ -58,6 +94,6 @@
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T11:13:45.145Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T11:13:45.145Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T11:38:02.940Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T11:38:02.940Z</lastModifiedDate_dt>
 </page>
