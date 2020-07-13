@@ -159,7 +159,7 @@
 				</field>
 				<field>
 					<type>checkbox-group</type>
-					<id>technicalAssistanceType_o</id>
+					<id>technicalAssistance_o</id>
 					<iceId></iceId>
 					<title>Technical Assistance Type</title>
 					<description></description>
