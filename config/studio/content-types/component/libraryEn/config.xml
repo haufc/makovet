@@ -1,5 +1,5 @@
 <content-type name="/component/libraryEn" is-wcm-type="true">
-	<label>Component - Thư viện tư liệu(EN)</label>
+	<label>Component - En Thư viện tư liệu</label>
 	<form>/component/libraryEn</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
