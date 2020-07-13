@@ -46,8 +46,6 @@
 	<namesVideo1_s>Company introduction film ...</namesVideo1_s>
 	<namesVideo2_s>Company introduction film ...</namesVideo2_s>
 	<videoURL_s>#</videoURL_s>
-	<videoYoutubeURL1_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoYoutubeURL1_s>
-	<videoYoutubeURL2_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoYoutubeURL2_s>
 	<documentTitle_s> Document library</documentTitle_s>
 	<documentURL_s>#</documentURL_s>
 	<photoAvatar1_s>/static-assets/images/libraries/photos/photo1.png</photoAvatar1_s>
@@ -58,8 +56,10 @@
 	<documentAvatar2_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar2_s>
 	<createdDate>2020-07-13T10:12:33.087Z</createdDate>
 	<createdDate_dt>2020-07-13T10:12:33.087Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T10:12:33.087Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T10:12:33.087Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T10:23:17.069Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T10:23:17.069Z</lastModifiedDate_dt>
+	<videoURL1_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL1_s>
+	<videoURL2_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL2_s>
 </component>
 	</item></section_o>
 	<internal-name>Document library</internal-name>
@@ -67,6 +67,6 @@
 	<t_s>Document library</t_s>
 	<createdDate>2020-07-13T10:09:41.315Z</createdDate>
 	<createdDate_dt>2020-07-13T10:09:41.315Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T10:09:41.315Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T10:09:41.315Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T10:23:13.118Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T10:23:13.118Z</lastModifiedDate_dt>
 </page>
