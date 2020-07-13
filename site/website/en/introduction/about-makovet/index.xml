@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>746b</objectGroupId>
+	<objectId>746b1d5a-ab93-869b-96eb-a152b691df24</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>about-makovet</folder-name>
+	<internal-name>About Makovet</internal-name>
+	<navLabel>About Makovet</navLabel>
+	<title_s>About Makovet</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>About Makovet</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/e25cb8e1-5dc4-e247-d33d-a396fd09b384.xml</key>
+	<value>Header - About Makovet</value>
+	<include>/site/items/slides/e25cb8e1-5dc4-e247-d33d-a396fd09b384.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
+	<createdDate>2020-07-13T07:12:05.048Z</createdDate>
+	<createdDate_dt>2020-07-13T07:12:05.048Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T07:12:05.048Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T07:12:05.048Z</lastModifiedDate_dt>
+</page>
