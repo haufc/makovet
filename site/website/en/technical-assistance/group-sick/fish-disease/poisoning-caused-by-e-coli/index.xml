@@ -12,9 +12,6 @@
 	<diseaseName_s>Poisoning caused by E. coli(EDEMA DISEASE)</diseaseName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<technicalAssistanceType_o>	<item>	<key>benh-gia-suc-gia-cam</key>
-	<value_smv>Poultry disease</value_smv>
-	</item></technicalAssistanceType_o>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>c87c7c18-cb03-8aec-24e1-8a2da903d33d</key>
 	<value>Slide</value>
 <component id="c87c7c18-cb03-8aec-24e1-8a2da903d33d">
@@ -37,7 +34,7 @@
 	<diseaseContent_html>&lt;p&gt;CONCEPT&lt;/p&gt;
 &lt;p&gt;Diseases caused by E.coli bacteria when developing in pig intestine produce foreign toxins and these substances seep into blood poisoning bod&lt;/p&gt;
 &lt;p&gt;The role of E.coli bacteria is primary, there should be more favorable primary factors: dirty dirty cages; Unable to control the quantity &amp;amp; quality of food.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;DISEASE SIGNS&lt;/p&gt;
 &lt;p&gt;The disease usually arises in pigs of about 25 - 50kg and in fat pigs; The two main signs of diseased pigs are edema and movement disorders&lt;/p&gt;
 &lt;p&gt;- Edema: clearly visible around the eyes and forehead&lt;/p&gt;
@@ -45,7 +42,7 @@
 &lt;p&gt;Slaughter of pigs will see:&lt;/p&gt;
 &lt;p&gt;- Accumulate fluid in chest sinuses, abdominal sinuses&lt;/p&gt;
 &lt;p&gt;- Perforated intestina perforated membrane, Pneumonia&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;SOLUTION&lt;/p&gt;
 &lt;p&gt;Separate sick pigs. Concentrate on taking care of the pigs that are not sick, if the whole farm is as good (this is the key point)&lt;/p&gt;
 &lt;p&gt;* For pigs not yet sick:&lt;/p&gt;
@@ -70,6 +67,9 @@
 &lt;p&gt;- When stressed or when in doubt, use APRA-COLIS to mix with food for at least 3 days.&lt;/p&gt;</diseaseContent_html>
 	<createdDate>2020-07-13T08:08:14.457Z</createdDate>
 	<createdDate_dt>2020-07-13T08:08:14.457Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T08:08:14.457Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T08:08:14.457Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T08:36:04.118Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:36:04.118Z</lastModifiedDate_dt>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Poultry disease</value_smv>
+	</item></technicalAssistance_o>
 </page>
