@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>edde</objectGroupId>
+	<objectId>edde14c9-d0d0-4e0d-85ba-91a75f281984</objectId>
+	<items item-list="true">	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value>Group of fostering drugs increases resistance</value>
+	</item>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value>Antibiotics group</value>
+	</item>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
+	<value>Antipyretic and anti-inflammatory analgesic group</value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value>Antiseptic group of mushrooms, coccidiosis</value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-thuoc-dung-ngoai</key>
+	<value>Antiseptic group for external use</value>
+	</item>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value>Group of assisted reproductive drugs and other sup</value>
+	</item>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value>Nutritional and mineral medicines, increasing resi</value>
+	</item>	<item>	<key>nhom-thuoc-phong-tri-benh</key>
+	<value>Preventive and curative medicine group</value>
+	</item>	<item>	<key>nhom-xu-ly-nuoc-cai-tao-moi-truong</key>
+	<value>Group of drugs for water treatment and environment</value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
+	<value>Antiseptic group, mulberry</value>
+	</item>	<item>	<key>nhom-ho-tro-khac</key>
+	<value>Other supportive drugs</value>
+	</item></items>
+	<file-name>groupchildproduct.xml</file-name>
+	<folder-name/>
+	<internal-name>Group Child Product</internal-name>
+	<createdDate>2020-07-13T03:07:05.297Z</createdDate>
+	<createdDate_dt>2020-07-13T03:07:05.297Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T03:07:05.297Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T03:07:05.297Z</lastModifiedDate_dt>
+</component>
