@@ -181,15 +181,7 @@
             var url = window.location.href;
             if (url.indexOf('/en') > -1) {
                 $('#sp-customer').text('customer support');
-                $('.name').text('Name');
-                $('.company').text('Company');
-                $('.phone').text('Phone');
-                $('.title').text('Title');
-                $('.content').text('Content');
-                $('#btn-send').text('Send');
-                $('.btn-cancel').text('Reset');
-                $('#exampleModalLabel').text('Customer Support Center');
-
+                
             }
             
             $('#btn-send').click(function() {
