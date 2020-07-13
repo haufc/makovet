@@ -18,9 +18,46 @@
 	<value>Header - Home Page</value>
 	<include>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>d1f59fa4-0444-6716-7621-1e083fc5fa4b</key>
+	<value>News</value>
+<component id="d1f59fa4-0444-6716-7621-1e083fc5fa4b">
+	<content-type>/component/ennewsinhome</content-type>
+	<display-template>/templates/web/ennewsinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d1f5</objectGroupId>
+	<objectId>d1f59fa4-0444-6716-7621-1e083fc5fa4b</objectId>
+	<newscategory_s>internalnews</newscategory_s>
+	<file-name>d1f59fa4-0444-6716-7621-1e083fc5fa4b.xml</file-name>
+	<internal-name>News</internal-name>
+	<videoURL_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL_s>
+	<createdDate>2020-07-13T09:29:23.498Z</createdDate>
+	<createdDate_dt>2020-07-13T09:29:23.498Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T09:29:23.498Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T09:29:23.498Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>47cc037b-a914-16cc-b822-05712b69a838</key>
+	<value>Disease &amp;amp; Treatment</value>
+<component id="47cc037b-a914-16cc-b822-05712b69a838">
+	<content-type>/component/entechinhome</content-type>
+	<display-template>/templates/web/entechinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>47cc</objectGroupId>
+	<objectId>47cc037b-a914-16cc-b822-05712b69a838</objectId>
+	<file-name>47cc037b-a914-16cc-b822-05712b69a838.xml</file-name>
+	<internal-name>Disease &amp; Treatment</internal-name>
+	<title_s>Poultry disease</title_s>
+	<image_s>/static-assets/images/techsupport/left-img.png</image_s>
+	<description_html>&lt;p&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec dui a magna vehicula tempus sagittis vel ante. Nullam risus felis, dapibus et sem eu, vulputate venenatis nunc&lt;/span&gt;&lt;/p&gt;</description_html>
+	<createdDate>2020-07-13T10:01:29.354Z</createdDate>
+	<createdDate_dt>2020-07-13T10:01:29.354Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T10:01:29.354Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T10:01:29.354Z</lastModifiedDate_dt>
+</component>
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T03:21:01.634Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T03:21:01.634Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T09:19:00.677Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T09:19:00.677Z</lastModifiedDate_dt>
 </page>
