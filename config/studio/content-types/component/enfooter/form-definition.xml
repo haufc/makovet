@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/web/footer.ftl</value>
+			<value>/templates/web/enfooter.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -180,7 +180,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594607441858</title>
+			<title>Default Section Title 1594608828485</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
@@ -402,7 +402,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594607477935</title>
+			<title>Default Section Title 1594608828486</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
