@@ -1397,4 +1397,11 @@ p {
         max-width: 320px !important;
     }
 }
+
+@media only screen and (max-width: 330px) {
+    .right-banner{
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+}
 /*# sourceMappingURL=dtycl.css.map */
