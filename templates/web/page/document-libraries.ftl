@@ -49,7 +49,7 @@
         <div class="content">
             <div class="section-title">
                 <div class="section-title__content block">
-                    <h1 class="section-title__content-text text--uppercase">THƯ VIỆN TÀI LIỆU</h1>
+                    <h1 class="section-title__content-text text--uppercase document-title">THƯ VIỆN TÀI LIỆU</h1>
                 </div>
             </div>
             <div class="container">
@@ -104,6 +104,13 @@
                 next: '#custom-next',
                 prev: '#custom-prev'
             });
+        });
+        
+        $(document).ready(function(){
+            var url = window.location.href;
+            if (url.indexOf('/en') > -1) {
+                $('.document-title').text('Document library');
+            }
         });
     </script>
   </body>
