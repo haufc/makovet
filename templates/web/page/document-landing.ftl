@@ -55,6 +55,11 @@
                    $(id).text(docName + '...');
                }
            }
+           
+           var url = window.location.href;
+            if (url.indexOf('/en') > -1) {
+                $('.document-title').text('Document library');
+            }
         });
     </script>
   </body>
