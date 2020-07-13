@@ -29,9 +29,6 @@
 	<lastModifiedDate_dt>2020-07-13T08:06:54.669Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<technicalAssistanceType_o>	<item>	<key>benh-gia-suc-gia-cam</key>
-	<value_smv>Poultry disease</value_smv>
-	</item></technicalAssistanceType_o>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<diseaseContent_html>&lt;p&gt;CONCEPT&lt;/p&gt;
@@ -45,7 +42,7 @@
 &lt;p&gt;Slaughter of pigs will see:&lt;/p&gt;
 &lt;p&gt;- Accumulate fluid in chest sinuses, abdominal sinuses&lt;/p&gt;
 &lt;p&gt;- Perforated intesinal perforated membrane, Pneumonia&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;SOLUTION&lt;/p&gt;
 &lt;p&gt;Separate sick pigs. Concentrate on taking care of the pigs that are not sick, if the whole farm is as good (this is the key point)&lt;/p&gt;
 &lt;p&gt;* For pigs not yet sick:&lt;/p&gt;
@@ -70,6 +67,9 @@
 &lt;p&gt;- When stressed or when in doubt, use APRA-COLIS to mix with food for at least 3 days.&lt;/p&gt;</diseaseContent_html>
 	<createdDate>2020-07-13T08:06:42.384Z</createdDate>
 	<createdDate_dt>2020-07-13T08:06:42.384Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T08:06:42.384Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T08:06:42.384Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T08:36:19.256Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:36:19.256Z</lastModifiedDate_dt>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Poultry disease</value_smv>
+	</item></technicalAssistance_o>
 </page>
