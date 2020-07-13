@@ -13,7 +13,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
                 <div class="banner-content" style="padding-top: 8%;">
                     <img style="width:40%;" class="img-center" src="${contentModel.groupProductImg2_s}"/>
-                    <p style="font-size: 1.3em" class="font-weight-bold violet-color text-center mt-4">${contentModel.rightTitle_s}</p>
+                    <p style="font-size: 1.3em" class="font-weight-bold violet-color text-center mt-4 text--uppercase">${contentModel.rightTitle_s}</p>
                 </div>
             </div>
         </div>
