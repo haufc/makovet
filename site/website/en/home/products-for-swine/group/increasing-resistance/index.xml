@@ -10,32 +10,36 @@
 	<title_s>Increasing resistance</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<section_o item-list="true">	<item datasource="section" inline="true">	<key>7cfaf7ed-b370-ac76-0e09-0c9f29872791</key>
-	<value>Increasing resistance</value>
-<component id="7cfaf7ed-b370-ac76-0e09-0c9f29872791">
-	<content-type>/component/listproductEn</content-type>
-	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e7a507fd-bada-8cb4-6a93-99d2e948b79d</key>
+	<value>Increasing resistance Slide</value>
+<component id="e7a507fd-bada-8cb4-6a93-99d2e948b79d">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>7cfa</objectGroupId>
-	<objectId>7cfaf7ed-b370-ac76-0e09-0c9f29872791</objectId>
-	<file-name>7cfaf7ed-b370-ac76-0e09-0c9f29872791.xml</file-name>
-	<internal-name>Increasing resistance</internal-name>
-	<productgrouplevel1_s>thuoc-cho-trau-bo</productgrouplevel1_s>
-	<productgrouplevel2_s>nhom-boi-duong-tang-suc-de-khang</productgrouplevel2_s>
-	<createdDate>2020-07-13T06:55:02.277Z</createdDate>
-	<createdDate_dt>2020-07-13T06:55:02.277Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T06:55:02.277Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T06:55:02.277Z</lastModifiedDate_dt>
+	<objectGroupId>e7a5</objectGroupId>
+	<objectId>e7a507fd-bada-8cb4-6a93-99d2e948b79d</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<file-name>e7a507fd-bada-8cb4-6a93-99d2e948b79d.xml</file-name>
+	<internal-name>Increasing resistance Slide</internal-name>
+	<createdDate>2020-07-13T07:01:40.465Z</createdDate>
+	<createdDate_dt>2020-07-13T07:01:40.465Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T07:01:40.465Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T07:01:40.465Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true"/>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/9029aaef-f469-6029-cde6-9de0eeef7751.xml</key>
+	<value>Increasing resistance</value>
+	<include>/site/items/9029aaef-f469-6029-cde6-9de0eeef7751.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
 	<file-name>index.xml</file-name>
 	<folder-name>increasing-resistance</folder-name>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-13T06:53:56.964Z</createdDate>
 	<createdDate_dt>2020-07-13T06:53:56.964Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T06:53:56.964Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T06:53:56.964Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T07:00:56.901Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T07:00:56.901Z</lastModifiedDate_dt>
 </page>
