@@ -29,9 +29,6 @@
 	<lastModifiedDate_dt>2020-07-13T07:56:53.078Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<technicalAssistanceType_o>	<item>	<key>benh-thuy-san</key>
-	<value_smv>Fish disease</value_smv>
-	</item></technicalAssistanceType_o>
 	<diseaseContent_html>&lt;p&gt;CONCEPT&lt;/p&gt;
 &lt;p&gt;Diseases caused by E.coli bacteria when developing in pig intestine produce foreign toxins and these substances seep into blood poisoning body&lt;/p&gt;
 &lt;p&gt;The role of E.coli bacteria is primary, there should be more favorable primary factors: dirty dirty cages; Unable to control the quantity &amp;amp; quality of food.&lt;/p&gt;
@@ -43,7 +40,7 @@
 &lt;p&gt;Slaughter of pigs will see:&lt;/p&gt;
 &lt;p&gt;- Accumulate fluid in chest sinuses, abdominal sinuses&lt;/p&gt;
 &lt;p&gt;- Perforated intestinal perforated membrane, Pneumonia&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;SOLUTION&lt;/p&gt;
 &lt;p&gt;Separate sick pigs. Concentrate on taking care of the pigs that are not sick, if the whole farm is as good (this is the key point)&lt;/p&gt;
 &lt;p&gt;* For pigs not yet sick:&lt;/p&gt;
@@ -70,6 +67,9 @@
 	<folder-name>early-mortality-disease-in-shrimp</folder-name>
 	<createdDate>2020-07-13T07:55:58.224Z</createdDate>
 	<createdDate_dt>2020-07-13T07:55:58.224Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T07:55:58.224Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T07:55:58.224Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T08:35:23.951Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:35:23.951Z</lastModifiedDate_dt>
+	<technicalAssistance_o>	<item>	<key>benh-thuy-san</key>
+	<value_smv>Fish disease</value_smv>
+	</item></technicalAssistance_o>
 </page>
