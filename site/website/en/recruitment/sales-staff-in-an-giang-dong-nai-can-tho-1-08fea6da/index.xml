@@ -7,13 +7,13 @@
 	<objectGroupId>e614778d</objectGroupId>
 	<objectId>e614778d-8806-402b-acc7-0d0cfdec9362</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>sales-staff-in-an-giang-dong-nai-can-tho-1-08fea6da</folder-name>
+	<folder-name>sales-staff-in-an-giang-dong-nai-can-tho-2</folder-name>
 	<internal-name> Sales staff in An Giang, Dong Nai, Can Tho and Vi 45edcd9f 08fea6da</internal-name>
 	<navLabel> Sales staff in An Giang, Dong Nai, Can Tho and Vi</navLabel>
 	<jobTitle_s> Sales staff in An Giang, Dong Nai, Can Tho and Vinh Long</jobTitle_s>
 	<jobDuration_s>14/07/2017</jobDuration_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>6c859fd6-c4be-0eea-85ba-f4c535305054</key>
 	<value>Slide</value>
 <component id="6c859fd6-c4be-0eea-85ba-f4c535305054">
@@ -64,6 +64,6 @@
 &lt;p&gt;&lt;span style="color: #95a5a6;"&gt;- Candidates applying by mail please scan diplomas, certificates, transcripts, CV and related documents sent to the Company mail: tuyendung@cailayvetco.com&lt;/span&gt;&lt;/p&gt;</jobContent_html>
 	<createdDate>2020-07-13T09:01:44.311Z</createdDate>
 	<createdDate_dt>2020-07-13T09:01:44.311Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T09:06:09.527Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T09:06:09.527Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T09:06:29.316Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T09:06:29.316Z</lastModifiedDate_dt>
 </page>
