@@ -132,7 +132,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1594639869276</title>
+			<title>Default Section Title 1594640184895</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
@@ -231,7 +231,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>uploadGroupproducticon,existingGroupproducticon</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
