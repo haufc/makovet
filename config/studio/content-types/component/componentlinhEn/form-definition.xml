@@ -138,7 +138,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>companyHeadquarter_s</id>
+					<id>companyHeadquater_s</id>
 					<iceId></iceId>
 					<title>Company Headquarter</title>
 					<description></description>
