@@ -6,9 +6,9 @@ def productChildGroup = contentModel.productgrouplv2_o.item.key
 
 def searchHelper = new GroupProductEnSearchHelper(elasticsearch, urlTransformationService)
 def relatedProducts = searchHelper.searchProducts(productGroup.text,productChildGroup.text, 0)
-def categories = new TaxonomySearchHelper("nhom-san-pham", elasticsearch, siteItemService)
+def categories = new TaxonomySearchHelper("groupproduct", elasticsearch, siteItemService)
 						.getItems()
-def childCategories = new TaxonomySearchHelper("nhom-san-pham-con", elasticsearch, siteItemService)
+def childCategories = new TaxonomySearchHelper("groupchildproduct", elasticsearch, siteItemService)
 						.getItems()
 
 templateModel.productOther = relatedProducts
