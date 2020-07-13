@@ -1,5 +1,5 @@
 <content-type name="/component/techsupportcomponentEn" is-wcm-type="true">
-	<label>Component - Hỗ trợ kỹ thuật(EN)</label>
+	<label>Component - En Hỗ trợ kỹ thuật</label>
 	<form>/component/techsupportcomponentEn</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
