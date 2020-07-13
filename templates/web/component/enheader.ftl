@@ -86,31 +86,31 @@
                 </button>
                 <li class="nav__menu-item">
                     <div class="dropdown">
-                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/gioi-thieu">Giới thiệu</a>
+                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/en/introduction/about-makovet">Introduction</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/lich-su-hinh-thanh">Lịch sử hình thành</a>
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/su-menh">Sứ mệnh tầm nhìn</a>
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/thanh-tich-dat-duoc">Thành tích đạt được</a>
+                            <a class="nav__menu-link dropdown-item" href="/en/introduction/history">History</a>
+                            <a class="nav__menu-link dropdown-item" href="/en/introduction/vision">Vision, Mission</a>
+                            <a class="nav__menu-link dropdown-item" href="/en/introduction/achievement">Achievements</a>
                         </div>
                     </div>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link active" href="/san-pham">Sản phẩm</a>
+                    <a class="nav__menu-link active" href="/en/product">Product</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/tin-tuc">Tin tức - Sự kiện</a>
+                    <a class="nav__menu-link" href="/en/news">News - Events</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Hỗ trợ kỹ thuật</a>
+                    <a class="nav__menu-link" href="/en/customer-support">Customer Support</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/quan-he-co-dong">Quan hệ cổ đông</a>
+                    <a class="nav__menu-link" href="/en/investor-relation">Investor Relation</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
+                    <a class="nav__menu-link" href="/en/career-opportunity">Career</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/lien-he">Liên hệ</a>
+                    <a class="nav__menu-link" href="/en/contact">Contact</a>
                 </li>
                 <ul class="nav__menu-tools">
                     <li class="nav__tool-item">

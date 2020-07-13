@@ -19,14 +19,9 @@
         background: #332472;
     }
 }
-@media (min-width: 1920px){
+@media (min-width: 1500px){
     .slide__bg{
         left: -1%;
-    }
-}
-@media (max-width: 1920px){
-    .slide__bg{
-        left: -10%;
     }
 }
 @media (max-width: 1366px){
