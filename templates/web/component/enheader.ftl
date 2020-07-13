@@ -95,19 +95,19 @@
                     </div>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link active" href="/en/product">Product</a>
+                    <a class="nav__menu-link active" href="/en/products">Product</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/en/news">News - Events</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/customer-support">Customer Support</a>
+                    <a class="nav__menu-link" href="/en/disease-treatment">Customer Support</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/en/investor-relation">Investor Relation</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/career-opportunity">Career</a>
+                    <a class="nav__menu-link" href="/en/career-opportunities">Career</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/en/contact">Contact</a>
