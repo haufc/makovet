@@ -48,7 +48,7 @@
         
         <div class="section-title">
             <div class="section-title__content block">
-                <h1 class="section-title__content-text text--uppercase">hỗ trợ khách hàng</h1>
+                <h1 class="section-title__content-text text--uppercase" id="sp-customer">hỗ trợ khách hàng</h1>
             </div>
         </div>
         <div class="container">
@@ -185,6 +185,11 @@
     <script src="/static-assets/js/contact.js"></script>
     <script>
         $(document).ready(function() {
+            var url = window.location.href;
+            if (url.indexOf('/en') > -1) {
+                $('#sp-customer').text('customer support');
+            }
+            
             $('#btn-send').click(function() {
                 $('#exampleModal').hide();
             });
