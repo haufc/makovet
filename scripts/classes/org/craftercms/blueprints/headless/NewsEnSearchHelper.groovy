@@ -8,7 +8,7 @@ import org.elasticsearch.search.builder.SearchSourceBuilder
 import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
-class NewsSearchHelper{
+class NewsEnSearchHelper{
     static final String NEWS_CONTENT_TYPE ="content-type:\"/page/ennewsdetail\" "
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS  = 1000
@@ -16,7 +16,7 @@ class NewsSearchHelper{
     def elasticsearch
     UrlTransformationService UrlTransformationService
     
-    NewsSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
+    NewsEnSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
         this.elasticsearch = elasticsearch
         this.urlTransformationService = urlTransformationService
     }
