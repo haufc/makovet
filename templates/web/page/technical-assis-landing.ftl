@@ -130,7 +130,7 @@
                         </p>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-sm btn-warning" data-dismiss="modal">Đóng</button>
+                        <button type="button" class="btn btn-sm btn-warning sniper-close" data-dismiss="modal">Đóng</button>
                     </div>
                 </div>
             </div>
@@ -189,6 +189,9 @@
                 $('#btn-send').text('Send');
                 $('.btn-cancel').text('Reset');
                 $('#exampleModalLabel').text('Customer Support Center');
+                $('#success-dialog-header').text('Thank you!');
+                $('#success-dialog-message"').text('Your request has been processed!');
+                $('.sniper-close').text('Close');
             }
             
             $('#btn-send').click(function() {
