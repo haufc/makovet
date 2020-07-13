@@ -41,13 +41,13 @@
 	<internal-name>Document library</internal-name>
 	<title_s>Document library</title_s>
 	<photoTitle_s> Photo library</photoTitle_s>
-	<photoURL_s>#</photoURL_s>
+	<photoURL_s>/en/library/photo-library</photoURL_s>
 	<videoTitle_s> Video library</videoTitle_s>
 	<namesVideo1_s>Company introduction film ...</namesVideo1_s>
 	<namesVideo2_s>Company introduction film ...</namesVideo2_s>
-	<videoURL_s>#</videoURL_s>
+	<videoURL_s>/en/library/video-libary</videoURL_s>
 	<documentTitle_s>Catalog             library</documentTitle_s>
-	<documentURL_s>#</documentURL_s>
+	<documentURL_s>/en/library/catalog-library</documentURL_s>
 	<photoAvatar1_s>/static-assets/images/libraries/photos/photo1.png</photoAvatar1_s>
 	<photoAvatar2_s>/static-assets/images/libraries/photos/photo2.png</photoAvatar2_s>
 	<videoBanner2_s>/static-assets/images/libraries/videos/img__41.jpg</videoBanner2_s>
@@ -55,8 +55,8 @@
 	<documentAvatar2_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar2_s>
 	<createdDate>2020-07-13T10:12:33.087Z</createdDate>
 	<createdDate_dt>2020-07-13T10:12:33.087Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T10:35:21.287Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T10:35:21.287Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T15:28:32.021Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T15:28:32.021Z</lastModifiedDate_dt>
 	<videoURL1_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL1_s>
 	<videoURL2_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL2_s>
 	<videoBanner_s>/static-assets/images/libraries/videos/img__41.jpg</videoBanner_s>
@@ -67,6 +67,6 @@
 	<t_s>Document library</t_s>
 	<createdDate>2020-07-13T10:09:41.315Z</createdDate>
 	<createdDate_dt>2020-07-13T10:09:41.315Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T10:35:15.635Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T10:35:15.635Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T15:28:27.660Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T15:28:27.660Z</lastModifiedDate_dt>
 </page>
