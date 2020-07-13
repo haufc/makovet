@@ -86,31 +86,31 @@
                 </button>
                 <li class="nav__menu-item">
                     <div class="dropdown">
-                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/introduction/about-makovet">Introduction</a>
+                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/en/introduction/about-makovet">Introduction</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/introduction/history">History</a>
-                            <a class="nav__menu-link dropdown-item" href="/introduction/vision">Vision, Mission</a>
-                            <a class="nav__menu-link dropdown-item" href="/introduction/achievement">Achievements</a>
+                            <a class="nav__menu-link dropdown-item" href="/en/introduction/history">History</a>
+                            <a class="nav__menu-link dropdown-item" href="/en/introduction/vision">Vision, Mission</a>
+                            <a class="nav__menu-link dropdown-item" href="/en/introduction/achievement">Achievements</a>
                         </div>
                     </div>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link active" href="/product">Product</a>
+                    <a class="nav__menu-link active" href="/en/product">Product</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/news">News - Events</a>
+                    <a class="nav__menu-link" href="/en/news">News - Events</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Customer Support</a>
+                    <a class="nav__menu-link" href="/en/customer-support">Customer Support</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/investor-relation">Investor Relation</a>
+                    <a class="nav__menu-link" href="/en/investor-relation">Investor Relation</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/career-opportunity">Career</a>
+                    <a class="nav__menu-link" href="/en/career-opportunity">Career</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/contact">Contact</a>
+                    <a class="nav__menu-link" href="/en/contact">Contact</a>
                 </li>
                 <ul class="nav__menu-tools">
                     <li class="nav__tool-item">
