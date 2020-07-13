@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/ennewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fbfc</objectGroupId>
+	<objectId>fbfc2323-d766-e440-7f18-54306925502d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-1</folder-name>
+	<internal-name>Test 1</internal-name>
+	<navLabel>Test 1</navLabel>
+	<title_s>Test 1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/c1c3fbd7-21a6-70eb-a699-884cdff70be4.xml</key>
+	<value>Header - Test 1</value>
+	<include>/site/items/slides/c1c3fbd7-21a6-70eb-a699-884cdff70be4.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/Layer 192.png</image_s>
+	<content_html>&lt;p&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec dui a magna vehicula tempus sagittis vel ante. Nullam risus felis, dapibus et sem eu, vulputate venenatis nunc. Mauris lobortis purus ac vehicula lacinia. Aenean lobortis maximus elit. In fringilla non justo quis faucibus. Suspendisse suscipit eleifend lectus, molestie tristique velit bibendum id. Fusce ut velit ac nunc pellentesque rutrum. Maecenas at faucibus nunc. Donec hendrerit dolor ut metus tristique rutrum. Aliquam est nibh, accumsan in mollis ut, vestibulum a risus. Fusce pretium, mauris ac interdum tincidunt, nisi felis condimentum sapien, vulputate pharetra est erat a quam. Donec pellentesque diam in magna ultricies, eu pellentesque purus sodales.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T05:06:43.376Z</createdDate>
+	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T05:06:43.376Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T05:06:43.376Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>
