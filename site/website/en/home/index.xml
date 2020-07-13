@@ -31,7 +31,7 @@
 	<internal-name>List of products</internal-name>
 	<title_s>products</title_s>
 	<groupProduct_o item-list="true">	<item>	<groupProductName_s>MEDITION FOR BUFFALO - COW</groupProductName_s>
-	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/index</groupChildProductURL_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
 	</item>	<item>	<groupProductName_s>MEDITION FOR PIG</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
@@ -51,8 +51,8 @@
 	</item></groupProduct_o>
 	<createdDate>2020-07-13T11:38:11.028Z</createdDate>
 	<createdDate_dt>2020-07-13T11:38:11.028Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T11:38:11.028Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T11:38:11.028Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T15:08:09.561Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T15:08:09.561Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>d1f59fa4-0444-6716-7621-1e083fc5fa4b</key>
 	<value>News</value>
@@ -94,6 +94,6 @@
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T11:38:02.940Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T11:38:02.940Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T15:08:04.409Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T15:08:04.409Z</lastModifiedDate_dt>
 </page>
