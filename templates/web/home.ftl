@@ -107,26 +107,35 @@
     <script>
         // set width for google map
         $('iframe').attr('width','83%');
+       
+        
     </script>
     <script>
         $('.limit-text').each(function (f) {
           var newstr = $(this).text().substring(0,140);
           $(this).text(newstr).append("...");
         });
-    jQuery(function($) {
-    $('.nav__menu-item .dropdown').hover(function() {
-    $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
-    
-    }, function() {
-    $(this).find('.dropdown-menu').first().stop(true, true).delay(100).slideUp();
-    
-    });
-    
-    $('.nav__menu-item .dropdown > a').click(function(){
-    location.href = this.href;
-    });
-    
-    });
+        jQuery(function($) {
+        $('.nav__menu-item .dropdown').hover(function() {
+        $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
+        
+        }, function() {
+        $(this).find('.dropdown-menu').first().stop(true, true).delay(100).slideUp();
+        
+        });
+        
+        $('.nav__menu-item .dropdown > a').click(function(){
+        location.href = this.href;
+        });
+        
+        });
+        
+         $(document).ready(function(){
+              var url = window.location.href;
+              if (url.indexOf('/en') > -1) {
+                  $('.policy-title').text('EMPLOYMENT POLICY');
+              }
+         });
 </script>
     </script>
     </body>
