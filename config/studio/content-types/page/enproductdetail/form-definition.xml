@@ -554,7 +554,7 @@
 						</property>
 						<property>
 							<name>componentPath</name>
-							<value>/site/taxonomy/nhom-san-pham.xml</value>
+							<value>/site/taxonomy/groupproduct.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
@@ -572,7 +572,7 @@
 						</property>
 						<property>
 							<name>componentPath</name>
-							<value>/site/taxonomy/nhom-san-pham-con.xml</value>
+							<value>/site/taxonomy/groupchildproduct.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>

@@ -60,12 +60,115 @@
                     ${contentModel.supportCustomerContent_html}
                     <div class="d-flex">
                         <button class="btn-desc violet-color font-weight-bold" style="width: 49%; margin-right: 2%; background-color: #FFCB08;">${contentModel.phoneNumber_s}</button>
-                        <button class="btn-desc report-price font-weight-bold text-white" href="#" style="width: 49%; background-color: #322372;">Email</button>
+                        <button data-toggle="modal" data-target="#exampleModal" class="btn-desc report-price font-weight-bold text-white" href="#" style="width: 49%; background-color: #322372;">Email</button>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+         <form action="/api/1/services/contactUs.json" method="POST">
+          <div class="modal-header text-white" style="background-color: #322372">
+            <h5 class="modal-title text-white" id="exampleModalLabel">Trung tâm hỗ trợ khách hàng</h5>
+            <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            
+                <div class="row">
+                    <label class="col-md-2 mb-1 mt-5">Họ tên</label>
+                    <div class="col-md-10 mb-1 mt-md-5">
+                        <input type="text" class="form-control" name="name" id="name" required/>
+                    </div>
+                    <label class="col-md-2 mb-1">Công ty</label>
+                    <div class="col-md-10 mb-1">
+                        <input type="text" class="form-control" name="company" id="company" required/>
+                    </div>
+                    <label class="col-md-2 mb-1">Email</label>
+                    <div class="col-md-10 mb-1">
+                        <input type="email" class="form-control" name="email" id="email" required/>
+                    </div>
+                    <label class="col-md-2 mb-1">Điện thoại</label>
+                    <div class="col-md-10 mb-1">
+                        <input type="text" class="form-control" name="phone" id="phone" required/>
+                    </div>
+                    <label class="col-md-2 mb-1">Tiêu đề</label>
+                    <div class="col-md-10 mb-1">
+                        <input type="text" class="form-control" name="title" id="title" required/>
+                    </div>
+                    <label class="col-md-2 mb-1">Nội dung</label>
+                    <div class="col-md-10 mb-1">
+                        <textarea class="form-control" name="content" id="content"></textarea>
+                    </div>
+                    <div class="col-md-12 mb-1 mt-1">
+                        <p class="text-right">
+                            
+                        </p>
+                    </div>
+                </div>
+           
+          </div>
+          <div class="modal-footer">
+            <button id="btn-send" onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
+            <button class="btn btn-danger font-weight-bold violet-color" type="reset">Hủy</button>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+          </form>
+        </div>
+      </div>
+    </div>
+     <!-- =========================
+        MODAL DIALOGS
+        ============================== -->
+        
+        <div class="modal fade" id="success-dialog" role="dialog">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header text-left mb-2 text-white" style="background-color: #322372">
+                        <h3 id="success-dialog-header" class="modal-title" style="font-size: 20px;">Cảm ơn!</h3>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            <span id="success-dialog-message" class="modal-main-message">Yêu cầu của bạn đã được xử lý!</span>
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-sm btn-warning" data-dismiss="modal">Đóng</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="fail-dialog" role="dialog">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3 id="fail-dialog-header" class="modal-title">Error</h3>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            <span id="fail-dialog-message" class="modal-main-message">Unable to process your request. </br>Please try again later.</span>
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- =========================
+        MODAL SPINNERS
+        ============================== -->
+        <div class="modal fade" id="modal-spinner" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
+                <span class="fa fa-spinner fa-spin fa-3x"></span>
+            </div>
+        </div>
     <input hidden value="${contentModel.technicalAssistanceCompoent_o.item?size}" id="group-pr-length"/>
     <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
@@ -79,6 +182,14 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/techsupport.js"></script>
     <script src="/static-assets/js/search.js"></script>
+    <script src="/static-assets/js/contact.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#btn-send').click(function() {
+                $('#exampleModal').hide();
+            });
+        });
+    </script>
   </body>
 </html>
 <@studio.toolSupport />

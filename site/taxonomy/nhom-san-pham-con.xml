@@ -12,7 +12,7 @@
 	<value>Nhóm thuốc kháng sinh</value>
 	</item>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
 	<value>Nhóm giảm đau hạ sốt, kháng viêm</value>
-	</item>	<item>	<key>nhom-thuoc-sat-trung-thuoc-dung-ngoai</key>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
 	<value>Nhóm thuốc sát trùng nấm, cầu trùng</value>
 	</item>	<item>	<key>nhom-thuoc-sat-trung-thuoc-dung-ngoai</key>
 	<value>Nhóm thuốc sát trùng thuốc dùng ngoài</value>
@@ -34,6 +34,6 @@
 	<internal-name>Nhóm sản phẩm con</internal-name>
 	<createdDate>2020-06-22T06:50:07.471Z</createdDate>
 	<createdDate_dt>2020-06-22T06:50:07.471Z</createdDate_dt>
-	<lastModifiedDate>2020-06-22T06:50:07.471Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-22T06:50:07.471Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-13T03:04:18.901Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T03:04:18.901Z</lastModifiedDate_dt>
 </component>

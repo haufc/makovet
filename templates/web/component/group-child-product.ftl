@@ -5,12 +5,16 @@
         </div>
     </div>
     <div class="container">
-        <div class="d-flex">
-            <div class="col-lg-6 col-md-6 p-left-0">
+        <div class="row" style="margin-right: 0 !important;margin-left: 0 !important;">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pl-md-0 pl-lg-0 babber-img-left">
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
-            <div class="col-lg-6 col-md-6 banner-gr-child-pr">
-                <img class="banner-img" src="${contentModel.groupProductImg2_s}"/>
+            <#--banner-gr-child-pr, class="banner-img" -->
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
+                <div class="banner-content" style="padding-top: 8%;">
+                    <img style="width:40%;" class="img-center" src="${contentModel.groupProductImg2_s}"/>
+                    <p style="font-size: 1.3em" class="font-weight-bold violet-color text-center mt-4 text--uppercase">${contentModel.rightTitle_s}</p>
+                </div>
             </div>
         </div>
         <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 3%;"/>
