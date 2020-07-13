@@ -107,8 +107,8 @@
           </div>
           <div class="modal-footer">
             <button id="btn-send" onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
-            <button class="btn btn-danger font-weight-bold violet-color" type="reset">Hủy</button>
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button class="btn btn-danger font-weight-bold violet-color btn-cancel" type="reset">Hủy</button>
+            <button type="button" class="btn btn-secondary btn-close" data-dismiss="modal">Close</button>
           </div>
           </form>
         </div>
@@ -181,6 +181,14 @@
             var url = window.location.href;
             if (url.indexOf('/en') > -1) {
                 $('#sp-customer').text('customer support');
+                $('.name').text('Name');
+                $('.company').text('Company');
+                $('.phone').text('Phone');
+                $('.title').text('Title');
+                $('.content').text('Content');
+                $('#btn-send').text('Send');
+                $('.btn-cancel').text('Reset');
+                $('#exampleModalLabel').text('Customer Support Center');
             }
             
             $('#btn-send').click(function() {
