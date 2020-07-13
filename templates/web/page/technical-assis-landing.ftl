@@ -78,39 +78,32 @@
             </button>
           </div>
           <div class="modal-body">
-            
                 <div class="row">
-                    <label class="col-md-2 mb-1 mt-5">Họ tên</label>
+                    <label class="col-md-2 mb-1 mt-5 name">Họ tên</label>
                     <div class="col-md-10 mb-1 mt-md-5">
                         <input type="text" class="form-control" name="name" id="name" required/>
                     </div>
-                    <label class="col-md-2 mb-1">Công ty</label>
+                    <label class="col-md-2 mb-1 company">Công ty</label>
                     <div class="col-md-10 mb-1">
                         <input type="text" class="form-control" name="company" id="company" required/>
                     </div>
-                    <label class="col-md-2 mb-1">Email</label>
+                    <label class="col-md-2 mb-1 email">Email</label>
                     <div class="col-md-10 mb-1">
                         <input type="email" class="form-control" name="email" id="email" required/>
                     </div>
-                    <label class="col-md-2 mb-1">Điện thoại</label>
+                    <label class="col-md-2 mb-1 phone">Điện thoại</label>
                     <div class="col-md-10 mb-1">
                         <input type="text" class="form-control" name="phone" id="phone" required/>
                     </div>
-                    <label class="col-md-2 mb-1">Tiêu đề</label>
+                    <label class="col-md-2 mb-1 title">Tiêu đề</label>
                     <div class="col-md-10 mb-1">
                         <input type="text" class="form-control" name="title" id="title" required/>
                     </div>
-                    <label class="col-md-2 mb-1">Nội dung</label>
+                    <label class="col-md-2 mb-1 content">Nội dung</label>
                     <div class="col-md-10 mb-1">
                         <textarea class="form-control" name="content" id="content"></textarea>
                     </div>
-                    <div class="col-md-12 mb-1 mt-1">
-                        <p class="text-right">
-                            
-                        </p>
-                    </div>
                 </div>
-           
           </div>
           <div class="modal-footer">
             <button id="btn-send" onclick="openSpinner()" class="btn btn-warning font-weight-bold violet-color" type="submit">Gửi</button>
