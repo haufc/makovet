@@ -190,7 +190,7 @@
 		<section>
 			<title>List Technical Assistance</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>input</type>
@@ -389,7 +389,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>uploadImage,existingImage</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
