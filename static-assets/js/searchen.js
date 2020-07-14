@@ -1,7 +1,7 @@
 $(document).ready(function() {
     // Display content for search page
     var url = window.location;
-    if(url == getContextPath()+ "/search") {
+    if(url == getContextPath()+ "/en/search") {
         
         var $pagination = $('#pagination'), 
             totalRecords = 0,
@@ -89,7 +89,7 @@ function search() {
         var urlService = "";
         var urlRedirect = "";
         urlService += this.getContextPath() + "/api/searchen.json?q="+ userTerm;
-        urlRedirect += "/search";
+        urlRedirect += "/en/search";
         
         localStorage.setItem("userTerm", userTerm);
         $.ajax({
