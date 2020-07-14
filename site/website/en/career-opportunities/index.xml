@@ -8,7 +8,7 @@
 	<objectId>bced551d-1521-65d4-f77a-e66e1aeaf6ca</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>career-opportunities</folder-name>
-	<internal-name>Career opportunities</internal-name>
+	<internal-name>Career opportunities </internal-name>
 	<title_s>Career opportunities</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
@@ -31,7 +31,7 @@
 	<lastModifiedDate_dt>2020-07-13T08:43:02.966Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="section" inline="true">	<key>7a3e9b4d-db90-9d40-9ce3-bc8c9ad6554e</key>
-	<value>Job listings &amp;amp; CSNS</value>
+	<value>Job listings &amp; CSNS</value>
 <component id="7a3e9b4d-db90-9d40-9ce3-bc8c9ad6554e">
 	<content-type>/component/jobsEn</content-type>
 	<display-template>/templates/web/component/jobs.ftl</display-template>
@@ -59,6 +59,6 @@
 	</item></section_o>
 	<createdDate>2020-07-13T08:42:44.419Z</createdDate>
 	<createdDate_dt>2020-07-13T08:42:44.419Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T09:25:54.421Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T09:25:54.421Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-14T04:17:10.052Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:17:10.052Z</lastModifiedDate_dt>
 </page>
