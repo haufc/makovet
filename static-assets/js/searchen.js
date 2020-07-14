@@ -88,7 +88,7 @@ function search() {
         
         var urlService = "";
         var urlRedirect = "";
-        urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
+        urlService += this.getContextPath() + "/api/searchen.json?q="+ userTerm;
         urlRedirect += "/en/search";
         
         localStorage.setItem("userTerm", userTerm);
