@@ -95,7 +95,7 @@
                     </div>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link active" href="/san-pham">Sản phẩm</a>
+                    <a class="nav__menu-link" href="/san-pham">Sản phẩm</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/tin-tuc">Tin tức - Sự kiện</a>
