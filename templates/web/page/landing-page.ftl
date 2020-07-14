@@ -214,6 +214,7 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/contact.js"></script>
     <script src="/static-assets/js/video-modal.js"></script>
+    <script src="/static-assets/js/nav-link.js"></script>
     <script>
         // set width for google map
         $('iframe').attr('width','83%');
