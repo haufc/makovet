@@ -3,6 +3,6 @@ $(document).ready(function() {
     
     $('#nav-content a').filter(function() {
         return this.href == url;
-    }).css('font-family', 'UVF-DINPro Bold');
+    }).addClass('active');
     
 });
