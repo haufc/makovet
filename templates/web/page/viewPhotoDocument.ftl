@@ -60,6 +60,11 @@
 		        <div class="sick-title" style="background-color:#FFCB08">
                     <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
                 </div>
+                <div class="note-document">
+                    <h3>
+                        Cuộn từ góc phải để xem trang tiếp theo và ngược lại(Có thể sử dụng phím điều hướng cho Máy tính)
+                    </h3>
+                </div>
 		        <div id="magazine">
         			<#list contentModel.document_o.item as img>
                     	<div style="background-image:url(${img.imageDocument_s});"></div>
