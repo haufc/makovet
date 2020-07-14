@@ -75,7 +75,7 @@
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
                     <button class="nav__menu-search-btn" onclick="toggleSearchBar()">
-                        <i class="fas fa-search"></i>
+                        <i class="fas fa-search" style="color: #322372"></i>
                     </button>
                 </li>
             </ul>
