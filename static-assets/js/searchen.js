@@ -60,7 +60,7 @@ $(document).ready(function() {
 });
 
 
-function toggleSearchBar() {
+function toggleSearchEnBar() {
     var nav = document.getElementById("searchBar");
     if(nav.className === "search-bar") {
         nav.className += " show";
@@ -88,7 +88,7 @@ function search() {
         
         var urlService = "";
         var urlRedirect = "";
-        urlService += this.getContextPath() + "/api/searchen.json?q="+ userTerm;
+        urlService += this.getContextPath() + "/api/search.json?q="+ userTerm;
         urlRedirect += "/en/search";
         
         localStorage.setItem("userTerm", userTerm);
