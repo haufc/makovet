@@ -52,7 +52,7 @@
             </button>
         </div>
         <div class="nav__responsive" style="margin-left: auto">
-        <div class="nav__container">
+        <div class="nav__container" id="nav-content">
             <div class="nav__logo">
                 <a href="/trang-chu"><img src="${contentModel.logo_s}" alt="Logo"></a>
             </div>
@@ -95,7 +95,7 @@
                     </div>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link active" href="/san-pham">Sản phẩm</a>
+                    <a class="nav__menu-link" href="/san-pham">Sản phẩm</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/tin-tuc">Tin tức - Sự kiện</a>

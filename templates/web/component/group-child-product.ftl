@@ -9,7 +9,6 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pl-md-0 pl-lg-0 babber-img-left">
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
-            <#--banner-gr-child-pr, class="banner-img" -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
                 <div class="banner-content" style="padding-top: 8%;">
                     <img style="width:40%;" class="img-center" src="${contentModel.groupProductImg2_s}"/>

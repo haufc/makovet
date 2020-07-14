@@ -10,7 +10,7 @@
     <meta name="geo.placename" content="Khu 5, thị trấn Cai Lậy, huyện Cai Lậy, tỉnh Tiền Giang">
     <meta name="geo.position" content="21.021691;105.824931">
     <meta name="geo.region" content="VN-Hanoi">
-    
+    <title>${contentModel.title_s}</title>
     <!-- FontAwesome -->
     <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
     <!-- Owl Carousel CSS -->
@@ -176,6 +176,7 @@
     <script src="/static-assets/js/techsupport.js"></script>
     <script src="/static-assets/js/search.js"></script>
     <script src="/static-assets/js/contact.js"></script>
+    <script src="/static-assets/js/nav-link.js"></script>
     <script>
         $(document).ready(function() {
             var url = window.location.href;
