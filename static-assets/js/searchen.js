@@ -60,7 +60,7 @@ $(document).ready(function() {
 });
 
 
-function toggleSearchEnBar() {
+function toggleSearchBar() {
     var nav = document.getElementById("searchBar");
     if(nav.className === "search-bar") {
         nav.className += " show";
