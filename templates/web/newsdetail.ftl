@@ -55,6 +55,7 @@
     <script src="/static-assets/js/news.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/contact.js"></script>
+    <script src="/static-assets/js/search.js"></script>
     
   </body>
 </html>
