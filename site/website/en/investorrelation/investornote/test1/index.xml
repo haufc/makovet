@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/eninvestorrelations</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e439</objectGroupId>
+	<objectId>e439b059-a551-9e3c-930b-551a61439e41</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test1</folder-name>
+	<internal-name>Test1</internal-name>
+	<navLabel>Test1 </navLabel>
+	<title_s>Test1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDatasource">	<key>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</key>
+	<value>Header - Detail Quan hệ cổ đông</value>
+	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>announcement</key>
+	<value_smv>Công bố thông tin</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 12pt; text-align: justify; background-color: #ffffff;"&gt;"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-14T03:26:16.365Z</createdDate>
+	<createdDate_dt>2020-07-14T03:26:16.365Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T03:26:16.365Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T03:26:16.365Z</lastModifiedDate_dt>
+	<date_dt>2020-07-13T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

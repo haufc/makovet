@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
 	<content-type>/page/enhome</content-type>
-	<display-template>/templates/web/home.ftl</display-template>
+	<display-template>/templates/web/enhome.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>018a</objectGroupId>
@@ -94,6 +94,6 @@
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-07-14T03:37:02.706Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-14T03:37:02.706Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-14T04:10:32.009Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:10:32.009Z</lastModifiedDate_dt>
 </page>

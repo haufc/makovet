@@ -16,7 +16,7 @@
         max-width: 500px;
         padding: 5px;
         display: flex;
-        background-color: #333;
+        background-color: #322372;
         transition: 0.5s ease-in-out;
     }
     .search-bar.show {
@@ -27,7 +27,7 @@
         border: none;
     }
     .search-bar > input {
-        padding: 0 5px;
+        padding: 5px;
         width: 100%;
     }
     .search-bar > input:focus {
@@ -75,7 +75,7 @@
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
                     <button class="nav__menu-search-btn" onclick="toggleSearchBar()">
-                        <i class="fas fa-search"></i>
+                        <i class="fas fa-search" style="color: #322372"></i>
                     </button>
                 </li>
             </ul>

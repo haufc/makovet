@@ -15,14 +15,14 @@
 </script>
 <div class="section-title">
     <div class="section-title__content block">
-        <h1 class="section-title__content-text text--uppercase">Kết quả tìm kiếm</h1>
+        <h1 class="section-title__content-text text--uppercase">Results</h1>
     </div>
 </div>
 <div class="content__details">
      <div class="container">
     <div class="row " style="padding-left: 15px;">
         <div class="col-lg-12 col-md-12 col-sm-12" style="padding: 0; margin-bottom: 20px;">
-            <span id="search-result-vn" style="font-size: 18px;"></p> Tìm được <b class="totalSearch"></b> kết quả với từ khóa "<b class="keywordSearch"></b>"</span>
+            <span id="search-result-vn" style="font-size: 18px;"></p> Found <b class="totalSearch"></b> results with the keyword "<b class="keywordSearch"></b>"</span>
         </div>
         <div class="search-result_item row">
         </div>
