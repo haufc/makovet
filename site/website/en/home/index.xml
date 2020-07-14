@@ -9,11 +9,11 @@
 	<file-name>index.xml</file-name>
 	<folder-name>home</folder-name>
 	<internal-name>Home Page</internal-name>
-	<navLabel>Home Page</navLabel>
-	<title_s>Home Page</title_s>
+	<navLabel>Makovet joint stock company</navLabel>
+	<title_s>Makovet joint stock company</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<description_t>Home Page</description_t>
+	<description_t>Makovet joint stock company</description_t>
 	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</key>
 	<value>Header - Home Page</value>
 	<include>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</include>
@@ -30,29 +30,29 @@
 	<file-name>6144f401-5e6b-c204-a9fc-1bc302f35f0d.xml</file-name>
 	<internal-name>List of products</internal-name>
 	<title_s>products</title_s>
-	<groupProduct_o item-list="true">	<item>	<groupProductName_s>MEDITION FOR BUFFALO - COW</groupProductName_s>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>Products for cattle</groupProductName_s>
 	<groupChildProductURL_s>/en/product/products-for-swine/index</groupChildProductURL_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
-	</item>	<item>	<groupProductName_s>MEDITION FOR PIG</groupProductName_s>
+	</item>	<item>	<groupProductName_s>Products for swine</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
-	</item>	<item>	<groupProductName_s>MEDITION FOR CHICKEN - DUCK</groupProductName_s>
+	</item>	<item>	<groupProductName_s>Products for Poultry</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-ga-vit/thuoc-cho-ga-vit</groupChildProductURL_s>
-	</item>	<item>	<groupProductName_s>MEDITION FOR DOG - CAT</groupProductName_s>
+	</item>	<item>	<groupProductName_s>Products for pet</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
-	</item>	<item>	<groupProductName_s>MEDITION FOR SCRIMP - FISH</groupProductName_s>
+	</item>	<item>	<groupProductName_s>Product for fish</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
-	</item>	<item>	<groupProductName_s>OTHER MEDITION</groupProductName_s>
+	</item>	<item>	<groupProductName_s>Product for other animals</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
 	</item></groupProduct_o>
 	<createdDate>2020-07-13T11:38:11.028Z</createdDate>
 	<createdDate_dt>2020-07-13T11:38:11.028Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T15:08:09.561Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T15:08:09.561Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-14T03:37:59.907Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T03:37:59.907Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>d1f59fa4-0444-6716-7621-1e083fc5fa4b</key>
 	<value>News</value>
@@ -94,6 +94,6 @@
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T15:08:04.409Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T15:08:04.409Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-14T03:37:02.706Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T03:37:02.706Z</lastModifiedDate_dt>
 </page>
