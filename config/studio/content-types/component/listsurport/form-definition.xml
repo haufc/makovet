@@ -130,48 +130,33 @@
 					</constraints>
 				</field>
 				<field>
-					<type>node-selector</type>
-					<id>technicalAssistanceType_o</id>
+					<type>dropdown</type>
+					<id>technicalAssistanceType_s</id>
 					<iceId></iceId>
-					<title>Technical Assistance Type</title>
+					<title>Teachnical Assistance</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>minSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>itemManager</name>
+							<name>datasource</name>
 							<value>technicalAssistanceType</value>
 							<type>datasource:item</type>
+						</property>
+						<property>
+							<name>emptyvalue</name>
+							<value></value>
+							<type>boolean</type>
 						</property>
 						<property>
 							<name>readonly</name>
 							<value></value>
 							<type>boolean</type>
 						</property>
-						<property>
-							<name>disableFlattening</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>useSingleValueFilename</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
 					</properties>
 					<constraints>
 						<constraint>
-							<name>allowDuplicates</name>
+							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
