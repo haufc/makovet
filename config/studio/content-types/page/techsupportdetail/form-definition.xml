@@ -350,53 +350,23 @@
 					</constraints>
 				</field>
 				<field>
-					<type>date-time</type>
-					<id>createddate_dt</id>
+					<type>input</type>
+					<id>datecreated_s</id>
 					<iceId></iceId>
-					<title>Created date</title>
+					<title>Date created</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>showDate</name>
-							<value>true</value>
-							<type>boolean</type>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
 						</property>
 						<property>
-							<name>showTime</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>showClear</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>showNowLink</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>populate</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>allowPastDate</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>populateDateExp</name>
-							<value>now</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>useCustomTimezone</name>
-							<value>false</value>
-							<type>boolean</type>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
 						</property>
 						<property>
 							<name>readonly</name>
@@ -404,7 +374,7 @@
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>readonlyEdit</name>
+							<name>tokenize</name>
 							<value>false</value>
 							<type>boolean</type>
 						</property>
@@ -414,6 +384,11 @@
 							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
 						</constraint>
 					</constraints>
 				</field>
