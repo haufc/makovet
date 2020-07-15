@@ -36,14 +36,6 @@
             </div>
         </div>
         <div class="container mb-md-5">
-            <#--<div class="d-flex mb-md-5">
-                <div class="col-md-6 p-left-0">
-                    <img class="img-full" src="${contentModel.leftImage_s}"/>
-                </div>
-                <div class="col-md-6 banner-gr-child-pr">
-                    <img class="banner-img" src="${contentModel.rightimage_s}"/>
-                </div>
-            </div> -->
             <div class="row" style="margin-right: 0 !important;margin-left: 0 !important;">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pl-md-0 pl-lg-0 babber-img-left">
                     <img class="img-full" src="${contentModel.leftImage_s}"/>
@@ -56,7 +48,7 @@
                 </div>
             </div>
             
-            <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 3%;"/>
+            <hr class="line-hozital" style="margin-bottom: 1.5%;margin-top: 5%;"/>
             <hr class="line-hozital"style="margin-bottom: 5%; margin-top: 0;"/>
         </div>
          <#if (contentModel.productChildgroup_o.item)??>
