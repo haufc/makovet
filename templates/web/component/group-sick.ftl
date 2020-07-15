@@ -10,9 +10,7 @@
                     </#list>
                 </#if>
             </div>
-            <ul class="pagination pagi pg-vn mt-3 justify-content-center" >
-                <li class="page-item previous-page"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
-            </ul>
+            <a href="#">Xem tiếp</a>
         </div>
 	</div>
 <@studio.toolSupport />
