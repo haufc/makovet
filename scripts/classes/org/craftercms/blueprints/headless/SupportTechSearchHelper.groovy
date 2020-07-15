@@ -58,6 +58,7 @@ class SupportTechSearchHelper {
                     supportTech.title = doc.diseaseName_s
                     supportTech.desc = doc.diseaseContent_html
                     supportTech.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
+                    supportTech.time = doc.createddate_dt
                 supportTechs << supportTech
             }
         }
