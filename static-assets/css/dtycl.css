@@ -190,7 +190,8 @@ p {
 
 .section-title {
   height: 50px;
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
+  margin-bottom: 85px;
   margin-right: auto;
   background-image: url(/static-assets/images/template/title_bg.png);
 }
