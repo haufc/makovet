@@ -560,6 +560,7 @@ p {
 /* Services */
 .services__container {
   padding: 40px 0;
+  padding-top: 55px;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
