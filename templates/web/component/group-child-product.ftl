@@ -16,7 +16,7 @@
                 </div>
             </div>
         </div>
-        <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 3%;"/>
+        <hr class="line-hozital" style="margin-bottom: 1.5%;margin-top: 5%;"/>
         <hr class="line-hozital"style="margin-bottom: 5%; margin-top: 0;"/>
         <div class="row">
             <#list contentModel.groupproductchild_o.item as item>
