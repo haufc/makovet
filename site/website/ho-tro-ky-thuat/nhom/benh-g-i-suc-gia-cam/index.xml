@@ -31,9 +31,27 @@
 	<lastModifiedDate>2020-07-15T09:26:06.703Z</lastModifiedDate>
 	<lastModifiedDate_dt>2020-07-15T09:26:06.703Z</lastModifiedDate_dt>
 </component>
+	</item>	<item datasource="section" inline="true">	<key>4c2fd144-8f80-7329-5d87-75bb76bcb682</key>
+	<value>Bệnh gia súc gia cầm</value>
+<component id="4c2fd144-8f80-7329-5d87-75bb76bcb682">
+	<content-type>/component/listsurport</content-type>
+	<display-template>/templates/web/component/list-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4c2f</objectGroupId>
+	<objectId>4c2fd144-8f80-7329-5d87-75bb76bcb682</objectId>
+	<technicalAssistanceType_s>benh-gia-suc-gia-cam</technicalAssistanceType_s>
+	<file-name>4c2fd144-8f80-7329-5d87-75bb76bcb682.xml</file-name>
+	<internal-name>Bệnh gia súc gia cầm</internal-name>
+	<title_s>Bệnh gia súc - gia cầm</title_s>
+	<createdDate>2020-07-15T09:29:30.617Z</createdDate>
+	<createdDate_dt>2020-07-15T09:29:30.617Z</createdDate_dt>
+	<lastModifiedDate>2020-07-15T09:29:30.617Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-15T09:29:30.617Z</lastModifiedDate_dt>
+</component>
 	</item></section_o>
 	<createdDate>2020-07-15T09:25:06.784Z</createdDate>
 	<createdDate_dt>2020-07-15T09:25:06.784Z</createdDate_dt>
-	<lastModifiedDate>2020-07-15T09:25:06.784Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-15T09:25:06.784Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-15T09:29:23.195Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-15T09:29:23.195Z</lastModifiedDate_dt>
 </page>
