@@ -5,10 +5,10 @@
         </div>
     </div>
 	<div class="container">
-	    <div id ="panigation-job">
+	    <div id ="panigation-tech">
             <#if (techs)??>
             	<#list techs as tech>
-                    <div class="job-item">
+                    <div class="tech-item">
                         <a class="violet-color font-weight-bold" style="font-size:20px;" href="${tech.url}" class="d-block">${techs.title}</a>
                         <p class="dim-grey-color">(${tech.time})</p>
                     </div>
