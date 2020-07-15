@@ -10,7 +10,7 @@
                     </#list>
                 </#if>
             </div>
-            <a href="${contentModel.List URL}">Xem tiếp</a>
+            <a href="${contentModel.listURL_s}">Xem tiếp</a>
         </div>
 	</div>
 <@studio.toolSupport />
