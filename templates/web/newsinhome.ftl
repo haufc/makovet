@@ -34,7 +34,7 @@
 
             <section class="news__block" id="tinNganh">
                     <div class="news__block-title" id="tinNganhTitle">
-                        <h1 class="text--uppercase">tin ngành</h1>
+                        <h1 class="text--uppercase">thư viện tư liệu</h1>
                     </div>
 
             <div class="news__block-content">
