@@ -40,9 +40,9 @@
                         <a href="${product.url}"><img class="img-full" style="width: 100%; height:auto;" src="${product.avatar}" width="150" height="155"/></a>
                         <p class="d-block text-center violet-color mt-1">${product.title}</p>
                     </div>
-                   <#-- <#if product?index % 5 = 0 >
-                        <div class></div>
-                    </#if> -->
+                    <#if product?index % 2 != 0 >
+                        <div class="col-lg-1 col-md-1"></div>
+                    </#if>
                 </#list>
             </#if>
         </div> 
