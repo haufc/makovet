@@ -33,6 +33,17 @@
             margin-left: auto;
             margin-right: auto;
         }
+        
+        .product-header__buy {
+            text-align: center;
+        }
+        .product-header__buy a span {
+            font-size: 30px;
+            border: 1px solid;
+            border-radius: 50%;
+            padding: 48px 10px;
+            line-height: 10;
+        }
     </style>
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -56,7 +67,7 @@
                 <div class="product-header row" style="background-color: #ffcb0c;">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__name"><h1 class="font-weight-bold violet-color text--uppercase product-header__name--content">${contentModel.productName_s}</h1></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__img"><img class="product-header__img--content" src="${contentModel.productImage_s}" width="254" height="262"/></div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__buy"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-3">
                     ${contentModel.productDescription_html}
