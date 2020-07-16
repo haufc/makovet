@@ -15,7 +15,7 @@
 
             <div class="news__block-content">
                 <div class="news__block-img">
-                    <img class="full-size" src="${firstNew.image}" alt="News image">
+                    <img class="full-size" src="${firstNew.image}" alt="News image" width="575" height:"368>
                 </div>
 
                 <div class="news__block-text">
