@@ -20,7 +20,7 @@
         </div>
     </div> -->
     <div class="container">
-        <div class="row row-cols-lg-3 row-cols-md-3">
+        <div class="row row-cols-lg-5 row-cols-md-5">
     	    <#list contentModel.groupProduct_o.item as item>
     	        <div class="col-lg col-md col-sm-6 text--center">
                     <a href="${item.groupChildProductURL_s}">
@@ -28,6 +28,7 @@
                         <h3 class="text--uppercase violet-color" style="font-size:20px;">${item.groupProductName_s}</h3>
                     </a>
                 </div>
+                <div class="col-lg col-md col-sm-6"></div>
         	</#list>
         </div>
     </div>
