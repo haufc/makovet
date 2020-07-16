@@ -84,6 +84,9 @@ $(document).ready(function(){
         if (i !== 0 ) {
              $(lstProduct[i]).addClass('col-half-offset');
         }
+        if (i === 5) {
+            $(lstProduct[i]).removeClass('col-half-offset');
+        }
     }
     
 });
