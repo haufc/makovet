@@ -95,7 +95,7 @@ $(document).ready(function(){
              $(lstProduct[i]).addClass('col-half-offset');
         }
         
-        if (i % 5 === 0) {
+        if (i % 5 !== 0) {
              $(lstProduct[i]).addClass('col-half-offset');
         }
     }
