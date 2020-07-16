@@ -20,6 +20,7 @@
     <link href="/static-assets/plugins/booklet/src/jquery.booklet.latest.css" type="text/css" rel="stylesheet" media="screen, projection, tv" />
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css">
     <script src="/static-assets/js/pagination.js"></script>
     <style>
         .play-icon {
