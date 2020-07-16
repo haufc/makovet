@@ -53,7 +53,7 @@
                     <h1 class="section-title__content-text text--uppercase document-title">THƯ VIỆN TÀI LIỆU</h1>
                 </div>
             </div>
-            <div class="container pl-lg-1 pl-md-1">
+            <div class="container pl-lg-0 pl-md-0">
                 <div class="doc-title ml-lg-2" style="background-color:#FFCB08;width:100%;">
                     <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
                 </div>
