@@ -64,18 +64,18 @@
             <ul class="nav__tools flex">
                 <li class="nav__tool-item">
                     <a href="/trang-chu" class="search_icon">
-                        <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
+                        <img class="icon-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
                     </a>
                 </li>
                 <li class="nav__tool-item">
                     <a href="/en/home">
-                        <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
+                        <img class="icon-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
                     </a>
                 </li>
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
                     <button class="nav__menu-search-btn" onclick="toggleSearchBar()">
-                        <i class="fas fa-search" style="color: #322372"></i>
+                        <i class="fas fa-search" style="color: #322372; font-size: 21px;"></i>
                     </button>
                 </li>
             </ul>
@@ -85,14 +85,7 @@
                     <i class="fas fa-times"></i>
                 </button>
                 <li class="nav__menu-item">
-                    <div class="dropdown">
-                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/gioi-thieu">Giới thiệu</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/lich-su-hinh-thanh">Lịch sử hình thành</a>
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/su-menh">Sứ mệnh tầm nhìn</a>
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/thanh-tich-dat-duoc">Thành tích đạt được</a>
-                        </div>
-                    </div>
+                    <a class="nav__menu-link" href="/gioi-thieu">Giới thiệu</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/san-pham">Sản phẩm</a>

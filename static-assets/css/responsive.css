@@ -29,6 +29,11 @@
         left: -23%;
     }
 }
+@media (max-width: 1440px){
+    .nav__menu{
+        width: max-content;
+    }
+}
 /* ========== 2,Content ========== */
 .img-responsive{
     width: 100%;
