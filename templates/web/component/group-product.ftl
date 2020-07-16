@@ -14,6 +14,12 @@
                         <h3 class="text--uppercase violet-color" style="font-size:20px;">${item.groupProductName_s}</h3>
                     </a>
                 </div>
+                <#if item?index == 2>
+                    <div class="col-lg-1 col-md-1"></div>
+                </#if>
+                <#if item?index == 4>
+                    <div class="col-lg-1 col-md-1"></div>
+                </#if>
         	</#list>
         </div>
     </div>
