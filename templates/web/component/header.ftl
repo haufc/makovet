@@ -64,18 +64,18 @@
             <ul class="nav__tools flex">
                 <li class="nav__tool-item">
                     <a href="/trang-chu" class="search_icon">
-                        <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
+                        <img class="icon-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
                     </a>
                 </li>
                 <li class="nav__tool-item">
                     <a href="/en/home">
-                        <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
+                        <img class="icon-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
                     </a>
                 </li>
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
                     <button class="nav__menu-search-btn" onclick="toggleSearchBar()">
-                        <i class="fas fa-search" style="color: #322372"></i>
+                        <i class="fas fa-search" style="color: #322372; font-size: 21px;"></i>
                     </button>
                 </li>
             </ul>
