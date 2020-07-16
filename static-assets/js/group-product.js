@@ -76,4 +76,8 @@ $(document).ready(function(){
           }
     });
     
+    
+    var lstProduct = $('.product-item');
+    console.log(lstProduct.length);
+    
 });
