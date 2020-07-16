@@ -559,6 +559,9 @@ p {
   background: #322372;
 }
 
+.news__block#tinNoiBo .news__block-content {
+  padding-right: 25px;
+}
 .news__block#tinNganh .news__block-content {
   padding-left: 25px;
 }
