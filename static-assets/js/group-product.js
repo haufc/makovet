@@ -81,7 +81,10 @@ $(document).ready(function(){
     console.log(lstProduct.length);
     
     for(let i=0; i < lstProduct.length; i ++){
-        if(i % 5 != 0) {
+        if (i == 0) {
+            $(lstProduct[i]).css('padding-right', '1%');
+        }
+        if((i + 1) % 5 != 0) {
             $(lstProduct[i]).css('padding-right', '1%');
         } else {
             $(lstProduct[i]).css('padding-left', '1%');
