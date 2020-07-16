@@ -39,7 +39,7 @@
         }
         .product-header__buy a span {
             font-size: 30px;
-            border: 1px solid;
+            background-color: #322372;
             border-radius: 50%;
             padding: 48px 10px;
             line-height: 10;
