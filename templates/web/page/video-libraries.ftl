@@ -20,6 +20,7 @@
     
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css">
     <script src="/static-assets/js/pagination.js"></script>
     <style>
         .play-icon {
