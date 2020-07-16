@@ -43,9 +43,15 @@
                         <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                         <div class="product-info text-center m-auto product-book"><a href="/lien-he"><span class="product-buy text-white font-weight-bold">Đặt mua</span></a></div>
                 </div> -->
-                <div style="background-color: #ffcb0c; width: 100%; height 348px;">
-                
-                </div>
+                <div class="row">
+                    <div class="col-12 col-lg-6">
+                        <div class="d-flex flex-column flex-lg-row justify-content-lg-center panel">
+                         <div class="item item-blue">Flex item 1</div>
+                        <div class="item item-green">Flex item 2</div>
+                        <div class="item item-lime">Flex item 3</div>
+                        </div>
+                    </div>
+                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-3">
                     ${contentModel.productDescription_html}
                 </div>
