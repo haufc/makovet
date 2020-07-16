@@ -47,7 +47,7 @@
             <#if (products)??>
             	<#list products as product>
                     <div class="col-sm-6 product-item mb-3">
-                        <a href="${product.url}"><img class="img-100" src="${product.avatar}" width="120" height="83"/></a>
+                        <a href="${product.url}"><img src="${product.avatar}" width="120" height="83"/></a>
                         <p class="d-block  violet-color mt-1">${product.title}</p>
                     </div>
                 </#list>
