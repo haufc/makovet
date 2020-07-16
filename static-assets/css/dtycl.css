@@ -210,8 +210,8 @@ p {
 .section-title__content::after {
   position: absolute;
   top: 0;
-  left: -2%;
-  width: 33.5px;
+  left: -1%;
+  width: 20px;
   height: 100%;
   content: "";
   -webkit-transform: skew(-20deg);
