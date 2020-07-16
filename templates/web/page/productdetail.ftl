@@ -24,7 +24,7 @@
             position : relative;
         }
         .product-header__name--content {
-            line-height: 10;
+            line-height: 11;
             text-align: center;
             font-size: 30px;
         }
@@ -32,6 +32,7 @@
             display: block;
             margin-left: auto;
             margin-right: auto;
+            margin-top: 8%;
         }
         
         .product-header__buy {
@@ -42,7 +43,7 @@
             background-color: #322372;
             border-radius: 50%;
             padding: 48px 10px;
-            line-height: 10;
+            line-height: 11;
         }
     </style>
     <script src="/static-assets/js/pagination.js"></script>
