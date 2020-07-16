@@ -81,7 +81,7 @@ $(document).ready(function(){
     console.log(lstProduct.length);
     
     for(let i=0; i < lstProduct.length; i ++){
-        if(i % 4 != 0 || i == 0) {
+        if(i % 5 != 0 || i == 0) {
             $('#panigation-product .product-item:eq('+i+')').after('<div class="col-lg-1 col-md-1"></div>');
         }
     }
