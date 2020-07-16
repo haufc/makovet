@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-	<div class="lst-sick mb-3">
+	<div class="lst-sick mb-5">
 	    <img src="${contentModel.avatar_s}" class="img-full"/>
 	    <p class="violet-color font-weight-bold text-center mt-3 text-uppercase" style="font-size: 26px;">${contentModel.title_s}</p>
 	    <div class="paginate mt-5">
@@ -10,9 +10,7 @@
                     </#list>
                 </#if>
             </div>
-            <ul class="pagination pagi pg-vn mt-3 justify-content-center" >
-                <li class="page-item previous-page"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
-            </ul>
+            <a href="${contentModel.listURL_s}"><span class="mr-1 violet-color view-more font-weight-bold">Xem tiếp</span><i class="fa fa-play orange-color"></i></a>
         </div>
 	</div>
 <@studio.toolSupport />

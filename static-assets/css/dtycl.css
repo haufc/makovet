@@ -194,7 +194,8 @@ p {
 
 .section-title {
   height: 50px;
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
+  margin-bottom: 85px;
   margin-right: auto;
   background-image: url(/static-assets/images/template/title_bg.png);
 }
@@ -233,6 +234,8 @@ p {
   line-height: 50px;
   font-size: 30px;
   color: #fff;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: bold
 }
 
 /* ----- COMPONENTS ----- */
@@ -428,6 +431,8 @@ p {
   padding: 0 15px;
   font-size: 20px;
   background: #fff;
+  font-family: Roboto Condensed, sans-serif;
+  font-weight: bold;
 }
 
 .products__list-items {
@@ -561,6 +566,7 @@ p {
 /* Services */
 .services__container {
   padding: 40px 0;
+  padding-top: 55px;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;

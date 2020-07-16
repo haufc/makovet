@@ -1,15 +1,15 @@
 <form>
-	<title>Component - En Hỗ trợ kỹ thuật</title>
+	<title>Componet - Danh sách kỹ thuật hỗ trợ</title>
 	<description></description>
 	<objectType>component</objectType>
-	<content-type>/component/techsupportcomponentEn</content-type>
+	<content-type>/component/listsurport</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>false</quickCreate>
 	<quickCreatePath></quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/web/component/group-sick.ftl</value>
+			<value>/templates/web/component/list-sick.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -26,7 +26,7 @@
 		</property>
 	</properties>
 	<sections>		<section>
-			<title>Component - Hỗ trợ kỹ thuật(EN) Properties</title>
+			<title>Componet - Danh sách kỹ thuật hỗ trợ Properties</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>
@@ -119,7 +119,7 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[true]]></value>
+							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
 						<constraint>
@@ -130,58 +130,10 @@
 					</constraints>
 				</field>
 				<field>
-					<type>image-picker</type>
-					<id>avatar_s</id>
-					<iceId></iceId>
-					<title>Avatar</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>width</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>thumbnailWidth</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>thumbnailHeight</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value>uploadImage,existingImage</value>
-							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
 					<type>dropdown</type>
 					<id>technicalAssistanceType_s</id>
 					<iceId></iceId>
-					<title>Technical Assistance Type</title>
+					<title>Teachnical Assistance</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -210,84 +162,10 @@
 						</constraint>
 					</constraints>
 				</field>
-				<field>
-					<type>input</type>
-					<id>listURL_s</id>
-					<iceId></iceId>
-					<title>List URL</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>size</name>
-							<value>150</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>150</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
 			</fields>
 		</section>
 	</sections>
 	<datasources>				<datasource>
-					<type>img-desktop-upload</type>
-					<id>uploadImage</id>
-					<title>Upload Image</title>
-					<interface>image</interface>
-					<properties>
-						<property>
-							<name>repoPath</name>
-							<value>/static-assets/images/techsupport</value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>img-repository-upload</type>
-					<id>existingImage</id>
-					<title>Existing Image</title>
-					<interface>image</interface>
-					<properties>
-						<property>
-							<name>repoPath</name>
-							<value>/static-assets/images/techsupport</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>useSearch</name>
-							<value>false</value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
 					<type>site-component</type>
 					<id>technicalAssistanceType</id>
 					<title>Technical Assistance Type</title>
@@ -300,7 +178,7 @@
 						</property>
 						<property>
 							<name>componentPath</name>
-							<value>/site/taxonomy/disease-treatment.xml</value>
+							<value>/site/taxonomy/list-of-diseases-type.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
