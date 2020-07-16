@@ -35,7 +35,7 @@
                 <h1 class="section-title__content-text text--uppercase" id="parent-title"></h1>
             </div>
         </div>
-        <div class="container">
+        <div class="container pl-lg-0 pl-md-0">
             <div class="sick-title" style="background-color:#FFCB08">
                 <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.diseaseName_s}</h2>
             </div>
