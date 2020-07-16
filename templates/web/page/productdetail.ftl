@@ -38,10 +38,13 @@
                 </div>
             </div>
             <div class="container">
-                 <div class="d-flex mb-4" style="background-color: #ffcb0c;">
+                 <#--<div class="d-flex mb-4" style="background-color: #ffcb0c;">
                         <div class="product-info m-auto product-name"><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
-                        <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}" /></div>
+                        <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                         <div class="product-info text-center m-auto product-book"><a href="/lien-he"><span class="product-buy text-white font-weight-bold">Đặt mua</span></a></div>
+                </div> -->
+                <div style="background-color: #ffcb0c; width: 100%; height 348px;">
+                
                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-3">
                     ${contentModel.productDescription_html}
