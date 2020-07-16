@@ -27,6 +27,7 @@
             position : absolute;
             top: 45%;
             left: 35%;
+            font-size: 30px;
         }
     </style>
     <script src="/static-assets/js/pagination.js"></script>
@@ -54,7 +55,7 @@
                         <div class="product-info text-center m-auto product-book"><a href="/lien-he"><span class="product-buy text-white font-weight-bold">Đặt mua</span></a></div>
                 </div> -->
                 <div class="product-header row" style="background-color: #ffcb0c;">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__name"><h1 class="font-weight-bold violet-color text-center product-header__name--content" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__name"><h1 class="font-weight-bold violet-color text--uppercase product-header__name--content">${contentModel.productName_s}</h1></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
                 </div>
