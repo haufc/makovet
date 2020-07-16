@@ -33,7 +33,7 @@
         <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 0;"/>
         <hr class="line-hozital"style="margin-bottom: 5%; margin-top: 0;"/>
         
-        <div class="row row-cols-lg-6 row-cols-md-6" id ="panigation-product">
+        <div class="row row-cols-lg-5 row-cols-md-5" id ="panigation-product">
             <#if (products)??>
             	<#list products as product>
                     <div class="col-lg col-md col-sm-6 product-item mb-3">
