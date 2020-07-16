@@ -19,13 +19,13 @@
                 </div>
 
                 <div class="news__block-text">
-                    <h3 style="font-size: 20px; font-weight: bold; line-height: 1.5">${firstNew.title}</h3>
-                    <div class="truncate-multi-line text--justify limit-text" style="font-size: 16px; line-height: 1.5; margin-bottom: 16px; color: #636466 ">
+                    <h3 style="font-size: 25px; font-weight: bold; line-height: 1.5">${firstNew.title}</h3>
+                    <div class="truncate-multi-line text--justify limit-text" style="font-size: 18px; line-height: 1.5; margin-bottom: 16px; color: #636466 ">
                         ${firstNew.content}
                     </div>
 
                     <a class="view-more flex" href="${firstNew.url}">
-                        <span style="color: #322372;">Xem thêm</span>
+                        <span style="color: #322372; font-size: 16.8px;">Xem thêm</span>
                         <img src="/static-assets/images/icon_arrow_yellow.png" alt="Arrow icon">
                     </a>
                 </div>
@@ -46,19 +46,19 @@
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_3.png" alt="News image">
 
-                        <a class="text--uppercase" href="/thu-vien/thu-vien-anh" style="color: #322372;">thư viện ảnh</a>
+                        <a class="text--uppercase" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_4.png" alt="News image">
 
-                        <a class="text--uppercase" href="/thu-vien-tu-lieu" style="color: #322372;">thư viện tư liệu</a>
+                        <a class="text--uppercase" href="/thu-vien-tu-lieu" style="color: #322372;font-size: 16.8px;">thư viện tư liệu</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_5.png" alt="News image">
 
-                        <a class="text--uppercase" href="/thu-vien/thu-vien-video" style="color: #322372;">thư viện video</a>
+                        <a class="text--uppercase" href="/thu-vien/thu-vien-video" style="color: #322372;font-size: 16.8px;">thư viện video</a>
                     </li>
                 </ul>
             </div>
