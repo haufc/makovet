@@ -12,7 +12,7 @@
 	<navLabel/>
 	<title_s>Triển lãm thành tựu phát triển doanh nghiệp Tiền Giang năm 2018</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<categories_o>	<item>	<key>industrynews</key>
 	<value_smv> Tin ngành</value_smv>
 	</item></categories_o>
@@ -29,7 +29,7 @@
 &lt;p&gt;Nguồn: www.mavin-group.com&lt;/p&gt;</content_html>
 	<createdDate>2020-06-23T03:46:35.612Z</createdDate>
 	<createdDate_dt>2020-06-22T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T04:00:00.246Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T04:00:00.246Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-16T08:22:54.610Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-16T08:22:54.610Z</lastModifiedDate_dt>
 	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
 </page>
