@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-	<div class="container">
+	<div class="container pl-lg-0 pl-md-0">
     	 <div class="row" id="child-product">
             <#if (products)??>
             	<#list products as product>
