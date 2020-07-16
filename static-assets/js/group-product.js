@@ -82,12 +82,13 @@ $(document).ready(function(){
     
     for(let i=0; i < lstProduct.length; i ++){
         if (i == 0) {
-            $(lstProduct[i]).css('padding-right', '6%');
+            $(lstProduct[i]).css('padding-right', '7%');
         }
         if((i + 1) % 5 != 0) {
-            $(lstProduct[i]).css('padding-right', '6%');
+            $(lstProduct[i - 1]).css('padding-left', '0');
+            $(lstProduct[i]).css('padding-right', '7%');
         } else {
-            $(lstProduct[i]).css('padding-left', '6%');
+            $(lstProduct[i]).css('padding-left', '7%');
         }
         
     }
