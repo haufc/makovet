@@ -43,9 +43,10 @@
                         <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                         <div class="product-info text-center m-auto product-book"><a href="/lien-he"><span class="product-buy text-white font-weight-bold">Đặt mua</span></a></div>
                 </div> -->
-                <div class="product-header" style="background-color: #ffcb0c;">
-                    <div class=""><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
-                    <div class=""><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
+                <div class="product-header row" style="background-color: #ffcb0c;">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-3">
                     ${contentModel.productDescription_html}
