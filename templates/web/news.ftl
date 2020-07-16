@@ -13,10 +13,10 @@
                     <div>
                         <img src="${aNews.image}" alt="" class="img-responsive" width="540" height="352">
                         <a class="mt-3 rounded-0" href="${aNews.url}">
-                        <h3 class="text--uppercase" style="color: #322372; padding-top: 20px; font-weight: bold; font-size: 20px;">${aNews.title}</h3>
-                        <p style="color: #636466; padding-top: 10px; line-height: 1.5; font-size: 14px; font-weight: 100;" class="limit-text" max-length="50">${aNews.content}<p>
-                            <span class="mr-1 text--italic title-vn" style="color:#322372; font-weight: bold; font-size: 14px;">Xem tiếp</span>
-                            <i class="fa fa-play text--red"></i>
+                        <h3 class="text--uppercase" style="color: #322372; padding-top: 20px; font-weight: bold; font-size: 25px;">${aNews.title}</h3>
+                        <p style="color: #636466; padding-top: 10px; line-height: 1.5; font-size: 18px; font-weight: 100;" class="limit-text" max-length="50">${aNews.content}<p>
+                            <span class="mr-1 text--italic title-vn" style="color:#322372; font-weight: bold; font-size: 16.8px;">Xem tiếp</span>
+                            <i class="fa fa-play text--red" style="color: #ffcb07"></i>
                         </a>
                     </div>
                 </div>
@@ -42,10 +42,10 @@
                     <div>
                         <img src="${aNews.image}" alt="" class="img-responsive" width="540" height="352">
                         <a class="mt-3 rounded-0" href="${aNews.url}">
-                        <h3  class="text--uppercase" style="color: #322372; padding-top: 20px; font-weight: bold; font-size: 20px;">${aNews.title}</h3>
-                        <p style="color: #636466; padding-top: 10px; line-height: 1.5; font-size: 14px; font-weight: 100" class="limit-text">${aNews.content}<p>
-                            <span class="mr-1 text--italic title-vn" style="color:#322372; font-weight: bold; font-size: 14px;">Xem tiếp</span>
-                            <i class="fa fa-play text--red"></i>
+                        <h3  class="text--uppercase" style="color: #322372; padding-top: 20px; font-weight: bold; font-size: 25px;">${aNews.title}</h3>
+                        <p style="color: #636466; padding-top: 10px; line-height: 1.5; font-size: 18px; font-weight: 100" class="limit-text">${aNews.content}<p>
+                            <span class="mr-1 text--italic title-vn" style="color:#322372; font-weight: bold; font-size: 16.8px;">Xem tiếp</span>
+                            <i class="fa fa-play text--red" style="color: #ffcb07"></i>
                         </a>
                     </div>
                 </div>
