@@ -3,7 +3,7 @@
     <div class="footer__container block flex">
         <!-- address -->
         <section class="footer__item-address" id="address">
-            <h3 class="text--uppercase mb-5" style="font-weight: 500; font-size: 13px;">${contentModel.name_s}</h3>
+            <h3 class="text--uppercase mb-5" style="font-weight: 600; font-size: 13px;">${contentModel.name_s}</h3>
             <p class="mb-5" style="font-weight: 100; font-size: 13px;">${contentModel.address_s}</p>
             <p class="mb-5" style="font-weight: 100; font-size: 13px;">Điện thoại: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
             <p class="mb-5" style="font-weight: 100; font-size: 13px;">Email: ${contentModel.email_s}</p>
