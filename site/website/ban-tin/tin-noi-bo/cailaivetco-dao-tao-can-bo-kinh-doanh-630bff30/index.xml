@@ -12,7 +12,7 @@
 	<navLabel/>
 	<title_s>CAILAYVETCO - Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ kinh doanh</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<categories_o>	<item>	<key>internalnews</key>
 	<value_smv>Tin nội bộ</value_smv>
 	</item></categories_o>
@@ -29,7 +29,7 @@
 &lt;p&gt;&lt;span style="white-space: pre;"&gt;Nguồn: www.mavin-group.com&lt;/span&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-06-23T04:10:43.661Z</createdDate>
 	<createdDate_dt>2020-06-23T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-06-23T04:10:43.661Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-23T04:10:43.661Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-16T08:23:13.939Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-16T08:23:13.939Z</lastModifiedDate_dt>
 	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
 </page>
