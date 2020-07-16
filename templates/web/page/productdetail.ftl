@@ -50,12 +50,22 @@
                     <h1 class="text--uppercase violet-color diffrence-product">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
-                    <div class="col-lg -12 col-md-12 row row-cols-lg-5 row-cols-md-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
+                    <#--<div class="col-lg -12 col-md-12 row row-cols-lg-5 row-cols-md-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
                         <#if (productOther)??>
                             <#list productOther as item>
                                 <div class="col-lg col-md col-sm-6 col-xs-6 product-item">
                                     <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="${item.avatar}" width="150" height="155"/></a>
                                     <p class="text-center violet-color font-weight-bold mt-3">${item.title}</p>
+                                </div>
+                            </#list>
+                        </#if>
+                    </div> -->
+                     <div class="row" id="panigation-product">
+                        <#if (productOther)??>
+                        	<#list productOther as product>
+                                <div class="col-lg-2 col-md-2 col-sm-6 product-item mb-3">
+                                    <a href="${product.url}"><img  class="img-100" src="${product.avatar}" width="120" height="83"/></a>
+                                    <p style="font-size: 23px;" class="d-block font-weight-bold violet-color mt-3">${product.title}</p>
                                 </div>
                             </#list>
                         </#if>
