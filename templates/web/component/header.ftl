@@ -85,14 +85,7 @@
                     <i class="fas fa-times"></i>
                 </button>
                 <li class="nav__menu-item">
-                    <div class="dropdown">
-                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/gioi-thieu">Giới thiệu</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/lich-su-hinh-thanh">Lịch sử hình thành</a>
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/su-menh">Sứ mệnh tầm nhìn</a>
-                            <a class="nav__menu-link dropdown-item" href="/gioi-thieu-chung/thanh-tich-dat-duoc">Thành tích đạt được</a>
-                        </div>
-                    </div>
+                    <a class="nav__menu-link" href="/gioi-thieu">Giới thiệu</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/san-pham">Sản phẩm</a>
