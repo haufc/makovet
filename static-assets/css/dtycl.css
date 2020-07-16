@@ -107,6 +107,9 @@ h6 {
 p {
   margin-bottom: 1rem;
 }
+.font-bold{
+    font-weight: 800;
+}
 
 /* Objects */
 /* Modules */
