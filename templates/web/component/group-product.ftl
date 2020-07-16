@@ -38,7 +38,7 @@
             	<#list products as product>
                     <div class="col-lg-2 col-md-2 col-sm-6 product-item mb-3">
                         <a href="${product.url}"><img class="img-100" src="${product.avatar}" width="120" height="83"/></a>
-                        <p class="d-block font-weight-bold violet-color mt-1">${product.title}</p>
+                        <p style="font-size: 23px;" class="d-block font-weight-bold violet-color mt-1">${product.title}</p>
                     </div>
                 </#list>
             </#if>
