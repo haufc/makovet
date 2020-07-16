@@ -42,6 +42,11 @@
     width: 100%;
     height: auto;
 }
+@media (min-width: 1200px){
+    .container{
+        max-width: 1200 !important;
+    }
+}
 /* ========== 3,Footer ========== */
 @media only screen and (max-width: 420px) and (min-width: 300px) and (orientation: portrait){
     .footer__item{
