@@ -82,6 +82,9 @@ $(document).ready(function(){
     
     for(let i=0; i < lstProduct.length; i ++){
         $('#panigation-product .product-item:eq('+0+')').after('<div class="col-lg-1 col-md-1"></div>');
+        if(i % 4 != 0) {
+            $('#panigation-product .product-item:eq('+i+')').after('<div class="col-lg-1 col-md-1"></div>');
+        }
     }
     
 });
