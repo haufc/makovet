@@ -77,13 +77,13 @@ $(document).ready(function(){
     });
     
     
-    var lstProduct = $('.product-item');
-    console.log(lstProduct.length);
+    // var lstProduct = $('.product-item');
+    // console.log(lstProduct.length);
     
-    for(let i=0; i < lstProduct.length; i ++){
-        if(i % 5 != 0 || i == 0) {
-            $('#panigation-product .product-item:eq('+i+')').after('<div class="col-lg-1 col-md-1"></div>');
-        }
-    }
+    // for(let i=0; i < lstProduct.length; i ++){
+    //     if(i % 5 != 0 || i == 0) {
+    //         $('#panigation-product .product-item:eq('+i+')').after('<div class="col-lg-1 col-md-1"></div>');
+    //     }
+    // }
     
 });
