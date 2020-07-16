@@ -15,16 +15,16 @@
                     </a>
                 </div>
                 <#if item?index == 0>
-                    <div class="col-lg-1 col-md-1"></div>
+                    <div class="col-lg col-md"></div>
                 </#if>
                 <#if item?index == 1>
-                    <div class="col-lg-1 col-md-1"></div>
+                    <div class="col-lg col-md"></div>
                 </#if>
                 <#if item?index == 3>
-                    <div class="col-lg-1 col-md-1"></div>
+                    <div class="col-lg col-md"></div>
                 </#if>
                 <#if item?index == 4>
-                    <div class="col-lg-1 col-md-1"></div>
+                    <div class="col-lg col-md"></div>
                 </#if>
         	</#list>
         </div>
