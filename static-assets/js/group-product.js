@@ -89,7 +89,6 @@ $(document).ready(function(){
         } else {
            $(lstProduct[i-1]).css('padding-right', '0');
            var width = $(lstProduct[i]).width();
-           $(lstProduct[i-1]).removeattr('style');
            $(lstProduct[i-1]).css('width', width);
            $(lstProduct[i]).css('padding-left', '5%');
         }
