@@ -5,7 +5,7 @@
             <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
         </div>
     </div>
-    <div class="container">
+    <div class="container pl-lg-0 pl-md-0">
         <div class="row">
     	    <#list contentModel.groupProduct_o.item as item>
     	        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 text--center">
