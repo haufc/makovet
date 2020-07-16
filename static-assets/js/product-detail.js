@@ -75,4 +75,15 @@ $(document).ready(function(){
           }
     });
     
+    var lstProduct = $('.product-item');
+    console.log(lstProduct.length);
+    
+    for(let i=0; i < lstProduct.length; i ++){
+        if (i !== 0 ) {
+             $(lstProduct[i]).addClass('col-half-offset');
+        }
+        if (i % 5 === 0) {
+            $(lstProduct[i]).removeClass('col-half-offset');
+        }
+    }
 });
