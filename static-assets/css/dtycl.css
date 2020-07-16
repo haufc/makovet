@@ -337,6 +337,7 @@ p {
 .nav__menu-link {
   font-weight: 400;
   color: #322372;
+  font-size: 22px;
 }
 
 .nav__menu-link.active {
