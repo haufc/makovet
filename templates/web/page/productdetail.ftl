@@ -28,6 +28,11 @@
             text-align: center;
             font-size: 30px;
         }
+        .product-header__img--content {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
     </style>
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -48,14 +53,9 @@
                 </div>
             </div>
             <div class="container">
-                 <#--<div class="d-flex mb-4" style="background-color: #ffcb0c;">
-                        <div class="product-info m-auto product-name"><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
-                        <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}" width="254" height="262"/></div>
-                        <div class="product-info text-center m-auto product-book"><a href="/lien-he"><span class="product-buy text-white font-weight-bold">Đặt mua</span></a></div>
-                </div> -->
                 <div class="product-header row" style="background-color: #ffcb0c;">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__name"><h1 class="font-weight-bold violet-color text--uppercase product-header__name--content">${contentModel.productName_s}</h1></div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__img" style="padding: 3%;"><img class="product-header__content" src="${contentModel.productImage_s}" width="254" height="262"/></div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__img"><img class="product-header__img--content" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-3">
