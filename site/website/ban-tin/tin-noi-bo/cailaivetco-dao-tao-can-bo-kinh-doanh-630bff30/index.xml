@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ab1e0273</objectGroupId>
+	<objectId>ab1e0273-2d22-43f9-9f66-153f1cf56e0f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cailaivetco-dao-tao-can-bo-kinh-doanh-630bff30</folder-name>
+	<internal-name>CAILAYVETCO - Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ kinh doanh 630bff30</internal-name>
+	<navLabel/>
+	<title_s>CAILAYVETCO - Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ kinh doanh</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/c6539e80-357c-5f5d-4075-6de4b0ef6652.xml</key>
+	<value>Header - Tin nội bộ</value>
+	<include>/site/items/slides/c6539e80-357c-5f5d-4075-6de4b0ef6652.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/Layer 192.png</image_s>
+	<content_html>&lt;p&gt;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute; Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute; Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm 2016 v&amp;agrave; đối thoại với doanh nghiệp năm 2017. 134 doanh nghiệp ti&amp;ecirc;u biểu của tỉnh Hưng Y&amp;ecirc;n đ&amp;atilde; trong đ&amp;oacute; c&amp;oacute;Ng&amp;agrave;y 14/7/2017, tại Hưng Y&amp;ecirc;n đ&amp;atilde; diễn ra Hội nghị tuy&amp;ecirc;n dương c&amp;aacute;c tổ chức, c&amp;aacute; nh&amp;acirc;n nộp thuế ti&amp;ecirc;u biểu năm&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="white-space: pre;"&gt;Nguồn: www.mavin-group.com&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-23T04:10:43.661Z</createdDate>
+	<createdDate_dt>2020-06-23T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:10:43.661Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:10:43.661Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>
