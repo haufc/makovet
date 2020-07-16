@@ -22,12 +22,13 @@
     <div class="container">
         <div class="row">
     	    <#list contentModel.groupProduct_o.item as item>
-    	        <div class="col-lg-4 col-md-4 col-sm-6 text--center">
+    	        <div class="col-lg col-md col-sm-6 text--center">
                     <a href="${item.groupChildProductURL_s}">
                         <img class="products__img" src="${item.groupProductIcon_s}" style="width: 100%; height:auto;" alt="Product logo" width="265" height="240">
                         <h3 class="text--uppercase violet-color" style="font-size:20px;">${item.groupProductName_s}</h3>
                     </a>
                 </div>
+                <div class="col-lg-1"></div>
         	</#list>
         </div>
     </div>
