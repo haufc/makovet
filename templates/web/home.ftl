@@ -114,7 +114,7 @@
     </script>
     <script>
         $('.limit-text').each(function (f) {
-          var newstr = $(this).text().substring(0,140);
+          var newstr = $(this).text().substring(0,240);
           $(this).text(newstr).append("...");
         });
         jQuery(function($) {
