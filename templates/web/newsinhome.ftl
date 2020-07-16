@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="news__block-text">
-                    <h3 style="font-size: 25px; font-weight: bold; line-height: 1.5">${firstNew.title}</h3>
+                    <h3 style="font-size: 23px; font-weight: bold; line-height: 1.5; margin-bottom: 20px;">${firstNew.title}</h3>
                     <div class="truncate-multi-line text--justify limit-text" style="font-size: 18px; line-height: 1.5; margin-bottom: 16px; color: #636466 ">
                         ${firstNew.content}
                     </div>
