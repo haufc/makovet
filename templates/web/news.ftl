@@ -9,7 +9,7 @@
         <div class="row data-container mr-lg-0 mr-md-0 ml-md-0 ml-md-0" id="mavinex-news">
                 <#list news as aNews>
                 <#if aNews.category = "internalnews">
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mavinex">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mavinex pl-lg-0">
                     <div>
                         <img src="${aNews.image}" alt="" class="img-responsive" width="540" height="352">
                         <a class="mt-3 rounded-0" href="${aNews.url}">
@@ -38,7 +38,7 @@
         <div class="row data-container mr-lg-0 mr-md-0 ml-md-0 ml-md-0" id="field-news">
                 <#list news as aNews>
                 <#if aNews.category = "industrynews">
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 fields" style="">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 fields pl-lg-0" style="">
                     <div>
                         <img src="${aNews.image}" alt="" class="img-responsive" width="540" height="352">
                         <a class="mt-3 rounded-0" href="${aNews.url}">
