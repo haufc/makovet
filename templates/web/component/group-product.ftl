@@ -20,6 +20,9 @@
                 <#if item?index == 1>
                     <div class="col-lg-1 col-md-1"></div>
                 </#if>
+                <#if item?index == 3>
+                    <div class="col-lg-1 col-md-1"></div>
+                </#if>
                 <#if item?index == 4>
                     <div class="col-lg-1 col-md-1"></div>
                 </#if>
