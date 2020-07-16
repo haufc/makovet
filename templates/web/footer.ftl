@@ -25,9 +25,9 @@
         <!-- links -->
         <section style="font-weight: 100;" class="footer__item text--center" id="social">
             <ul class="footer__item-links flex">
-                <li><a class="text--uppercase" style="font-size:13px; margin-bottom: 13px;" href="#">chính sách bảo mật thông tin</a></li>
-                <li><a class="text--uppercase" style="font-size:13px; margin-bottom: 13px;" href="#">chính sách website</a></li>
-                <li><a class="text--uppercase" style="font-size:13px; margin-bottom: 13px;" href="#">quy ước sử dụng website</a></li>
+                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">chính sách bảo mật thông tin</a></li>
+                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">chính sách website</a></li>
+                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">quy ước sử dụng website</a></li>
             </ul>
         </section>
 
