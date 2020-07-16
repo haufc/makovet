@@ -80,4 +80,8 @@ $(document).ready(function(){
     var lstProduct = $('.product-item');
     console.log(lstProduct.length);
     
+    for(let i=0; i < lstProduct.length; i ++){
+        $('#panigation-product .product-item:eq('+0+')').after('<div class="col-lg-1 col-md-1"></div>');
+    }
+    
 });
