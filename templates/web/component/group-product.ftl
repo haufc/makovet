@@ -37,8 +37,8 @@
             <#if (products)??>
             	<#list products as product>
                     <div class="col-lg col-md col-sm-6 product-item mb-3">
-                        <a href="${product.url}"><img class="img-full" style="width: 100%; height:auto;" src="${product.avatar}" width="150" height="155"/></a>
-                        <p class="d-block text-center violet-color mt-1">${product.title}</p>
+                        <a href="${product.url}"><img class="img-full" src="${product.avatar}" width="80" height="83"/></a>
+                        <p class="d-block  violet-color mt-1">${product.title}</p>
                     </div>
                 </#list>
             </#if>
