@@ -88,6 +88,8 @@ $(document).ready(function(){
             $(lstProduct[i]).css('padding-right', '5%');
         } else {
            // $(lstProduct[i-1]).css('padding-right', '0');
+           var width = $(lstProduct[i]).width();
+           $(lstProduct[i-1]).css('width', width);
             $(lstProduct[i]).css('padding-left', '5%');
         }
         
