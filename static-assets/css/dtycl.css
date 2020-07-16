@@ -87,7 +87,9 @@ h1 {
 h2 {
   margin-bottom: 1.5rem;
 }
-
+h3{
+    margin-bottom: 1.5rem;
+}
 h4 {
   margin-bottom: 1.5rem;
 }
@@ -99,7 +101,9 @@ h5 {
 h6 {
   margin-bottom: 1.5rem;
 }
-
+p{
+    margin-bottom: 1rem;
+}
 .font-bold{
     font-weight: 800;
 }
