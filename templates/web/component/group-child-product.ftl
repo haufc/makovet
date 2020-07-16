@@ -4,7 +4,7 @@
             <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
         </div>
     </div>
-    <div class="container">
+    <div class="container pl-lg-0 pl-md-0">
         <div class="row" style="margin-right: 0 !important;margin-left: 0 !important;">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pl-md-0 pl-lg-0 babber-img-left">
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
