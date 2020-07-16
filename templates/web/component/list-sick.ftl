@@ -4,7 +4,7 @@
             <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
         </div>
     </div>
-	<div class="container">
+	<div class="container pl-lg-0 pl-md-0">
 	    <div id ="panigation-tech">
             <#if (techs)??>
             	<#list techs as tech>
