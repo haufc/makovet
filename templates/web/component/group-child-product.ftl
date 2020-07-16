@@ -10,9 +10,9 @@
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
-                <div class="banner-content" style="padding-top: 8%;">
+                <div class="banner-content" style="padding-top: 10%;">
                     <img style="width:40%;" class="img-center" src="${contentModel.groupProductImg2_s}"/>
-                    <p style="font-size: 1.3em" class="font-weight-bold violet-color text-center mt-4 text--uppercase">${contentModel.rightTitle_s}</p>
+                    <p style="font-size: 1.4375em" class="font-weight-bold violet-color text-center mt-4 text--uppercase">${contentModel.rightTitle_s}</p>
                 </div>
             </div>
         </div>
@@ -22,7 +22,7 @@
             <#list contentModel.groupproductchild_o.item as item>
             	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-lg-5 mb-md-4">
             	    <a href="${item.groupChildProductURL_s}"><img style="max-width:100%; height:auto;" src="${item.groupChildProductImage_s}"/></a>
-            	    <p class="d-block text-center mt-3 violet-color font-weight-bold" style="font-size: 20px">${item.groupChildProductName_s}</p>
+            	    <p class="d-block text-center mt-3 violet-color font-weight-bold" style="font-size: 32px">${item.groupChildProductName_s}</p>
             	</div>
             </#list>
         </div>

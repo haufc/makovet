@@ -146,5 +146,8 @@ font-size: 20px;
     background-color: black;
     color: #FFF;
 }
+.col-half-offset{
+    margin-left:4.166666667%
+}
 /*Responsive*/
 

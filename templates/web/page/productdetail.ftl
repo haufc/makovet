@@ -19,6 +19,32 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <style>
+        .product-header__name {
+            position : relative;
+        }
+        .product-header__name--content {
+            line-height: 11;
+            text-align: center;
+            font-size: 30px;
+        }
+        .product-header__img--content {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .product-header__buy {
+            text-align: center;
+        }
+        .product-header__buy a span {
+            font-size: 30px;
+            background-color: #322372;
+            border-radius: 50%;
+            padding: 48px 10px;
+            line-height: 11;
+        }
+    </style>
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
@@ -38,24 +64,24 @@
                 </div>
             </div>
             <div class="container">
-                 <div class="d-flex mb-4" style="background-color: #ffcb0c;">
-                        <div class="product-info m-auto product-name"><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
-                        <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}"/></div>
-                        <div class="product-info text-center m-auto product-book"><a href="/lien-he"><span class="product-buy text-white font-weight-bold">Đặt mua</span></a></div>
+                <div class="product-header row py-2 mr-md-0 mr-lg-0 ml-lg-0 ml-md-0" style="background-color: #ffcb0c;">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__name"><h1 class="font-weight-bold violet-color text--uppercase product-header__name--content">${contentModel.productName_s}</h1></div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__img"><img class="product-header__img--content mt-lg-5 mt-md-5" src="${contentModel.productImage_s}" width="254" height="262"/></div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__buy"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
                 </div>
-                <div class="col-md-12 p-lg-0 p-md-0 mb-3">
+                <div class="col-md-12 p-lg-0 p-md-0 mb-5" style="font-size: 16px;">
                     ${contentModel.productDescription_html}
                 </div>
                 <div class="products__list-title">
                     <h1 class="text--uppercase violet-color diffrence-product">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
-                    <div class="col-lg -12 col-md-12 row row-cols-lg-5 row-cols-md-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
+                     <div class="row" id="panigation-product">
                         <#if (productOther)??>
-                            <#list productOther as item>
-                                <div class="col-lg col-md col-sm-6 col-xs-6 product-item">
-                                    <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="${item.avatar}" width="150" height="155"/></a>
-                                    <p class="text-center violet-color font-weight-bold mt-3">${item.title}</p>
+                        	<#list productOther as product>
+                                <div class="col-lg-2 col-md-2 col-sm-6 product-item mb-3">
+                                    <a href="${product.url}"><img  class="img-100" src="${product.avatar}" width="120" height="83"/></a>
+                                    <p style="font-size: 23px;" class="d-block font-weight-bold violet-color mt-3">${product.title}</p>
                                 </div>
                             </#list>
                         </#if>
