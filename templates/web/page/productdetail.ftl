@@ -45,7 +45,7 @@
                 </div> -->
                 <div class="product-header" style="background-color: #ffcb0c;">
                     <div class=""><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
-                    <div class=""><a href="/lien-he"><span class="product-buy text-white font-weight-bold">Đặt mua</span></a></div>
+                    <div class=""><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-3">
                     ${contentModel.productDescription_html}
