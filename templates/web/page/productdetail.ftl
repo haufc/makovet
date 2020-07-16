@@ -24,9 +24,8 @@
             position : relative;
         }
         .product-header__name--content {
-            <#--position : absolute;
-            top: 45%;
-            left: 35%; -->
+            line-height: 10;
+            text-align: center;
             font-size: 30px;
         }
     </style>
