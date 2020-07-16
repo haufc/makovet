@@ -91,7 +91,11 @@ $(document).ready(function(){
         //   var width = $(lstProduct[i-1]).width();
         //   $(lstProduct[i]).css('width', width);
         // }
-        if(i !=0 || (i % 5) != 0) {
+        if (i !== 0 ) {
+             $(lstProduct[i]).addClass('col-half-offset');
+        }
+        
+        if (i % 5 === 0) {
              $(lstProduct[i]).addClass('col-half-offset');
         }
     }
