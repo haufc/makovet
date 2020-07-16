@@ -6,7 +6,7 @@
         </div>
     </div>
     <section class="products">
-        <div class="products__container block">
+        <div class="container pl-lg-1 pl-md-1">
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items">
