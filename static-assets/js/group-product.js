@@ -77,21 +77,23 @@ $(document).ready(function(){
     });
     
     
-    // var lstProduct = $('.product-item');
-    // console.log(lstProduct.length);
+    var lstProduct = $('.product-item');
+    console.log(lstProduct.length);
     
-    // for(let i=0; i < lstProduct.length; i ++){
-    //     if (i == 0) {
-    //         $(lstProduct[i]).css('padding-right', '5%');
-    //     }
-    //     if((i + 1) % 5 != 0) {
-    //         $(lstProduct[i]).css('padding-right', '5%');
-    //     } else {
+    for(let i=0; i < lstProduct.length; i ++){
+        // if (i == 0) {
+        //     $(lstProduct[i]).css('padding-right', '5%');
+        // }
+        // if((i + 1) % 5 != 0) {
+        //     $(lstProduct[i]).css('padding-right', '5%');
+        // } else {
 
-    //       var width = $(lstProduct[i-1]).width();
-    //       $(lstProduct[i]).css('width', width);
-    //     }
-        
-    // }
+        //   var width = $(lstProduct[i-1]).width();
+        //   $(lstProduct[i]).css('width', width);
+        // }
+        if(i !=0) {
+             $(lstProduct[i]).addClass('col-half-offset');
+        }
+    }
     
 });
