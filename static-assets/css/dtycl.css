@@ -298,7 +298,7 @@ p {
   position: relative;
   width: -webkit-max-content;
   width: -moz-max-content;
-  width: max-content;
+  width: 1075px;
   -ms-grid-row: 2;
   -ms-grid-column: 2;
   grid-area: menu;
