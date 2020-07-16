@@ -40,7 +40,7 @@
             <div class="container">
                  <div class="d-flex mb-4" style="background-color: #ffcb0c;">
                         <div class="product-info m-auto product-name"><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
-                        <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}"/></div>
+                        <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                         <div class="product-info text-center m-auto product-book"><a href="/lien-he"><span class="product-buy text-white font-weight-bold">Đặt mua</span></a></div>
                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-3">
@@ -50,16 +50,6 @@
                     <h1 class="text--uppercase violet-color diffrence-product">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
-                    <#--<div class="col-lg -12 col-md-12 row row-cols-lg-5 row-cols-md-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
-                        <#if (productOther)??>
-                            <#list productOther as item>
-                                <div class="col-lg col-md col-sm-6 col-xs-6 product-item">
-                                    <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="${item.avatar}" width="150" height="155"/></a>
-                                    <p class="text-center violet-color font-weight-bold mt-3">${item.title}</p>
-                                </div>
-                            </#list>
-                        </#if>
-                    </div> -->
                      <div class="row" id="panigation-product">
                         <#if (productOther)??>
                         	<#list productOther as product>
