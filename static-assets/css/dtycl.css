@@ -625,11 +625,16 @@ p {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+.footer__item-address {
+    width : 30%;
+    letter-spacing: -1px;
+    color: #fff;
+}
 
 .footer__item {
-    width : 25%;
-  letter-spacing: -1px;
-  color: #fff;
+    width : 20%;
+    letter-spacing: -1px;
+    color: #fff;
 }
 
 .footer__item#bct {
