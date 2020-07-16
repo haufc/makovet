@@ -51,7 +51,7 @@
                 <h1 class="section-title__content-text text--uppercase" id="sp-customer">hỗ trợ khách hàng</h1>
             </div>
         </div>
-        <div class="container pl-lg-0 pl-md-0">
+        <div class="container pl-lg-0 pl-md-0 mb-4">
             <div class="row mt-3">
                 <div class="col-md-6">
                     <img src="${contentModel.supportCustomerImage_s}" class="img-full"/>
