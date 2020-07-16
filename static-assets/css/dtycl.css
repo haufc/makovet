@@ -338,6 +338,7 @@ p {
   font-weight: 400;
   color: #322372;
   font-size: 22px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .nav__menu-link.active {
