@@ -33,7 +33,7 @@
         <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 0;"/>
         <hr class="line-hozital"style="margin-bottom: 5%; margin-top: 0;"/>
         
-        <div class="row row-cols-lg-5 row-cols-md-5" id ="panigation-product">
+        <#--<div class="row row-cols-lg-5 row-cols-md-5" id ="panigation-product">
             <#if (products)??>
             	<#list products as product>
                     <div class="col-lg col-md col-sm-6 product-item mb-3">
@@ -42,7 +42,17 @@
                     </div>
                 </#list>
             </#if>
-        </div> 
+        </div> -->
+        <div class="d-flex" id ="panigation-product">
+            <#if (products)??>
+            	<#list products as product>
+                    <div class="col-sm-6 product-item mb-3">
+                        <a href="${product.url}"><img class="img-100" src="${product.avatar}" width="120" height="83"/></a>
+                        <p class="d-block  violet-color mt-1">${product.title}</p>
+                    </div>
+                </#list>
+            </#if>
+        </div>
         <nav aria-label="Page navigation example">
           <ul class="pagination pagi justify-content-center">
             <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
