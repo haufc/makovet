@@ -28,6 +28,7 @@
                         <h3 class="text--uppercase violet-color" style="font-size:20px;">${item.groupProductName_s}</h3>
                     </a>
                 </div>
+                <div class="col-lg col-md"></div>
         	</#list>
         </div>
     </div>
