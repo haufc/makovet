@@ -37,9 +37,12 @@
             <#if (products)??>
             	<#list products as product>
                     <div class="col-lg col-md col-sm-6 product-item mb-3">
-                        <a href="${product.url}"><img style="display: block;margin-left: auto;margin-right: auto;" class="img-full" src="${product.avatar}" width="150" height="155"/></a>
+                        <a href="${product.url}"><img class="img-full" src="${product.avatar}" width="150" height="155"/></a>
                         <p class="d-block text-center violet-color mt-1">${product.title}</p>
                     </div>
+                   <#-- <#if product?index % 5 = 0 >
+                        <div class></div>
+                    </#if> -->
                 </#list>
             </#if>
         </div> 
