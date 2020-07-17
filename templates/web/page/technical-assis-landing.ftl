@@ -210,10 +210,10 @@
                 let value = $(lstsick[i]).text();
                 console.log(value);
                 let arText = value.split(' ');
-                console.log(arText);
+                let firstText = arText[0];
                 let afterText = arText.shift();
-                
-                let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title" style="font-size: 32px;">'+arText[0]+'<br/>' +afterText+'</p>';
+                let rsText = afterText.join();
+                let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title" style="font-size: 32px;">'+firstText+'<br/>' +rsText+'</p>';
                 $(lstsick[i]).html(ele);
             }
         });
