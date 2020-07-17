@@ -15,7 +15,7 @@
 
             <div class="news__block-content">
                 <div class="news__block-img">
-                    <img class="full-size" src="${firstNew.image}" alt="News image">
+                    <img class="full-image" src="${firstNew.image}" alt="News image">
                 </div>
 
                 <div class="news__block-text">
@@ -39,7 +39,7 @@
 
             <div class="news__block-content">
                 <div class="news__block-img">
-                    <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}"><img class="full-size" src="/static-assets/images/news_img_2.png" alt="News image"></a>
+                    <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}"><img class="full-image" src="/static-assets/images/news_img_2.png" alt="News image"></a>
                 </div>
 
                 <ul class="news__block-links">
