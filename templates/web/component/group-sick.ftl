@@ -1,12 +1,12 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 	<div class="lst-sick mb-5">
 	    <img src="${contentModel.avatar_s}" class="img-full"/>
-	    <p class="violet-color font-weight-bold text-center mt-3 text-uppercase" style="font-size: 32px;">${contentModel.title_s}</p>
+	    <p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title" style="font-size: 32px;">${contentModel.title_s}</p>
 	    <div class="paginate mt-5">
 	        <div class="list-tech-sp-vn mb-4" style="line-height: 1.5;">
         	    <#if (supportTech)??>
                     <#list supportTech as item>
-                    	<div class="item-pr font-weight-bold"><a style="font-size: 20px;color: #636466;" class="d-block pn-pr-vn" href="${item.url}">${item.title}</a></div>
+                    	<div class="item-pr font-weight-bold"><a style="font-size: 18px;color: #636466;" class="d-block pn-pr-vn" href="${item.url}">${item.title}</a></div>
                     </#list>
                 </#if>
             </div>

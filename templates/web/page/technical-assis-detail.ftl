@@ -10,7 +10,7 @@
     <meta name="geo.placename" content="Khu 5, thị trấn Cai Lậy, huyện Cai Lậy, tỉnh Tiền Giang">
     <meta name="geo.position" content="21.021691;105.824931">
     <meta name="geo.region" content="VN-Hanoi">
-    
+    <title>${contentModel.diseaseName_s}</title>
     <!-- FontAwesome -->
     <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
     <!-- Owl Carousel CSS -->
@@ -22,6 +22,13 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <style>
+        .sick-content {
+            font-family: Roboto;
+            font-weight: 500;
+            font-size: 18px;
+        }
+    </style>
     <script src="https://ajax.googleapis.`com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
@@ -44,7 +51,7 @@
             </div>
             <hr class="line-hozital"/>
             
-             <div id ="panigation-techsp" class="mb-3" style="line-height: 2;">
+             <div id ="panigation-techsp" style="line-height: 2;margin-bottom:3.125rem;">
                 <#if (supportTech)??>
                 	<#list supportTech as item>
                         <div class="techsp-item">
@@ -53,11 +60,7 @@
                     </#list>
                 </#if>
             </div>
-            <nav aria-label="Page navigation example">
-              <ul class="pagination pagi justify-content-start">
-                <li id="previous-page" class="page-item"><a class="page-link violet-color font-weight-bold" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
-              </ul>
-            </nav>
+            <a href="${contentModel.parentURL_s}"><span class="mr-1 violet-color view-more font-weight-bold">Xem tiếp</span><i class="fa fa-play orange-color"></i></a>
         </div>
     </div>
     <@renderComponent component=contentModel.slideLogo_o.item />
@@ -87,6 +90,10 @@
            if (strSplit[0] == $('#txt-key').val()) {
                $('#parent-title').text(strSplit[1]);
            }
+        }
+        var url = window.location.href;
+        if(url.indexOf('/en') > -1) {
+            $('.view-more').text('See more');
         }
     });
   </script>

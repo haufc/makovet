@@ -21,6 +21,11 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <style>
+        strong {
+            font-weight: bold;
+        }
+    </style>
     <script src="https://ajax.googleapis.`com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
@@ -56,9 +61,9 @@
                 <div class="col-md-6">
                     <img src="${contentModel.supportCustomerImage_s}" class="img-full"/>
                 </div>
-                <div class="col-md-6" style="line-height: 1.5;">
+                <div class="col-md-6" style="line-height: 1.5;font-size: 18px;font-weight: 300;font-family: Roboto;color: #636466;">
                     ${contentModel.supportCustomerContent_html}
-                    <div class="d-flex">
+                    <div class="d-flex pt-3">
                         <button class="btn-desc violet-color font-weight-bold" style="width: 49%; margin-right: 2%; background-color: #FFCB08;">${contentModel.phoneNumber_s}</button>
                         <button data-toggle="modal" data-target="#exampleModal" class="btn-desc report-price font-weight-bold text-white" href="#" style="width: 49%; background-color: #322372;">Email</button>
                     </div>
@@ -193,12 +198,25 @@
                 $('#success-dialog-header').text('Thank you!');
                 $('#success-dialog-message').text('Your request has been processed!');
                 $('.sniper-close').text('Close');
+                $('.view-more').text('See more');
                 
             }
             
             $('#btn-send').click(function() {
                 $('#exampleModal').hide();
             });
+            
+            var lstsick = $('.sick-title');
+            for(let i = 0; i < lstsick.length; i++) {
+                let value = $(lstsick[i]).text();
+                console.log(value);
+                let arText = value.split(' ');
+                let firstText = arText[0];
+                arText.shift();
+                let rsText = arText.join(' ');
+                let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title" style="font-size: 32px;">'+firstText+'<br/>' +rsText+'</p>';
+                $(lstsick[i]).html(ele);
+            }
             
         });
     </script>

@@ -10,6 +10,7 @@
     <meta name="geo.placename" content="Khu 5, thị trấn Cai Lậy, huyện Cai Lậy, tỉnh Tiền Giang">
     <meta name="geo.position" content="21.021691;105.824931">
     <meta name="geo.region" content="VN-Hanoi">
+    <title>${contentModel.jobTitle_s}</title>
     <!-- FontAwesome -->
     <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
    
@@ -22,6 +23,12 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <style>
+        .job-content p {
+            font-size: 18px;
+            color: #636466;
+        }
+    </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
@@ -37,7 +44,7 @@
     <div class="content">
         <div class="container pl-lg-0 pl-md-0">
             <hr class="line-hozital">
-            <div class="job-content violet-color mb-3">
+            <div class="job-content" style="margin-bottom: 3rem;">
                 ${contentModel.jobContent_html}
             </div>
             <hr class="line-hozital">

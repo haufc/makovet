@@ -11,7 +11,7 @@
     	        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 text--center">
                     <a href="${item.groupChildProductURL_s}">
                         <img class="products__img" src="${item.groupProductIcon_s}" style="max-width: 100%; height:auto;" alt="Product logo" width="265" height="240">
-                        <h3 class="text--uppercase violet-color" style="font-size:20px;">${item.groupProductName_s}</h3>
+                        <h3 class="text--uppercase violet-color font-weight-bold" style="font-size:20px;">${item.groupProductName_s}</h3>
                     </a>
                 </div>
                 <#if item?index == 0>
