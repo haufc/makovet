@@ -4,7 +4,7 @@
         <h1 class="section-title__content-text text--uppercase">Contact</h1>
     </div>
 </div>
-<div class="container pl-lg-0 pl-md-0" style="line-height:1.5">
+<div class="container pl-lg-0 pl-md-0" style="line-height:1.5;font-size: 20px;">
     <h4 style="margin-bottom: 0px;" class="text-uppercase font-weight-bold violet-color">${contentModel.companyName_s}</h4>
     <span class="d-block font-weight-bold violet-color">Headquarter:</span>
     <span class="d-block font-weight-bold violet-color">${contentModel.companyHeadquater_s}</span>
