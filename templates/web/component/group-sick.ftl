@@ -6,7 +6,7 @@
 	        <div class="list-tech-sp-vn mb-4" style="line-height: 1.5;">
         	    <#if (supportTech)??>
                     <#list supportTech as item>
-                    	<div class="item-pr font-weight-bold"><a style="font-size: 20px;color: #636466;" class="d-block pn-pr-vn" href="${item.url}">${item.title}</a></div>
+                    	<div class="item-pr font-weight-bold"><a style="font-size: 18px;color: #636466;" class="d-block pn-pr-vn" href="${item.url}">${item.title}</a></div>
                     </#list>
                 </#if>
             </div>
