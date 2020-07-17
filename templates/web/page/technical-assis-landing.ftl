@@ -205,6 +205,8 @@
                 $('#exampleModal').hide();
             });
             
+            var lstsick = $('.sick-title');
+            console.log(lstsick);
         });
     </script>
   </body>
