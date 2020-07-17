@@ -247,17 +247,6 @@
                 window.location.reload();
             });
             
-            var split = $('.photo-title').text().split(' '); 
-            var rsPhoto = split[1] + '\n' + split[2];
-            $('.photo-title').text(rsPhoto);
-            
-            var splitVd = $('.video-title').text().split(' '); 
-            var rsVideo = splitVd[1] + '\n' + splitVd[2];
-            $('.video-title').text(rsVideo);
-            
-            var splitCata = $('.catalog-title').text().split(' '); 
-            var rsCata = splitCata[1] + '\n' + splitCata[2];
-            $('.catalog-title').text(rsCata);
             
         });
     </script>
