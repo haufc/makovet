@@ -8,7 +8,7 @@
 	<objectId>4271761f-932b-aee0-5589-f5b0b2e5cfa6</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>index</folder-name>
-	<internal-name>Poultry disease</internal-name>
+	<internal-name>Index</internal-name>
 	<navLabel>Poultry disease</navLabel>
 	<t_s>Poultry disease</t_s>
 	<placeInNav>false</placeInNav>
@@ -52,6 +52,6 @@
 	</item></section_o>
 	<createdDate>2020-07-17T08:19:32.576Z</createdDate>
 	<createdDate_dt>2020-07-17T08:19:32.576Z</createdDate_dt>
-	<lastModifiedDate>2020-07-17T08:19:32.576Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-17T08:19:32.576Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-17T08:29:28.326Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:29:28.326Z</lastModifiedDate_dt>
 </page>
