@@ -8,7 +8,7 @@ import org.elasticsearch.search.builder.SearchSourceBuilder
 import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
-class JobSearchHelper {
+class JobEnSearchHelper {
     static final String JOB_CONTENT_TYPE_QUERY = "content-type:\"/page/enjobdetail\""
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS = 10000
@@ -16,7 +16,7 @@ class JobSearchHelper {
     def elasticsearch
     UrlTransformationService urlTransformationService
     
-     JobSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
+     JobEnSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
         this.elasticsearch = elasticsearch
         this.urlTransformationService = urlTransformationService
     }
