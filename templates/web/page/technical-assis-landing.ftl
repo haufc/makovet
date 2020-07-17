@@ -21,6 +21,11 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <style>
+        strong {
+            font-weight: bold;
+        }
+    </style>
     <script src="https://ajax.googleapis.`com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
