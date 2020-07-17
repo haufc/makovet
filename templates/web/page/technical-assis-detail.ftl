@@ -93,7 +93,7 @@
         }
         var url = window.location.href;
         if(url.indexOf('/en') > -1) {
-            $('.view-more')text('See more');
+            $('.view-more').text('See more');
         }
     });
   </script>
