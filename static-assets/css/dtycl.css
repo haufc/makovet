@@ -695,12 +695,12 @@ p{
     justify-content: center;
 }
 .foot__introduction-item{
-    width: 25%;
+    width: 33.33%;
 
 }
 .button {
 width: 100%;
-background-color: #ffcb07; /* Green */
+background-color: #ffcb07; 
 border: none;
 color: #332472;
 padding: 10px 32px;
