@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
 	<content-type>/page/enhome</content-type>
-	<display-template>/templates/web/home.ftl</display-template>
+	<display-template>/templates/web/enhome.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>e580</objectGroupId>
@@ -32,15 +32,21 @@
 	<title_s>History</title_s>
 	<image_s>/static-assets/images/introduction/Layer 191.png</image_s>
 	<content_html>&lt;p&gt;&lt;img style="width: 100%; height: auto;" src="/static-assets/images/introduction/Gioi thieu (LICH SU HINH THANH).png" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content_html>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-13T07:58:16.123Z</createdDate>
 	<createdDate_dt>2020-07-13T07:58:16.123Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T07:58:16.123Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T07:58:16.123Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-17T09:14:12.258Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T09:14:12.258Z</lastModifiedDate_dt>
+	<button1_s>About Makovet</button1_s>
+	<url1_s>/en/introduction/about-makovet</url1_s>
+	<button2_s>Achievements</button2_s>
+	<url2_s>/en/introduction/achievements</url2_s>
+	<button3_s>Mision - Vision</button3_s>
+	<url3_s>/en/introduction/vision</url3_s>
 </component>
 	</item></sections_o>
 	<createdDate>2020-07-13T07:54:40.104Z</createdDate>
 	<createdDate_dt>2020-07-13T07:54:40.104Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T07:54:40.104Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T07:54:40.104Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-17T09:13:54.832Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T09:13:54.832Z</lastModifiedDate_dt>
 </page>
