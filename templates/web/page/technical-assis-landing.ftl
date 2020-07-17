@@ -63,7 +63,7 @@
                 </div>
                 <div class="col-md-6" style="line-height: 1.5;font-size: 18px;font-weight: 300;font-family: Roboto;color: #636466;">
                     ${contentModel.supportCustomerContent_html}
-                    <div class="d-flex">
+                    <div class="d-flex pt-3">
                         <button class="btn-desc violet-color font-weight-bold" style="width: 49%; margin-right: 2%; background-color: #FFCB08;">${contentModel.phoneNumber_s}</button>
                         <button data-toggle="modal" data-target="#exampleModal" class="btn-desc report-price font-weight-bold text-white" href="#" style="width: 49%; background-color: #322372;">Email</button>
                     </div>
