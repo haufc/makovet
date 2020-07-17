@@ -6,7 +6,7 @@
                 <h1 class="section-title__content-text text--uppercase">sản phẩm</h1>
             </div>
         </div>
-        <div class="products__container block">
+        <div class="products__container block p-lg-0 p-md-0">
             <div class="products__content">
                 <section class="products__logos">
                 	<#list contentModel.groupProduct_o.item as item>
