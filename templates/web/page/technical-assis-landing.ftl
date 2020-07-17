@@ -207,6 +207,16 @@
             
             var lstsick = $('.sick-title');
             console.log(lstsick);
+            for(let i = 0; i < lstsick.length; i++) {
+                let value = $(lstsick[i]).text();
+                let arText = value.split(' ');
+                let afterText = '';
+                for (let j = 1; j < arText.length; j++) {
+                    afterText = afterText + arText[i];
+                }
+                let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title" style="font-size: 32px;">'+arText[0]+'<br>' +afterText+</p>';
+                $(lstsick[i]).html(ele);
+            }
         });
     </script>
   </body>
