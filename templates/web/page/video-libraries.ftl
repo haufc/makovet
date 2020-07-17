@@ -54,7 +54,7 @@
                 </div>
             </div>
             <div class="container pl-lg-0 pl-md-0">
-                <div class="row" id ="panigation-photo">
+                <div class="row mb-4" id ="panigation-photo">
                     <#list contentModel.listVideo_o.item as video>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-5 photo-item">
                             <div class="item-box" style="position: relative;">
