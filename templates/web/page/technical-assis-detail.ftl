@@ -91,6 +91,10 @@
                $('#parent-title').text(strSplit[1]);
            }
         }
+        var url = window.location.href;
+        if(url.indexOf('/en') > -1) {
+            $('.view-more')text('See more');
+        }
     });
   </script>
 </html>
