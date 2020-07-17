@@ -15,6 +15,7 @@
         
         <!-- FontAwesome -->
         <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
 		<title>${contentModel.title_s}</title>
         
         <!-- Owl Carousel CSS -->
