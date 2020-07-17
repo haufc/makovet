@@ -95,7 +95,7 @@
 			<fields>
 				<field>
 					<type>input</type>
-					<id>title-intro_s</id>
+					<id>titleintro_s</id>
 					<iceId></iceId>
 					<title>title-intro</title>
 					<description></description>
@@ -186,7 +186,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>title-history_s</id>
+					<id>titlehistory_s</id>
 					<iceId></iceId>
 					<title>title-history</title>
 					<description></description>
@@ -277,7 +277,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>title-vision_s</id>
+					<id>titlevision_s</id>
 					<iceId></iceId>
 					<title>title-vision</title>
 					<description></description>
@@ -368,7 +368,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>title-award_s</id>
+					<id>titleaward_s</id>
 					<iceId></iceId>
 					<title>title-award</title>
 					<description></description>
