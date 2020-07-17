@@ -3,16 +3,16 @@
     <div class="footer__container block flex">
         <!-- address -->
         <section class="footer__item" id="address">
-            <h3 class="text--uppercase" style="font-weight: bold; line-height: 1.5">${contentModel.name_s}</h3>
-            <p style="font-weight: 100;line-height: 1.5">${contentModel.address_s}</p>
-            <p style="font-weight: 100;">Phone: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
-            <p style="font-weight: 100;">Email: ${contentModel.email_s}</p>
+            <h3 class="text--uppercase mb-5" style="font-weight: 600; font-size: 13px;">${contentModel.name_s}</h3>
+            <p class="mb-5" style="font-weight: 100; font-size: 13px;">${contentModel.address_s}</p>
+            <p class="mb-5" style="font-weight: 100; font-size: 13px;">Phone: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
+            <p class="mb-5" style="font-weight: 100; font-size: 13px;">Email: ${contentModel.email_s}</p>
         </section>
         <!-- /address -->
 
         <!-- social -->
         <section class="footer__item text--center" id="social">
-            <p class="footer__item-title text--uppercase">Connect to cailayvetco</p>
+            <p class="footer__item-title text--uppercase font-bold" style="font-size: 18px;">Connect to cailayvetco</p>
             <ul class="footer__item-btns flex">
                 <li><a href="${contentModel.fburl_s}"><img src="/static-assets/images/btn_facebook.png" alt="Facebook"></a></li>
                 <li><a href="${contentModel.twitterurl_s}"><img src="/static-assets/images/btn_twitter.png" alt="Twitter"></a></li>
@@ -25,16 +25,16 @@
         <!-- links -->
         <section style="font-weight: 100;" class="footer__item text--center" id="social">
             <ul class="footer__item-links flex">
-                <li><a class="text--uppercase" href="#">information security policies</a></li>
-                <li><a class="text--uppercase" href="#">website's policies</a></li>
-                <li><a class="text--uppercase" href="#">website usage convention</a></li>
+                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">information security policies</a></li>
+                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">website's policies</a></li>
+                <<li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">website usage convention</a></li>
             </ul>
         </section>
 
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
         <section class="footer__item" id="bct">
             <img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương">
-            <p style="font-weight: 100; font-size: 14px;">${contentModel.copyrighted_s}</p>
+            <p style="font-weight: 100; font-size: 11px;">${contentModel.copyrighted_s}</p>
         </section>
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
     </div>
