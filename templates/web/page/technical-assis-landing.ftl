@@ -56,7 +56,7 @@
                 <div class="col-md-6">
                     <img src="${contentModel.supportCustomerImage_s}" class="img-full"/>
                 </div>
-                <div class="col-md-6" style="line-height: 1.5;">
+                <div class="col-md-6" style="line-height: 1.5;font-size: 18px;font-weight: 300;font-family: Roboto;color: #636466;">
                     ${contentModel.supportCustomerContent_html}
                     <div class="d-flex">
                         <button class="btn-desc violet-color font-weight-bold" style="width: 49%; margin-right: 2%; background-color: #FFCB08;">${contentModel.phoneNumber_s}</button>
