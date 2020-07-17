@@ -10,7 +10,7 @@
             <div class="img-responsive" style="color: #00549a; font-size: 16px; padding-top:30px;line-height: 1.5; padding-bottom: 60px;">${contentModel.content_html}</div>
             <section class="foot__introduction">
                     <section class="foot__introduction-item intro-first">
-                        <a class="button" href="/gioi-thieu-chung" >Giới thiệu chung</a>
+                        <a class="button" href="/gioi-thieu-chung" >   Giới thiệu chung   </a>
                     </section>
                     <section class="foot__introduction-item intro-mid">
                         <a class="button" href="/gioi-thieu-chung/lich-su-hinh-thanh">Lịch sử hình thành</a>
