@@ -64,18 +64,18 @@
             <ul class="nav__tools flex">
                 <li class="nav__tool-item">
                     <a href="/en/home" class="search_icon">
-                        <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
+                        <img class="icon-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
                     </a>
                 </li>
                 <li class="nav__tool-item">
                     <a href="/trang-chu">
-                        <img class="full-size" src="/static-assets/images/template/vietnam-flag-icon-32.png" alt="Flag icon">
+                        <img class="icon-size" src="/static-assets/images/template/vietnam-flag-icon-32.png" alt="Flag icon">
                     </a>
                 </li>
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
                     <button class="nav__menu-search-btn" onclick="toggleSearchEnBar()">
-                        <i class="fas fa-search" style="color: #322372"></i>
+                        <i class="fas fa-search" style="color: #322372; font-size: 21px;"></i>
                     </button>
                 </li>
             </ul>
@@ -85,14 +85,7 @@
                     <i class="fas fa-times"></i>
                 </button>
                 <li class="nav__menu-item">
-                    <div class="dropdown">
-                        <a class="nav__menu-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/en/introduction/about-makovet">Introduction</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="nav__menu-link dropdown-item" href="/en/introduction/history">History</a>
-                            <a class="nav__menu-link dropdown-item" href="/en/introduction/vision">Vision, Mission</a>
-                            <a class="nav__menu-link dropdown-item" href="/en/introduction/achievement">Achievements</a>
-                        </div>
-                    </div>
+                    <a class="nav__menu-link" href="/en/introduction/about-makovet">Introduction</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link active" href="/en/products">Product</a>
