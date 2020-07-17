@@ -11,7 +11,7 @@
                 <section class="products__list">
                     <div class="products__list-items">
                         <div class="col-lg col-md-1">
-                            <h3 class="text--center violet-color text--uppercase font-weight-bold photo-title" style="font-size: 20px;position: absolute;top: 42%">${contentModel.photoTitle_s}</h3>
+                            <h3 class="text--center violet-color text--uppercase font-weight-bold photo-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.photoTitle_s}</h3>
                         </div>
                         <div class="col-lg-4 col-md-4">
                             <img class="products__img" style="width:100%; height: 100%;" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
@@ -32,7 +32,7 @@
                 <section class="products__list">
                     <div class="products__list-items" style="">
                         <div class="col-lg col-md">
-                            <h3 class="text--center violet-color text--uppercase font-weight-bold video-title" style="font-size: 20px;position: absolute;top: 42%">${contentModel.videoTitle_s}</h3>
+                            <h3 class="text--center violet-color text--uppercase font-weight-bold video-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.videoTitle_s}</h3>
                         </div>
                         <div class="col-lg-4 col-md-4 pl-lg-2 pl-md-2" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
@@ -77,7 +77,7 @@
                 <section class="products__list">
                     <div class="products__list-items">
                         <div class="col-lg col-md">
-                            <h3 class="text--center violet-color text--uppercase font-weight-bold catalog-title" style="font-size: 20px;position: absolute;top: 42%">${contentModel.documentTitle_s}</h3>
+                            <h3 class="text--center violet-color text--uppercase font-weight-bold catalog-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.documentTitle_s}</h3>
                         </div>
                         <div class="col-lg-4 col-md-4">
                             <img class="products__img " style="width:100%; height: 100%;" src="${contentModel.documentAvatar1_s}" alt="Product image"/>
