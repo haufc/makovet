@@ -10,16 +10,16 @@
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items">
-                        <div class="col-md-1">
+                        <div class="col-lg col-md-1">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold" style="font-size: 20px;position: absolute;top: 35%">${contentModel.photoTitle_s}</h3>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-lg-4 col-md-4">
                             <img class="products__img" style="width:100%; height: 100%;" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-lg-4 col-md-4">
                             <img class="products__img" style="width:100%; height: 100%;" src="${contentModel.photoAvatar2_s}" alt="Product image"/>
                         </div>
-                        <div class="col-md-1">
+                        <div class="col-lg col-md">
                             <a style="position: absolute;top: 40%;font-size: 30px;" href="${contentModel.photoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
