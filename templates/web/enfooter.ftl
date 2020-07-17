@@ -27,7 +27,7 @@
             <ul class="footer__item-links flex">
                 <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">information security policies</a></li>
                 <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">website's policies</a></li>
-                <<li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">website usage convention</a></li>
+                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">website usage convention</a></li>
             </ul>
         </section>
 
