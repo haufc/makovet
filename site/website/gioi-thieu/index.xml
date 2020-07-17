@@ -7,7 +7,7 @@
 	<objectGroupId>ea10</objectGroupId>
 	<objectId>ea103495-6e30-d30f-1aa9-5851d1ce27ef</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>gioi-thieu</folder-name>
+	<folder-name>gioi-thieu-chung</folder-name>
 	<internal-name>Giới thiệu </internal-name>
 	<navLabel>Giới thiệu </navLabel>
 	<title_s>Giới thiệu </title_s>
@@ -48,6 +48,6 @@
 	</item></sections_o>
 	<createdDate>2020-06-24T08:18:06.668Z</createdDate>
 	<createdDate_dt>2020-06-24T08:18:06.668Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T08:31:06.567Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T08:31:06.567Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-17T07:02:18.935Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T07:02:18.935Z</lastModifiedDate_dt>
 </page>
