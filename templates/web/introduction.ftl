@@ -15,9 +15,6 @@
                     <section class="foot__introduction-item intro-mid">
                         <a class="button" href="/gioi-thieu-chung/lich-su-hinh-thanh">Lịch sử hình thành</a>
                     </section>
-                    <section class="foot__introduction-item intro-mid">
-                        <a class="button" href="/gioi-thieu-chung/su-menh">Tầm nhìn - Sứ mệnh</a>
-                    </section>
                     <section class="foot__introduction-item intro-last">
                         <a class="button" href="/gioi-thieu-chung/thanh-tich-dat-duoc">Thành tích - giải thưởng</a>
                     </section>
