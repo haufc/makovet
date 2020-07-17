@@ -46,19 +46,19 @@
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_3.png" alt="News image">
 
-                        <a class="text--uppercase" href="/en/library/photo-library" style="color: #322372;">image category</a>
+                        <a class="text--uppercase font-bold" href="/en/library/photo-library" style="color: #322372;font-size: 16.8px;">image category</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_4.png" alt="News image">
 
-                        <a class="text--uppercase" href="/en/document-library" style="color: #322372;">document category</a>
+                        <a class="text--uppercase font-bold" href="/en/document-library" style="color: #322372;font-size: 16.8px;">document category</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_5.png" alt="News image">
 
-                        <a class="text--uppercase" href="/en/library/video-libary" style="color: #322372;">video category</a>
+                        <a class="text--uppercase font-bold" href="/en/library/video-libary" style="color: #322372;font-size: 16.8px;">video category</a>
                     </li>
                 </ul>
             </div>
