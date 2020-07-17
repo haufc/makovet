@@ -23,7 +23,7 @@
         <!-- /social -->
         
         <!-- links -->
-        <section style="font-weight: 100;" class="footer__item text--center" id="social">
+        <section style="font-weight: 100;" class="footer__item-policy text--center" id="social">
             <ul class="footer__item-links flex">
                 <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">information security policies</a></li>
                 <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">website's policies</a></li>
