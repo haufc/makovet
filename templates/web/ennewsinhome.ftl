@@ -15,12 +15,12 @@
 
             <div class="news__block-content">
                 <div class="news__block-img">
-                    <img class="full-size" src="${firstNew.image}" alt="News image">
+                    <img class="full-image" src="${firstNew.image}" alt="News image">
                 </div>
 
                 <div class="news__block-text">
-                    <h3 style="font-size: 20px; font-weight: bold; line-height: 1.5">${firstNew.title}</h3>
-                    <div class="truncate-multi-line text--justify limit-text" style="font-size: 16px; line-height: 1.5; margin-bottom: 16px; color: #636466 ">
+                    <h3 style="font-size: 23px; font-weight: bold; line-height: 1.5; margin-bottom: 20px;">${firstNew.title}</h3>
+                    <div class="truncate-multi-line text--justify limit-text" style="font-size: 18px; line-height: 1.5; margin-bottom: 16px; color: #636466 ">
                         ${firstNew.content}
                     </div>
 
@@ -39,26 +39,26 @@
 
             <div class="news__block-content">
                 <div class="news__block-img">
-                    <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}"><img class="full-size" src="/static-assets/images/news_img_2.png" alt="News image"></a>
+                    <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}"><img class="full-image" src="/static-assets/images/news_img_2.png" alt="News image"></a>
                 </div>
 
                 <ul class="news__block-links">
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_3.png" alt="News image">
 
-                        <a class="text--uppercase" href="/en/library/photo-library" style="color: #322372;">image category</a>
+                        <a class="text--uppercase font-bold" href="/en/library/photo-library" style="color: #322372;font-size: 16.8px;">image category</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_4.png" alt="News image">
 
-                        <a class="text--uppercase" href="/en/library/catalog-library" style="color: #322372;">Catalog category</a>
+                        <a class="text--uppercase font-bold" href="/en/document-library" style="color: #322372;font-size: 16.8px;">document category</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_5.png" alt="News image">
 
-                        <a class="text--uppercase" href="/en/library/video-libary" style="color: #322372;">video category</a>
+                        <a class="text--uppercase font-bold" href="/en/library/video-libary" style="color: #322372;font-size: 16.8px;">video category</a>
                     </li>
                 </ul>
             </div>
