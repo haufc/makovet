@@ -27,7 +27,7 @@
                         	<#list products as product>
                                 <div class="products__list-item">
                                     <a href="${product.url}"><img class="products__img" src="${product.avatar}" alt="Product image" width="135" height="140"/></a>
-                                    <p class="text-sm-center text-xs-center font-weight-bold" style="font-size: 1.25rem">${product.title}</p>
+                                    <p class="font-weight-bold" style="font-size: 1.25rem">${product.title}</p>
                                 </div>
                             </#list>
                         </#if>
