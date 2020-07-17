@@ -210,6 +210,7 @@
             for(let i = 0; i < lstsick.length; i++) {
                 let value = $(lstsick[i]).text();
                 let arText = value.split(' ');
+                console.log(typeof arText);
                 let afterText = arText.shift().join('');
                 
                 let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title" style="font-size: 32px;">'+arText[0]+'<br/>' +afterText+'</p>';
