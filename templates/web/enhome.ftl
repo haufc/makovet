@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css">
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
-    <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css"> 
     <style>
         .bg-dialog{
             background-color: #322372;
