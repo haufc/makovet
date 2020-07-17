@@ -85,7 +85,7 @@
                     <i class="fas fa-times"></i>
                 </button>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/gioi-thieu">Giới thiệu</a>
+                    <a class="nav__menu-link" href="/gioithieu">Giới thiệu</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link" href="/san-pham">Sản phẩm</a>
