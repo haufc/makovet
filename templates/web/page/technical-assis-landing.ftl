@@ -199,6 +199,7 @@
             $('#btn-send').click(function() {
                 $('#exampleModal').hide();
             });
+            
         });
     </script>
   </body>

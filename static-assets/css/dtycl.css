@@ -404,8 +404,8 @@ p{
   margin: 40px 0;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (300px)[auto-fit];
-      grid-template-columns: repeat(auto-fit, 300px);
+  -ms-grid-columns: (301px)[auto-fit];
+      grid-template-columns: repeat(auto-fit, 301px);
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;

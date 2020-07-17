@@ -246,6 +246,8 @@
                 $(modalVideo).html('');
                 window.location.reload();
             });
+            
+            
         });
     </script>
   </body>
