@@ -350,7 +350,6 @@ p{
   font-weight: 400;
   color: #322372;
   font-size: 22px;
-  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .nav__menu-link.active {
@@ -688,6 +687,36 @@ p{
 }
 .introduce > .introduce__item > .introduce__item-text.introduce__item-text--yellow {
     color: #ffcb08;
+}
+.foot__introduction{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foot__introduction-item{
+    width: 33.33%;
+
+}
+.button {
+width: 100%;
+background-color: #ffcb07; 
+border: none;
+color: #332472;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+.intro-first{
+    margin-right: 20px;
+}
+.intro-mid{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.intro-last{
+    margin-left: 20px;
 }
 /* ----- RESPONSIVE ----- */
 /* Mobile */

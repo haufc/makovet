@@ -8,7 +8,7 @@
 	<objectId>ea103495-6e30-d30f-1aa9-5851d1ce27ef</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>gioi-thieu-chung</folder-name>
-	<internal-name>Giới thiệu </internal-name>
+	<internal-name>Giới thiệu chung</internal-name>
 	<navLabel>Giới thiệu </navLabel>
 	<title_s>Giới thiệu </title_s>
 	<placeInNav>false</placeInNav>
@@ -42,12 +42,18 @@
 &lt;p&gt;Mục ti&amp;ecirc;u của MEKOVET l&amp;agrave; trở th&amp;agrave;nh một trong những C&amp;ocirc;ng ty Dược Th&amp;uacute; y lớn nhất tại Việt Nam, đem lại lợi &amp;iacute;ch cao nhất cho kh&amp;aacute;ch h&amp;agrave;ng, nh&amp;acirc;n vi&amp;ecirc;n, đối t&amp;aacute;c, cổ đ&amp;ocirc;ng v&amp;agrave; g&amp;oacute;p phần ph&amp;aacute;t triển bền vững ng&amp;agrave;nh N&amp;ocirc;ng nghiệp Việt Nam.&lt;/p&gt;</content_html>
 	<createdDate>2020-06-24T08:22:17.489Z</createdDate>
 	<createdDate_dt>2020-06-24T08:22:17.489Z</createdDate_dt>
-	<lastModifiedDate>2020-06-24T08:30:45.256Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-06-24T08:30:45.256Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-17T08:45:00.191Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:45:00.191Z</lastModifiedDate_dt>
+	<button1_s> Lịch sử hình thành</button1_s>
+	<url1_s>/gioi-thieu-chung/lich-su-hinh-thanh</url1_s>
+	<button2_s>Tầm nhìn - Sứ mệnh</button2_s>
+	<url2_s>/gioi-thieu-chung/su-menh</url2_s>
+	<button3_s>Thành tích - Giải thưởng </button3_s>
+	<url3_s>/gioi-thieu-chung/thanh-tich-dat-duoc</url3_s>
 </component>
 	</item></sections_o>
 	<createdDate>2020-06-24T08:18:06.668Z</createdDate>
 	<createdDate_dt>2020-06-24T08:18:06.668Z</createdDate_dt>
-	<lastModifiedDate>2020-07-17T07:02:18.935Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-17T07:02:18.935Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-17T08:44:56.326Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:44:56.326Z</lastModifiedDate_dt>
 </page>

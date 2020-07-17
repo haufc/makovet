@@ -85,7 +85,7 @@
                     <i class="fas fa-times"></i>
                 </button>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/introduction/about-makovet">Introduction</a>
+                    <a class="nav__menu-link" href="/en/introduction">Introduction</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link active" href="/en/products">Product</a>
