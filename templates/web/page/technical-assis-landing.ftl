@@ -199,6 +199,16 @@
             $('#btn-send').click(function() {
                 $('#exampleModal').hide();
             });
+            
+            var lstItem = $('.col-lg-4');
+            for (let i = 0; i < lstItem.length; i++) {
+              var size = $(lstItem[i]).find('.item-pr').length;
+              if(size <= 0) {
+                  $('.view-more').css('display', 'none');
+              } else {
+                  $('.view-more').css('display', 'block');
+              }
+            }
         });
     </script>
   </body>
