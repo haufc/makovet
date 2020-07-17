@@ -1,5 +1,10 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <div class="container">
+     <div class="section-title">
+                <div class="section-title__content block">
+                    <h1 class="section-title__content-text text--uppercase">Giới thiệu chung</h1>
+                </div>
+        </div>
     <section class="introduce">
         <div class="introduce__item" style="background-image: url(${contentModel.introduction_s});">
             <a class="introduce__item-link" href="#"></a>
