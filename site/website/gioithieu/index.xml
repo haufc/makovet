@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>490f</objectGroupId>
+	<objectId>490fa897-fc62-2655-db0f-b00ec92e4318</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>gioithieu</folder-name>
+	<internal-name>Giới thiệu</internal-name>
+	<navLabel>Giới thiệu</navLabel>
+	<title_s>Giới thiệu</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Giới thiệu</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/f832534c-38a2-9702-13b1-f36e00a1a3e3.xml</key>
+	<value>Header - Giới thiệu chung</value>
+	<include>/site/items/slides/f832534c-38a2-9702-13b1-f36e00a1a3e3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>0e8a8034-e169-a02c-6d92-b7e3fc2d3fd7</key>
+	<value>Content - Giới thiệu chung</value>
+<component id="0e8a8034-e169-a02c-6d92-b7e3fc2d3fd7">
+	<content-type>/component/introduction2</content-type>
+	<display-template>/templates/web/introduction2.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0e8a</objectGroupId>
+	<objectId>0e8a8034-e169-a02c-6d92-b7e3fc2d3fd7</objectId>
+	<internal-name>Content - Giới thiệu chung</internal-name>
+	<title-intro_s>giới thiệu chung</title-intro_s>
+	<title-history_s>lịch sử hình thành</title-history_s>
+	<title-vision_s>tầm nhìn sứ mệnh</title-vision_s>
+	<title-award_s>giải thưởng - thành tích</title-award_s>
+	<introduction_s>/static-assets/images/products/introduce_img_1.png</introduction_s>
+	<history_s>/static-assets/images/products/introduce_img_2.png</history_s>
+	<vision_s>/static-assets/images/products/introduce_img_3.png</vision_s>
+	<award_s>/static-assets/images/products/introduce_img_4.png</award_s>
+	<file-name>0e8a8034-e169-a02c-6d92-b7e3fc2d3fd7.xml</file-name>
+	<createdDate>2020-07-17T07:04:54.481Z</createdDate>
+	<createdDate_dt>2020-07-17T07:04:54.481Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T07:04:54.481Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T07:04:54.481Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-17T07:03:53.451Z</createdDate>
+	<createdDate_dt>2020-07-17T07:03:53.451Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T07:03:53.451Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T07:03:53.451Z</lastModifiedDate_dt>
+</page>
