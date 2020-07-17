@@ -2,8 +2,8 @@
 <section class="news">
             <div class="news__title section-title" id="newsTitle">
                 <div class="news__title-container section-title__content block">
-                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle">tin nội bộ</h1>
-                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNganhTitle">thư viện tư liệu</h1>
+                    <a href="/tin-tuc"><h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle">tin nội bộ</h1></a>
+                    <a href="/thu-vien-tu-lieu"><h1 class="news__title-text section-title__content-text text--uppercase" id="tinNganhTitle">thư viện tư liệu</h1></a>
                 </div>
             </div>
 
@@ -52,7 +52,7 @@
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_4.png" alt="News image">
 
-                        <a class="text--uppercase font-bold" href="/thu-vien-tu-lieu" style="color: #322372;font-size: 16.8px;">thư viện tư liệu</a>
+                        <a class="text--uppercase font-bold" href="/thu-vien/thu-vien-tu-lieu" style="color: #322372;font-size: 16.8px;">thư viện tai liệu</a>
                     </li>
 
                     <li class="news__block-link">
