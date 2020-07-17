@@ -2,8 +2,8 @@
 <section class="news">
             <div class="news__title section-title" id="newsTitle">
                 <div class="news__title-container section-title__content block">
-                    <a href="/tin-tuc"><h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle">tin nội bộ</h1></a>
-                    <a href="/thu-vien-tu-lieu"><h1 class="news__title-text section-title__content-text text--uppercase" id="tinNganhTitle">thư viện tư liệu</h1></a>
+                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle"><a href="/tin-tuc">tin nội bộ</a></h1>
+                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNganhTitle"><a href="/thu-vien-tu-lieu">thư viện tư liệu</a></h1>
                 </div>
             </div>
 
