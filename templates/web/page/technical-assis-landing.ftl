@@ -212,7 +212,7 @@
                 let arText = value.split(' ');
                 let firstText = arText[0];
                 let afterText = arText.shift();
-                let rsText = afterText.join();
+                console.log(afterText);
                 let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title" style="font-size: 32px;">'+firstText+'<br/>' +rsText+'</p>';
                 $(lstsick[i]).html(ele);
             }
