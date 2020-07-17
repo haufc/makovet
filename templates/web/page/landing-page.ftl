@@ -13,6 +13,7 @@
     
     <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
     
     <!-- FontAwesome -->
     <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
