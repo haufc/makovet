@@ -43,7 +43,7 @@
                                     <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.videoBanner_s}"/>
                                   </a>
                                 </figure>
-                                <div class="cap-content" style="background: #322372;left: 4%;bottom:0;position: absolute;width: 92%;">
+                                <div class="cap-content" style="background: #322372;bottom:0;position: absolute;width: 93.8%;">
                                     <a data-fancybox data-small-btn="true" href="${contentModel.videoURL1_s}">
                                         <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${contentModel.namesVideo1_s}</h3>
                                     </a>
@@ -58,7 +58,7 @@
                                     <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.videoBanner2_s}"/>
                                   </a>
                                 </figure>
-                                <div class="cap-content" style="background: #322372;left: 4%;bottom:0;position: absolute;width: 92%;">
+                                <div class="cap-content" style="background: #322372;bottom:0;position: absolute;width: 93.8%;">
                                     <a data-fancybox data-small-btn="true" href="${contentModel.videoURL2_s}">
                                         <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${contentModel.namesVideo2_s}</h3>
                                     </a>
