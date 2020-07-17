@@ -54,7 +54,7 @@
                 	<#list jobs as job>
                         <div class="job-item">
                             <a class="violet-color font-weight-bold" href="${job.url}" class="d-block">${job.title}</a>
-                            <p>(${job.time})</p>
+                            <p style="font-size: 1.125rem; margin-top: 10px;">(${job.time})</p>
                         </div>
                     </#list>
                 </#if>
