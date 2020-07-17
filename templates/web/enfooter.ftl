@@ -2,7 +2,7 @@
 <footer class="footer" <@studio.iceAttr component=contentModel/>>
     <div class="footer__container block flex">
         <!-- address -->
-        <section class="footer__item" id="address">
+        <section class="footer__item-address" id="address">
             <h3 class="text--uppercase mb-5" style="font-weight: 600; font-size: 13px;">${contentModel.name_s}</h3>
             <p class="mb-5" style="font-weight: 100; font-size: 13px;">${contentModel.address_s}</p>
             <p class="mb-5" style="font-weight: 100; font-size: 13px;">Phone: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
