@@ -175,7 +175,7 @@
             <div class="container pl-lg-0 pl-md-0">
                 <div class="row" id ="panigation-photo">
                     <#list contentModel.listphoto_o.item as photo>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-4 photo-item">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 photo-item">
                             <figure>
                               <img class="img-full" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
                               <figcaption style="font-size:20px;" class="mt-3" id="cap-${photo?index}">${photo.photoName_s}</figcaption>
