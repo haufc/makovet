@@ -206,9 +206,9 @@
             });
             
             var lstsick = $('.sick-title');
-            console.log(lstsick);
             for(let i = 0; i < lstsick.length; i++) {
                 let value = $(lstsick[i]).text();
+                console.log(value);
                 let arText = value.split(' ');
                 console.log(arText);
                 let afterText = arText.shift().join('');
