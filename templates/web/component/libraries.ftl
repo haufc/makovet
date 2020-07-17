@@ -20,7 +20,7 @@
                             <img class="products__img" style="width:100%; height: 100%;" src="${contentModel.photoAvatar2_s}" alt="Product image"/>
                         </div>
                         <div class="col-lg col-md">
-                            <a style="position: absolute;top: 42%;font-size: 30px;" href="${contentModel.photoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
+                            <a style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.photoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
@@ -65,7 +65,7 @@
                                 </div>
                         </div>
                         <div class="col-lg col-md">
-                            <a style="position: absolute;top: 42%;font-size: 30px;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
+                            <a style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
@@ -86,7 +86,7 @@
                             <img class="products__img " style="width:100%; height: 100%;" src="${contentModel.documentAvatar2_s}" alt="Product image"/>
                         </div>
                         <div class="col-lg col-md">
-                            <a style="position: absolute;top: 42%;font-size: 30px;" href="${contentModel.documentURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
+                            <a style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.documentURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
