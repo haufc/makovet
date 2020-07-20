@@ -30,9 +30,12 @@
         </div>
     </div>
     <div class="container">
-        <hr class="line-hozital" style="margin-bottom: 1%; margin-top: 0;"/>
+        <div class="products__list-title">
+            <h1 class="text--uppercase violet-color">sản phẩm bán chạy</h1>
+        </div>
+        <#--<hr class="line-hozital" style="margin-bottom: 1%; margin-top: 0;"/>
         <hr class="line-hozital"style="margin-bottom: 5%; margin-top: 0;"/>
-        <#--<div class="row row-cols-lg-5 row-cols-md-5" id ="panigation-product"> -->
+        <div class="row row-cols-lg-5 row-cols-md-5" id ="panigation-product"> -->
         <div class="row" id ="panigation-product">
             <#if (products)??>
             	<#list products as product>
