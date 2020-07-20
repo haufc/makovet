@@ -41,7 +41,7 @@
             font-size: 30px;
             background-color: #322372;
             border-radius: 50%;
-            padding: 48px 10px;
+            padding: 40px 10px;
             line-height: 11;
         }
     </style>
