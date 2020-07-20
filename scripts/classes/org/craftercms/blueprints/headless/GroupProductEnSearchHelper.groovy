@@ -53,6 +53,27 @@ class GroupProductEnSearchHelper {
         }
     }
     
+    def searchHotProducts(featured, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
+        def q = "${PRODUCT_CONTENT_TYPE_QUERY}"
+        if (featured) {
+          q = "${q} AND isHot_b:true"
+        }
+    
+        def builder = new SearchSourceBuilder()
+            .query(QueryBuilders.queryStringQuery(q))
+            .from(start)
+            .size(rows)
+            .sort(new FieldSortBuilder("createddate_dt").order(SortOrder.DESC))
+        
+        def result = elasticsearch.search(new SearchRequest().source(builder))
+        
+        if (result) {
+            return processProductListingResults(result)
+        } else {
+            result [];
+        }
+    }
+    
     private def processProductListingResults(result) {
         def products = []
         

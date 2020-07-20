@@ -248,7 +248,12 @@
                 window.location.reload();
             });
             
-            
+            var url = window.location.href;
+            if (url.indexOf('/en') > -1) {
+                $('.hot-product-title').text('hot products');
+            } else {
+                $('.hot-product-title').text('sản phẩm bán chạy');
+            }
         });
     </script>
   </body>
