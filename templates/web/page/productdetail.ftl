@@ -72,7 +72,7 @@
                 <div class="col-md-12 p-lg-0 p-md-0 mb-5" style="font-size: 16px;">
                     ${contentModel.productDescription_html}
                 </div>
-                <div class="products__list-title">
+                <div class="products__list-title" style="margin-top: 60px;">
                     <h1 class="text--uppercase violet-color diffrence-product">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
