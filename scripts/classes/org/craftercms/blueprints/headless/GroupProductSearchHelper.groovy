@@ -53,26 +53,12 @@ class GroupProductSearchHelper {
         }
     }
     
-    def searchHotProducts(featured, groupProduct, childProduct , start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
-    def q = "${PRODUCT_CONTENT_TYPE_QUERY}"
-
-    if (featured) {
-      q = "${q} AND isHot_b:true"
-    }
-    if (groupProduct) {
-            def productGroupQuery = getFieldQueryWithMultipleValues("productgrouplv1_o.item.key", groupProduct)
-            q = "${q} AND ${productGroupQuery}"
+    def searchHotProducts(featured, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
+        def q = "${PRODUCT_CONTENT_TYPE_QUERY}"
+        if (featured) {
+          q = "${q} AND isHot_b:true"
         }
-        
-        if (childProduct) {
-            def productGroupChildQuery = getFieldQueryWithMultipleValues("productgrouplv2_o.item.key", childProduct)
-            q = "${q} AND ${productGroupChildQuery}"
-        }
-        
-        if (additionalCriteria) {
-          q = "${q} AND ${additionalCriteria}"
-        }
-        
+    
         def builder = new SearchSourceBuilder()
             .query(QueryBuilders.queryStringQuery(q))
             .from(start)
