@@ -15,7 +15,7 @@
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.carousel.min.css">
     <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.theme.default.min.css">
-    
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
@@ -32,7 +32,7 @@
         <div class="section-title">
             <div class="section-title__content block">
                 <span class="d-inline"><span class="section-title__content-text text--uppercase" id="parent-title"></span>
-                <span class="text-white" style="font-size: 30px;" id="child-pr"></span></span>
+                <span class="text-white font-weight-bold" style="font-size: 32px;" id="child-pr"></span></span>
             </div>
         </div>
         <div class="container mb-md-5">
@@ -41,7 +41,7 @@
                     <img class="img-full" src="${contentModel.leftImage_s}"/>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
-                    <div class="banner-content" style="padding-top: 8%;">
+                    <div class="banner-content" style="padding-top: 9%;">
                         <img style="width:40%;" class="img-center" src="${contentModel.rightimage_s}"/>
                         <p style="font-size: 1.4375em" class="font-weight-bold violet-color text-center mt-4 text--uppercase">ampicolistin</p>
                     </div>

@@ -37,6 +37,11 @@
         font-size: 18px;
     }
 }
+@media (min-width: 1900px){
+    .nav__menu{
+        padding-left: 40px;
+    }
+}
 /* ========== 2,Content ========== */
 .img-responsive{
     width: 100%;

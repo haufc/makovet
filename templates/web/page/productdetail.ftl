@@ -41,7 +41,7 @@
             font-size: 30px;
             background-color: #322372;
             border-radius: 50%;
-            padding: 48px 10px;
+            padding: 40px 10px;
             line-height: 11;
         }
     </style>
@@ -59,7 +59,7 @@
                 <div class="section-title__content block">
                     <span class="d-inline">
                         <span class="section-title__content-text text--uppercase" id="parent-title"></span>
-                        <span class="text-white" id="child-title" style="font-size: 30px;"></span>
+                        <span class="text-white font-weight-bold" id="child-title" style="font-size: 32px;"></span>
                     </span>
                 </div>
             </div>
@@ -69,10 +69,10 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__img"><img class="product-header__img--content mt-lg-5 mt-md-5" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__buy"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
                 </div>
-                <div class="col-md-12 p-lg-0 p-md-0 mb-5" style="font-size: 16px;">
+                <div class="col-md-12 p-lg-0 p-md-0 mb-5" style="font-size: 26px;margin-top:40px; line-height:1.2">
                     ${contentModel.productDescription_html}
                 </div>
-                <div class="products__list-title">
+                <div class="products__list-title" style="margin-top: 60px;">
                     <h1 class="text--uppercase violet-color diffrence-product">sản phẩm khác</h1>
                 </div>
                 <div class="mt-4">
