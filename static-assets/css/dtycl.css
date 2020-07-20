@@ -723,6 +723,9 @@ font-size: 16px;
 /* mobile - portrait */
 @media only screen and (min-width: 300px) and (max-width: 420px) and (orientation: portrait) {
   /* Modules */
+  .button{
+      height: 100px;
+  }
   .dropdown-item {
      background-color: #332472;
   }
