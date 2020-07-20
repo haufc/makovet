@@ -24,7 +24,7 @@
             <div class="line"></div>
 
             <#list lstTechSp as item>
-            	<a class="services__link" href="${item.url}"><h3 style="color: #322372; font-size: 24px; font-weight: bold;" >${item.title}</h3></a>
+            	<a class="services__link" href="${item.url}"><h3 style="color: #322372; font-size: 22px; font-weight: bold;" >${item.title}</h3></a>
             </#list>
         </section>
     </div>
