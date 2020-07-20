@@ -20,14 +20,14 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>a51a</objectGroupId>
 	<objectId>a51a3e0d-533a-db20-0532-ad339d317d75</objectId>
-	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
 	</item></slide_o>
 	<file-name>a51a3e0d-533a-db20-0532-ad339d317d75.xml</file-name>
 	<internal-name>Slide</internal-name>
 	<createdDate>2020-07-03T07:26:25.619Z</createdDate>
 	<createdDate_dt>2020-07-03T07:26:25.619Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T07:26:25.619Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T07:26:25.619Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-20T02:18:02.992Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-20T02:18:02.992Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/7df960a6-356e-6923-d5a2-5afeb110f887.xml</key>
@@ -41,6 +41,6 @@
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-03T07:24:57.914Z</createdDate>
 	<createdDate_dt>2020-07-03T07:24:57.914Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T07:24:57.914Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T07:24:57.914Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-20T02:17:57.224Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-20T02:17:57.224Z</lastModifiedDate_dt>
 </page>
