@@ -698,7 +698,9 @@ p{
 }
 .foot__introduction-item{
     width: 33.33%;
-
+}
+.foot__introduction-item a:hover {
+    color: #fff !important;
 }
 .button {
 width: 100%;
