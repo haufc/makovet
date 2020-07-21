@@ -13,7 +13,7 @@
 	<productName_s>test</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/c6be02ca-3068-f71b-ac87-cc4bb4eabc9e.xml</key>
 	<value>slide</value>
 	<include>/site/items/c6be02ca-3068-f71b-ac87-cc4bb4eabc9e.xml</include>
@@ -29,8 +29,8 @@
 	<productDescription_html>&lt;p&gt;test&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-07-21T02:27:02.294Z</createdDate>
 	<createdDate_dt>2020-07-21T02:27:02.294Z</createdDate_dt>
-	<lastModifiedDate>2020-07-21T02:27:02.294Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-21T02:27:02.294Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-21T02:29:33.227Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-21T02:29:33.227Z</lastModifiedDate_dt>
 	<createddate_dt>2020-07-20T04:00:00.000Z</createddate_dt>
 	<createddate_dt_tz>EST5EDT</createddate_dt_tz>
 </page>
