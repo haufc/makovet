@@ -7,12 +7,12 @@
 	<objectGroupId>67dfc6de</objectGroupId>
 	<objectId>67dfc6de-19b2-49c5-8e4d-6539e54266a5</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>ampicolistin-1-7015224a-101623e5</folder-name>
-	<internal-name>Ampicolistin 1 7015224a 101623e5</internal-name>
+	<folder-name>ampicolistin-3</folder-name>
+	<internal-name>Ampicolistin 3</internal-name>
 	<navLabel>Ampicolistin</navLabel>
 	<productName_s>Ampicolistin</productName_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
 	<value_smv>Thuốc cho heo</value_smv>
 	</item></productgrouplv1_o>
@@ -71,8 +71,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-07-03T07:28:59.313Z</createdDate>
 	<createdDate_dt>2020-07-03T07:28:59.313Z</createdDate_dt>
-	<lastModifiedDate>2020-07-21T02:18:27.192Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-21T02:18:27.192Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-21T02:18:57.770Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-21T02:18:57.770Z</lastModifiedDate_dt>
 	<createddate_dt>2020-07-03T04:00:00.000Z</createddate_dt>
 	<createddate_dt_tz>EST5EDT</createddate_dt_tz>
 	<isHot_b>true</isHot_b>
