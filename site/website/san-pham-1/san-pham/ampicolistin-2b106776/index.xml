@@ -7,12 +7,12 @@
 	<objectGroupId>8b5d54df</objectGroupId>
 	<objectId>8b5d54df-11d5-4b7a-8ab7-5f7de0fe0e36</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>ampicolistin-2b106776</folder-name>
-	<internal-name>Ampicolistin 2b106776</internal-name>
+	<folder-name>ampicolistin-b27</folder-name>
+	<internal-name>Ampicolistin 27</internal-name>
 	<navLabel>Ampicolistin</navLabel>
 	<productName_s>Ampicolistin</productName_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
 	<value>Header Slide</value>
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
@@ -73,8 +73,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-06-30T07:21:47.053Z</createdDate>
 	<createdDate_dt>2020-06-30T07:21:47.053Z</createdDate_dt>
-	<lastModifiedDate>2020-07-20T02:48:48.409Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-20T02:48:48.409Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-21T03:00:52.557Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-21T03:00:52.557Z</lastModifiedDate_dt>
 	<createddate_dt>2020-06-30T04:00:00.000Z</createddate_dt>
 	<createddate_dt_tz>EST5EDT</createddate_dt_tz>
 	<isHot_b>true</isHot_b>
