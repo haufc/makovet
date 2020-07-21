@@ -631,7 +631,6 @@ p{
           justify-content: space-between;
 }
 .footer__item-address {
-    letter-spacing: -1px;
     color: #fff;
     height: 75px;
 }
@@ -639,6 +638,11 @@ p{
 .footer__item--policy {
     width : 23%;
     letter-spacing: -1px;
+    color: #fff;
+    height: 75px;
+}
+.footer__item-copyright{
+    width : 20%;
     color: #fff;
     height: 75px;
 }
