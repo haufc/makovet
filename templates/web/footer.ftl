@@ -32,7 +32,7 @@
         </section>
 
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
-        <section class="footer__item" id="bct">
+        <section class="footer__item-copyright" id="bct">
             <img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương">
             <p class="font-roboto" style="font-weight: 100; font-size: 11px;">${contentModel.copyrighted_s}</p>
         </section>
