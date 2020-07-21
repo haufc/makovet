@@ -52,7 +52,7 @@
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_4.png" alt="News image">
 
-                        <a class="text--uppercase font-bold" href="/thu-vien/thu-vien-tu-lieu" style="color: #322372;font-size: 16.8px;">thư viện tai liệu</a>
+                        <a class="text--uppercase font-bold" href="/thu-vien/thu-vien-tu-lieu" style="color: #322372;font-size: 16.8px;">thư viện tài liệu</a>
                     </li>
 
                     <li class="news__block-link">
