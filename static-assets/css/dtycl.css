@@ -642,7 +642,7 @@ p{
     height: 75px;
 }
 .footer__item-copyright{
-    width : 20%;
+    width : 22%;
     color: #fff;
     height: 75px;
 }
@@ -655,6 +655,9 @@ p{
 }
 
 .footer__item#bct {
+  text-align: right;
+}
+.footer__item-copyright#bct {
   text-align: right;
 }
 
