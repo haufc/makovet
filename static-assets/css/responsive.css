@@ -44,11 +44,12 @@
     .nav__menu-link{
         font-size: 18px;
     }
+    .nav__container{
+        grid-column-gap: 146px;
+    }
 }
 @media (min-width: 1900px){
-    .nav__menu{
-        padding-left: 40px;
-    }
+
 }
 /* ========== 2,Content ========== */
 .img-responsive{
