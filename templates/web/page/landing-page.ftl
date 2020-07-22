@@ -257,7 +257,7 @@
             
            var titleNames = $('.child-title__name');
            for (let i = 0; i < titleNames.length; i++) {
-               let splits = $(titleNames[i]).text().split('/');
+               let splits = $(titleNames[i]).text().replace('/', ' <br/> ');
                console.log(splits);
            }
         });
