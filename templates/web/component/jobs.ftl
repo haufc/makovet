@@ -31,14 +31,14 @@
 	    <div class="row">
 	        <div class="col-lg-6 col-md-6">
 	            <img class="img-full" src="${contentModel.contentLeftImage_s}" />
-	            <h3 class="violet-color font-weight-bold mt-3" style="font-size: 26px;">${contentModel.contentLeftTitle_s}</h3>
+	            <h3 class="violet-color font-weight-bold mt-3 font-title" style="font-size: 26px;">${contentModel.contentLeftTitle_s}</h3>
 	            <p class="mt-md-4 mt-lg-4 line-height-1-5" style="font-size: 1.125rem;">${contentModel.contentLeftDesc_s}</p>
 	            
 	            <p class="mt-md-4 mt-lg-4 violet-color"><a href="${contentModel.contentLeftURL_s}"><span class="mr-1 violet-color view-more font-weight-bold">Xem tiếp</span><i class="fa fa-play orange-color"></i></a></p>
 	        </div>
 	        <div class="col-lg-6 col-md-6">
 	            <img class="img-full" src="${contentModel.contentRightImage_s}" />
-	            <h3 class="violet-color font-weight-bold mt-3" style="font-size: 26px;">${contentModel.contentRightTitle_s}</h3>
+	            <h3 class="violet-color font-weight-bold mt-3 font-title" style="font-size: 26px;">${contentModel.contentRightTitle_s}</h3>
 	            <p class="mt-md-4 mt-lg-4 line-height-1-5" style="font-size: 1.125rem;">${contentModel.contentRightDesc_s}</p>
 	            
 	            <p class="mt-md-4 mt-lg-4 violet-color"><a href="${contentModel.contentRightURL_s}"><span class="mr-1 violet-color view-more font-weight-bold">Xem tiếp</span><i class="fa fa-play orange-color"></i></a></p>
