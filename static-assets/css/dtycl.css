@@ -173,6 +173,9 @@ p{
   -webkit-line-clamp: 3;
   overflow: hidden;
 }
+.truncate-multi-line p{
+    font-family: 'Roboto', sans-serif;
+}
 
 .flex {
   display: -webkit-box;
