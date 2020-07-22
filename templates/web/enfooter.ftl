@@ -4,9 +4,9 @@
         <!-- address -->
         <section class="footer__item-address" id="address">
             <h3 class="text--uppercase mb-5" style="font-weight: 600; font-size: 13px;">${contentModel.name_s}</h3>
-            <p class="mb-5" style="font-weight: 100; font-size: 13px;">${contentModel.address_s}</p>
-            <p class="mb-5" style="font-weight: 100; font-size: 13px;">Phone: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
-            <p class="mb-5" style="font-weight: 100; font-size: 13px;">Email: ${contentModel.email_s}</p>
+            <p class="mb-5 font-roboto" style="font-weight: 100; font-size: 13px;">${contentModel.address_s}</p>
+            <p class="mb-5 font-roboto" style="font-weight: 100; font-size: 13px;">Phone: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
+            <p class="mb-5 font-roboto" style="font-weight: 100; font-size: 13px;">Email: ${contentModel.email_s}</p>
         </section>
         <!-- /address -->
 
@@ -34,7 +34,7 @@
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
         <section class="footer__item" id="bct">
             <img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương">
-            <p style="font-weight: 100; font-size: 11px;">${contentModel.copyrighted_s}</p>
+            <p class="font-robotos" style="font-weight: 100; font-size: 11px;">${contentModel.copyrighted_s}</p>
         </section>
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
     </div>
