@@ -85,25 +85,25 @@
                     <i class="fas fa-times"></i>
                 </button>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/gioithieu">Giới thiệu</a>
+                    <a class="nav__menu-link font-title" href="/gioithieu">Giới thiệu</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/san-pham">Sản phẩm</a>
+                    <a class="nav__menu-link font-title" href="/san-pham">Sản phẩm</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/tin-tuc">Tin tức - Sự kiện</a>
+                    <a class="nav__menu-link font-title" href="/tin-tuc">Tin tức - Sự kiện</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Hỗ trợ kỹ thuật</a>
+                    <a class="nav__menu-link font-title" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Hỗ trợ kỹ thuật</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/quan-he-co-dong">Quan hệ cổ đông</a>
+                    <a class="nav__menu-link font-title" href="/quan-he-co-dong">Quan hệ cổ đông</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
+                    <a class="nav__menu-link font-title" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/lien-he">Liên hệ</a>
+                    <a class="nav__menu-link font-title" href="/lien-he">Liên hệ</a>
                 </li>
                 <ul class="nav__menu-tools">
                     <li class="nav__tool-item">
