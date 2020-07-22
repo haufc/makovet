@@ -36,7 +36,7 @@
 
             <section class="news__block" id="tinNganh">
                     <div class="news__block-title" id="tinNganhTitle">
-                        <h1 class="text--uppercase">tin ngành</h1>
+                        <h1 class="font-title text--uppercase">tin ngành</h1>
                     </div>
 
             <div class="news__block-content">
@@ -48,19 +48,19 @@
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_3.png" alt="News image">
 
-                        <a class="text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>
+                        <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_4.png" alt="News image">
 
-                        <a class="text--uppercase font-bold" href="/thu-vien/thu-vien-tu-lieu" style="color: #322372;font-size: 16.8px;">thư viện tài liệu</a>
+                        <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-tu-lieu" style="color: #322372;font-size: 16.8px;">thư viện tài liệu</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_5.png" alt="News image">
 
-                        <a class="text--uppercase font-bold" href="/thu-vien/thu-vien-video" style="color: #322372;font-size: 16.8px;">thư viện video</a>
+                        <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-video" style="color: #322372;font-size: 16.8px;">thư viện video</a>
                     </li>
                 </ul>
             </div>
