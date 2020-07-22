@@ -23,7 +23,7 @@
                 </#if>
                 </#list>
         </div>
-        <nav aria-label="Page navigation example" style="margin-bottom: 40px;">
+        <nav aria-label="Page navigation example" style="margin-bottom: 40px; margin-top:20px;">
           <ul class="pagination pagi1 justify-content-center">
             <li id="previous-page1" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
@@ -53,7 +53,7 @@
                 </#list>
                 
         </div>
-        <nav aria-label="Page navigation example">
+        <nav aria-label="Page navigation example" style="margin-top:20px;">
           <ul class="pagination pagi2 justify-content-center">
             <li id="previous-page2" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
