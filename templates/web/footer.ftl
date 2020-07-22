@@ -4,15 +4,15 @@
         <!-- address -->
         <section class="footer__item-address" id="address">
             <h3 class="text--uppercase mb-5" style="font-weight: 600; font-size: 13px;">${contentModel.name_s}</h3>
-            <p class="mb-5 font-roboto" style="font-weight: 100; font-size: 13px;">${contentModel.address_s}</p>
-            <p class="mb-5 font-roboto" style="font-weight: 100; font-size: 13px;">Điện thoại: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
-            <p class="mb-5 font-roboto" style="font-weight: 100; font-size: 13px;">Email: ${contentModel.email_s}</p>
+            <p class="mb-5 " style="font-weight: 100; font-size: 13px;">${contentModel.address_s}</p>
+            <p class="mb-5 " style="font-weight: 100; font-size: 13px;">Điện thoại: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
+            <p class="mb-5 " style="font-weight: 100; font-size: 13px;">Email: ${contentModel.email_s}</p>
         </section>
         <!-- /address -->
 
         <!-- social -->
         <section class="footer__item text--center" id="social">
-            <p class="footer__item-title text--uppercase font-bold" style="font-size: 18px;">kết nối với cailayvetco</p>
+            <p class="footer__item-title text--uppercase font-bold font-title" style="font-size: 18px;">kết nối với cailayvetco</p>
             <ul class="footer__item-btns flex">
                 <li><a href="${contentModel.fburl_s}"><img src="/static-assets/images/btn_facebook.png" alt="Facebook"></a></li>
                 <li><a href="${contentModel.twitterurl_s}"><img src="/static-assets/images/btn_twitter.png" alt="Twitter"></a></li>
@@ -25,9 +25,9 @@
         <!-- links -->
         <section style="font-weight: 100;" class="footer__item text--center" id="social">
             <ul class="footer__item-links flex">
-                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">chính sách bảo mật thông tin</a></li>
-                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">chính sách website</a></li>
-                <li><a class="text--uppercase" style=" margin-bottom: 15px;" href="#">quy ước sử dụng website</a></li>
+                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="#">chính sách bảo mật thông tin</a></li>
+                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="#">chính sách website</a></li>
+                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="#">quy ước sử dụng website</a></li>
             </ul>
         </section>
 
