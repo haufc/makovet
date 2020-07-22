@@ -6,19 +6,22 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>6f4b</objectGroupId>
 	<objectId>6f4b9de8-c742-d2a9-9d42-024c5a739f7e</objectId>
-	<logo_o item-list="true">	<item>	<logo_s>/static-assets/images/logos/1.jpg</logo_s>
-	</item>	<item>	<logo_s>/static-assets/images/logos/2.jpg</logo_s>
-	</item>	<item>	<logo_s>/static-assets/images/logos/4.jpg</logo_s>
+	<logo_o item-list="true">	<item>	<logo_s>/static-assets/images/logos/Logo Mavin Animal Health.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavin Aquaculture.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavin Austfeed.jpg</logo_s>
 	</item>	<item>	<logo_s>/static-assets/images/logos/4a.jpg</logo_s>
-	</item>	<item>	<logo_s>/static-assets/images/logos/4b.jpg</logo_s>
-	</item>	<item>	<logo_s>/static-assets/images/logos/4c.jpg</logo_s>
-	</item>	<item>	<logo_s>/static-assets/images/logos/5.jpg</logo_s>
-	</item>	<item>	<logo_s>/static-assets/images/logos/6.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavin Chickfarm.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavin Duckfarm.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavin Farm.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavin Foods.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavin Logistics.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavin.jpg</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/logos/Logo Mavinex.jpg</logo_s>
 	</item></logo_o>
 	<file-name>6f4b9de8-c742-d2a9-9d42-024c5a739f7e.xml</file-name>
 	<internal-name>Carousel Logo thành viên</internal-name>
 	<createdDate>2020-06-25T03:43:20.374Z</createdDate>
 	<createdDate_dt>2020-06-25T03:43:20.374Z</createdDate_dt>
-	<lastModifiedDate>2020-07-21T08:41:41.104Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-21T08:41:41.104Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-22T04:26:55.299Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-22T04:26:55.299Z</lastModifiedDate_dt>
 </component>
