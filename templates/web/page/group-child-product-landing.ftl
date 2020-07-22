@@ -94,6 +94,11 @@
             }
 
            // $('#child-title').text(title);
+           var titleNames = $('.child-title__name');
+           for (let i = 0; i < titleNames.length; i++) {
+               let splits = $(titleNames[i]).text().split('/');
+               console.log(splits);
+           }
         });
     </script>
   </body>
