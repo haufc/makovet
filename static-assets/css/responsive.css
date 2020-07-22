@@ -45,7 +45,7 @@
         font-size: 18px;
     }
     .nav__container{
-        grid-column-gap: 146px;
+        grid-column-gap: 150px;
     }
 }
 @media (min-width: 1900px){
