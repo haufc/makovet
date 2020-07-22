@@ -432,8 +432,9 @@ p{
 
 .products__list-title {
   background-image: url(/static-assets/images/template/product_title_bg.png);
-  background-size: 100% 100%;
+  background-size: 100% 60%;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .products__list-title h1 {
