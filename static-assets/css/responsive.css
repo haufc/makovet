@@ -23,6 +23,9 @@
     .slide__bg{
         left: -14%;
     }
+    .nav__container{
+        grid-column-gap: 200px;
+    }
 }
 @media (min-width: 1900px){
     .slide__bg{
