@@ -85,25 +85,25 @@
                     <i class="fas fa-times"></i>
                 </button>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/introduction">Introduction</a>
+                    <a class="nav__menu-link font-title" href="/en/introduction">Introduction</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link active" href="/en/products">Product</a>
+                    <a class="nav__menu-link active font-title" href="/en/products">Product</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/news">News - Events</a>
+                    <a class="nav__menu-link font-title" href="/en/news">News - Events</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/disease-treatment">Customer Support</a>
+                    <a class="nav__menu-link font-title" href="/en/disease-treatment">Customer Support</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/investor-relation">Investor Relation</a>
+                    <a class="nav__menu-link font-title" href="/en/investor-relation">Investor Relation</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/career-opportunities">Career</a>
+                    <a class="nav__menu-link font-title" href="/en/career-opportunities">Career</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link" href="/en/contact">Contact</a>
+                    <a class="nav__menu-link font-title" href="/en/contact">Contact</a>
                 </li>
                 <ul class="nav__menu-tools">
                     <li class="nav__tool-item">
