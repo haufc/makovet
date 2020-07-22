@@ -39,7 +39,7 @@
 }
 @media (max-width: 1440px){
     .nav__menu{
-        width: max-content;
+        width: 970px;
     }
     .nav__menu-link{
         font-size: 18px;
