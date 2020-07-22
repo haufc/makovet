@@ -21,6 +21,11 @@
 }
 @media (min-width: 1500px){
     .slide__bg{
+        left: -14%;
+    }
+}
+@media (min-width: 1900px){
+    .slide__bg{
         left: -1%;
     }
 }
