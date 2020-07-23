@@ -40,7 +40,7 @@
             <div class="container" style="padding-left:30px;">
                 <h2 style="color: #322372; font-size: 28px; font-weight: bold;">${contentModel.title_s}</h2>
                 <img class="img-center" src="${contentModel.image_s!""}" >
-                <div class="new-detail__content" style="line-height: 1.5;  font-size: 16px; padding-top:30px; color: #636466; font-weight: 300;">${contentModel.content_html}</div>
+                <div class="new-detail__content" style="line-height: 1.5;  font-size: 18px; padding-top:30px; color: #636466; font-weight: 300;">${contentModel.content_html}</div>
                 <a href="/tin-tuc"><i class="fa fa-arrow-left violet-color" style="padding-right:10px;" aria-hidden="true"></i><span class="mr-1 text--italic violet-color">Quay lại trang tin tức</span>
                 </a>
             </div>
