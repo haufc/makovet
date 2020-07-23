@@ -49,6 +49,7 @@
         }
         .product__content p{
             font-family: Roboto Condensed, sans-serif !important;
+            color: #636466;
         }
     </style>
     <script src="/static-assets/js/pagination.js"></script>
