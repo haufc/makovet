@@ -38,6 +38,9 @@
     }
 }
 @media (max-width: 1440px){
+    .slide__bg{
+        left: -12%;
+    }
     .nav__menu{
         width: 970px;
     }
