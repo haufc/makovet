@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="news__block-text">
-                    <h3 class="font-title" style="font-size: 23px; font-weight: bold; line-height: 1.5; margin-bottom: 20px;">${firstNew.title}</p></h3>
+                    <h3 class="font-title" style="text-align: justify;font-size: 23px; font-weight: bold; line-height: 1.5; margin-bottom: 20px;">${firstNew.title}</p></h3>
                     <div class="truncate-multi-line text--justify limit-text" style="font-size: 18px; line-height: 1.5; margin-bottom: 16px; color: #636466 ">
                         <p class="font-roboto">
                         ${firstNew.content}
