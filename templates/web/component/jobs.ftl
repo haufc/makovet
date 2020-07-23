@@ -9,8 +9,8 @@
             <#if (jobs)??>
             	<#list jobs as job>
                     <div class="job-item">
-                        <a class="violet-color font-weight-bold" style="font-size:20px;" href="${job.url}" class="d-block">${job.title}</a>
-                        <p class="dim-grey-color" style="font-size: 1.125rem; margin-top: 10px;">(${job.time})</p>
+                        <a class="violet-color font-weight-bold font-title" style="font-size:20px;" href="${job.url}" class="d-block">${job.title}</a>
+                        <p class="dim-grey-color" style="font-size: 1.125rem; margin-top: 10px;font-family: Roboto Condensed, sans-serif !important;">(${job.time})</p>
                     </div>
                 </#list>
             </#if>
