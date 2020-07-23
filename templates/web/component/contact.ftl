@@ -5,10 +5,10 @@
     </div>
 </div>
 <div class="container pl-lg-0 pl-md-0" style="line-height:1.5;font-size: 28px; font-family: Roboto Condensed, sans-serif !important;">
-    <h4 style="margin-bottom: 0px;" class="text-uppercase font-weight-bold violet-color">${contentModel.companyName_s}</h4>
-    <span class="d-block font-weight-bold violet-color">Trụ sở chính:</span>
-    <span class="d-block font-weight-bold violet-color">${contentModel.companyHeadquater_s}</span>
-    <span class="font-weight-bold violet-color">Điện thoại: ${contentModel.phoneNumber_s} - Fax: ${contentModel.fax_s} - Email: ${contentModel.email_s}</span>
+    <h4 style="margin-bottom: 0px; font-family: Roboto Condensed, sans-serif !important;" class="text-uppercase font-weight-bold violet-color">${contentModel.companyName_s}</h4>
+    <span class="d-block font-weight-bold violet-color " style="font-family: Roboto Condensed, sans-serif !important;">Trụ sở chính:</span>
+    <span class="d-block font-weight-bold violet-color" style="font-family: Roboto Condensed, sans-serif !important;">${contentModel.companyHeadquater_s}</span>
+    <span class="font-weight-bold violet-color" style="font-family: Roboto Condensed, sans-serif !important;">Điện thoại: ${contentModel.phoneNumber_s} - Fax: ${contentModel.fax_s} - Email: ${contentModel.email_s}</span>
     <form action="/api/1/services/contactUs.json" method="POST">
         <div class="row">
             <label class="col-md-2 mb-1 mt-5">Họ tên</label>
