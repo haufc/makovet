@@ -20,6 +20,9 @@
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
     <style>
+        body {
+            font-family: Roboto Condensed, sans-serif;
+        }
         .product-header__name {
             position : relative;
         }
