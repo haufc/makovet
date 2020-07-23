@@ -26,7 +26,7 @@
     <style>
         .sick-content {
             font-family: Roboto;
-            font-weight: 500;
+            font-weight: 300;
             font-size: 18px;
         }
     </style>
