@@ -103,8 +103,8 @@
            for(let i = 0; i < itemTotal; i++) {
                 let id = "#video-" + i;
                let lengthName = $(id).text();
-               if (lengthName.length > 36) {
-                   let docName = lengthName.slice(0, 33);
+               if (lengthName.length > 30) {
+                   let docName = lengthName.slice(0, 27);
                    $(id).text(docName + '...');
                }
            }
