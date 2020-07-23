@@ -63,7 +63,7 @@
                     <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
                 </div>
                 <div class="note-document" style="padding: 1% 0">
-                    <h3 style="font-size: 18px;" class="text-center violet-color">
+                    <h3 style="font-size: 20px;" class="text-center violet-color font-title">
                         Cuộn từ góc phải để xem trang tiếp theo và ngược lại(Có thể sử dụng phím điều hướng cho Máy tính)
                     </h3>
                 </div>
@@ -73,7 +73,7 @@
                     </#list>
         		</div>
         		<hr class="line-hozital" style="margin-bottom: 3%; margin-top: 7%;"/>
-        		<span><a style="font-size:18px;"><i style="font-size:18px;" class="fa fa-arrow-left" aria-hidden="true"></i> </a><a style="font-size:18px;" href="/thu-vien/thu-vien-tai-lieu" class="violet-color back-title"> Quay lại trang thư viện tài liệu</a></span>
+        		<span><a style="font-size:20px;"><i style="font-size:20px;" class="fa fa-arrow-left" aria-hidden="true"></i> </a><a style="font-size:20px;" href="/thu-vien/thu-vien-tai-lieu" class="violet-color back-title font-title"> Quay lại trang thư viện tài liệu</a></span>
 		    </div>
 		</main>
 		
