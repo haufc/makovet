@@ -16,6 +16,11 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <style>
+        .new-detail__content p{
+            font-weight: 300;
+        }
+    </style>
   </head>
   <body>
         <@renderComponent component=contentModel.header_o.item />
@@ -35,7 +40,7 @@
             <div class="container" style="padding-left:30px;">
                 <h2 style="color: #322372; font-size: 28px; font-weight: bold;">${contentModel.title_s}</h2>
                 <img class="img-center" src="${contentModel.image_s!""}" >
-                <div style="line-height: 1.5;  font-size: 16px; padding-top:30px; color: #636466; font-weight: 100;">${contentModel.content_html}</div>
+                <div class="new-detail__content" style="line-height: 1.5;  font-size: 18px; padding-top:30px; color: #636466; font-weight: 300;">${contentModel.content_html}</div>
                 <a href="/en/news"><i class="fa fa-arrow-left violet-color" style="padding-right:10px;" aria-hidden="true"></i><span class="mr-1 text--italic violet-color">Back to news</span>
                 </a>
             </div>
