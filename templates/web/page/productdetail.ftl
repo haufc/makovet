@@ -51,6 +51,9 @@
             font-family: Roboto Condensed, sans-serif !important;
             color: #636466;
         }
+        .product__content p strong{
+            font-family: Roboto Condensed, sans-serif !important;
+        }
     </style>
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
