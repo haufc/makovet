@@ -68,7 +68,7 @@
                                 </figure>
                                 <div class="cap-content" style="background: #322372;left: 0;bottom:0;position: absolute;width: 100%;">
                                     <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
-                                        <h3 id="video-${video?index}" style="margin-bottom: 0 !important; padding: 12px;font-size:18px;" class="video-name text-white text--uppercase font-title" style="fon">${video.videoName_s}</h3>
+                                        <h3 id="video-${video?index}" style="margin-bottom: 0 !important; padding: 12px;font-size:20px;" class="video-name text-white text--uppercase font-title" style="fon">${video.videoName_s}</h3>
                                     </a>
                                 </div>
                             </div>
