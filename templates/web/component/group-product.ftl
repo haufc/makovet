@@ -11,7 +11,7 @@
     	        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 text--center">
                     <a href="${item.groupChildProductURL_s}">
                         <img class="products__img" src="${item.groupProductIcon_s}" style="max-width: 100%; height:auto;" alt="Product logo" width="265" height="240">
-                        <h3 class="text--uppercase violet-color font-weight-bold font-title" style="font-size:20px;">${item.groupProductName_s}</h3>
+                        <h3 class="text--uppercase violet-color font-weight-bold font-title" style="font-size:25px;">${item.groupProductName_s}</h3>
                     </a>
                 </div>
                 <#if item?index == 0>
@@ -41,7 +41,7 @@
             	<#list products as product>
                     <div class="col-lg-2 col-md-2 col-sm-6 product-item mb-3">
                         <a href="${product.url}"><img  class="img-100" src="${product.avatar}" width="120" height="83"/></a>
-                        <p style="font-size: 23px;" class="d-block font-weight-bold violet-color mt-3">${product.title}</p>
+                        <p style="font-size: 23px;" class="d-block font-weight-bold violet-color mt-3 font-title">${product.title}</p>
                     </div>
                 </#list>
             </#if>
