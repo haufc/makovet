@@ -215,7 +215,7 @@
                 let firstText = arText[0];
                 arText.shift();
                 let rsText = arText.join(' ');
-                let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title" style="font-size: 32px;line-height:1.4;">'+firstText+'<br/>' +rsText+'</p>';
+                let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title font-title" style="font-size: 32px;line-height:1.4;">'+firstText+'<br/>' +rsText+'</p>';
                 $(lstsick[i]).html(ele);
             }
             
