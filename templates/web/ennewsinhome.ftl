@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="news__block-text">
-                    <h3 style="font-size: 23px; font-weight: bold; line-height: 1.5; margin-bottom: 20px;">${firstNew.title}</h3>
+                    <h3 class="font-title" style="font-size: 23px; font-weight: bold; line-height: 1.5; margin-bottom: 20px;">${firstNew.title}</h3>
                     <div class="truncate-multi-line text--justify limit-text" style="font-size: 18px; line-height: 1.5; margin-bottom: 16px; color: #636466 ">
                         ${firstNew.content}
                     </div>
@@ -34,7 +34,7 @@
 
             <section class="news__block" id="tinNganh">
                     <div class="news__block-title" id="tinNganhTitle">
-                        <h1 class="text--uppercase">Agriculture News</h1>
+                        <h1 class="font-title text--uppercase">Agriculture News</h1>
                     </div>
 
             <div class="news__block-content">
@@ -46,19 +46,19 @@
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_3.png" alt="News image">
 
-                        <a class="text--uppercase font-bold" href="/en/library/photo-library" style="color: #322372;font-size: 16.8px;">image category</a>
+                        <a class="font-title text--uppercase font-bold" href="/en/library/photo-library" style="color: #322372;font-size: 16.8px;">image category</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_4.png" alt="News image">
 
-                        <a class="text--uppercase font-bold" href="/en/document-library" style="color: #322372;font-size: 16.8px;">document category</a>
+                        <a class="font-title text--uppercase font-bold" href="/en/document-library" style="color: #322372;font-size: 16.8px;">document category</a>
                     </li>
 
                     <li class="news__block-link">
                         <img src="/static-assets/images/news_img_5.png" alt="News image">
 
-                        <a class="text--uppercase font-bold" href="/en/library/video-libary" style="color: #322372;font-size: 16.8px;">video category</a>
+                        <a class="font-title text--uppercase font-bold" href="/en/library/video-libary" style="color: #322372;font-size: 16.8px;">video category</a>
                     </li>
                 </ul>
             </div>
