@@ -18,7 +18,7 @@
                         </figure>
                         <div class="cap-content" style="background: #322372;left: 4%;bottom:0;position: absolute;width: 92%;">
                             <a  href="${doc.url}">
-                                <h3 id="doc-${doc?index}" style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${doc.title}</h3>
+                                <h3 id="doc-${doc?index}" style="margin-bottom: 0 !important; padding: 12px;font-size:20px;" class="font-title video-name text-white text--uppercase" style="fon">${doc.title}</h3>
                             </a>
                         </div>
                 	</div>
