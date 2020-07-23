@@ -30,6 +30,7 @@
             line-height: 11;
             text-align: center;
             font-size: 30px;
+            font-family: Roboto Condensed, sans-serif !important;
         }
         .product-header__img--content {
             display: block;
@@ -46,6 +47,7 @@
             border-radius: 50%;
             padding: 40px 10px;
             line-height: 11;
+            font-family: Roboto Condensed, sans-serif !important;
         }
         .product__content p{
             font-family: Roboto Condensed, sans-serif !important;
