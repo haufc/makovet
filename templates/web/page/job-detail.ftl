@@ -26,7 +26,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
     <style>
         .job-content p {
-            font-size: 18px;
+            font-size: 23px;
             font-weight: 300;
         }
     </style>
