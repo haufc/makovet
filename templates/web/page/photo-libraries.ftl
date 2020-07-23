@@ -178,7 +178,7 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 photo-item">
                             <figure>
                               <img class="img-full" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
-                              <figcaption style="font-size:20px; margin-bottom: 3.1875rem" class="mt-3" id="cap-${photo?index}">${photo.photoName_s}</figcaption>
+                              <figcaption style="font-size:26px; margin-bottom: 3.1875rem" class="mt-3 font-title" id="cap-${photo?index}">${photo.photoName_s}</figcaption>
                             </figure>
                         </div>
                     </#list>
