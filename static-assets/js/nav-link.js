@@ -20,3 +20,7 @@ $(document).ready(function() {
     }
     
 });
+
+function getContextPath() {
+   return  window.location.protocol + "//" + window.location.host
+}
