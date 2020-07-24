@@ -11,4 +11,10 @@ $(document).ready(function() {
     }).addClass('active');
     }
     
+    if (url.href.indexOf('/san-pham-1') > -1) {
+    $('#nav-content a').filter(function() {
+        return this.href == getContextPath()+"/san-pham";
+    }).addClass('active');
+    }
+    
 });
