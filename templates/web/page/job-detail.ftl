@@ -78,6 +78,7 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/job.js"></script> 
     <script src="/static-assets/js/search.js"></script>
+    <script src="/static-assets/js/nav-link.js"></script>
   </body>
 </html>
 <@studio.toolSupport />
