@@ -29,7 +29,7 @@ $(document).ready(function() {
     
     if (url.href.indexOf('/ho-tro-ky-thuat') > -1) {
     $('#menu a').each(function() {
-        if (this.href == getContextPath()+"/ho-tro-ky-thuat"){
+        if (this.href == getContextPath()+"/ho-tro-ky-thuat/benh-va-dieu-tri"){
             $(this).addClass('active');
         }
     });
