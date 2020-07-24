@@ -12,7 +12,7 @@ $(document).ready(function() {
     // }
     
     if (url.href.indexOf('/san-pham-1') > -1) {
-    $('#nav-content a').filter(function() {
+    $('#menu a').filter(function() {
         console.log($('#nav-content').html());
         return this.href == getContextPath()+"/san-pham";
     }).addClass('active');
