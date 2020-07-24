@@ -43,6 +43,14 @@ $(document).ready(function() {
     });
     }
     
+    if (url.href.indexOf('/tin-tuyen-dung') > -1) {
+    $('#menu a').each(function() {
+        if (this.href == getContextPath()+"/co-hoi-nghe-nghiep"){
+            $(this).addClass('active');
+        }
+    });
+    }
+    
 });
 
 function getContextPath() {
