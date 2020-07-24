@@ -35,6 +35,14 @@ $(document).ready(function() {
     });
     }
     
+     if (url.href.indexOf('/quan-he-co-dong') > -1) {
+    $('#menu a').each(function() {
+        if (this.href == getContextPath()+"/quan-he-co-dong"){
+            $(this).addClass('active');
+        }
+    });
+    }
+    
 });
 
 function getContextPath() {
