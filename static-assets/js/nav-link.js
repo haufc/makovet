@@ -7,7 +7,7 @@ $(document).ready(function() {
     
     if (url.href.indexOf('/gioi-thieu-chung') > -1) {
     $('#nav-content a').filter(function() {
-        return this.href == getContextPath()+"/gioi-thieu";
+        return this.href == getContextPath()+"/gioithieu";
     }).addClass('active');
     }
     
