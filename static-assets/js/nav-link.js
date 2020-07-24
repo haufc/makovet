@@ -13,7 +13,9 @@ $(document).ready(function() {
     
     if (url.href.indexOf('/san-pham-1') > -1) {
     $('#menu a').each(function() {
-        console.log(this.href);
+        if (this.href == getContextPath()+"/san-pham"){
+            $(this).addClass('active');
+        }
     });
     }
     
