@@ -27,6 +27,14 @@ $(document).ready(function() {
     });
     }
     
+    if (url.href.indexOf('/ho-tro-ky-thuat') > -1) {
+    $('#menu a').each(function() {
+        if (this.href == getContextPath()+"/ho-tro-ky-thuat"){
+            $(this).addClass('active');
+        }
+    });
+    }
+    
 });
 
 function getContextPath() {
