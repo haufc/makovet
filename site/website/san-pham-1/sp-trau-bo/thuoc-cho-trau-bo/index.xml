@@ -46,16 +46,16 @@
 	<title_s>Sản phẩm dành cho trâu bò</title_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
 	<groupProductImg2_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</groupProductImg2_s>
-	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc/kháng sinh</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
-	</item>	<item>	<groupChildProductName_s>Nhóm giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
-	</item>	<item>	<groupChildProductName_s>Nhóm ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng/thuốc dùng ngoài</groupChildProductName_s>
@@ -67,13 +67,13 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-06-23T04:34:45.063Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:45.063Z</createdDate_dt>
-	<lastModifiedDate>2020-07-22T06:51:52.980Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-22T06:51:52.980Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-28T08:25:22.280Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T08:25:22.280Z</lastModifiedDate_dt>
 	<rightTitle_s>Ampicolistin</rightTitle_s>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
-	<lastModifiedDate>2020-07-22T06:51:45.375Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-22T06:51:45.375Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-28T08:25:13.988Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T08:25:13.988Z</lastModifiedDate_dt>
 </page>
