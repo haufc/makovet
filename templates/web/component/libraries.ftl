@@ -27,7 +27,7 @@
             </div>
         </div>
         
-        <div class="products__container block">
+        <div class="products__container block px-lg-0 px-md-0">
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items" style="">
@@ -72,7 +72,7 @@
             </div>
         </div>
         
-        <div class="products__container block">
+        <div class="products__container block px-lg-0 px-md-0">
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items">
