@@ -31,31 +31,31 @@
     <div class="container">
         <section class="introduce">
             <div class="introduce__item">
-                <a class="introduce__item-link" href="#"></a>
-                <p class="introduce__item-text introduce__item-text--purple text--uppercase">giới thiệu chung</p>
+                <a class="introduce__item-link" href="${contentModel.urlintro_s}"></a>
+                <p class="introduce__item-text introduce__item-text--purple text--uppercase">${contentModel.titleintro_s}</p>
                 <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_yellow.png" alt="Introduce background">
-                <img class="introduce__item-img" src="../settings/images/introduce_img_1.png" alt="Introduce image">
+                <img class="introduce__item-img" src="${contentModel.introduction_s}" alt="Introduce image">
             </div>
 
             <div class="introduce__item">
-                <a class="introduce__item-link" href="#"></a>
-                <p class="introduce__item-text introduce__item-text--yellow text--uppercase">lịch sử hình thành</p>
+                <a class="introduce__item-link" href="${contentModel.history_s}"></a>
+                <p class="introduce__item-text introduce__item-text--yellow text--uppercase">${contentModel.titlevision_s}</p>
                 <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_purple.png" alt="Introduce background">
-                <img class="introduce__item-img" src="../settings/images/introduce_img_2.png" alt="Introduce image">
+                <img class="introduce__item-img" src="${contentModel.history_s}" alt="Introduce image">
             </div>
 
             <div class="introduce__item">
-                <a class="introduce__item-link" href="#"></a>
-                <p class="introduce__item-text introduce__item-text--purple text--uppercase">tầm nhìn - sứ mệnh</p>
+                <a class="introduce__item-link" href="${contentModel.urlvision_s}"></a>
+                <p class="introduce__item-text introduce__item-text--purple text--uppercase">${contentModel.titlevision_s}</p>
                 <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_yellow.png" alt="Introduce background">
-                <img class="introduce__item-img" src="../settings/images/introduce_img_3.png" alt="Introduce image">
+                <img class="introduce__item-img" src="${contentModel.vision_s}" alt="Introduce image">
             </div>
 
             <div class="introduce__item">
-                <a class="introduce__item-link" href="#"></a>
-                <p class="introduce__item-text introduce__item-text--yellow text--uppercase">giải thưởng - thành tích</p>
+                <a class="introduce__item-link" href="${contentModel.urlaward_s}"></a>
+                <p class="introduce__item-text introduce__item-text--yellow text--uppercase">${contentModel.titleaward_s}</p>
                 <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_purple.png" alt="Introduce background">
-                <img class="introduce__item-img" src="../settings/images/introduce_img_4.png" alt="Introduce image">
+                <img class="introduce__item-img" src="${contentModel.award_s}" alt="Introduce image">
             </div>
         </section>
     </div>
