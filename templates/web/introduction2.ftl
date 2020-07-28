@@ -28,6 +28,37 @@
         </div>
     </section>
     </div>
+    <div class="container">
+        <section class="introduce">
+            <div class="introduce__item">
+                <a class="introduce__item-link" href="#"></a>
+                <p class="introduce__item-text introduce__item-text--purple text--uppercase">giới thiệu chung</p>
+                <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_yellow.png" alt="Introduce background">
+                <img class="introduce__item-img" src="../settings/images/introduce_img_1.png" alt="Introduce image">
+            </div>
+
+            <div class="introduce__item">
+                <a class="introduce__item-link" href="#"></a>
+                <p class="introduce__item-text introduce__item-text--yellow text--uppercase">lịch sử hình thành</p>
+                <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_purple.png" alt="Introduce background">
+                <img class="introduce__item-img" src="../settings/images/introduce_img_2.png" alt="Introduce image">
+            </div>
+
+            <div class="introduce__item">
+                <a class="introduce__item-link" href="#"></a>
+                <p class="introduce__item-text introduce__item-text--purple text--uppercase">tầm nhìn - sứ mệnh</p>
+                <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_yellow.png" alt="Introduce background">
+                <img class="introduce__item-img" src="../settings/images/introduce_img_3.png" alt="Introduce image">
+            </div>
+
+            <div class="introduce__item">
+                <a class="introduce__item-link" href="#"></a>
+                <p class="introduce__item-text introduce__item-text--yellow text--uppercase">giải thưởng - thành tích</p>
+                <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_purple.png" alt="Introduce background">
+                <img class="introduce__item-img" src="../settings/images/introduce_img_4.png" alt="Introduce image">
+            </div>
+        </section>
+    </div>
 </div>
 </section>
 
