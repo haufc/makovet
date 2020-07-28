@@ -94,7 +94,7 @@
                     <a class="nav__menu-link font-title" href="/tin-tuc">Tin tức - Sự kiện</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link font-title" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Hỗ trợ kỹ thuật</a>
+                    <a class="nav__menu-link font-title" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Thông tin kỹ thuật</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/quan-he-co-dong">Quan hệ cổ đông</a>
