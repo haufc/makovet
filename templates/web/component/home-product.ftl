@@ -20,7 +20,7 @@
                 </section>
                 <section class="products__list">
                     <div class="products__list-title">
-                        <h1 class="text--uppercase violet-color">sản phẩm mới</h1>
+                        <h1 class="text--uppercase violet-color">sản phẩm chủ lực</h1>
                     </div>
                     <div class="products__list-items">
                         <#if (products)??>

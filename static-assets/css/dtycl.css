@@ -622,6 +622,46 @@ p{
   height: 60px;
   margin: 0 auto;
 }
+/* ---------- Introduction 28/7/2020 ---------- */
+.introduce > .introduce__item {
+    position: relative;
+    height: 430px;
+    margin-bottom: 33px;
+}
+.introduce > .introduce__item > .introduce__item-link,
+.introduce > .introduce__item > .introduce__item-text,
+.introduce > .introduce__item > .introduce__item-bg,
+.introduce > .introduce__item > .introduce__item-img {
+    position: absolute;
+}
+.introduce > .introduce__item > .introduce__item-link,
+.introduce > .introduce__item > .introduce__item-text {
+    z-index: 3;
+}
+.introduce > .introduce__item > .introduce__item-link {
+    width: 100%;
+    height: 100%;
+}
+.introduce > .introduce__item > .introduce__item-text {
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 30px;
+}
+.introduce > .introduce__item > .introduce__item-text.introduce__item-text--yellow {
+    color: #ffcb08;
+}
+.introduce > .introduce__item > .introduce__item-text.introduce__item-text--purple {
+    color: #322372;
+}
+.introduce > .introduce__item > .introduce__item-bg {
+    left: 0;
+    z-index: 2;
+}
+.introduce > .introduce__item > .introduce__item-img {
+    right: 0;
+    z-index: 1;
+}
+/* ---------- End Introduction ---------- */
 
 /* Footer */
 .footer {
@@ -681,33 +721,6 @@ p{
 
 .footer__item-img {
   margin-bottom: 3px;
-}
-.introduce > .introduce__item {
-    position: relative;
-    height: 430px;
-    margin-bottom: 33px;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-.introduce > .introduce__item > .introduce__item-link {
-    position: absolute;
-    z-index: 1;
-    top: 0;
-    width: 100%;
-    height: 100%;
-}
-.introduce > .introduce__item > .introduce__item-text {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 2;
-    margin-left: 15px;
-}
-.introduce > .introduce__item > .introduce__item-text.introduce__item-text--purple {
-    color: #322372;
-}
-.introduce > .introduce__item > .introduce__item-text.introduce__item-text--yellow {
-    color: #ffcb08;
 }
 .foot__introduction{
     display: flex;

@@ -24,29 +24,29 @@
 	<file-name>668130d4-016b-19db-7ba2-dcb18501cd25.xml</file-name>
 	<internal-name>Danh sách sản phẩm</internal-name>
 	<title_s>Sản phẩm</title_s>
-	<groupProduct_o item-list="true">	<item>	<groupProductName_s>THUỐC CHO TRÂU - BÒ</groupProductName_s>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>SẢN PHẨM CHO TRÂU - BÒ</groupProductName_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo</groupChildProductURL_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
-	</item>	<item>	<groupProductName_s>THUỐC CHO HEO</groupProductName_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO HEO</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
-	</item>	<item>	<groupProductName_s>THUỐC CHO GÀ - VỊT</groupProductName_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO GÀ - VỊT</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-ga-vit/thuoc-cho-ga-vit</groupChildProductURL_s>
-	</item>	<item>	<groupProductName_s>THUỐC CHO CHÓ - MÈO</groupProductName_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO CHÓ - MÈO</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
-	</item>	<item>	<groupProductName_s>THUỐC CHO TÔM - CÁ</groupProductName_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO TÔM - CÁ</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
-	</item>	<item>	<groupProductName_s>THUỐC CHO LOÀI VẬT KHÁC</groupProductName_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO LOÀI VẬT KHÁC</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
 	</item></groupProduct_o>
 	<createdDate>2020-06-24T07:18:47.466Z</createdDate>
 	<createdDate_dt>2020-06-24T07:18:47.466Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T07:51:11.430Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T07:51:11.430Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-28T09:12:16.066Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T09:12:16.066Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>e289d5fd-d50a-14c4-3f61-1d3d160a87f3</key>
 	<value>Tin tức</value>
@@ -96,6 +96,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-06-24T06:58:45.441Z</createdDate>
 	<createdDate_dt>2020-06-24T06:58:45.441Z</createdDate_dt>
-	<lastModifiedDate>2020-07-14T03:41:36.513Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-14T03:41:36.513Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-28T09:12:11.699Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T09:12:11.699Z</lastModifiedDate_dt>
 </page>
