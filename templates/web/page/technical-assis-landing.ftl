@@ -35,6 +35,24 @@
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
+        
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
+            </div>
+        </div>
+        <div class="container pl-lg-0 pl-md-0 mb-4">
+            <div class="row">
+                <#if (contentModel.processComponent_o.item)?? && contentModel.section_o??>
+                    <#list (contentModel.processComponent_o.item)![] as section>
+                        <div class="group-pr-${section?index} col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                            <@renderComponent parent=contentModel component=section />
+                        </div>
+                    </#list>
+                </#if>
+            </div>
+        </div>
+        
         <div class="section-title">
             <div class="section-title__content block">
                 <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
