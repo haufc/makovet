@@ -34,7 +34,7 @@
                         <div class="col-lg col-md-1  ">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold video-title font-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.videoTitle_s}</h3>
                         </div>
-                        <div class="col-lg-4 col-md-4   pr-lg-2 pr-md-2">
+                        <div class="col-lg-4 col-md-4">
                             <div class="item-box" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
                                   <a data-fancybox="" data-small-btn="true" href="${contentModel.videoURL1_s}">
@@ -51,7 +51,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-4   pr-lg-2 pr-md-2">
+                        <div class="col-lg-4 col-md-4">
                             <div class="item-box" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
                                   <a data-fancybox="" data-small-btn="true" href="${contentModel.videoURL2_s}">
