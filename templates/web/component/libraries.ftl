@@ -68,8 +68,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg col-md-1  mt-sm-2 mt-xs-2">
-                            <a style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
+                        <div class="col-lg col-md-1  mb-sm-3 mb-xs-3">
+                            <a class="mt-sm-3 mt-xs-3" style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
