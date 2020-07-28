@@ -56,6 +56,7 @@
     <script src="/static-assets/js/news.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/contact.js"></script>
+    <script src="/static-assets/js/nav-link.js"></script>
   </body>
 </html>
 <@studio.toolSupport />

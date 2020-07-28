@@ -77,6 +77,8 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/techsp-detail.js"></script>
     <script src="/static-assets/js/search.js"></script>
+    <script src="/static-assets/js/nav-link.js"></script>
+    
     <input hidden value="${contentModel.technicalAssistance_o.item.key}" id="txt-key"/>
     <div id="lst-cate">
         <#list categories.items as cate>
