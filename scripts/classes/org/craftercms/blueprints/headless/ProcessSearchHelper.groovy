@@ -8,7 +8,7 @@ import org.elasticsearch.search.builder.SearchSourceBuilder
 import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
-class SupportTechSearchHelper {
+class ProcessSearchHelper {
     static final String TECHSUPPORT_CONTENT_TYPE_QUERY = "content-type:\"/page/processdedail\""
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS = 10000
@@ -16,12 +16,12 @@ class SupportTechSearchHelper {
     def elasticsearch
     UrlTransformationService urlTransformationService
     
-     SupportTechSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
+     ProcessSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
         this.elasticsearch = elasticsearch
         this.urlTransformationService = urlTransformationService
     }
     
-    def searchSupportTech(category, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
+    def searchProcess(category, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
         def q = "${TECHSUPPORT_CONTENT_TYPE_QUERY}"
         
         if (category) {
@@ -41,13 +41,13 @@ class SupportTechSearchHelper {
         def result = elasticsearch.search(new SearchRequest().source(builder))
         
         if (result) {
-            return processSupportTechListingResults(result)
+            return processProcessListingResults(result)
         } else {
             result [];
         }
     }
     
-    private def processSupportTechListingResults(result) {
+    private def processProcessListingResults(result) {
         def supportTechs = []
         
         def documents = result.hits.hits*.getSourceAsMap()
