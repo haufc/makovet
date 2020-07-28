@@ -250,9 +250,9 @@
             
             var url = window.location.href;
             if (url.indexOf('/en') > -1) {
-                $('.hot-product-title').text('hot products');
+                $('.hot-product-title').text('main products');
             } else {
-                $('.hot-product-title').text('sản phẩm bán chạy');
+                $('.hot-product-title').text('sản phẩm chủ lực');
             }
             
            var titleNames = $('.child-title__name');
