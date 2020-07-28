@@ -8,7 +8,7 @@
 	<objectId>f114c2fd-a9d8-f673-41b3-6a9806243b45</objectId>
 	<internal-name>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</internal-name>
 	<navLabel>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</navLabel>
-	<title_s>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</title_s>
+	<title_s>Nhóm thuốc Dinh dưỡng, khoáng, tăng sức đề kháng</title_s>
 	<file-name>index.xml</file-name>
 	<folder-name>nhom-dinh-duong-khoang-tang-suc-de-khang</folder-name>
 	<placeInNav>false</placeInNav>
@@ -41,6 +41,6 @@
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-03T07:52:57.040Z</createdDate>
 	<createdDate_dt>2020-07-03T07:52:57.040Z</createdDate_dt>
-	<lastModifiedDate>2020-07-03T07:58:28.373Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-03T07:58:28.373Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-28T08:28:56.509Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T08:28:56.509Z</lastModifiedDate_dt>
 </page>
