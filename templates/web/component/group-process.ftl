@@ -10,7 +10,6 @@
                     </#list>
                 </#if>
             </div>
-            <a href="${contentModel.listURL_s}"><span class="mr-1 violet-color view-more font-weight-bold">Xem tiếp</span><i class="fa fa-play orange-color"></i></a>
         </div>
 	</div>
 <@studio.toolSupport />
