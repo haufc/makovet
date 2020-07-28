@@ -140,7 +140,7 @@
 					<properties>
 						<property>
 							<name>datasource</name>
-							<value></value>
+							<value>processType</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
