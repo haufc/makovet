@@ -1,10 +1,10 @@
 $(document).ready(function(){
     // Panigation list product
     
-    var numberOfProducts = $("#child-product .product-ite").length;
+    var numberOfProducts = $("#child-product .product-item").length;
     var limitPerPage = 15;
     
-    $("#child-product .product-ite:gt(" + (limitPerPage -1 )+")").hide();
+    $("#child-product .product-item:gt(" + (limitPerPage -1 )+")").hide();
     
     var totalPages;
     
@@ -30,10 +30,10 @@ $(document).ready(function(){
             $('.pagi li').removeClass("active");
             $(this).addClass("active");
             $(this).children().attr('style', 'background-color: #322372 !important');
-            $("#child-product .product-ite").hide();
+            $("#child-product .product-item").hide();
             var total = limitPerPage * currentPage;
             for(let i = total - limitPerPage; i<total; i++){
-                $("#child-product .product-ite:eq("+ i +")").show();
+                $("#child-product .product-item:eq("+ i +")").show();
             }
         }
     });
@@ -46,10 +46,10 @@ $(document).ready(function(){
         $('.pagi *').removeAttr('style');
         currentPage++; 
         $(".pagi li").removeClass('active'); 
-        $("#child-product .product-ite").hide();
+        $("#child-product .product-item").hide();
         var total = limitPerPage * currentPage; 
         for (let i = total - limitPerPage; i < total; i++) {
-          $("#child-product .product-ite:eq(" + i + ")").show(); 
+          $("#child-product .product-item:eq(" + i + ")").show(); 
         }
     
         $(".pagi li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
@@ -65,10 +65,10 @@ $(document).ready(function(){
             $('.pagi *').removeAttr('style');
             currentPage--; 
             $(".pagi li").removeClass('active'); 
-            $("#child-product .product-ite").hide();
+            $("#child-product .product-item").hide();
             var grandTotal = limitPerPage * currentPage; 
             for (var i = grandTotal - limitPerPage; i < grandTotal; i++) {
-              $("#child-product .product-ite:eq(" + i + ")").show();
+              $("#child-product .product-item:eq(" + i + ")").show();
             }
             $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
             $(".pagi li.current-page:eq(" + (currentPage - 1) + ")").children().attr('style', 'background-color: #322372 !important'); 
