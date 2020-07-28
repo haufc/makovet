@@ -645,7 +645,7 @@ p{
 .introduce > .introduce__item > .introduce__item-text {
     top: 50%;
     transform: translateY(-50%);
-    margin-left: 40px;
+    margin-left: 30px;
 }
 .introduce > .introduce__item > .introduce__item-text.introduce__item-text--yellow {
     color: #ffcb08;
