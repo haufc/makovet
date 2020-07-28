@@ -10,16 +10,16 @@
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items">
-                        <div class="col-lg col-md-1">
+                        <div class="col-lg col-md-1 col-sm-12 col-xs-12">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold photo-title font-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.photoTitle_s}</h3>
                         </div>
-                        <div class="col-lg-4 col-md-4">
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                             <img class="products__img" style="width:100%; height: 100%;" src="${contentModel.photoAvatar1_s}" alt="Product image"/>
                         </div>
                         <div class="col-lg-4 col-md-4">
                             <img class="products__img" style="width:100%; height: 100%;" src="${contentModel.photoAvatar2_s}" alt="Product image"/>
                         </div>
-                        <div class="col-lg col-md-1">
+                        <div class="col-lg col-md-1 col-sm-12 col-xs-12">
                             <a style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.photoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
@@ -31,10 +31,10 @@
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items" style="">
-                        <div class="col-lg col-md-1">
+                        <div class="col-lg col-md-1 col-sm-12 col-xs-12">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold video-title font-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.videoTitle_s}</h3>
                         </div>
-                        <div class="col-lg-4 col-md-4 pl-lg-2 pl-md-2" style="position: relative;">
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 pl-lg-2 pl-md-2" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
                                   <a data-fancybox data-small-btn="true" href="${contentModel.videoURL1_s}">
                                     <span class="play-icon"><i class="fa fa-play text-white"></i></span>
@@ -49,7 +49,7 @@
                                     </a>
                                 </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 pr-lg-2 pr-md-2">
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 pr-lg-2 pr-md-2">
                            <figure style="width: 100%; height: 256.757px;">
                                   <a data-fancybox data-small-btn="true" href="${contentModel.videoURL2_s}">
                                     <span class="play-icon"><i class="fa fa-play text-white"></i></span>
@@ -64,7 +64,7 @@
                                     </a>
                                 </div>
                         </div>
-                        <div class="col-lg col-md-1">
+                        <div class="col-lg col-md-1 col-sm-12 col-xs-12">
                             <a style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
@@ -76,16 +76,16 @@
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items">
-                        <div class="col-lg col-md-1">
+                        <div class="col-lg col-md-1 col-sm-12 col-xs-12">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold catalog-title font-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.documentTitle_s}</h3>
                         </div>
-                        <div class="col-lg-4 col-md-4">
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                             <img class="products__img " style="width:100%; height: 100%;" src="${contentModel.documentAvatar1_s}" alt="Product image"/>
                         </div>
-                        <div class="col-lg-4 col-md-4">
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                             <img class="products__img " style="width:100%; height: 100%;" src="${contentModel.documentAvatar2_s}" alt="Product image"/>
                         </div>
-                        <div class="col-lg col-md-1">
+                        <div class="col-lg col-md-1 col-sm-12 col-xs-12">
                             <a style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.documentURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
