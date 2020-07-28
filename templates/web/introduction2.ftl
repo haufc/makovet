@@ -26,6 +26,9 @@
             <a class="introduce__item-link" href="${contentModel.urlaward_s}"></a>
             <p class="introduce__item-text introduce__item-text--yellow text--uppercase font-bold" style="font-size: 18px;">${contentModel.titleaward_s}</p>
         </div>
+    </section>
+    </div>
 </div>
 </section>
+
 <@studio.toolSupport />
