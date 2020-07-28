@@ -34,7 +34,7 @@
                         <div class="col-lg col-md-1  ">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold video-title font-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.videoTitle_s}</h3>
                         </div>
-                        <div class="col-lg-4 col-md-4   pl-lg-2 pl-md-2" style="position: relative;">
+                        <#--<div class="col-lg-4 col-md-4   pl-lg-2 pl-md-2" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
                                   <a data-fancybox data-small-btn="true" href="${contentModel.videoURL1_s}">
                                     <span class="play-icon"><i class="fa fa-play text-white"></i></span>
@@ -63,6 +63,40 @@
                                         <h3 style="margin-bottom: 0 !important; padding: 12px;font-size:16px;" class="video-name text-white text--uppercase" style="fon">${contentModel.namesVideo2_s}</h3>
                                     </a>
                                 </div>
+                        </div> -->
+                        <div class="col-lg-4 col-md-4   pr-lg-2 pr-md-2">
+                            <div class="item-box" style="position: relative;">
+                                <figure style="width: 100%; height: 256.757px;">
+                                  <a data-fancybox="" data-small-btn="true" href="https://www.youtube.com/embed/oqNBznIK6d0">
+                                    <span class="play-icon"><i class="fa fa-play text-white"></i></span>
+                                  </a>
+                                  <a data-fancybox="" data-small-btn="true" href="https://www.youtube.com/embed/oqNBznIK6d0">
+                                    <img style="height: 100%;object-fit: cover;width: 100%;" id="img-0" src="/static-assets/images/libraries/videos/xuat_khau_thit_heo_mavin_.jpg" alt="Tập đoàn Mavin: Doanh nghiệp Việt đầu tiên xuất khẩu thịt heo thành công">
+                                  </a>
+                                </figure>
+                                <div class="cap-content" style="background: #322372;left: 0;bottom:0;position: absolute;width: 100%;">
+                                    <a data-fancybox="" data-small-btn="true" href="https://www.youtube.com/embed/oqNBznIK6d0">
+                                        <h3 id="video-0" style="margin-bottom: 0 !important; padding: 12px;font-size:20px;" class="video-name text-white text--uppercase font-title">Tập đoàn Mavin: Doanh nghiệ...</h3>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4   pr-lg-2 pr-md-2">
+                            <div class="item-box" style="position: relative;">
+                                <figure style="width: 100%; height: 256.757px;">
+                                  <a data-fancybox="" data-small-btn="true" href="https://www.youtube.com/embed/oqNBznIK6d0">
+                                    <span class="play-icon"><i class="fa fa-play text-white"></i></span>
+                                  </a>
+                                  <a data-fancybox="" data-small-btn="true" href="https://www.youtube.com/embed/oqNBznIK6d0">
+                                    <img style="height: 100%;object-fit: cover;width: 100%;" id="img-0" src="/static-assets/images/libraries/videos/xuat_khau_thit_heo_mavin_.jpg" alt="Tập đoàn Mavin: Doanh nghiệp Việt đầu tiên xuất khẩu thịt heo thành công">
+                                  </a>
+                                </figure>
+                                <div class="cap-content" style="background: #322372;left: 0;bottom:0;position: absolute;width: 100%;">
+                                    <a data-fancybox="" data-small-btn="true" href="https://www.youtube.com/embed/oqNBznIK6d0">
+                                        <h3 id="video-0" style="margin-bottom: 0 !important; padding: 12px;font-size:20px;" class="video-name text-white text--uppercase font-title">Tập đoàn Mavin: Doanh nghiệ...</h3>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-lg col-md-1  ">
                             <a style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
