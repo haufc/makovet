@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head> 
     <title>${contentModel.title_s}</title>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
