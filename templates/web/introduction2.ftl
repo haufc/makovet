@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<section style="width: 1145px;">
+<section>
     <div class="section-title">
         <div class="section-title__content block">
             <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
