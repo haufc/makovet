@@ -622,6 +622,46 @@ p{
   height: 60px;
   margin: 0 auto;
 }
+/* ---------- Introduction 28/7/2020 ---------- */
+.introduce > .introduce__item {
+    position: relative;
+    height: 430px;
+    margin-bottom: 33px;
+}
+.introduce > .introduce__item > .introduce__item-link,
+.introduce > .introduce__item > .introduce__item-text,
+.introduce > .introduce__item > .introduce__item-bg,
+.introduce > .introduce__item > .introduce__item-img {
+    position: absolute;
+}
+.introduce > .introduce__item > .introduce__item-link,
+.introduce > .introduce__item > .introduce__item-text {
+    z-index: 3;
+}
+.introduce > .introduce__item > .introduce__item-link {
+    width: 100%;
+    height: 100%;
+}
+.introduce > .introduce__item > .introduce__item-text {
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 40px;
+}
+.introduce > .introduce__item > .introduce__item-text.introduce__item-text--yellow {
+    color: #ffcb08;
+}
+.introduce > .introduce__item > .introduce__item-text.introduce__item-text--purple {
+    color: #322372;
+}
+.introduce > .introduce__item > .introduce__item-bg {
+    left: 0;
+    z-index: 2;
+}
+.introduce > .introduce__item > .introduce__item-img {
+    right: 0;
+    z-index: 1;
+}
+/* ---------- End Introduction ---------- */
 
 /* Footer */
 .footer {
