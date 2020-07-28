@@ -32,7 +32,7 @@
                 <section class="products__list">
                     <div class="products__list-items" style="">
                         <div class="col-lg col-md-1  ">
-                            <h3 class="text--center violet-color text--uppercase font-weight-bold video-title font-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.videoTitle_s}</h3>
+                            <h3 class="text--center violet-color text--uppercase font-weight-bold video-title font-title" style="font-size: 25px;position: absolute;top: 40%">${contentModel.videoTitle_s}</h3>
                         </div>
                         <div class="col-lg-4 col-md-4">
                             <div class="item-box" style="position: relative;">
@@ -68,8 +68,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg col-md-1  mb-sm-3 mb-xs-3">
-                            <a class="mt-sm-3 mt-xs-3" style="position: absolute;top: 42%;left:50%;font-size: 30px;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
+                        <div class="col-lg col-md-1" style="margin-top: 10px; padding-top:10px;">
+                            <a class="mt-sm-3 mt-xs-3" style="position: absolute;top: 35%;left:50%;font-size: 30px;" href="${contentModel.videoURL_s}"><i class="fa fa-play text-white" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </section>
