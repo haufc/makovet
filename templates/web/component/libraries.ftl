@@ -31,7 +31,7 @@
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items" style="">
-                        <div class="col-lg col-md">
+                        <div class="col-lg col-md-1">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold video-title font-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.videoTitle_s}</h3>
                         </div>
                         <div class="col-lg-4 col-md-4 pl-lg-2 pl-md-2" style="position: relative;">
@@ -76,7 +76,7 @@
             <div class="products__content">
                 <section class="products__list">
                     <div class="products__list-items">
-                        <div class="col-lg col-md">
+                        <div class="col-lg col-md-1">
                             <h3 class="text--center violet-color text--uppercase font-weight-bold catalog-title font-title" style="font-size: 25px;position: absolute;top: 42%">${contentModel.documentTitle_s}</h3>
                         </div>
                         <div class="col-lg-4 col-md-4">
