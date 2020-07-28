@@ -188,7 +188,7 @@
 					<properties>
 						<property>
 							<name>datasource</name>
-							<value></value>
+							<value>processGroup</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -221,12 +221,12 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>250</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>250</value>
 							<type>int</type>
 						</property>
 						<property>
