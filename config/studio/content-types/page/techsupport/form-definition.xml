@@ -194,7 +194,7 @@
 			<fields>
 				<field>
 					<type>input</type>
-					<id>title_s</id>
+					<id>processtitle_s</id>
 					<iceId></iceId>
 					<title>Title</title>
 					<description></description>
