@@ -4,7 +4,7 @@
             <h1 class="section-title__content-text text--uppercase">${contentModel.title1_s}</h1>
         </div>
     </div>
-	<div class="container pl-lg-0 pl-md-0">
+	<div class="container pl-lg-0 pl-md-0" style="margin-bottom: 100px;">
 	    <div id ="panigation-job">
             <#if (jobs)??>
             	<#list jobs as job>
@@ -27,7 +27,7 @@
             <h1 class="section-title__content-text text--uppercase">${contentModel.title2_s}</h1>
         </div>
     </div>
-    <div class="container pl-lg-0 pl-md-0" style="margin-bottom: 100px;">
+    <div class="container pl-lg-0 pl-md-0">
 	    <div class="row">
 	        <div class="col-lg-6 col-md-6">
 	            <img class="img-full" src="${contentModel.contentLeftImage_s}" />
