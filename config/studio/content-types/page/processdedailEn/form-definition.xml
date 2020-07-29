@@ -441,7 +441,7 @@
 						</property>
 						<property>
 							<name>componentPath</name>
-							<value>/site/taxonomy/process.xml</value>
+							<value>/site/taxonomy/process-en.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
