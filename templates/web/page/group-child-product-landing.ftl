@@ -35,7 +35,7 @@
                 <span class="text-white font-weight-bold" style="font-size: 32px;" id="child-pr"></span></span>
             </div>
         </div>
-        <div class="container mb-md-5">
+        <div class="container mb-md-5 pl-lg-0 pl-md-0">
             <div class="row" style="margin-right: 0 !important;margin-left: 0 !important;">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pl-md-0 pl-lg-0 babber-img-left">
                     <img class="img-full" src="${contentModel.leftImage_s}"/>
@@ -43,7 +43,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
                     <div class="banner-content" style="padding-top: 9%;">
                         <img style="width:40%;" class="img-center" src="${contentModel.rightimage_s}"/>
-                        <p style="font-size: 1.4375em" class="font-weight-bold violet-color text-center mt-4 text--uppercase">ampicolistin</p>
+                        <p style="font-size: 1.4375em" class="font-weight-bold violet-color text-center mt-4 text--uppercase font-title">ampicolistin</p>
                     </div>
                 </div>
             </div>

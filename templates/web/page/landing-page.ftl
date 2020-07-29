@@ -217,6 +217,7 @@
     <script src="/static-assets/js/video-modal.js"></script>
     <script src="/static-assets/js/nav-link.js"></script>
     <script src="/static-assets/js/techsupport.js"></script>
+    <script src="/static-assets/js/process-list.js"></script>
     <script>
         // set width for google map
         $('iframe').attr('width','83%');
@@ -258,7 +259,7 @@
            var titleNames = $('.child-title__name');
            for (let i = 0; i < titleNames.length; i++) {
                let splits = $(titleNames[i]).text().replace('/', ' <br/> ');
-               let ele = '<p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name" style="font-size: 32px;line-height: 1.25;">' + splits + '</p>'
+               let ele = '<p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name font-title" style="font-size: 32px;line-height: 1.25;">' + splits + '</p>'
                $(titleNames[i]).html(ele);
            }
         });

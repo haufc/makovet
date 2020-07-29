@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <div class="section-title">
         <div class="section-title__content block">
-            <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
+            <h1 class="section-title__content-text text--uppercase font-title">${contentModel.title_s}</h1>
         </div>
     </div>
     <div class="container pl-lg-0 pl-md-0">
@@ -12,7 +12,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
                 <div class="banner-content" style="padding-top: 9%;">
                     <img style="width:40%;" class="img-center" src="${contentModel.groupProductImg2_s}"/>
-                    <p style="font-size: 1.4375em" class="font-weight-bold violet-color text-center mt-4 text--uppercase">${contentModel.rightTitle_s}</p>
+                    <p style="font-size: 1.4375em" class="font-weight-bold violet-color text-center mt-4 text--uppercase font-title">${contentModel.rightTitle_s}</p>
                 </div>
             </div>
         </div>
@@ -22,7 +22,7 @@
             <#list contentModel.groupproductchild_o.item as item>
             	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-lg-5 mb-md-4">
             	    <a href="${item.groupChildProductURL_s}"><img style="max-width:100%; height:auto;" src="${item.groupChildProductImage_s}"/></a>
-            	    <p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name" style="font-size: 32px;line-height: 1.25;">${item.groupChildProductName_s}</p>
+            	    <p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name font-title" style="font-size: 32px;line-height: 1.25;">${item.groupChildProductName_s}</p>
             	</div>
             </#list>
         </div>

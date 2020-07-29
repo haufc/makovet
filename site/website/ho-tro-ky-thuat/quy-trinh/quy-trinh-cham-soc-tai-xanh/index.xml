@@ -33,7 +33,7 @@
 	<navLabel>Quy trình chăm sóc bệnh tai xanh</navLabel>
 	<processName_s>Quy trình chăm sóc bệnh tai xanh</processName_s>
 	<datecreated_s>17/04/2017</datecreated_s>
-	<parentURL_s>#</parentURL_s>
+	<parentURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-gia-suc-gia-cam</parentURL_s>
 	<processType_o>	<item>	<key>benh-gia-suc-gia-cam</key>
 	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Gia súc - Gia cầm</value_smv>
 	</item></processType_o>
@@ -81,6 +81,6 @@
 &lt;p style="text-align: right;"&gt;Ảnh minh họa: sưu tầm&lt;/p&gt;</processContent_html>
 	<createdDate>2020-07-28T11:29:42.003Z</createdDate>
 	<createdDate_dt>2020-07-28T11:29:42.003Z</createdDate_dt>
-	<lastModifiedDate>2020-07-28T11:29:42.003Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-28T11:29:42.003Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-29T03:05:20.597Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:05:20.597Z</lastModifiedDate_dt>
 </page>

@@ -45,7 +45,7 @@
             <div class="row">
                 <#if (contentModel.processComponent_o.item)?? && contentModel.section_o??>
                     <#list (contentModel.processComponent_o.item)![] as section>
-                        <div class="group-pr-${section?index} col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                        <div class="group-pr-${section?index} col-lg-4 col-md-4 col-sm-6 col-xs-6" style="margin-bottom: 60px;">
                             <@renderComponent parent=contentModel component=section />
                         </div>
                     </#list>
@@ -242,7 +242,7 @@
                let splits = $(titleNames[i]).text();
                let arr = splits.split('/');
                let result = arr.join('<br/>');
-               let ele = '<p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name" style="font-size: 32px;line-height: 1.25;">' + result + '</p>'
+               let ele = '<p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name font-title" style="font-size: 32px;line-height: 1.25;">' + result + '</p>'
                $(titleNames[i]).html(ele);
            }
             

@@ -4,7 +4,7 @@
             <h1 class="section-title__content-text text--uppercase">${contentModel.title1_s}</h1>
         </div>
     </div>
-	<div class="container pl-lg-0 pl-md-0">
+	<div class="container pl-lg-0 pl-md-0" style="margin-bottom: 100px;">
 	    <div id ="panigation-job">
             <#if (jobs)??>
             	<#list jobs as job>
@@ -15,7 +15,7 @@
                 </#list>
             </#if>
         </div>
-        <nav aria-label="Page navigation example">
+        <nav aria-label="Page navigation example" style="margin-top: 40px;">
           <ul class="pagination pagi justify-content-center">
             <li id="previous-page" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
           </ul>
