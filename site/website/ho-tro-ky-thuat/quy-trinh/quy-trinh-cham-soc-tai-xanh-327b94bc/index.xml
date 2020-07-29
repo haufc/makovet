@@ -7,7 +7,7 @@
 	<objectGroupId>062abae2</objectGroupId>
 	<objectId>062abae2-4ff5-4bc3-b9d9-6a602600db19</objectId>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
 	<folder-name>quy-trinh-cham-soc-tai-xanh-327b94bc</folder-name>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>6993f6b9-3eb6-6b27-e29e-fb48f417c357</key>
@@ -29,7 +29,7 @@
 	<lastModifiedDate_dt>2020-07-28T11:30:05.923Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<internal-name>Quy trình chăm sóc bệnh tai xanh</internal-name>
+	<internal-name>Quy trình chăm sóc bệnh tai xanh 1</internal-name>
 	<navLabel>Quy trình chăm sóc bệnh tai xanh</navLabel>
 	<processName_s>Quy trình chăm sóc bệnh tai xanh</processName_s>
 	<datecreated_s>17/04/2017</datecreated_s>
@@ -81,6 +81,6 @@
 &lt;p style="text-align: right;"&gt;Ảnh minh họa: sưu tầm&lt;/p&gt;</processContent_html>
 	<createdDate>2020-07-28T11:29:42.003Z</createdDate>
 	<createdDate_dt>2020-07-28T11:29:42.003Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T03:05:20.597Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T03:05:20.597Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-29T03:13:49.993Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:13:49.993Z</lastModifiedDate_dt>
 </page>
