@@ -63,7 +63,7 @@
                     <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.title_s}</h2>
                 </div>
                 <div class="note-document" style="padding: 1% 0">
-                    <h3 style="font-size: 20px;" class="text-center violet-color font-title">
+                    <h3 style="font-size: 20px;" class="text-center violet-color font-title font-weight-bold">
                         Cuộn từ góc phải để xem trang tiếp theo và ngược lại(Có thể sử dụng phím điều hướng cho Máy tính)
                     </h3>
                 </div>
