@@ -9,6 +9,12 @@ def processes = searchHelper.searchProcess(category.text,0,3)
 
 def categories = new TaxonomySearchHelper("process", elasticsearch, siteItemService)
 						.getItems()
+
+println("List process")
+println(processes)
+
+println("Taxonomy")
+print(categories)
 						
 templateModel.categories = categories
 templateModel.processes = processes
