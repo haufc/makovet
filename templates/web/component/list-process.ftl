@@ -5,10 +5,10 @@
         </div>
     </div>
 	<div class="container pl-lg-0 pl-md-0">
-	    <div id ="panigation-tech">
+	    <div id ="panigation-process">
             <#if (processes)??>
             	<#list processes as process>
-                    <div class="tech-item">
+                    <div class="process-item">
                         <a class="violet-color font-weight-bold font-title" style="font-size:20px;" href="${process.url}" class="d-block">${process.title}</a>
                         <p style="font-size: 20px; margin-top:5px; font-title" class="dim-grey-color">(${process.time})</p>
                     </div>
