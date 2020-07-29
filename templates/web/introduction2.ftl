@@ -15,7 +15,7 @@
             </div>
 
             <div class="introduce__item">
-                <a class="introduce__item-link" href="${contentModel.history_s}"></a>
+                <a class="introduce__item-link" href="${contentModel.urlhistory_s}"></a>
                 <p class="introduce__item-text introduce__item-text--yellow text--uppercase font-title font-bold" style=" font-size:18px;">${contentModel.titlehistory_s}</p>
                 <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_purple.png" alt="Introduce background">
                 <img class="introduce__item-img full-size" src="${contentModel.history_s}" alt="Introduce image">
