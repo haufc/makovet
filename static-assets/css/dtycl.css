@@ -187,6 +187,15 @@ p{
   display: flex;
 }
 
+.nav__hotline p{
+    font-size: 13px; 
+    color: #322372;
+}
+
+.hotline-span{
+    font-size:13px;
+}
+
 .block {
   width: 100%;
   max-width: 1200px;
