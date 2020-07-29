@@ -9,8 +9,8 @@
 	<file-name>index.xml</file-name>
 	<folder-name>quy-trinh-cahm-soc-tom-cang-xanh-31e24ff0</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<internal-name>Quy trình chăm sóc tôm hùm xanh 31e24ff0</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Quy trình chăm sóc tôm hùm xanh 1</internal-name>
 	<navLabel>Quy trình chăm sóc tôm hùm xanh</navLabel>
 	<processName_s>Quy trình chăm sóc tôm hùm xanh</processName_s>
 	<datecreated_s>17/04/2017</datecreated_s>
@@ -81,6 +81,6 @@
 &lt;p style="text-align: right;"&gt;Ảnh minh họa: sưu tầm&lt;/p&gt;</processContent_html>
 	<createdDate>2020-07-29T03:06:29.590Z</createdDate>
 	<createdDate_dt>2020-07-29T03:06:29.590Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T03:06:29.590Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T03:06:29.590Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-29T03:14:26.019Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:14:26.019Z</lastModifiedDate_dt>
 </page>
