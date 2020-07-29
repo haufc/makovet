@@ -22,7 +22,7 @@
             <#list contentModel.groupproductchild_o.item as item>
             	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-lg-5 mb-md-4">
             	    <a href="${item.groupChildProductURL_s}"><img style="max-width:100%; height:auto;" src="${item.groupChildProductImage_s}"/></a>
-            	    <p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name" style="font-size: 32px;line-height: 1.25;">${item.groupChildProductName_s}</p>
+            	    <p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name font-title" style="font-size: 32px;line-height: 1.25;">${item.groupChildProductName_s}</p>
             	</div>
             </#list>
         </div>
