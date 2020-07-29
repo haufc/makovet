@@ -6,13 +6,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>d09e3459</objectGroupId>
 	<objectId>d09e3459-66da-42a4-9fb5-4a754ee576f1</objectId>
-	<internal-name>Quy trình chăm sóc chó Ngao - Tây Tạng  01e16159</internal-name>
+	<internal-name>Quy trình chăm sóc chó Ngao - Tây Tạng  1</internal-name>
 	<navLabel>Quy trình chăm sóc chó Ngao - Tây Tạng </navLabel>
 	<processName_s>Quy trình chăm sóc chó Ngao - Tây Tạng </processName_s>
 	<datecreated_s>17/04.2017</datecreated_s>
 	<parentURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-thuy-san</parentURL_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>f51ae207-6d30-88d4-6c78-889a78074430</key>
 	<value>Slide</value>
 <component id="f51ae207-6d30-88d4-6c78-889a78074430">
@@ -81,6 +81,6 @@
 &lt;p style="text-align: right;"&gt;Ảnh minh họa: sưu tầm&lt;/p&gt;</processContent_html>
 	<createdDate>2020-07-29T03:11:04.619Z</createdDate>
 	<createdDate_dt>2020-07-29T03:11:04.619Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T03:11:04.619Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T03:11:04.619Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-29T03:14:10.630Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:14:10.630Z</lastModifiedDate_dt>
 </page>
