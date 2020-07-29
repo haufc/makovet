@@ -55,7 +55,7 @@ class ProcessSearchHelper {
         if (documents) {
             documents.each {doc ->
                 def supportTech = [:]
-                    supportTech.title = doc.processType_o
+                    supportTech.title = doc.processName_s
                     supportTech.desc = doc.processContent_html
                     supportTech.time = doc.datecreated_s
                     supportTech.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
