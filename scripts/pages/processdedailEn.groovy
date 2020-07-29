@@ -5,7 +5,7 @@ def searchHelper = new ProcessEnSearchHelper(elasticsearch, urlTransformationSer
 def category = contentModel.processType_o.item.key
 
 def processes = searchHelper.searchProcess(category.text,0)
-def categories = new TaxonomySearchHelper("process", elasticsearch, siteItemService)
+def categories = new TaxonomySearchHelper("process-en", elasticsearch, siteItemService)
 						.getItems()
 
 templateModel.processes = processes
