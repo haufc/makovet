@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value></value>
+			<value>/templates/web/component/group-process.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -300,7 +300,7 @@
 						</property>
 						<property>
 							<name>componentPath</name>
-							<value></value>
+							<value>/site/taxonomy/process-en.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
