@@ -35,6 +35,24 @@
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
+        
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase">${contentModel.processtitle_s}</h1>
+            </div>
+        </div>
+        <div class="container pl-lg-0 pl-md-0 mb-4">
+            <div class="row">
+                <#if (contentModel.processComponent_o.item)?? && contentModel.section_o??>
+                    <#list (contentModel.processComponent_o.item)![] as section>
+                        <div class="group-pr-${section?index} col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                            <@renderComponent parent=contentModel component=section />
+                        </div>
+                    </#list>
+                </#if>
+            </div>
+        </div>
+        
         <div class="section-title">
             <div class="section-title__content block">
                 <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
@@ -218,6 +236,15 @@
                 let ele = '<p class="violet-color font-weight-bold text-center mt-3 text-uppercase sick-title font-title" style="font-size: 32px;line-height:1.4;">'+firstText+'<br/>' +rsText+'</p>';
                 $(lstsick[i]).html(ele);
             }
+            
+           var titleNames = $('.child-title__name');
+           for (let i = 0; i < titleNames.length; i++) {
+               let splits = $(titleNames[i]).text();
+               let arr = splits.split('/');
+               let result = arr.join('<br/>');
+               let ele = '<p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name" style="font-size: 32px;line-height: 1.25;">' + result + '</p>'
+               $(titleNames[i]).html(ele);
+           }
             
         });
     </script>

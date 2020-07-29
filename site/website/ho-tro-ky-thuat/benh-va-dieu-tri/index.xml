@@ -52,6 +52,20 @@
 &lt;p&gt;H&amp;atilde;y li&amp;ecirc;n hệ với ch&amp;uacute;ng t&amp;ocirc;i để nhận được sự tư vấn, hỗ trợ kịp thời với chất lượng phục vụ tốt nhất.&lt;/p&gt;</supportCustomerContent_html>
 	<createdDate>2020-06-26T04:17:04.077Z</createdDate>
 	<createdDate_dt>2020-06-26T04:17:04.077Z</createdDate_dt>
-	<lastModifiedDate>2020-07-17T04:33:23.012Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-17T04:33:23.012Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-28T10:47:57.470Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T10:47:57.470Z</lastModifiedDate_dt>
+	<processtitle_s>QUY TRÌNH CHĂN NUÔI - CHĂM SÓC - PHÒNG BỆNH</processtitle_s>
+	<processComponent_o item-list="true">	<item datasource="processComponent">	<key>/site/items/6f431038-f6f7-d220-978a-54a2929cb97f.xml</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</value>
+	<include>/site/items/6f431038-f6f7-d220-978a-54a2929cb97f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="processComponent">	<key>/site/items/a6256b39-7de8-7a07-55ab-8985fed7c875.xml</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THỦY SẢN</value>
+	<include>/site/items/a6256b39-7de8-7a07-55ab-8985fed7c875.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="processComponent">	<key>/site/items/6e5ff3f7-2539-81e0-5e5f-5329956e88c3.xml</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</value>
+	<include>/site/items/6e5ff3f7-2539-81e0-5e5f-5329956e88c3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></processComponent_o>
 </page>

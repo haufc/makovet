@@ -8,7 +8,7 @@
 	<objectId>72242a3a-80b4-8aaa-56f6-90fb1a99bcda</objectId>
 	<internal-name>Nhóm bồi dưỡng tăng sức đề kháng</internal-name>
 	<navLabel>Nhóm bồi dưỡng tăng sức đề kháng</navLabel>
-	<title_s>Nhóm bồi dưỡng tăng sức đề kháng</title_s>
+	<title_s>Nhóm thuốc bồi dưỡng tăng sức đề kháng</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>a51a3e0d-533a-db20-0532-ad339d317d75</key>
@@ -41,6 +41,6 @@
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-03T07:24:57.914Z</createdDate>
 	<createdDate_dt>2020-07-03T07:24:57.914Z</createdDate_dt>
-	<lastModifiedDate>2020-07-20T02:17:57.224Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-20T02:17:57.224Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-28T08:29:35.935Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T08:29:35.935Z</lastModifiedDate_dt>
 </page>

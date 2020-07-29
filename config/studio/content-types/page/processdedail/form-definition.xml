@@ -1,15 +1,15 @@
 <form>
-	<title>Page - Khuôn mẫu Hỗ trợ kỹ thuật</title>
+	<title>Page - Hỗ trợ kỹ thuật chi tiết(Quy trình)</title>
 	<description></description>
 	<objectType>page</objectType>
-	<content-type>/page/techsupport</content-type>
+	<content-type>/page/processdedail</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>false</quickCreate>
 	<quickCreatePath></quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/web/page/technical-assis-landing.ftl</value>
+			<value>/templates/web/page/process-detail.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -26,7 +26,7 @@
 		</property>
 	</properties>
 	<sections>		<section>
-			<title>Page - Khuôn mẫu Hỗ trợ kỹ thuật Properties</title>
+			<title>Page - Hỗ trợ kỹ thuật chi tiết(Quy trình) Properties</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>
@@ -185,116 +185,49 @@
 						</constraint>
 					</constraints>
 				</field>
-			</fields>
-		</section>
-		<section>
-			<title>Process of breeding - taking care - preventing diseases</title>
-			<description>Quá trình chăn nuôi - chăm sóc - phòng bệnh</description>
-			<defaultOpen>true</defaultOpen>
-			<fields>
 				<field>
-					<type>input</type>
-					<id>processtitle_s</id>
+					<type>checkbox-group</type>
+					<id>processType_o</id>
 					<iceId></iceId>
-					<title>Title</title>
+					<title>Process Type</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>node-selector</type>
-					<id>processComponent_o</id>
-					<iceId></iceId>
-					<title>Process Component</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>minSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>itemManager</name>
-							<value>processComponent</value>
+							<name>datasource</name>
+							<value>processType</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
+							<name>selectAll</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>listDirection</name>
+							<value>[{&quot;value&quot;:&quot;horizontal&quot;,&quot;label&quot;:&quot;Horizonal&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;vertical&quot;,&quot;label&quot;:&quot;Vertical&quot;,&quot;selected&quot;:false}]</value>
+							<type>dropdown</type>
+						</property>
+						<property>
 							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>disableFlattening</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>useSingleValueFilename</name>
 							<value></value>
 							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
 						<constraint>
-							<name>allowDuplicates</name>
+							<name>minSize</name>
 							<value><![CDATA[]]></value>
-							<type>boolean</type>
+							<type>int</type>
 						</constraint>
 					</constraints>
 				</field>
-			</fields>
-		</section>
-		<section>
-			<title>List Technical Assistance</title>
-			<description></description>
-			<defaultOpen>true</defaultOpen>
-			<fields>
 				<field>
 					<type>input</type>
-					<id>title_s</id>
+					<id>processName_s</id>
 					<iceId></iceId>
-					<title>Title</title>
+					<title>Process Name</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -323,124 +256,21 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[true]]></value>
+							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
 						<constraint>
 							<name>pattern</name>
 							<value><![CDATA[]]></value>
 							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>node-selector</type>
-					<id>technicalAssistanceCompoent_o</id>
-					<iceId></iceId>
-					<title>Technical Assistance Compoent</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>minSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>itemManager</name>
-							<value>technicalAssistanceComponent</value>
-							<type>datasource:item</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>disableFlattening</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>useSingleValueFilename</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>allowDuplicates</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-			</fields>
-		</section>
-		<section>
-			<title>Other Infomation</title>
-			<description></description>
-			<defaultOpen>true</defaultOpen>
-			<fields>
-				<field>
-					<type>image-picker</type>
-					<id>supportCustomerImage_s</id>
-					<iceId></iceId>
-					<title>Support Customer Image</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>width</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>thumbnailWidth</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>thumbnailHeight</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value>uploadImage,existingImage</value>
-							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
 						</constraint>
 					</constraints>
 				</field>
 				<field>
 					<type>rte-tinymce5</type>
-					<id>supportCustomerContent_html</id>
+					<id>processContent_html</id>
 					<iceId></iceId>
-					<title>Support Customer Content</title>
+					<title>Process Content</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -487,7 +317,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>uploadImage,existingImage</value>
+							<value></value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -511,9 +341,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>phoneNumber_s</id>
+					<id>datecreated_s</id>
 					<iceId></iceId>
-					<title>Phone Number</title>
+					<title>Date created</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -552,43 +382,66 @@
 						</constraint>
 					</constraints>
 				</field>
+				<field>
+					<type>input</type>
+					<id>parentURL_s</id>
+					<iceId></iceId>
+					<title>Parent URL</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>350</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>350</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
 			</fields>
 		</section>
 	</sections>
 	<datasources>				<datasource>
-					<type>shared-content</type>
-					<id>technicalAssistanceComponent</id>
-					<title>Technical Assistance Component</title>
+					<type>site-component</type>
+					<id>processType</id>
+					<title>Process Type</title>
 					<interface>item</interface>
 					<properties>
 						<property>
-							<name>enableCreateNew</name>
-							<value>true</value>
+							<name>dataType</name>
+							<value>[{&quot;value&quot;:&quot;value&quot;,&quot;label&quot;:&quot;&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_s&quot;,&quot;label&quot;:&quot;String&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;value_i&quot;,&quot;label&quot;:&quot;Integer&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_f&quot;,&quot;label&quot;:&quot;Float&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_dt&quot;,&quot;label&quot;:&quot;Date&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_html&quot;,&quot;label&quot;:&quot;Data Type&quot;,&quot;selected&quot;:false}]</value>
 								<type>undefined</type>
 						</property>
 						<property>
-							<name>enableBrowseExisting</name>
-							<value>true</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>enableSearchExisting</name>
-							<value>false</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>repoPath</name>
-							<value>/site/items</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>browsePath</name>
-							<value></value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>type</name>
-							<value>/component/techsupportcomponent</value>
+							<name>componentPath</name>
+							<value>/site/taxonomy/process.xml</value>
 								<type>undefined</type>
 						</property>
 					</properties>
@@ -602,75 +455,6 @@
 						<property>
 							<name>contentType</name>
 							<value></value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>img-desktop-upload</type>
-					<id>uploadImage</id>
-					<title>Upload Image</title>
-					<interface>image</interface>
-					<properties>
-						<property>
-							<name>repoPath</name>
-							<value>/static-assets/images/techsupport</value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>img-repository-upload</type>
-					<id>existingImage</id>
-					<title>Existing Image</title>
-					<interface>image</interface>
-					<properties>
-						<property>
-							<name>repoPath</name>
-							<value>/static-assets/images/techsupport</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>useSearch</name>
-							<value>false</value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>shared-content</type>
-					<id>processComponent</id>
-					<title>Process Component</title>
-					<interface>item</interface>
-					<properties>
-						<property>
-							<name>enableCreateNew</name>
-							<value>true</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>enableBrowseExisting</name>
-							<value>true</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>enableSearchExisting</name>
-							<value>false</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>repoPath</name>
-							<value>/site/items</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>browsePath</name>
-							<value></value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>type</name>
-							<value>/component/process</value>
 								<type>undefined</type>
 						</property>
 					</properties>
