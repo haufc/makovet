@@ -56,7 +56,12 @@
             <div class="nav__logo">
                 <a href="/trang-chu"><img src="${contentModel.logo_s}" alt="Logo"></a>
             </div>
-
+            
+            <!-- 29/07/2020 -->
+            <div class="nav__hotline">
+                <p class="font-title font-bold" style="font-size: 13px; color: #322372;">Hotline: <span style="font-size:13px;">0273 382 6462</span></p>
+            </div>
+            
             <a class="nav__btn" onclick="toggleNav()">
                 <i class="fas fa-bars"></i>
             </a>

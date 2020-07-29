@@ -270,12 +270,24 @@ p{
   height: 100%;
   display: -ms-grid;
   display: grid;
-      grid-template-areas: "blank logo" "tools menu";
+      grid-template-areas: "hotline logo" "tools menu";
   -ms-grid-columns: auto 1365px;
       grid-template-columns: auto 1365px;
   -ms-grid-rows: ()[2];
       grid-template-rows: repeat(2);
   grid-column-gap: 230px;
+}
+
+.nav__hotline {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: hotline;
+  margin-top: auto;
+  margin-left: auto;
+}
+
+.nav__hotline p {
+  margin-bottom: 50px;
 }
 
 .nav__btn {
