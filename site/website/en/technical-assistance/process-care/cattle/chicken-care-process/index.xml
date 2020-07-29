@@ -10,7 +10,7 @@
 	<navLabel>Chicken care process</navLabel>
 	<processName_s>Chicken care process</processName_s>
 	<datecreated_s>17/04/2017</datecreated_s>
-	<parentURL_s>/en/technical-assistance/process-care/cattle</parentURL_s>
+	<parentURL_s>/en/technical-assistance/process-care/cattle/index</parentURL_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
@@ -73,6 +73,6 @@
 &lt;p&gt;- When stressed or when in doubt, use APRA-COLIS to mix with food for at least 3 days.&lt;/p&gt;</processContent_html>
 	<createdDate>2020-07-29T03:55:45.504Z</createdDate>
 	<createdDate_dt>2020-07-29T03:55:45.504Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T03:55:45.504Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T03:55:45.504Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-29T04:05:08.475Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T04:05:08.475Z</lastModifiedDate_dt>
 </page>
