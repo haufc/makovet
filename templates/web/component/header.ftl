@@ -59,7 +59,7 @@
             
             <!-- 29/07/2020 -->
             <div class="nav__hotline">
-                <p class="font-title" style="font-size: 0.85vw;">Hotline: 0273 382 6462</p>
+                <p class="font-title font-bold" style="font-size: 0.85vw; color: #322372;">Hotline: <span style="font-size: 1vw">0273 382 6462</span></p>
             </div>
             
             <a class="nav__btn" onclick="toggleNav()">
