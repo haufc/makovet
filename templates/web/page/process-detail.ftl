@@ -62,7 +62,7 @@
                     </#list>
                 </#if>
             </div>
-            <a href="${contentModel.parentURL_s}"><span class="mr-1 violet-color view-more font-weight-bold">Xem tiếp</span><i class="fa fa-play orange-color"></i></a>
+            <a href="${contentModel.parentURL_s}"><span class="mr-1 violet-color view-more font-weight-bold font-title">Xem tiếp</span><i class="fa fa-play orange-color"></i></a>
         </div>
     </div>
     <@renderComponent component=contentModel.slideLogo_o.item />
