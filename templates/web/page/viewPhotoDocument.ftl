@@ -73,7 +73,7 @@
                     </#list>
         		</div>
         		<hr class="line-hozital" style="margin-bottom: 3%; margin-top: 7%;"/>
-        		<span><a style="font-size:20px;"><i style="font-size:20px;" class="fa fa-arrow-left" aria-hidden="true"></i> </a><a style="font-size:20px;" href="/thu-vien/thu-vien-tai-lieu" class="violet-color back-title font-title"> Quay lại trang thư viện tài liệu</a></span>
+        		<span><a style="font-size:20px;"><i style="font-size:20px;" class="fa fa-arrow-left violet-color" aria-hidden="true"></i> </a><a style="font-size:20px;" href="/thu-vien/thu-vien-tai-lieu" class="violet-color back-title font-title"> Quay lại trang thư viện tài liệu</a></span>
 		    </div>
 		</main>
 		
