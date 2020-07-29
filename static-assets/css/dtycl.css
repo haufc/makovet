@@ -278,6 +278,18 @@ p{
   grid-column-gap: 230px;
 }
 
+.nav__hotline {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: hotline;
+  margin-top: auto;
+  margin-left: auto;
+}
+
+.nav__hotline p {
+  margin-bottom: 37px;
+}
+
 .nav__btn {
   margin: 15px;
   padding: 10px;
