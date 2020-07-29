@@ -270,7 +270,7 @@ p{
   height: 100%;
   display: -ms-grid;
   display: grid;
-      grid-template-areas: "blank logo" "tools menu";
+      grid-template-areas: "hotline logo" "tools menu";
   -ms-grid-columns: auto 1365px;
       grid-template-columns: auto 1365px;
   -ms-grid-rows: ()[2];
