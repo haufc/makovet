@@ -45,7 +45,7 @@
             <div class="row">
                 <#if (contentModel.processComponent_o.item)?? && contentModel.section_o??>
                     <#list (contentModel.processComponent_o.item)![] as section>
-                        <div class="group-pr-${section?index} col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                        <div class="group-pr-${section?index} col-lg-4 col-md-4 col-sm-6 col-xs-6" style="margin-bottom: 60px;">
                             <@renderComponent parent=contentModel component=section />
                         </div>
                     </#list>
