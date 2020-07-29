@@ -37,7 +37,7 @@
         left: -23%;
     }
     .nav__container{
-        grid-column-gap: 110px;
+        grid-column-gap: 110px !important;
     }
 }
 @media (max-width: 1440px){
