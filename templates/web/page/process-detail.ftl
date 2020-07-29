@@ -80,11 +80,11 @@
     <script src="/static-assets/js/nav-link.js"></script>
     
     <input hidden value="${contentModel.processType_o.item.key}" id="txt-key"/>
-    <#--<div id="lst-cate">
+    <div id="lst-cate">
         <#list categories.items as cate>
             <input hidden value="${cate.value}/${cate.label}"/>
         </#list>
-    </div> -->
+    </div>
   </body>
   <script>
     $(document).ready(function(){
