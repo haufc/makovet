@@ -1,4 +1,3 @@
-pagi-process
 $(document).ready(function(){
     // Panigation list product
     
