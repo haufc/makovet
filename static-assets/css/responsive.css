@@ -36,6 +36,9 @@
     .slide__bg{
         left: -23%;
     }
+    .nav__container{
+        grid-column-gap: 110px;
+    }
 }
 @media (max-width: 1440px){
     .nav__menu{
