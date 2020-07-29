@@ -54,13 +54,13 @@
             <hr class="line-hozital"/>
             
              <div id ="panigation-techsp" style="line-height: 2;margin-bottom:3.125rem;">
-                <#--<#if (processes)??>
+                <#if (processes)??>
                 	<#list processes as item>
                         <div class="techsp-item">
                             <a class="d-block violet-color font-weight-bold noDecoration" href="${item.url}">${item.title}</a>
                         </div>
                     </#list>
-                </#if> -->
+                </#if>
             </div>
             <a href="${contentModel.parentURL_s}"><span class="mr-1 violet-color view-more font-weight-bold">Xem tiếp</span><i class="fa fa-play orange-color"></i></a>
         </div>
