@@ -46,7 +46,7 @@
         </div>
         <div class="container pl-lg-0 pl-md-0">
             <div class="sick-title" style="background-color:#FFCB08">
-                <h2 class="violet-color p-2 font-weight-bold" style="font-size: 30px;">${contentModel.processName_s}</h2>
+                <h2 class="violet-color p-2 font-weight-bold font-title" style="font-size: 30px;">${contentModel.processName_s}</h2>
             </div>
             <div class="sick-content">
                 ${contentModel.processContent_html}
@@ -57,7 +57,7 @@
                 <#if (processes)??>
                 	<#list processes as item>
                         <div class="techsp-item">
-                            <a class="d-block violet-color font-weight-bold noDecoration" href="${item.url}">${item.title}</a>
+                            <a class="d-block violet-color font-weight-bold noDecoration font-title" style="font-size:20px;" href="${item.url}">${item.title}</a>
                         </div>
                     </#list>
                 </#if>
