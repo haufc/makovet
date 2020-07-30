@@ -28,7 +28,6 @@
                 <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="#">chính sách bảo mật thông tin</a></li>
                 <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="#">chính sách website</a></li>
                 <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="#">quy ước sử dụng website</a></li>
-                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="#">Quay lại giao diện cũ website Mekovet</a></li>
             </ul>
         </section>
 
