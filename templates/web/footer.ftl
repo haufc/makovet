@@ -39,9 +39,9 @@
         </section>
         
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
-        <section style="width:100%;">
-            <p class="footer__item-title text--uppercase font-bold font-title" style="font-size: 18px;">kết nối với cailayvetco</p>
-        </section>
     </div>
+    <section style="width:100%;">
+            <p class="footer__item-title text--uppercase font-bold font-title text--center" style="font-size: 18px;">kết nối với cailayvetco</p>
+    </section>
 </footer>
 <@studio.toolSupport />
