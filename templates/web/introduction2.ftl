@@ -7,7 +7,7 @@
     </div>
     <div class="container">
         <section class="introduce" style="max-width:1145px; width: 100%;">
-            <div class="introduce__item"></a>
+            <div class="introduce__item">
                 <a class="introduce__item-link" href="${contentModel.urlintro_s}">
                 <p class="introduce__item-text introduce__item-text--purple text--uppercase font-title font-bold" style=" font-size:18px;">${contentModel.titleintro_s}</p></a>
                 <img class="introduce__item-bg" src="/static-assets/images/slides/introduce_bg_yellow.png" alt="Introduce background">
