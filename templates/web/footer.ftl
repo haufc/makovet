@@ -40,8 +40,8 @@
         
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
     </div>
-    <section class="block flex" style="width:100%;">
-            <p class="footer__item-title text--uppercase font-bold font-title text--center" style="font-size: 18px;">kết nối với cailayvetco</p>
+    <section class="block flex" style="width:100%; justify-content:center; background: #322372;">
+            <p class="footer__item-title font-bold font-title text--center" style="font-size: 16px; padding-top:10px; color:#fff">Quay lại giao diện cũ website Mekovet</p>
     </section>
 </footer>
 <@studio.toolSupport />
