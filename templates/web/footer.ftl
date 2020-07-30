@@ -37,7 +37,11 @@
             <img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương">
             <p class="" style="font-weight: 100; font-size: 11px;">${contentModel.copyrighted_s}</p>
         </section>
+        
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
+        <section style="width:100%;">
+            <p class="footer__item-title text--uppercase font-bold font-title" style="font-size: 18px;">kết nối với cailayvetco</p>
+        </section>
     </div>
 </footer>
 <@studio.toolSupport />
