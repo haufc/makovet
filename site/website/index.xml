@@ -1,51 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (C) 2007-2020 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License version 3 as published by
-  ~ the Free Software Foundation.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
-
 <page>
-	<content-type>/page/item-explorer</content-type>	<placeInNav>true</placeInNav>
+	<content-type>/page/item-explorer</content-type>
+	<placeInNav>true</placeInNav>
 	<display-template>/templates/web/item-explorer.ftl</display-template>
+	<no-template-required/>
 	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
 	<placeInNav>false</placeInNav>
 	<file-name>index.xml</file-name>
-	<internal-name>Item Explorer</internal-name>
+	<internal-name>Index</internal-name>
 	<orderDefault_f>-1</orderDefault_f>
-	<body_html>&lt;p&gt;This sample site allows you to manage a blog using multiple authors, categories and tags for the posts.&lt;/p&gt;
-&lt;p&gt;All content is exposed by a flexible REST API:&lt;/p&gt;
-&lt;p&gt;get endpoint using an id:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;/api/1/author/{id}.json&lt;/li&gt;
-&lt;li&gt;/api/1/post/{id}.json&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;list endpoints support &amp;#39;start&amp;#39; and &amp;#39;rows&amp;#39; parameters for pagination:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;/api/1/author/list.json&lt;/li&gt;
-&lt;li&gt;/api/1/category/list.json&lt;/li&gt;
-&lt;li&gt;/api/1/tag/list.json&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;list posts endpoint also supports &amp;#39;author&amp;#39;, &amp;#39;categories&amp;#39;, &amp;#39;tags&amp;#39; parameters. A special &amp;#39;q&amp;#39; parameter supports text search in the body of the posts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;/api/1/post/list.json&lt;/li&gt;
-&lt;/ul&gt;</body_html>
 	<objectGroupId>8d7f</objectGroupId>
 	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2017-5-17T15:51:28.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-5-17T15:51:28.000Z</lastModifiedDate_dt>
-	<title_s>Item Explorer</title_s>
+	<lastModifiedDate>2020-07-30T06:48:27.775Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-30T06:48:27.775Z</lastModifiedDate_dt>
+	<title_s>Công ty cổ phần dược thú y Cai Lậy 2</title_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>d8d168e3-dc69-eb80-e55a-66360c2cdf58</key>
+	<value>Slide</value>
+<component id="d8d168e3-dc69-eb80-e55a-66360c2cdf58">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d8d1</objectGroupId>
+	<objectId>d8d168e3-dc69-eb80-e55a-66360c2cdf58</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide_home.png</image_s>
+	</item></slide_o>
+	<file-name>d8d168e3-dc69-eb80-e55a-66360c2cdf58.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-30T06:49:14.128Z</createdDate>
+	<createdDate_dt>2020-07-30T06:49:14.128Z</createdDate_dt>
+	<lastModifiedDate>2020-07-30T06:49:14.128Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-30T06:49:14.128Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>c839084e-4869-9e3b-a4ba-e4f92e839d5a</key>
+	<value>Danh sách sản phẩm</value>
+<component id="c839084e-4869-9e3b-a4ba-e4f92e839d5a">
+	<content-type>/component/homeproduct</content-type>
+	<display-template>/templates/web/component/home-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c839</objectGroupId>
+	<objectId>c839084e-4869-9e3b-a4ba-e4f92e839d5a</objectId>
+	<file-name>c839084e-4869-9e3b-a4ba-e4f92e839d5a.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<title_s>Sản phẩm</title_s>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>SẢN PHẨM CHO TRÂU - BÒ</groupProductName_s>
+	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo</groupChildProductURL_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO HEO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-cho-heo.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO GÀ - VỊT</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-ga-vit/thuoc-cho-ga-vit</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO CHÓ - MÈO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO TÔM - CÁ</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO LOÀI VẬT KHÁC</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
+	</item></groupProduct_o>
+	<createdDate>2020-07-30T06:50:07.266Z</createdDate>
+	<createdDate_dt>2020-07-30T06:50:07.266Z</createdDate_dt>
+	<lastModifiedDate>2020-07-30T06:50:07.266Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-30T06:50:07.266Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>1c39470a-9b61-9e24-7651-1394f6702193</key>
+	<value>Tin tức</value>
+<component id="1c39470a-9b61-9e24-7651-1394f6702193">
+	<content-type>/component/newsinhome</content-type>
+	<display-template>/templates/web/newsinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1c39</objectGroupId>
+	<objectId>1c39470a-9b61-9e24-7651-1394f6702193</objectId>
+	<file-name>1c39470a-9b61-9e24-7651-1394f6702193.xml</file-name>
+	<internal-name>Tin tức</internal-name>
+	<videoURL_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL_s>
+	<newscategory_s>internalnews</newscategory_s>
+	<createdDate>2020-07-30T06:53:59.641Z</createdDate>
+	<createdDate_dt>2020-07-30T06:53:59.641Z</createdDate_dt>
+	<lastModifiedDate>2020-07-30T06:53:59.641Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-30T06:53:59.641Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>d4d11e94-c44d-765f-37fe-4db85269fc98</key>
+	<value>Điều trị bệnh</value>
+<component id="d4d11e94-c44d-765f-37fe-4db85269fc98">
+	<content-type>/component/techsupportinhome</content-type>
+	<display-template>/templates/web/techsupportinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d4d1</objectGroupId>
+	<objectId>d4d11e94-c44d-765f-37fe-4db85269fc98</objectId>
+	<internal-name>Điều trị bệnh</internal-name>
+	<title_s>CHỨNG VIÊM DA TRÊN HEO</title_s>
+	<file-name>d4d11e94-c44d-765f-37fe-4db85269fc98.xml</file-name>
+	<image_s>/static-assets/images/services_img.png</image_s>
+	<description_html>&lt;p&gt;1. HIỆN TRẠNG&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c trại chăn nu&amp;ocirc;i thường hay gặp t&amp;igrave;nh trạng vi&amp;ecirc;m da tr&amp;ecirc;n heo rất kh&amp;oacute; điều trị, người chăn nu&amp;ocirc;i thường nghĩ rằng heo bệnh l&amp;agrave; do:&lt;/p&gt;
+&lt;p&gt;- Thiếu vitamin A, thiếu kẽm ...&lt;/p&gt;</description_html>
+	<createdDate>2020-07-30T06:54:31.211Z</createdDate>
+	<createdDate_dt>2020-07-30T06:54:31.211Z</createdDate_dt>
+	<lastModifiedDate>2020-07-30T06:54:31.211Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-30T06:54:31.211Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<disabled>false</disabled>
 </page>
