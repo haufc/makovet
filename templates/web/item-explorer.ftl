@@ -1,381 +1,269 @@
+<#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>DƯỢC THÚ Y CAI LẬY - TRANG CHỦ</title>
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="keywords" content="Mekovet, Cai Lậy, Dược thú y, Thuốc cho heo,Thuốc cho gia súc, Thuốc cho gia cầm, Thuốc cho thủy sản, Thuốc nhập khẩu, Thuốc xuất khẩu, Tin tức ngành chăn nuôi, Biến động thị trường, Tình hình dịch bệnh, tuyển dụng, việc làm">
+    <meta name="revisit-after" content="1 days">
+    <meta name="geo.placename" content="Khu 5, thị trấn Cai Lậy, huyện Cai Lậy, tỉnh Tiền Giang">
+    <meta name="geo.position" content="21.021691;105.824931">
+    <meta name="geo.region" content="VN-Hanoi">
+    
+    <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
+    
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.theme.default.min.css">
+    
+    <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css">
+    
+    <link rel="stylesheet" href="/static-assets/css/custom.css"/>
+    <link rel="stylesheet" href="/static-assets/css/dtycl.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <script src="/static-assets/js/pagination.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <style>
 
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-        <!-- Owl Carousel CSS -->
-        <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="/static-assets/plugins/OwlCarousel/css/owl.theme.default.min.css">
-
-        <!-- FontAwesome -->
-        <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
-
-        <!-- Keysoft CSS -->
-        <link rel="stylesheet" href="/static-assets/css/dtycl.css">
-    </head>
-
-    <body>
-        <header>
-            <section class="nav">
-                <div class="nav__container">
-                    <div class="nav__logo">
-                        <img src="/static-assets/images/template/logo.png" alt="Logo">
+        #myImg {
+          border-radius: 5px;
+          cursor: pointer;
+          transition: 0.3s;
+        }
+        
+        #myImg:hover {opacity: 0.7;}
+        
+        /* The Modal (background) */
+        .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 1; /* Sit on top */
+          padding-top: 100px; /* Location of the box */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+        }
+        
+        /* Modal Content (image) */
+        .modal-content {
+          margin: auto;
+          display: block;
+          width: 80%;
+          max-width: 700px;
+        }
+        
+        /* Caption of Modal Image */
+        #caption {
+          margin: auto;
+          display: block;
+          width: 80%;
+          max-width: 700px;
+          text-align: center;
+          color: #ccc;
+          padding: 10px 0;
+          height: 150px;
+        }
+        
+        /* Add Animation */
+        .modal-content, #caption {  
+          -webkit-animation-name: zoom;
+          -webkit-animation-duration: 0.6s;
+          animation-name: zoom;
+          animation-duration: 0.6s;
+        }
+        
+        @-webkit-keyframes zoom {
+          from {-webkit-transform:scale(0)} 
+          to {-webkit-transform:scale(1)}
+        }
+        
+        @keyframes zoom {
+          from {transform:scale(0)} 
+          to {transform:scale(1)}
+        }
+        
+        /* The Close Button */
+        .close {
+          position: absolute;
+          top: 15px;
+          right: 35px;
+          color: #f1f1f1;
+          font-size: 40px;
+          font-weight: bold;
+          transition: 0.3s;
+        }
+        
+        .close:hover,
+        .close:focus {
+          color: #bbb;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        
+        /* 100% Image Width on Smaller Screens */
+        @media only screen and (max-width: 700px){
+          .modal-content {
+            width: 100%;
+          }
+        }
+        .play-icon {
+            background: #FEBD11;
+            border-radius: 50%;
+            color: #00559a;
+            display: block;
+            font-size: 25px;
+            height: 45px;
+            left: 50%;
+            line-height: 45px;
+            position: absolute;
+            text-align: center;
+            top: 40%;
+            transform: translate(-50%, -50%);
+            -webkit-transform: translate(-50%, -50%);
+            width: 45px;
+        }
+    </style>
+  </head>
+  <body>
+    <@renderComponent component=contentModel.header_o.item />
+    <main>
+        <#list (contentModel.section_o.item)![] as section>
+            <@renderComponent parent=contentModel component=section />
+        </#list>
+         <!-- =========================
+        MODAL DIALOGS
+        ============================== -->
+        
+        <div class="modal fade" id="success-dialog" role="dialog">
+            <div class="modal-dialog modal-sm modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header text-left mb-2 text-white" style="background-color: #322372">
+                        <h3 id="success-dialog-header" class="modal-title" style="font-size: 20px;">Cảm ơn!</h3>
                     </div>
-
-                    <a class="nav__btn" onclick="toggleNav()">
-                        <i class="fas fa-bars"></i>
-                    </a>
-
-                    <ul class="nav__tools flex">
-                        <li class="nav__tool-item">
-                            <a href="#">
-                                <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
-                            </a>
-                        </li>
-                        <li class="nav__tool-item">
-                            <a href="#">
-                                <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
-                            </a>
-                        </li>
-                        <li class="nav__tool-item">
-                            <a href="#">
-                                <img class="full-size" src="/static-assets/images/template/icon_search.png" alt="Search icon">
-                            </a>
-                        </li>
-                    </ul>
-
-                    <ul class="nav__menu" id="menu">
-                        <button class="nav__menu-btn" onclick="toggleNav()">
-                            <i class="fas fa-times"></i>
-                        </button>
-
-                        <li class="nav__menu-item">
-                            <a class="nav__menu-link" href="#">Giới thiệu</a>
-                        </li>
-                        <li class="nav__menu-item">
-                            <a class="nav__menu-link active" href="#">Sản phẩm</a>
-                        </li>
-                        <li class="nav__menu-item">
-                            <a class="nav__menu-link" href="#">Tin tức - Sự kiện</a>
-                        </li>
-                        <li class="nav__menu-item">
-                            <a class="nav__menu-link" href="#">Hỗ trợ kỹ thuật</a>
-                        </li>
-                        <li class="nav__menu-item">
-                            <a class="nav__menu-link" href="#">Quan hệ cổ đông</a>
-                        </li>
-                        <li class="nav__menu-item">
-                            <a class="nav__menu-link" href="#">Cơ hội nghề nghiệp</a>
-                        </li>
-                        <li class="nav__menu-item">
-                            <a class="nav__menu-link" href="#">Liên hệ</a>
-                        </li>
-
-                        <ul class="nav__menu-tools">
-                            <li>
-                                <a href="#">
-                                    <img class="full-size" src="/static-assets/images/template/icon_home.png" alt="Home icon">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img class="full-size" src="/static-assets/images/template/icon_flag.png" alt="Flag icon">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img class="full-size" src="/static-assets/images/template/icon_search.png" alt="Search icon">
-                                </a>
-                            </li>
-                        </ul>
-                    </ul>
-                </div>
-            </section>
-        </header>
-
-        <main>
-            <!-- slide -->
-            <section class="slide">
-                <div class="slide__bg"></div>
-                <div class="slide__container owl-carousel owl-theme">
-                    <div class="slide__item item">
-                        <img class="full-size" src="/static-assets/images/template/slide_img_1.png" alt="Slide image">
+                    <div class="modal-body">
+                        <p>
+                            <span id="success-dialog-message" class="modal-main-message">Yêu cầu của bạn đã được xử lý!</span>
+                        </p>
                     </div>
-                    <div class="slide__item item">
-                        <img class="full-size" src="/static-assets/images/template/slide_img_2.png" alt="Slide image">
-                    </div>
-                    <div class="slide__item  item">
-                        <img class="full-size" src="/static-assets/images/template/slide_img_1.png" alt="Slide image">
-                    </div>
-                </div>
-            </section>
-            <!-- /slide -->
-
-            <!-- products -->
-            <section class="products">
-                <div class="section-title">
-                    <div class="section-title__content block">
-                        <h1 class="section-title__content-text text--uppercase">sản phẩm</h1>
-                    </div>
-                </div>
-
-                <div class="products__container block">
-                    <div class="products__content">
-                        <section class="products__logos">
-                            <div class="products__logo text--center">
-                                <a href="#">
-                                    <img class="products__img" src="/static-assets/images/template/product_logo_1.png" alt="Product logo" width="265" height="240">
-                                    <h3 class="text--uppercase">thuốc cho trâu - bò</h3>
-                                </a>
-                            </div>
-                            <div class="products__logo text--center">
-                                <a href="#">
-                                    <img class="products__img" src="/static-assets/images/template/product_logo_2.png" alt="Product logo" width="265" height="240">
-                                    <h3 class="text--uppercase">thuốc cho heo</h3>
-                                </a>
-                            </div>
-                            <div class="products__logo text--center">
-                                <a href="#">
-                                    <img class="products__img" src="/static-assets/images/template/product_logo_3.png" alt="Product logo" width="265" height="240">
-                                    <h3 class="text--uppercase">thuốc cho gà - vịt</h3>
-                                </a>
-                            </div>
-                            <div class="products__logo text--center">
-                                <a href="#">
-                                    <img class="products__img" src="/static-assets/images/template/product_logo_4.png" alt="Product logo" width="265" height="240">
-                                    <h3 class="text--uppercase">thuốc cho chó - mèo</h3>
-                                </a>
-                            </div>
-                            <div class="products__logo text--center">
-                                <a href="#">
-                                    <img class="products__img" src="/static-assets/images/template/product_logo_5.png" alt="Product logo" width="265" height="240">
-                                    <h3 class="text--uppercase">thuốc cho tôm - cá</h3>
-                                </a>
-                            </div>
-                            <div class="products__logo text--center">
-                                <a href="#">
-                                    <img class="products__img" src="/static-assets/images/template/product_logo_6.png" alt="Product logo" width="265" height="240">
-                                    <h3 class="text--uppercase">thuốc cho loài vật khác</h3>
-                                </a>
-                            </div>
-                        </section>
-
-                        <section class="products__list">
-                            <div class="products__list-title">
-                                <h1 class="text--uppercase">sản phẩm</h1>
-                            </div>
-
-                            <div class="products__list-items">
-                                <div class="products__list-item">
-                                    <img class="products__img" src="/static-assets/images/template/product_img_1.png" alt="Product image" width="135" height="140">
-                                    <p>Ampicolistin</p>
-                                </div>
-                                <div class="products__list-item">
-                                    <img class="products__img" src="/static-assets/images/template/product_img_1.png" alt="Product image" width="135" height="140">
-                                    <p>Ampicolistin</p>
-                                </div>
-                                <div class="products__list-item">
-                                    <img class="products__img" src="/static-assets/images/template/product_img_1.png" alt="Product image" width="135" height="140">
-                                    <p>Ampicolistin</p>
-                                </div>
-                                <div class="products__list-item">
-                                    <img class="products__img" src="/static-assets/images/template/product_img_1.png" alt="Product image" width="135" height="140">
-                                    <p>Ampicolistin</p>
-                                </div>
-                            </div>
-                        </section>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-sm btn-warning" data-dismiss="modal">Đóng</button>
                     </div>
                 </div>
-            </section>
-            <!-- /products -->
-
-            <!-- news -->
-            <section class="news">
-                <div class="news__title section-title" id="newsTitle">
-                    <div class="news__title-container section-title__content block">
-                        <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle">tin nội bộ</h1>
-                        <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNganhTitle">tin ngành</h1>
-                    </div>
-                </div>
-
-                <div class="news__container block">
-                    <section class="news__block" id="tinNoiBo">
-                        <div class="news__block-title" id="tinNoiBoTitle">
-                            <h1 class="text--uppercase">tin nội bộ</h1>
-                        </div>
-
-                        <div class="news__block-content">
-                            <div class="news__block-img">
-                                <img class="full-size" src="/static-assets/images/template/news_img_1.png" alt="News image">
-                            </div>
-
-                            <div class="news__block-text">
-                                <h3>CAILAYVETCO - Đào tạo chuyên sâu về bộ bảo vệ 3 lớp cho cán bộ kinh doanh</h3>
-                                <p class="truncate-multi-line text--justify">
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                                    Ducimus officiis qui omnis tenetur vitae perferendis dolore quia fugiat fuga odio nihil, 
-                                    enim ea maxime repellat dicta dolores similique nesciunt saepe! Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                                    Ducimus officiis qui omnis tenetur vitae perferendis dolore quia fugiat fuga odio nihil, 
-                                    enim ea maxime repellat dicta dolores similique nesciunt saepe!
-                                </p>
-
-                                <a class="view-more flex" href="#">
-                                    <span>Xem thêm</span>
-                                    <img src="/static-assets/images/template/icon_arrow_yellow.png" alt="Arrow icon">
-                                </a>
-                            </div>
-                        </div>
-                    </section>
-
-                    <section class="news__block" id="tinNganh">
-                        <div class="news__block-title" id="tinNganhTitle">
-                            <h1 class="text--uppercase">tin ngành</h1>
-                        </div>
-
-                        <div class="news__block-content">
-                            <div class="news__block-img">
-                                <img class="full-size" src="/static-assets/images/template/news_img_2.png" alt="News image">
-                            </div>
-
-                            <ul class="news__block-links">
-                                <li class="news__block-link">
-                                    <img src="/static-assets/images/template/news_img_3.png" alt="News image">
-
-                                    <a class="text--uppercase" href="#">thư viện ảnh</a>
-                                </li>
-
-                                <li class="news__block-link">
-                                    <img src="/static-assets/images/template/news_img_4.png" alt="News image">
-
-                                    <a class="text--uppercase" href="#">thư viện tư liệu</a>
-                                </li>
-
-                                <li class="news__block-link">
-                                    <img src="/static-assets/images/template/news_img_5.png" alt="News image">
-
-                                    <a class="text--uppercase" href="#">thư viện video</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </section>
-                </div>
-            </section>
-            <!-- /news -->
-
-            <!-- services -->
-            <section class="services">
-                <div class="section-title">
-                    <div class="section-title__content block">
-                        <h1 class="section-title__content-text text--uppercase">điều trị bệnh</h1>
-                    </div>
-                </div>
-
-                <div class="services__container block flex">
-                    <section class="services__img">
-                        <img class="full-size" src="/static-assets/images/template/services_img.png" alt="Services image">
-                    </section>
-
-                    <section class="services__content">
-                        <div class="services__content-text">
-                            <h3 class="text--uppercase">chứng viêm da trên heo</h3>
-                            <p class="text--uppercase">1. hiện trạng</p>
-                            <p>
-                                Các trại chăn nuôi thường hay gặp tình trạng viêm da trên heo rất khó
-                                điều trị, người chăn nuôi thường nghĩ rằng heo bệnh là do:
-                            </p>
-                            <p>
-                                - Thiếu vitamin A, thiếu kẽm
-                                ...
-                            </p>
-                        </div>
-
-                        <a class="view-more flex" href="#">
-                            <span>Xem thêm</span>
-                            <img src="/static-assets/images/template/icon_arrow_white.png" alt="Arrow icon">
-                        </a>
-
-                        <div class="line"></div>
-
-                        <a class="services__link" href="#"><h3>Bệnh viêm gan</h3></a>
-                        <a class="services__link" href="#"><h3>Bệnh nấm diều</h3></a>
-                        <a class="services__link" href="#"><h3>Bệnh thương hàn trên cút</h3></a>
-                        <a class="services__link" href="#"><h3>Bệnh bại huyết trên vịt</h3></a>
-                    </section>
-                </div>
-            </section>
-            <!-- services -->
-
-            <!-- logos -->
-            <section class="logos">
-                <div class="logos__container block owl-carousel owl-theme">
-                    <div class="logos__item item">
-                        <img class="full-size" src="/static-assets/images/template/logo_duoc_thu_y_cai_lay.jpg" alt="Logo">
-                    </div>
-                    <div class="logos__item item">
-                        <img class="full-size" src="/static-assets/images/template/logo_mavin_animal_health_cut.jpg" alt="Logo">
-                    </div>
-                    <div class="logos__item item">
-                        <img class="full-size" src="/static-assets/images/template/logo_mavin_aqua.png" alt="Logo">
-                    </div>
-                    <div class="logos__item item">
-                        <img class="full-size" src="/static-assets/images/template/logo_mavin_austfeed_2.png" alt="Logo">
-                    </div>
-                    <div class="logos__item item">
-                        <img class="full-size" src="/static-assets/images/template/logo_mavin_farm_moi.png" alt="Logo">
-                    </div>
-                    <div class="logos__item item">
-                        <img class="full-size" src="/static-assets/images/template/logo_mavin_foods_.jpg" alt="Logo">
-                    </div>
-                    <div class="logos__item item">
-                        <img class="full-size" src="/static-assets/images/template/logo_mavin_logistics.png" alt="Logo">
-                    </div>
-                </div>
-            </section>
-            <!-- logos -->
-        </main>
-
-        <footer class="footer">
-            <div class="footer__container block flex">
-                <!-- address -->
-                <section class="footer__item" id="address">
-                    <h3 class="text--uppercase">công ty cổ phần dược thú y cai lậy</h3>
-                    <p>Địa chỉ trụ sở chính: Khu phố 1, phường 5, thị xã Cai Lậy, tỉnh Tiền Giang</p>
-                    <p>Điện thoại: (0273)3826462 - Fax: 3826363</p>
-                    <p>Email: info@cailayvetco.com</p>
-                </section>
-                <!-- /address -->
-
-                <!-- social -->
-                <section class="footer__item text--center" id="social">
-                    <p class="footer__item-title text--uppercase">kết nối với cailayvetco</p>
-                    <ul class="footer__item-btns flex">
-                        <li><a href="#"><img src="/static-assets/images/template/btn_facebook.png" alt="Facebook"></a></li>
-                        <li><a href="#"><img src="/static-assets/images/template/btn_twitter.png" alt="Twitter"></a></li>
-                        <li><a href="#"><img src="/static-assets/images/template/btn_youtube.png" alt="Youtube"></a></li>
-                        <li><a href="#"><img src="/static-assets/images/template/btn_linkedin.png" alt="Linkedin"></a></li>
-                    </ul>
-                </section>
-                <!-- /social -->
-
-                <!-- dấu xác nhận đã đăng ký của bộ công thương -->
-                <section class="footer__item" id="bct">
-                    <img class="footer__item-img" src="/static-assets/images/template/bct_logo.png" alt="Bộ Công thương">
-                    <p>Bản quyền thuộc về Công ty CP Dược Thú y Cai Lậy 2020</p>
-                </section>
-                <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
             </div>
-        </footer>
-
-        <!-- jQuery -->
-        <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
-
-        <!-- Owl Carousel JS -->
-        <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
-        <script src="/static-assets/js/logos.js"></script>
-        <script src="/static-assets/js/slide.js"></script>
-        <script src="/static-assets/js/nav.js"></script>
-    </body>
+        </div>
+        <div class="modal fade" id="fail-dialog" role="dialog">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3 id="fail-dialog-header" class="modal-title">Error</h3>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            <span id="fail-dialog-message" class="modal-main-message">Unable to process your request. </br>Please try again later.</span>
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- =========================
+        MODAL SPINNERS
+        ============================== -->
+        <div class="modal fade" id="modal-spinner" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
+                <span class="fa fa-spinner fa-spin fa-3x"></span>
+            </div>
+        </div>
+        <!--Modal Video-->
+        <#--<div id="videoModal" class="modal">
+          <span id class="close">&times;</span>
+          <video style="height: 80%;" class="modal-content" controls id="video01">
+              
+          </video>
+        </div> -->
+    </main>
+    
+    <@renderComponent component=contentModel.slideLogo_o.item />
+    <@renderComponent component=contentModel.footer_o.item />
+    <script src="/static-assets/plugins/jquery/jquery(3.4.1.).js"></script>
+    <script src="/static-assets/js/popper.min.js"></script>
+    <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
+    <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
+    <script src="/static-assets/js/logos.js"></script>
+    <script src="/static-assets/js/group-product.js"></script>
+    <script src="/static-assets/js/logos.js"></script>
+    <script src="/static-assets/js/slide.js"></script>
+    <script src="/static-assets/js/nav.js"></script>
+    <script src="/static-assets/js/contact.js"></script>
+    <script src="/static-assets/js/video-modal.js"></script>
+    <script src="/static-assets/js/nav-link.js"></script>
+    <script src="/static-assets/js/techsupport.js"></script>
+    <script src="/static-assets/js/process-list.js"></script>
+    <script>
+        // set width for google map
+        $('iframe').attr('width','83%');
+    </script>
+    <script>
+        $(document).ready(function(){
+            var modal = $('#videoModal');
+            var modalVideo = $('#video01');
+            var srcvideo1 = $('#srcVideo1').val();
+            var srcvideo2 = $('#srcVideo2').val();
+            
+            $('#video-1').click(function() {
+                $(modalVideo).html('<source src="'+ srcvideo1 +'" type="video/mp4"></source>' );
+                $(modal).css('display', 'block');
+                $('.logos').css('display', 'none');
+            });
+            
+            $('#video-2').click(function() {
+                $(modalVideo).html('<source src="'+ srcvideo2 +'" type="video/mp4"></source>' );
+                $(modal).css('display', 'block');
+                $('.logos').css('display', 'none');
+            });
+            
+            var spanClose = $('.close');
+            $(spanClose).click(function() {
+                $(modal).css('display', 'none');
+                $('.logos').css('display', 'block');
+                $(modalVideo).html('');
+                window.location.reload();
+            });
+            
+            var url = window.location.href;
+            if (url.indexOf('/en') > -1) {
+                $('.hot-product-title').text('main products');
+            } else {
+                $('.hot-product-title').text('sản phẩm chủ lực');
+            }
+            
+           var titleNames = $('.child-title__name');
+           for (let i = 0; i < titleNames.length; i++) {
+               let splits = $(titleNames[i]).text().replace('/', ' <br/> ');
+               let ele = '<p class="d-block text-center mt-3 violet-color font-weight-bold child-title__name font-title" style="font-size: 32px;line-height: 1.25;">' + splits + '</p>'
+               $(titleNames[i]).html(ele);
+           }
+        });
+    </script>
+  </body>
 </html>
+<@studio.toolSupport /> 
