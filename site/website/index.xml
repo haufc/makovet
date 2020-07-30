@@ -14,8 +14,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-30T06:48:27.775Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-30T06:48:27.775Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-30T07:01:59.833Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-30T07:01:59.833Z</lastModifiedDate_dt>
 	<title_s>Công ty cổ phần dược thú y Cai Lậy 2</title_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>d8d168e3-dc69-eb80-e55a-66360c2cdf58</key>
 	<value>Slide</value>
@@ -112,4 +112,19 @@
 </component>
 	</item></section_o>
 	<disabled>false</disabled>
+	<header_o item-list="true">	<item datasource="headerDatasource">	<key>/site/items/header/5b5e52bf-6158-d346-aebf-f57d0d76873f.xml</key>
+	<value>Header</value>
+	<include>/site/items/header/5b5e52bf-6158-d346-aebf-f57d0d76873f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<slideLogo_o item-list="true">	<item datasource="slideLogoDatasource">	<key>/site/items/carousel/6f4b9de8-c742-d2a9-9d42-024c5a739f7e.xml</key>
+	<value>Carousel Logo thành viên</value>
+	<include>/site/items/carousel/6f4b9de8-c742-d2a9-9d42-024c5a739f7e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideLogo_o>
+	<footer_o item-list="true">	<item datasource="footerDatasource">	<key>/site/items/footer/3d1d77a5-0bcd-1e06-1ce5-e6850de2d719.xml</key>
+	<value>Footer</value>
+	<include>/site/items/footer/3d1d77a5-0bcd-1e06-1ce5-e6850de2d719.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
 </page>
