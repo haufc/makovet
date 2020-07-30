@@ -40,8 +40,8 @@
         
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
     </div>
-    <section class="block flex" style="width:100%; justify-content:center; background: #322372;">
+    <div class="block flex" style="width:100%; justify-content:center; background: #322372;">
             <p class="footer__item-title font-bold font-title text--center" style="font-size: 16px; padding-top:10px; color:#fff">Quay lại giao diện cũ website Mekovet</p>
-    </section>
+    </div>
 </footer>
 <@studio.toolSupport />
