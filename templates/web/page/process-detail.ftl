@@ -28,7 +28,7 @@
         .sick-content {
             font-family: Roboto;
             font-weight: 300;
-            font-size: 23px;
+            font-size: 18px;
             color: #636466;
         }
     </style>
