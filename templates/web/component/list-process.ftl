@@ -10,7 +10,7 @@
             	<#list processes as process>
                     <div class="process-item">
                         <a class="violet-color font-weight-bold font-title" style="font-size:20px;" href="${process.url}" class="d-block">${process.title}</a>
-                        <p style="font-size: 20px; margin-top:5px; font-title" class="dim-grey-color">(${process.time})</p>
+                        <p style="font-size: 20px; margin-top:5px; font-title" class="dim-grey-color">(${process.time?datetime?string("dd/MM/yyyy")})</p>
                     </div>
                 </#list>
             </#if>
