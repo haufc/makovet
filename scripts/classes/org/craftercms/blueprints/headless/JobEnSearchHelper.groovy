@@ -32,6 +32,7 @@ class JobEnSearchHelper {
             .query(QueryBuilders.queryStringQuery(q))
             .from(start)
             .size(rows)
+            .sort(new FieldSortBuilder("jobDuration_dt").order(SortOrder.DESC))
         
         def result = elasticsearch.search(new SearchRequest().source(builder))
         
@@ -52,7 +53,7 @@ class JobEnSearchHelper {
                 def job = [:]
                     job.title = doc.jobTitle_s
                     job.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
-                    job.time = doc.jobDuration_s
+                    job.time = doc.jobDuration_dt
                 jobs << job
             }
         }
