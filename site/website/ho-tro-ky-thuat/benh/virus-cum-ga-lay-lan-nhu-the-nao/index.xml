@@ -10,9 +10,9 @@
 	<folder-name>virus-cum-ga-lay-lan-nhu-the-nao</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<internal-name>Virus cúm gà lây lan</internal-name>
-	<navLabel>Virus cúm gà lây lan</navLabel>
-	<diseaseName_s>Virus cúm gà lây lan như thế nào?</diseaseName_s>
+	<internal-name>Bệnh viêm ruột hoại tử trên heo (Swine hemorrhagic</internal-name>
+	<navLabel>Bệnh viêm ruột hoại tử trên heo (Swine hemorrhagic</navLabel>
+	<diseaseName_s>Bệnh viêm ruột hoại tử trên heo (Swine hemorrhagic necrotic enteritis)</diseaseName_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>23a47a66-db2c-f4bc-caa4-2fce99ed8581</key>
 	<value>Slide Ho tro ky thuat</value>
 <component id="23a47a66-db2c-f4bc-caa4-2fce99ed8581">
@@ -35,50 +35,67 @@
 	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
 	<value_smv>Bệnh gia súc - gia cầm</value_smv>
 	</item></technicalAssistance_o>
-	<diseaseContent_html>&lt;p&gt;KH&amp;Aacute;I NIỆM&lt;/p&gt;
-&lt;p&gt;Bệnh do vi khuẩn E.coli khi ph&amp;aacute;t triển trong ruột heo sinh ra c&amp;aacute;c ngoại độc tố v&amp;agrave; c&amp;aacute;c chất n&amp;agrave;y thấm v&amp;agrave;o m&amp;aacute;u đầu độc cơ thể&lt;/p&gt;
-&lt;p&gt;Vai tr&amp;ograve; vi khuẩn E.coli l&amp;agrave; kế ph&amp;aacute;t, cần c&amp;oacute; th&amp;ecirc;m c&amp;aacute;c yếu tố thuận lợi ti&amp;ecirc;n ph&amp;aacute;t: chuồng bẩn lạnh; kh&amp;ocirc;ng kiểm so&amp;aacute;t được lượng &amp;amp; chất của thức ăn.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;DẤU HIỆU BỆNH L&amp;Yacute;&lt;/p&gt;
-&lt;p&gt;Bệnh thường ph&amp;aacute;t sinh tr&amp;ecirc;n heo trong khoảng 25 &amp;ndash; 50kg v&amp;agrave; tr&amp;ecirc;n những heo b&amp;eacute;o tốt; Hai dấu hiệu ch&amp;iacute;nh của heo bệnh l&amp;agrave; ph&amp;ugrave; thủng v&amp;agrave; rối loạn vận động&lt;/p&gt;
-&lt;p&gt;- Ph&amp;ugrave;: thấy r&amp;otilde; ở v&amp;ugrave;ng quanh mắt, v&amp;ugrave;ng tr&amp;aacute;n&lt;/p&gt;
-&lt;p&gt;- Rối loạn vận động: heo bị co giật hay bại liệt 2 ch&amp;acirc;n sau.&lt;/p&gt;
-&lt;p&gt;Mổ kh&amp;aacute;m heo bệnh sẽ thấy:&lt;/p&gt;
-&lt;p&gt;- T&amp;iacute;ch nhiều dịch trong xoang ngực, xoang bụng&lt;/p&gt;
-&lt;p&gt;- Ph&amp;ugrave; thủng m&amp;agrave;ng treo ruột, Vi&amp;ecirc;m phổi kẻ&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;BIỆN PH&amp;Aacute;P GIẢI QUYẾT&lt;/p&gt;
-&lt;p&gt;T&amp;aacute;ch ri&amp;ecirc;ng heo bệnh. Tập trung chăm s&amp;oacute;c những heo chưa bệnh, nếu to&amp;agrave;n trại c&amp;agrave;ng tốt (đ&amp;acirc;y l&amp;agrave; điểm mấu chốt)&lt;/p&gt;
-&lt;p&gt;* Với heo chưa bệnh:&lt;/p&gt;
-&lt;p&gt;- Giảm lượng thức ăn c&amp;ograve;n 2/3, cho thức ăn dễ ti&amp;ecirc;u (như th&amp;ecirc;m ch&amp;aacute;o); kh&amp;ocirc;ng cho ăn sau 17h. Khi t&amp;igrave;nh h&amp;igrave;nh bệnh giảm sẽ tăng dần lượng thức ăn trở lại. Heo sau 60kg/con sẽ cho ăn tự do&lt;/p&gt;
-&lt;p&gt;- Acid h&amp;oacute;a thức ăn với ACID MIXED (pha nước cho uống), cho th&amp;ecirc;m probiotic như BIO ACIMIN Gold (trộn v&amp;agrave;o thức ăn). Cho d&amp;ugrave;ng li&amp;ecirc;n tục &amp;iacute;t nhất 10 ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;- Tăng cường chuyển h&amp;oacute;a với MEKOSAL (ti&amp;ecirc;m mỗi tuần/ lần); ti&amp;ecirc;m ngay mỗi con heo 1 liều VITAMIN ADE (2 th&amp;aacute;ng sau ti&amp;ecirc;m lại)&lt;/p&gt;
-&lt;p&gt;- D&amp;ugrave;ng BYE-CILOX + APRA-COLIS trộn v&amp;agrave;o thức ăn li&amp;ecirc;n tuc &amp;iacute;t nhất 10 ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;- Ti&amp;ecirc;m ngay cho mỗi con 1 liều CL- AMOXGEN (chỉ cần 1 lần)&lt;/p&gt;
-&lt;p&gt;- Sau khi can thiệp khoảng 5 ng&amp;agrave;y, d&amp;ugrave;ng VIMILAC PLUS 2 (trộn thức ăn &amp;iacute;t nhất 5 ng&amp;agrave;y), rồi sau đ&amp;oacute; d&amp;ugrave;ng MKV- GROWTH NEW trộn v&amp;agrave;o thức ăn&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Với heo đang bệnh: rất kh&amp;oacute; chữa trị&lt;/p&gt;
-&lt;p&gt;- Ti&amp;ecirc;m ngay 1 liều TROFURIT&lt;/p&gt;
-&lt;p&gt;- 2h sau ti&amp;ecirc;m th&amp;ecirc;m 1 liều TROFURIT + 1 liều HEPTAMINOL (hay cafein) + 1 liều DEXASONE&lt;/p&gt;
-&lt;p&gt;- 2h sau ti&amp;ecirc;m 1 liều CATAXIM (hay CL-AMOXGEN)&lt;/p&gt;
-&lt;p&gt;- Mỗi ng&amp;agrave;y ti&amp;ecirc;m 1 liều CL-AMOXGEN (&amp;iacute;t nhất 3 ng&amp;agrave;y), 1 liều CAFEIN, cho uống th&amp;ecirc;m SORBITOL&lt;/p&gt;
-&lt;p&gt;- Cho heo bệnh ăn uống như heo chưa bệnh&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Với chuồng trại:&lt;/p&gt;
-&lt;p&gt;- Cần giữ kh&amp;ocirc;, ấm, sạch. Tuyệt đối kh&amp;ocirc;ng cho g&amp;agrave;, vịt, ch&amp;oacute; v&amp;agrave;o chuồng heo&lt;/p&gt;
-&lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng chuồng ng&amp;agrave;y 1 lần&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Ph&amp;ograve;ng bệnh:&lt;/p&gt;
-&lt;p&gt;- Heo từ 20 đến 50kg/con n&amp;ecirc;n cho ăn định lượng kết hợp d&amp;ugrave;ng c&amp;aacute;c chất acidifier, probiotic&lt;/p&gt;
-&lt;p&gt;- Bố tr&amp;iacute; đủ m&amp;aacute;ng ăn&lt;/p&gt;
-&lt;p&gt;- Khi c&amp;oacute; stress hay khi nghi ngờ n&amp;ecirc;n d&amp;ugrave;ng APRA-COLIS trộn v&amp;agrave;o thức ăn &amp;iacute;t nhất 3 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style="text-align: right;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;
-&lt;p style="text-align: right;"&gt;Ảnh minh họa: sưu tầm&lt;/p&gt;</diseaseContent_html>
+	<diseaseContent_html>&lt;p&gt;1. Nguy&amp;ecirc;n nh&amp;acirc;n: Bệnh do vi khuẩn Clostridium g&amp;acirc;y ra.&lt;/p&gt;
+&lt;p&gt;Vi khuẩn&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Bệnh&lt;/p&gt;
+&lt;p&gt;Clostridium perfringens type A&lt;/p&gt;
+&lt;p&gt;Vi&amp;ecirc;m ruột hoại tử (sinh ngoại độc tố)&lt;/p&gt;
+&lt;p&gt;Clostridium perfringens type C Vi&amp;ecirc;m ruột hoại tử xuất huyết&lt;/p&gt;
+&lt;p&gt;Clostridium difficile Vi&amp;ecirc;m đại tr&amp;agrave;ng&lt;/p&gt;
+&lt;p&gt;Clostridium l&amp;agrave; những vi khuẩn yếm kh&amp;iacute;, Gram +, sinh b&amp;agrave;o tử.&lt;/p&gt;
+&lt;p&gt;2. Triệu chứng:&lt;/p&gt;
+&lt;p&gt;- Thể qu&amp;aacute; cấp: xảy ra rất nhanh trong v&amp;ograve;ng 8 giờ đầu ti&amp;ecirc;n sau khi sanh, heo con trở n&amp;ecirc;n yếu ớt dần dần rồi chết v&amp;agrave; heo con cũng dễ bị mẹ đ&amp;egrave;. Thường kh&amp;ocirc;ng biểu hiện triệu chứng g&amp;igrave; b&amp;ecirc;n ngo&amp;agrave;i, c&amp;oacute; khi thấy ti&amp;ecirc;u chảy ra m&amp;aacute;u.&lt;/p&gt;
+&lt;p&gt;- Thể cấp: thường thấy tr&amp;ecirc;n heo con khoảng 2-5 ng&amp;agrave;y tuổi. Dấu hiệu đầu ti&amp;ecirc;n l&amp;agrave; chết bất th&amp;igrave;nh l&amp;igrave;nh v&amp;agrave; k&amp;egrave;m theo ti&amp;ecirc;u chảy ra m&amp;aacute;u, bệnh xảy ra rất nhanh heo chết nhanh sau khi ti&amp;ecirc;u chảy ra m&amp;aacute;u.&lt;/p&gt;
+&lt;p&gt;- Thể b&amp;aacute;n cấp: Heo con đi ph&amp;acirc;n thường c&amp;oacute; m&amp;agrave;u n&amp;acirc;u đỏ c&amp;oacute; chứa những mảng hoại tử, heo con trở n&amp;ecirc;n yếu dần rồi chết sau 2-3 ng&amp;agrave;y mắc bệnh.&lt;/p&gt;
+&lt;p&gt;Ph&amp;acirc;n heo bệnh c&amp;oacute; nhiều m&amp;aacute;u&lt;/p&gt;
+&lt;p&gt;3. Bệnh t&amp;iacute;ch:&lt;/p&gt;
+&lt;p&gt;- Heo con gầy c&amp;ograve;m, yếu ớt r&amp;otilde; rệt trước khi chết.&lt;/p&gt;
+&lt;p&gt;- Cả hệ thống ti&amp;ecirc;u h&amp;oacute;a ở heo con xung huyết v&amp;agrave; xuất huyết.&lt;/p&gt;
+&lt;p&gt;- Ở thể nhẹ v&amp;agrave; b&amp;aacute;n cấp thường ruột vi&amp;ecirc;m xuất huyết, sưng to v&amp;agrave; trở n&amp;ecirc;n d&amp;agrave;y trong ruột c&amp;oacute; kh&amp;ocirc;, l&amp;agrave;m ruột căng phồng.&lt;/p&gt;
+&lt;p&gt;- Khi đ&amp;atilde; xuất hiện triệu chứng l&amp;acirc;m s&amp;agrave;ng kh&amp;oacute; c&amp;oacute; thể chữa khỏi, do đ&amp;oacute; cần c&amp;oacute; biện ph&amp;aacute;p ph&amp;ograve;ng bệnh l&amp;agrave; tốt nhất.&lt;/p&gt;
+&lt;p&gt;Ruột sưng đỏ chứa đầy m&amp;aacute;u&lt;/p&gt;
+&lt;p&gt;Xoang bụng chứa dịch đỏ&lt;/p&gt;
+&lt;p&gt;M&amp;agrave;n treo ruộc thủy thủng&lt;/p&gt;
+&lt;p&gt;Ni&amp;ecirc;m mạc ruột xuất huyết v&amp;agrave; bầm đen.&lt;/p&gt;
+&lt;p&gt;4. Điều trị:&lt;/p&gt;
+&lt;p&gt;- T&amp;aacute;ch ri&amp;ecirc;ng v&amp;agrave; sưởi ấm heo c&amp;oacute; dấu hiệu bệnh.&lt;/p&gt;
+&lt;p&gt;- Cung cấp nước v&amp;agrave; điện giải l&amp;agrave; cần thiết v&amp;agrave; quan trọng nhất: ti&amp;ecirc;m xoang bụng cho mỗi lợn con 20-25ml đường Glucose 5% hoặc NaCl 0,9%. Ng&amp;agrave;y 2-3 lần.&lt;/p&gt;
+&lt;p&gt;- Hỗ trợ: Ti&amp;ecirc;m VITAMINE B6 + B.COMPLEX + VITAMIN K + ATROPIN.&lt;/p&gt;
+&lt;p&gt;- Kh&amp;aacute;ng sinh d&amp;ugrave;ng ti&amp;ecirc;m (cho heo đang bệnh) v&amp;agrave; uống (to&amp;agrave;n đ&amp;agrave;n).&lt;/p&gt;
+&lt;p&gt;+ Chọn ti&amp;ecirc;m với: CL-SPECLINJECT, SPIRAMYCIN.&lt;/p&gt;
+&lt;p&gt;+ Chọn uống với: BYE-CYLOX, COLISPIRA.&lt;/p&gt;
+&lt;p&gt;- Trộn v&amp;agrave;o thức ăn với MKV - GROWTH NEW + MKV - MEKOVIT + VIMILAC-PLUS 1 hoặc VIMILAC-PLUS 2.&lt;/p&gt;
+&lt;p&gt;5. Ph&amp;ograve;ng bệnh:&lt;/p&gt;
+&lt;p&gt;S&amp;aacute;t tr&amp;ugrave;ng chuồng trại&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng MKV-GROWTH NEW&amp;nbsp; (c&amp;oacute; thể th&amp;ecirc;m COLI-SPIRA) trộn v&amp;agrave;o thức ăn ngay khi tập ăn cho heo con&lt;/p&gt;
+&lt;p&gt;Hiện chưa c&amp;oacute; vaccine ph&amp;ograve;ng bệnh n&amp;agrave;y ở VN.&lt;/p&gt;
+&lt;p&gt;6. C&amp;aacute;c loại thuốc c&amp;oacute; thể sử dụng để điều trị:&lt;/p&gt;
+&lt;p&gt;6.1. Sinh l&amp;yacute; mặn: Cung cấp nước cho heo con.&lt;/p&gt;
+&lt;p&gt;Sinh l&amp;yacute; mặn 9&amp;permil; (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;6.2. B.Complex: Cung cấp hỗn hợp vitamin liều cao&lt;/p&gt;
+&lt;p&gt;B.Complex (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;6.3. Vitamin B6: Gi&amp;uacute;p mau phục hồi ni&amp;ecirc;m mạc ruột.&lt;/p&gt;
+&lt;p&gt;6.4. Vitamin K3: Chuy&amp;ecirc;n trị:&lt;/p&gt;
+&lt;p&gt;- Chảy m&amp;aacute;u do suy nhược chức năng gan.&lt;/p&gt;
+&lt;p&gt;- V&amp;agrave;ng da do tắc mật, vi&amp;ecirc;m v&amp;otilde;ng mạc xuất huyết.&lt;/p&gt;
+&lt;p&gt;- Cầm m&amp;aacute;u khi thiến, mổ sau khi sinh. Dự ph&amp;ograve;ng chảy m&amp;aacute;u mao mạch của nhau thai khi c&amp;oacute; sự đe dọa sẩy thai như: tr&amp;acirc;u, b&amp;ograve;, heo đang bệnh, bị stress.&lt;/p&gt;
+&lt;p&gt;- Kết hợp trong điều trị bệnh truyền nhiễm, nội ngoại khoa c&amp;oacute; thể g&amp;acirc;y xuất huyết, chảy m&amp;aacute;u nội tạng hay to&amp;agrave;n th&amp;acirc;n, c&amp;ograve;i xương, xốp xương.&lt;/p&gt;
+&lt;p&gt;- Kết hợp trong điều trị bệnh Gumboro g&amp;agrave;.&lt;/p&gt;
+&lt;p&gt;- Cơ thể thiếu vitamin K do loạn khuẩn đường ruột.&lt;/p&gt;
+&lt;p&gt;Vitamin K3 0,5% (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;6.5. Atropin Sufate: Giảm nhu động ruột, cầm ti&amp;ecirc;u chảy.&lt;/p&gt;
+&lt;p&gt;Atropin Sulfate (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;6.6. Bye-Cilox:&lt;/p&gt;
+&lt;p&gt;- KẾT HỢP HAI KH&amp;Aacute;NG SINH (colistin + lincomycin) v&amp;agrave; probiotic (vi khuẩn lactic + nấm men) c&amp;ugrave;ng với một hệ enzyme ti&amp;ecirc;u h&amp;oacute;a.&lt;/p&gt;
+&lt;p&gt;- Chỉ định điều trị nhiễm khuẩn đường ruột do vi khuẩn Gram dương v&amp;agrave; Gram &amp;acirc;m, loạn khuẩn đường ruột, chứng ti&amp;ecirc;u h&amp;oacute;a k&amp;eacute;m.&lt;/p&gt;
+&lt;p&gt;Bye-Cilox (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;6.7. Một số sản phẩm kh&amp;aacute;c:&lt;/p&gt;
+&lt;p&gt;Colispira, Spiramycin, CL-Speclinject, Vimilac-Plus 2, MKV-Mekovit, MKV-Growth New.&lt;/p&gt;
+&lt;p&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
 	<createdDate>2020-06-26T03:38:11.445Z</createdDate>
-	<createdDate_dt>2020-06-26T03:38:11.445Z</createdDate_dt>
-	<lastModifiedDate>2020-07-17T07:48:43.486Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-17T07:48:43.486Z</lastModifiedDate_dt>
-	<datecreated_s>14/7/2017</datecreated_s>
+	<createdDate_dt>2020-06-26T03:38:11.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T08:42:01.158Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T08:42:01.158Z</lastModifiedDate_dt>
 	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>
