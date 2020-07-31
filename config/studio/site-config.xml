@@ -24,7 +24,7 @@
    <version>7</version>
    <wem-project>makovet</wem-project>
    <display-name>makovet</display-name>
-   <default-timezone>UTC+7</default-timezone>
+   <default-timezone>GMT+7</default-timezone>
    <published-repository>
       <enable-staging-environment>false</enable-staging-environment>
    </published-repository>
