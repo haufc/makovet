@@ -8,11 +8,11 @@
 	<objectId>399ca5e9-4a03-4858-82f5-bb8ed0db7102</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>ampicolistin-104-424c8aa5-ef6c6b36-8668dbfb-6fe823e6-8512ea5b-3da75047</folder-name>
-	<internal-name>Ampicolistin 109 3da75047</internal-name>
-	<navLabel>Ampicolistin 109</navLabel>
+	<internal-name>Ampicolistin 110</internal-name>
+	<navLabel>Ampicolistin 110</navLabel>
 	<productName_s>Ampicolistin</productName_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
 	<value>Header Slide</value>
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
@@ -71,10 +71,10 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</productDescription_html>
-	<createddate_dt>2020-07-31T09:37:56.000Z</createddate_dt>
+	<createddate_dt>2020-07-31T09:38:22.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T09:37:45.300Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T09:37:45.300Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-31T09:38:09.648Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:38:09.648Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
