@@ -10,9 +10,9 @@
 	<folder-name>virus-cum-ga-lay-lan-nhu-the-nao</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<internal-name>Bệnh viêm ruột hoại tử trên heo (Swine hemorrhagic</internal-name>
-	<navLabel>Bệnh viêm ruột hoại tử trên heo (Swine hemorrhagic</navLabel>
-	<diseaseName_s>Bệnh viêm ruột hoại tử trên heo (Swine hemorrhagic necrotic enteritis)</diseaseName_s>
+	<internal-name>Bệnh viêm ruột hoại tử trên heo</internal-name>
+	<navLabel>Bệnh viêm ruột hoại tử trên heo</navLabel>
+	<diseaseName_s>Bệnh viêm ruột hoại tử trên heo</diseaseName_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>23a47a66-db2c-f4bc-caa4-2fce99ed8581</key>
 	<value>Slide Ho tro ky thuat</value>
 <component id="23a47a66-db2c-f4bc-caa4-2fce99ed8581">
@@ -108,8 +108,8 @@
 &lt;p&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
 	<createdDate>2020-06-26T03:38:11.445Z</createdDate>
 	<createdDate_dt>2020-06-26T03:38:11.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T08:44:07.478Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T08:44:07.478Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-31T08:45:02.067Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T08:45:02.067Z</lastModifiedDate_dt>
 	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
 	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>
