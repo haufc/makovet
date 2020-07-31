@@ -8,11 +8,11 @@
 	<objectId>a1f876dc-b9f1-4baf-83b6-a96720c3cbef</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>ampicolistin-10-605030f3</folder-name>
-	<internal-name>Ampicolistin 605030f3</internal-name>
+	<internal-name>Ampicolistin 1</internal-name>
 	<navLabel>Ampicolistin</navLabel>
 	<productName_s>Ampicolistin</productName_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<isHot_b>true</isHot_b>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
 	<value_smv>Sản phẩm cho heo</value_smv>
@@ -71,10 +71,10 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</productDescription_html>
-	<createddate_dt>2020-07-31T09:54:19.000Z</createddate_dt>
+	<createddate_dt>2020-07-31T09:55:26.000Z</createddate_dt>
 	<createdDate>2020-07-31T09:52:30.412Z</createdDate>
 	<createdDate_dt>2020-07-31T09:52:30.412Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T09:52:30.412Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T09:52:30.412Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-31T09:55:17.537Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:55:17.537Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
