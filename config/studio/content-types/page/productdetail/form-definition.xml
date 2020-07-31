@@ -478,7 +478,7 @@
 						</property>
 						<property>
 							<name>showTime</name>
-							<value></value>
+							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
@@ -488,7 +488,7 @@
 						</property>
 						<property>
 							<name>showNowLink</name>
-							<value>false</value>
+							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
@@ -498,7 +498,7 @@
 						</property>
 						<property>
 							<name>allowPastDate</name>
-							<value>false</value>
+							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
