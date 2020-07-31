@@ -10,7 +10,7 @@
             	<#list techs as tech>
                     <div class="tech-item">
                         <a class="violet-color font-weight-bold font-title" style="font-size:20px;" href="${tech.url}" class="d-block">${tech.title}</a>
-                        <p style="font-size: 20px; margin-top:5px; font-title" class="dim-grey-color">(${tech.time})</p>
+                        <p style="font-size: 20px; margin-top:5px; font-title" class="dim-grey-color">(${tech.time?datetime?string("dd/MM/yyyy")})</p>
                     </div>
                 </#list>
             </#if>
