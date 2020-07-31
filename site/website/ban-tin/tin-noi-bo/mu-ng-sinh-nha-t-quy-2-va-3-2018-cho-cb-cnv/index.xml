@@ -4,16 +4,19 @@
 	<display-template>/templates/web/newsdetail.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>20c3</objectGroupId>
-	<objectId>20c31ccc-5e57-6b42-25da-6e3e69533c75</objectId>
+	<objectGroupId>ca8f</objectGroupId>
+	<objectId>ca8fbdf0-0ba9-9138-4f9a-e935fbc06f3d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mu-ng-sinh-nha-t-quy-2-va-3-2018-cho-cb-cnv</folder-name>
 	<internal-name>Mừng sinh nhật quý 2 và 3/2018 cho CB-CNV</internal-name>
 	<navLabel>Mừng sinh nhật quý 2 và 3/2018 cho CB-CNV</navLabel>
 	<title_s>Mừng sinh nhật quý 2 và 3/2018 cho CB-CNV</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<file-name>index.xml</file-name>
-	<folder-name>mu-ng-sinh-nha-t-quy-2-va--3-2018-cho-cb-cnv</folder-name>
 	<image_s>/static-assets/images/news/cailayvetco_q__2.jpg</image_s>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
 	<value> Header - Tin tức</value>
 	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
@@ -28,12 +31,9 @@
 &lt;p style="text-align: justify;"&gt;Bà Phan Nguy&amp;ecirc;̃n Trúc Mỹ &amp;ndash; Quản đ&amp;ocirc;́c nhà máy ch&amp;uacute;c sức khỏe, hạnh ph&amp;uacute;c v&amp;agrave; th&amp;agrave;nh đạt đến c&amp;aacute;c c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n c&amp;oacute; sinh nhật trong qu&amp;yacute; 2 và 3 n&amp;agrave;y&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Đi&amp;ecirc;̀u mong đợi nh&amp;acirc;́t của chương trình là th&amp;ocirc;̉i n&amp;ecirc;́n và cắt bánh kem được dành đặc bi&amp;ecirc;̣t cho chị L&amp;ecirc; Thị Li&amp;ecirc;́n và anh Nguy&amp;ecirc;̃n Hữu Cường 2 người có sinh nh&amp;acirc;̣t trong tháng 8&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;&amp;ldquo;Mừng sinh nh&amp;acirc;̣t t&amp;acirc;̣p th&amp;ecirc;̉ CB-CNV&amp;rdquo; tuy l&amp;agrave; một việc l&amp;agrave;m nhỏ nhưng &amp;yacute; nghĩa thật to lớn, thể hiện sự quan t&amp;acirc;m, chăm sóc của Ban lãnh đạo C&amp;ocirc;ng ty dành cho từng cá nh&amp;acirc;n trong t&amp;acirc;̣p th&amp;ecirc;̉ C&amp;ocirc;ng ty. Đi&amp;ecirc;̀u này đ&amp;atilde; tạo n&amp;ecirc;n sự gắn kết, kh&amp;iacute;ch lệ động vi&amp;ecirc;n tinh thần của CB-CNV trong to&amp;agrave;n C&amp;ocirc;ng ty phấn đấu đạt hiệu quả cao hơn trong c&amp;ocirc;ng vi&amp;ecirc;̣c.&lt;/p&gt;</content_html>
-	<categories_o>	<item>	<key>internalnews</key>
-	<value_smv>Tin nội bộ</value_smv>
-	</item></categories_o>
-	<createdDate>2020-07-31T03:37:59.594Z</createdDate>
-	<createdDate_dt>2020-07-30T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T03:37:59.594Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T03:37:59.594Z</lastModifiedDate_dt>
-	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+	<createdDate>2020-07-31T05:56:25.081Z</createdDate>
+	<createdDate_dt>2020-07-31T05:56:25.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:56:25.081Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:56:25.081Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>

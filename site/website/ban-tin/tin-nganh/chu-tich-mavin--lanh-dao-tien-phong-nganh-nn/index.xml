@@ -4,10 +4,10 @@
 	<display-template>/templates/web/newsdetail.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>7fe1</objectGroupId>
-	<objectId>7fe1dc5a-1e79-6ea9-6395-4ce4f1a3a3e5</objectId>
+	<objectGroupId>3552</objectGroupId>
+	<objectId>35528486-123f-8fa6-6250-c5dc9e1d24ed</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>chu-tich-mavin--lanh-dao-tien-phong-nganh-nong-nghiep</folder-name>
+	<folder-name>chu-tich-mavin--lanh-dao-tien-phong-nganh-nn</folder-name>
 	<internal-name>Chủ tịch Mavin: Lãnh đạo tiên phong ngành nông nghiệp</internal-name>
 	<navLabel>Chủ tịch Mavin: Lãnh đạo tiên phong ngành nông ngh</navLabel>
 	<title_s>Chủ tịch Mavin: Lãnh đạo tiên phong ngành nông nghiệp</title_s>
@@ -46,9 +46,9 @@
 &lt;p style="text-align: justify;"&gt;Sau khi c&amp;acirc;n nhắc kỹ lưỡng, ch&amp;uacute;ng t&amp;ocirc;i đ&amp;atilde; quyết định lựa chọn SAP S/4 HANA. Mavin ch&amp;iacute;nh thức vận h&amp;agrave;nh giải ph&amp;aacute;p quản trị doanh nghiệp tổng thể (ERP) cho ng&amp;agrave;nh sản xuất thức ăn chăn nu&amp;ocirc;i sau 199 ng&amp;agrave;y triển khai.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Mối quan hệ hợp t&amp;aacute;c giữa Mavin v&amp;agrave; SAP kh&amp;ocirc;ng chỉ dừng lại ở đ&amp;oacute;, m&amp;agrave; tạo tiền đề cho những tham vọng kh&amp;aacute;c trong tương lai.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Nguồn: Forbes Việt Nam&lt;/p&gt;</content_html>
-	<createdDate>2020-07-31T04:30:33.856Z</createdDate>
-	<createdDate_dt>2020-07-31T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T04:33:26.251Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T04:33:26.251Z</lastModifiedDate_dt>
-	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+	<createdDate>2020-07-31T05:37:45.145Z</createdDate>
+	<createdDate_dt>2020-07-31T05:37:46.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:37:45.145Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:37:45.145Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>

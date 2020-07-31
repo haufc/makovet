@@ -4,24 +4,24 @@
 	<display-template>/templates/web/newsdetail.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>8a0e</objectGroupId>
-	<objectId>8a0e385c-b58a-4782-8d0b-99bfc2537094</objectId>
+	<objectGroupId>97a5</objectGroupId>
+	<objectId>97a5c72e-cd50-a655-ba3e-1fe09b9cd48b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>duoc-thu-y-cai-lay-nguoi-ban-than-thiet-cua-nong-dan-viet</folder-name>
 	<internal-name>Dược thú y Cai Lậy – Người bạn thân thiết của nông dân Việt</internal-name>
 	<navLabel>Dược thú y Cai Lậy – Người bạn thân thiết của nông</navLabel>
 	<title_s>Dược thú y Cai Lậy – Người bạn thân thiết của nông dân Việt</title_s>
-	<file-name>index.xml</file-name>
-	<folder-name>duoc-thu-y-cai-lay---nguoi-ban-than-thiet-cua-nong-dan-viet</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<image_s>/static-assets/images/news/nha_may_mekovet.jpg</image_s>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
 	<value> Header - Tin tức</value>
 	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></slideImage_o>
-	<categories_o>	<item>	<key>internalnews</key>
-	<value_smv>Tin nội bộ</value_smv>
-	</item></categories_o>
+	<image_s>/static-assets/images/news/nha_may_mekovet.jpg</image_s>
 	<content_html>&lt;p style="text-align: justify;"&gt;Theo c&amp;aacute;c chuy&amp;ecirc;n gia, một ng&amp;agrave;nh c&amp;ocirc;ng nghiệp thuốc th&amp;uacute; y với sự kiểm so&amp;aacute;t qu&amp;aacute; tr&amp;igrave;nh sản xuất chặt chẽ, đảm bảo c&amp;aacute;c chuẩn mực quốc tế về chất lượng sản phẩm l&amp;agrave; điều kiện ti&amp;ecirc;n quyết để ph&amp;aacute;t triển bền vững kinh tế x&amp;atilde; hội bởi kh&amp;ocirc;ng chỉ v&amp;igrave; vật nu&amp;ocirc;i, m&amp;agrave; c&amp;ograve;n để bảo vệ ch&amp;iacute;nh sức khỏe của cộng đồng d&amp;acirc;n cư.&amp;nbsp;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Điều đ&amp;aacute;ng mừng l&amp;agrave; đ&amp;atilde; c&amp;oacute; ng&amp;agrave;y c&amp;agrave;ng nhiều doanh nghiệp thuốc th&amp;uacute; y lớn trong nước kh&amp;ocirc;ng những đ&amp;aacute;p ứng được đầy đủ c&amp;aacute;c y&amp;ecirc;u cầu nghi&amp;ecirc;m ngặt về chất lượng sản xuất m&amp;agrave; c&amp;ograve;n ng&amp;agrave;y c&amp;agrave;ng thể hiện t&amp;iacute;nh ti&amp;ecirc;n phong trong việc x&amp;aacute;c lập, khẳng định thương hiệu v&amp;agrave; th&amp;aacute;i độ gắn b&amp;oacute;, đồng h&amp;agrave;nh với người chăn nu&amp;ocirc;i. Trong đ&amp;oacute; c&amp;oacute; C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy, một trong những thương hiệu thuốc th&amp;uacute; y l&amp;acirc;u đời nhất của Việt Nam.&amp;nbsp;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Với gần 30 năm gắn b&amp;oacute; với người n&amp;ocirc;ng d&amp;acirc;n, Thương hiệu Dược Th&amp;uacute; y Cai Lậy l&amp;agrave; niềm tự h&amp;agrave;o của ng&amp;agrave;nh sản xuất thuốc th&amp;uacute; y Việt Nam v&amp;agrave; cũng đ&amp;atilde; g&amp;oacute;p phần x&amp;oacute;a đ&amp;oacute;i giảm ngh&amp;egrave;o cho h&amp;agrave;ng triệu hộ chăn nu&amp;ocirc;i.&lt;/p&gt;
@@ -39,9 +39,9 @@
 &lt;p style="text-align: justify;"&gt;Nhờ đ&amp;oacute;ng g&amp;oacute;p t&amp;iacute;ch cực cho sự ph&amp;aacute;t triển của địa phương v&amp;agrave; cả nước, C&amp;ocirc;ng ty đ&amp;atilde; được trao tặng nhiều giải thưởng danh gi&amp;aacute; v&amp;agrave; uy t&amp;iacute;n như: H&amp;agrave;ng Việt Nam Chất lượng cao, B&amp;ocirc;ng l&amp;uacute;a v&amp;agrave;ng &amp;ndash; Thương hiệu v&amp;agrave;ng chất lượng, C&amp;uacute;p v&amp;agrave;ng thương hiệu v&amp;agrave; nh&amp;atilde;n hiệu, Giải thưởng Chất lượng Việt Nam, Giải thưởng Doanh nghiệp l&amp;agrave;m ăn hiệu quả Đồng bằng s&amp;ocirc;ng Cửu Long, Doanh nghiệp thực hiện tốt c&amp;aacute;c nghĩa vụ về Thuế v&amp;agrave; ch&amp;iacute;nh s&amp;aacute;ch ph&amp;aacute;p luật&amp;hellip;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Sau gần 30 năm ph&amp;aacute;t triển, Dược Th&amp;uacute; y Cai Lậy đ&amp;atilde; vươn m&amp;igrave;nh trở th&amp;agrave;nh một trong những thương hiệu thuốc th&amp;uacute; y uy t&amp;iacute;n v&amp;agrave; được ưa chuộng nhất tại Việt Nam. C&amp;aacute;c sản phẩm đ&amp;atilde; c&amp;oacute; mặt tại mọi miền của đất nước, ph&amp;acirc;n phối rộng r&amp;atilde;i th&amp;ocirc;ng qua hơn 200 đại l&amp;yacute; từ Bắc v&amp;agrave;o Nam, l&amp;agrave; người bạn th&amp;acirc;n thiết của người n&amp;ocirc;ng d&amp;acirc;n Việt.&amp;nbsp;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Nguồn: B&amp;aacute;o Đầu tư&lt;/p&gt;</content_html>
-	<createdDate_dt>2020-07-31T13:00:00.000Z</createdDate_dt>
-	<createdDate>2020-07-31T03:55:45.935Z</createdDate>
-	<lastModifiedDate>2020-07-31T04:09:40.067Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T04:09:40.067Z</lastModifiedDate_dt>
-	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+	<createdDate>2020-07-31T05:52:26.151Z</createdDate>
+	<createdDate_dt>2020-07-31T05:52:26.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:52:26.151Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:52:26.151Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>

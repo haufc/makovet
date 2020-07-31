@@ -4,23 +4,24 @@
 	<display-template>/templates/web/newsdetail.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>afa8</objectGroupId>
-	<objectId>afa8266a-5a22-c3dc-e0f2-07cf0e67c7b3</objectId>
+	<objectGroupId>64de</objectGroupId>
+	<objectId>64de2024-fcda-9645-27d7-d8ba9bd2599d</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>3-lop-bao-ve-giup-dan-tai-dan-lon-thanh-cong</folder-name>
+	<folder-name>3-lop-bao-ve-giup-dan-tai-dan-lon-tc</folder-name>
 	<internal-name>3 lớp bảo vệ giúp dân tái đàn lợn thành công</internal-name>
 	<navLabel>3 lớp bảo vệ giúp dân tái đàn lợn thành công</navLabel>
 	<title_s>3 lớp bảo vệ giúp dân tái đàn lợn thành công</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<categories_o>	<item>	<key>industrynews</key>
-	<value_smv> Tin ngành</value_smv>
-	</item></categories_o>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
 	<value> Header - Tin tức</value>
 	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></slideImage_o>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/news/inside_the_plant_.jpg</image_s>
 	<content_html>&lt;p style="text-align: justify;"&gt;Hiện nay, Dịch tả lợn Ch&amp;acirc;u Phi (ASF) đ&amp;atilde; c&amp;oacute; chiều hướng giảm, nhiều địa phương đ&amp;atilde; hết dịch v&amp;agrave; chưa c&amp;oacute; dịch t&amp;aacute;i ph&amp;aacute;t, cơ bản đảm bảo c&amp;aacute;c y&amp;ecirc;u cầu để t&amp;aacute;i đ&amp;agrave;n. Giải ph&amp;aacute;p quan trọng nhất để t&amp;aacute;i đ&amp;agrave;n th&amp;agrave;nh c&amp;ocirc;ng theo Bộ NNPTNT hiện nay l&amp;agrave; &amp;aacute;p dụng nghi&amp;ecirc;m ngặt c&amp;aacute;c biện ph&amp;aacute;p an to&amp;agrave;n sinh học. Về ph&amp;iacute;a c&amp;aacute;c doanh nghiệp cũng l&amp;ecirc;n kế hoạch tăng quy m&amp;ocirc; sản lượng v&amp;agrave; sẵn s&amp;agrave;ng v&amp;agrave;o cuộc chia sẻ giải ph&amp;aacute;p t&amp;aacute;i đ&amp;agrave;n c&amp;ugrave;ng người chăn nu&amp;ocirc;i.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Tập đo&amp;agrave;n Mavin, 1 trong số &amp;iacute;t c&amp;aacute;c C&amp;ocirc;ng ty chăn nu&amp;ocirc;i đ&amp;atilde; bảo to&amp;agrave;n đ&amp;agrave;n lợn trong bối cảnh ASF, cho biết kiểm so&amp;aacute;t an to&amp;agrave;n sinh học kết hợp với sử dụng thức ăn chăn nu&amp;ocirc;i an to&amp;agrave;n l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a gi&amp;uacute;p Mavin bảo to&amp;agrave;n th&amp;agrave;nh c&amp;ocirc;ng gần 30.000 lợn n&amp;aacute;i sinh sản trong năm 2019. Năm 2020, tr&amp;ecirc;n cơ sở kinh nghiệm đ&amp;uacute;c r&amp;uacute;t được trong ph&amp;ograve;ng chống ASF n&amp;oacute;i ri&amp;ecirc;ng v&amp;agrave; c&amp;aacute;c dịch bệnh n&amp;oacute;i chung, Mavin tự tin sẽ mở rộng quy m&amp;ocirc; chăn nu&amp;ocirc;i từ 15-20%.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Theo đại diện Mavin, giải ph&amp;aacute;p đ&amp;atilde; v&amp;agrave; đang được sử dụng hiệu quả trong hệ thống trại của Mavin gồm:&lt;/p&gt;
@@ -38,10 +39,9 @@
 &lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/news/chuong_trinh_km_.jpg" alt="" width="800" height="454" /&gt;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Chia sẻ giải ph&amp;aacute;p hiệu quả gi&amp;uacute;p bảo vệ trang trại với bộ bảo vệ to&amp;agrave;n diện 3 lớp th&amp;ocirc;ng qua c&amp;aacute;c sản phẩm thuốc th&amp;uacute; y đạt chuẩn, thức ăn chăn nu&amp;ocirc;i chất lượng cao cũng l&amp;agrave; nhiệm vụ của c&amp;aacute;c doanh nghiệp chăn nu&amp;ocirc;i lớn như Mavin để chung tay th&amp;uacute;c đẩy v&amp;agrave; kh&amp;ocirc;i phục ng&amp;agrave;nh chăn nu&amp;ocirc;i Việt Nam sau ảnh hưởng nặng nề của ASF.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Nguồn: B&amp;aacute;o D&amp;acirc;n Việt&lt;/p&gt;</content_html>
-	<image_s>/static-assets/images/news/inside_the_plant_.jpg</image_s>
-	<createdDate>2020-07-31T04:25:24.827Z</createdDate>
-	<createdDate_dt>2020-07-31T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T04:25:24.827Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T04:25:24.827Z</lastModifiedDate_dt>
-	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+	<createdDate>2020-07-31T05:35:33.636Z</createdDate>
+	<createdDate_dt>2020-07-31T05:35:33.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:35:33.636Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:35:33.636Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>

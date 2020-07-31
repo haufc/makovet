@@ -4,18 +4,18 @@
 	<display-template>/templates/web/newsdetail.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>8b58</objectGroupId>
-	<objectId>8b58d6ae-e629-d7df-ee34-8859ba0b9c5c</objectId>
-	<file-name>index.xml</file-name>
-	<folder-name>dau-an-cua--rong-</folder-name>
+	<objectGroupId>dd88</objectGroupId>
+	<objectId>dd8803c9-22d4-accc-9d4f-9e35365828cb</objectId>
 	<internal-name>Dấu ấn của "Rồng"</internal-name>
 	<navLabel>Dấu ấn của "Rồng"</navLabel>
 	<title_s>Dấu ấn của "Rồng"</title_s>
-	<placeInNav>false</placeInNav>
-	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>dau-an-cua-rong</folder-name>
 	<categories_o>	<item>	<key>industrynews</key>
 	<value_smv> Tin ngành</value_smv>
 	</item></categories_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
 	<value> Header - Tin tức</value>
 	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
@@ -35,9 +35,9 @@
 &lt;p style="text-align: justify;"&gt;C&amp;acirc;u chuyện giữa ch&amp;uacute;ng t&amp;ocirc;i kết th&amp;uacute;c l&amp;uacute;c trời x&amp;acirc;m xẩm tối, vang b&amp;ecirc;n tai t&amp;ocirc;i l&amp;agrave; c&amp;acirc;u n&amp;oacute;i của &amp;ocirc;ng: &amp;ldquo;Nếu n&amp;ocirc;ng d&amp;acirc;n Việt Nam kh&amp;ocirc;ng học c&amp;aacute;ch sản xuất, chăn nu&amp;ocirc;i theo phương ph&amp;aacute;p khoa học, hiện đại, họ sẽ kh&amp;ocirc;ng thể đi xa, đi l&amp;acirc;u được trong bối cảnh hiện nay&amp;rdquo;.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;V&amp;agrave; t&amp;ocirc;i hi vọng...!&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Nguồn: Cổng th&amp;ocirc;ng tin điện tử Hội n&amp;ocirc;ng d&amp;acirc;n Việt Nam&lt;/p&gt;</content_html>
-	<createdDate>2020-07-31T04:28:10.871Z</createdDate>
-	<createdDate_dt>2020-07-31T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T04:28:10.871Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T04:28:10.871Z</lastModifiedDate_dt>
-	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+	<createdDate>2020-07-31T05:39:11.102Z</createdDate>
+	<createdDate_dt>2020-07-31T05:39:11.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:39:11.102Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:39:11.102Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>

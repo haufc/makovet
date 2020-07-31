@@ -4,18 +4,18 @@
 	<display-template>/templates/web/newsdetail.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>340f</objectGroupId>
-	<objectId>340f094c-e5a1-c308-32b9-3988f762dd4b</objectId>
-	<placeInNav>false</placeInNav>
-	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>5263</objectGroupId>
+	<objectId>5263ea21-34dc-bf8d-c9f9-e89ad9775b8f</objectId>
 	<internal-name>Sinh viên Trường Cao đẳng nghề Đồng Tháp đến tham quan thực tế Công ty</internal-name>
 	<navLabel>Sinh viên Trường Cao đẳng nghề Đồng Tháp đến tham </navLabel>
 	<title_s>Sinh viên Trường Cao đẳng nghề Đồng Tháp đến tham quan thực tế Công ty</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>sinh-vien-truong-cao-dang-nghe-dong--thap</folder-name>
 	<categories_o>	<item>	<key>internalnews</key>
 	<value_smv>Tin nội bộ</value_smv>
 	</item></categories_o>
-	<file-name>index.xml</file-name>
-	<folder-name>sinh-vien-truong-cao-dang-nghe-dong-thap</folder-name>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
 	<value> Header - Tin tức</value>
 	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
@@ -32,11 +32,10 @@
 &lt;p style="text-align: justify;"&gt;C&amp;aacute;c thầy c&amp;ocirc; c&amp;ugrave;ng c&amp;aacute;c em HSSV đ&amp;atilde; được đi thăm khu kiểm nghiệm, hệ thống khu phụ trợ: sản xuất khi n&amp;eacute;n, kh&amp;iacute; Ni-tơ, nước RO, hệ thống xử l&amp;yacute; nước thải, khu kỹ thuật cơ điện,&amp;hellip; Đặc biệt, nh&amp;agrave; m&amp;aacute;y sản xuất Beta-lactam v&amp;agrave; Non-Betalactam với hệ thống sản xuất v&amp;agrave; đ&amp;oacute;ng g&amp;oacute;i kh&amp;eacute;p k&amp;iacute;n rất chuy&amp;ecirc;n nghiệp v&amp;agrave; hiện đại của c&amp;ocirc;ng ty.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Qua đ&amp;oacute;, c&amp;aacute;c em sinh vi&amp;ecirc;n đ&amp;atilde; được biết th&amp;ecirc;m nhiều điều về m&amp;ocirc;i trường l&amp;agrave;m việc, quy tr&amp;igrave;nh sản xuất, c&amp;aacute;c sản phẩm ti&amp;ecirc;u biểu,&amp;hellip; theo ti&amp;ecirc;u chuẩn quốc tế WHO-GMP điều n&amp;agrave;y đ&amp;atilde; l&amp;agrave;m cho c&amp;aacute;c em HSSV rất th&amp;iacute;ch th&amp;uacute;.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Đo&amp;agrave;n tham quan chụp ảnh lưu niệm tại C&amp;ocirc;ng ty CAILAYVETCO&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;Buổi tham quan đ&amp;atilde; kh&amp;eacute;p lại với những trải nghiệm th&amp;uacute; vị v&amp;agrave; trang bị th&amp;ecirc;m nhiều kiến thức v&amp;ocirc; c&amp;ugrave;ng bổ &amp;iacute;ch cho HSSV.&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
-	<createdDate>2020-07-31T03:33:29.649Z</createdDate>
-	<createdDate_dt>2020-07-30T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T03:33:29.649Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T03:33:29.649Z</lastModifiedDate_dt>
-	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+&lt;p style="text-align: justify;"&gt;Buổi tham quan đ&amp;atilde; kh&amp;eacute;p lại với những trải nghiệm th&amp;uacute; vị v&amp;agrave; trang bị th&amp;ecirc;m nhiều kiến thức v&amp;ocirc; c&amp;ugrave;ng bổ &amp;iacute;ch cho HSSV.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T06:04:04.316Z</createdDate>
+	<createdDate_dt>2020-07-31T06:04:04.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T06:04:04.316Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T06:04:04.316Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>
