@@ -7,7 +7,7 @@
         
         <div class="container" style="padding-left:30px;">
             <img style=" padding-top:20px;" class="img-responsive" src="${contentModel.image_s!""}" >
-            <div class="img-responsive new-detail__content" style="color: #636466; font-size: 18px; padding-top:30px;line-height: 1.5; padding-bottom: 60px; font-weight:300">${contentModel.content_html}</div>
+            <div class="img-responsive new-detail__content" style="color: #636466; font-size: 18px; padding-top:30px;line-height: 1.5; padding-bottom: 60px; font-weight:400">${contentModel.content_html}</div>
             <section class="foot__introduction">
                     <section class="foot__introduction-item intro-first">
                         <a class="button font-bold" href="${contentModel.url1_s}" >${contentModel.button1_s}</a>
