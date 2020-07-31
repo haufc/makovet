@@ -341,9 +341,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>datecreated_s</id>
+					<id>parentURL_s</id>
 					<iceId></iceId>
-					<title>Date created</title>
+					<title>Parent URL</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -383,23 +383,53 @@
 					</constraints>
 				</field>
 				<field>
-					<type>input</type>
-					<id>parentURL_s</id>
+					<type>date-time</type>
+					<id>createdDate_dt</id>
 					<iceId></iceId>
-					<title>Parent URL</title>
+					<title>Created Date</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
+							<name>showDate</name>
+							<value>true</value>
+							<type>boolean</type>
 						</property>
 						<property>
-							<name>maxlength</name>
-							<value>50</value>
-							<type>int</type>
+							<name>showTime</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>showClear</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>showNowLink</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>populate</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>allowPastDate</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>populateDateExp</name>
+							<value>now</value>
+							<type>string</type>
+						</property>
+						<property>
+							<name>useCustomTimezone</name>
+							<value>false</value>
+							<type>boolean</type>
 						</property>
 						<property>
 							<name>readonly</name>
@@ -407,7 +437,7 @@
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>tokenize</name>
+							<name>readonlyEdit</name>
 							<value>false</value>
 							<type>boolean</type>
 						</property>
@@ -417,11 +447,6 @@
 							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
 						</constraint>
 					</constraints>
 				</field>
