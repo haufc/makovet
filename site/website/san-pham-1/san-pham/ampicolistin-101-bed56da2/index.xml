@@ -7,12 +7,12 @@
 	<objectGroupId>14668d65</objectGroupId>
 	<objectId>14668d65-e3ea-4e76-b6fc-928c7c24f1d3</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>ampicolistin-101-bed56da2</folder-name>
-	<internal-name>Ampicolistin 101 bed56da2</internal-name>
-	<navLabel>Ampicolistin 101</navLabel>
+	<folder-name>ampicolistin-102</folder-name>
+	<internal-name>Ampicolistin 102</internal-name>
+	<navLabel>Ampicolistin 102</navLabel>
 	<productName_s>Ampicolistin</productName_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
 	<value>Header Slide</value>
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
@@ -26,7 +26,7 @@
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	<productDescription_html>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -71,10 +71,10 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</productDescription_html>
-	<createddate_dt>2020-07-31T08:09:08.000Z</createddate_dt>
+	<createddate_dt>2020-07-31T08:10:32.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T08:05:34.241Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T08:05:34.241Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-31T08:10:16.500Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T08:10:16.500Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
