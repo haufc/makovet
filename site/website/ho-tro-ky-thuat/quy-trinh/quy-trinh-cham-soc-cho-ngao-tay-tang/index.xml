@@ -6,9 +6,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>d1f6</objectGroupId>
 	<objectId>d1f62603-61a2-0d93-e5d2-02b4e4bae82e</objectId>
-	<internal-name>Quy trình chăm sóc chó Ngao - Tây Tạng </internal-name>
-	<navLabel>Quy trình chăm sóc chó Ngao - Tây Tạng </navLabel>
-	<processName_s>Quy trình chăm sóc chó Ngao - Tây Tạng </processName_s>
+	<internal-name>Các bệnh thường gặp ở chó nhỏ ai nuôi cũng phải bi</internal-name>
+	<navLabel>Các bệnh thường gặp ở chó nhỏ ai nuôi cũng phải bi</navLabel>
+	<processName_s>Các bệnh thường gặp ở chó nhỏ ai nuôi cũng phải biết</processName_s>
 	<datecreated_s>17/04.2017</datecreated_s>
 	<parentURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-thuy-san</parentURL_s>
 	<placeInNav>false</placeInNav>
@@ -37,50 +37,21 @@
 	<processType_o>	<item>	<key>benh-thu-cung</key>
 	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Thú cưng</value_smv>
 	</item></processType_o>
-	<processContent_html>&lt;p&gt;KH&amp;Aacute;I NIỆM&lt;/p&gt;
-&lt;p&gt;Bệnh do vi khuẩn E.coli khi ph&amp;aacute;t triển trong ruột heo sinh ra c&amp;aacute;c ngoại độc tố v&amp;agrave; c&amp;aacute;c chất n&amp;agrave;y thấm v&amp;agrave;o m&amp;aacute;u đầu độc cơ thể&lt;/p&gt;
-&lt;p&gt;Vai tr&amp;ograve; vi khuẩn E.coli l&amp;agrave; kế ph&amp;aacute;t, cần c&amp;oacute; th&amp;ecirc;m c&amp;aacute;c yếu tố thuận lợi ti&amp;ecirc;n ph&amp;aacute;t: chuồng bẩn lạnh; kh&amp;ocirc;ng kiểm so&amp;aacute;t được lượng &amp; chất của thức ăn.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;DẤU HIỆU BỆNH L&amp;Yacute;&lt;/p&gt;
-&lt;p&gt;Bệnh thường ph&amp;aacute;t sinh tr&amp;ecirc;n heo trong khoảng 25 &amp;ndash; 50kg v&amp;agrave; tr&amp;ecirc;n những heo b&amp;eacute;o tốt; Hai dấu hiệu ch&amp;iacute;nh của heo bệnh l&amp;agrave; ph&amp;ugrave; thủng v&amp;agrave; rối loạn vận động&lt;/p&gt;
-&lt;p&gt;- Ph&amp;ugrave;: thấy r&amp;otilde; ở v&amp;ugrave;ng quanh mắt, v&amp;ugrave;ng tr&amp;aacute;n&lt;/p&gt;
-&lt;p&gt;- Rối loạn vận động: heo bị co giật hay bại liệt 2 ch&amp;acirc;n sau.&lt;/p&gt;
-&lt;p&gt;Mổ kh&amp;aacute;m heo bệnh sẽ thấy:&lt;/p&gt;
-&lt;p&gt;- T&amp;iacute;ch nhiều dịch trong xoang ngực, xoang bụng&lt;/p&gt;
-&lt;p&gt;- Ph&amp;ugrave; thủng m&amp;agrave;ng treo ruột, Vi&amp;ecirc;m phổi kẻ&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;BIỆN PH&amp;Aacute;P GIẢI QUYẾT&lt;/p&gt;
-&lt;p&gt;T&amp;aacute;ch ri&amp;ecirc;ng heo bệnh. Tập trung chăm s&amp;oacute;c những heo chưa bệnh, nếu to&amp;agrave;n trại c&amp;agrave;ng tốt (đ&amp;acirc;y l&amp;agrave; điểm mấu chốt)&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Với heo chưa bệnh:&lt;/p&gt;
-&lt;p&gt;- Giảm lượng thức ăn c&amp;ograve;n 2/3, cho thức ăn dễ ti&amp;ecirc;u (như th&amp;ecirc;m ch&amp;aacute;o); kh&amp;ocirc;ng cho ăn sau 17h. Khi t&amp;igrave;nh h&amp;igrave;nh bệnh giảm sẽ tăng dần lượng thức ăn trở lại. Heo sau 60kg/con sẽ cho ăn tự do&lt;/p&gt;
-&lt;p&gt;- Acid h&amp;oacute;a thức ăn với ACID MIXED (pha nước cho uống), cho th&amp;ecirc;m probiotic như BIO ACIMIN Gold (trộn v&amp;agrave;o thức ăn). Cho d&amp;ugrave;ng li&amp;ecirc;n tục &amp;iacute;t nhất 10 ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;- Tăng cường chuyển h&amp;oacute;a với MEKOSAL (ti&amp;ecirc;m mỗi tuần/ lần); ti&amp;ecirc;m ngay mỗi con heo 1 liều VITAMIN ADE (2 th&amp;aacute;ng sau ti&amp;ecirc;m lại)&lt;/p&gt;
-&lt;p&gt;- D&amp;ugrave;ng BYE-CILOX + APRA-COLIS trộn v&amp;agrave;o thức ăn li&amp;ecirc;n tuc &amp;iacute;t nhất 10 ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;- Ti&amp;ecirc;m ngay cho mỗi con 1 liều CL- AMOXGEN (chỉ cần 1 lần)&lt;/p&gt;
-&lt;p&gt;- Sau khi can thiệp khoảng 5 ng&amp;agrave;y, d&amp;ugrave;ng VIMILAC PLUS 2 (trộn thức ăn &amp;iacute;t nhất 5 ng&amp;agrave;y), rồi sau đ&amp;oacute; d&amp;ugrave;ng MKV- GROWTH NEW trộn v&amp;agrave;o thức ăn&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Với heo đang bệnh: rất kh&amp;oacute; chữa trị&lt;/p&gt;
-&lt;p&gt;- Ti&amp;ecirc;m ngay 1 liều TROFURIT&lt;/p&gt;
-&lt;p&gt;- 2h sau ti&amp;ecirc;m th&amp;ecirc;m 1 liều TROFURIT + 1 liều HEPTAMINOL (hay cafein) + 1 liều DEXASONE&lt;/p&gt;
-&lt;p&gt;- 2h sau ti&amp;ecirc;m 1 liều CATAXIM (hay CL-AMOXGEN)&lt;/p&gt;
-&lt;p&gt;- Mỗi ng&amp;agrave;y ti&amp;ecirc;m 1 liều CL-AMOXGEN (&amp;iacute;t nhất 3 ng&amp;agrave;y), 1 liều CAFEIN, cho uống th&amp;ecirc;m SORBITOL&lt;/p&gt;
-&lt;p&gt;- Cho heo bệnh ăn uống như heo chưa bệnh&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Với chuồng trại:&lt;/p&gt;
-&lt;p&gt;- Cần giữ kh&amp;ocirc;, ấm, sạch. Tuyệt đối kh&amp;ocirc;ng cho g&amp;agrave;, vịt, ch&amp;oacute; v&amp;agrave;o chuồng heo&lt;/p&gt;
-&lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng chuồng ng&amp;agrave;y 1 lần&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Ph&amp;ograve;ng bệnh:&lt;/p&gt;
-&lt;p&gt;- Heo từ 20 đến 50kg/con n&amp;ecirc;n cho ăn định lượng kết hợp d&amp;ugrave;ng c&amp;aacute;c chất acidifier, probiotic&lt;/p&gt;
-&lt;p&gt;- Bố tr&amp;iacute; đủ m&amp;aacute;ng ăn&lt;/p&gt;
-&lt;p&gt;- Khi c&amp;oacute; stress hay khi nghi ngờ n&amp;ecirc;n d&amp;ugrave;ng APRA-COLIS trộn v&amp;agrave;o thức ăn &amp;iacute;t nhất 3 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style="text-align: right;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;
-&lt;p style="text-align: right;"&gt;Ảnh minh họa: sưu tầm&lt;/p&gt;</processContent_html>
+	<processContent_html>&lt;p&gt;C&amp;aacute;c lo&amp;agrave;i ch&amp;oacute; nhỏ như chihuahua, phốc, ch&amp;oacute; Nhật... rất dễ mắc một số bệnh, v&amp;igrave; vậy khi nu&amp;ocirc;i ch&amp;oacute; nhỏ nếu bạn kh&amp;ocirc;ng biết chăm s&amp;oacute;c đ&amp;uacute;ng c&amp;aacute;ch th&amp;igrave; sức khỏe của ch&amp;uacute;ng rất dễ bị ảnh hưởng.&lt;/p&gt;
+&lt;p&gt;Những ai y&amp;ecirc;u động vật, th&amp;uacute; cưng chắc chắn đều muốn nu&amp;ocirc;i những ch&amp;uacute; ch&amp;oacute; cảnh trong nh&amp;agrave;. Cũng giống như tất cả c&amp;aacute;c lo&amp;agrave;i vật nu&amp;ocirc;i trong nh&amp;agrave; kh&amp;aacute;c ch&amp;oacute; cảnh cũng rất dễ mắc nhiều loại bệnh, nhất l&amp;agrave; những lo&amp;agrave;i ch&amp;oacute; nhỏ như chihuahua, ch&amp;oacute; Nhật hay ch&amp;oacute; Bắc kinh. Vậy l&amp;agrave;m sao để biết những ch&amp;uacute; c&amp;uacute;n cưng của m&amp;igrave;nh đ&amp;atilde; mắc bệnh v&amp;agrave; c&amp;aacute;ch chăm s&amp;oacute;c, chữa trị c&amp;aacute;c bệnh thường gặp ở ch&amp;oacute; nhỏ như thế n&amp;agrave;o? C&amp;ugrave;ng tham khảo những th&amp;ocirc;ng tin trong b&amp;agrave;i viết n&amp;agrave;y để c&amp;oacute; th&amp;ecirc;m kinh nghiệm nh&amp;eacute;!&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c vấn đề về tim mạch&lt;/p&gt;
+&lt;p&gt;Tim mạch l&amp;agrave; một vấn đề sức khỏe thường hay gặp phải của c&amp;aacute;c giống ch&amp;oacute; nhỏ. Do hệ thống tuần ho&amp;agrave;n m&amp;aacute;u v&amp;agrave; tim mạch lu&amp;ocirc;n phải vận động nhanh n&amp;ecirc;n bạn cần phải đặc biệt ch&amp;uacute; &amp;yacute; đến việc ăn uống v&amp;agrave; chế độ dinh dưỡng của ch&amp;oacute;. Kh&amp;ocirc;ng n&amp;ecirc;n cho ch&amp;oacute; ăn c&amp;aacute;c loại thức ăn chứa nhiều dầu mỡ để giảm bớt lượng cholesterol trong m&amp;aacute;u, gi&amp;uacute;p tim khỏe mạnh hơn. Ngo&amp;agrave;i ra, hằng ng&amp;agrave;y bạn cũng cần cho ch&amp;oacute; tập thể dục c&amp;ugrave;ng m&amp;igrave;nh để cải thiện sức khỏe nh&amp;eacute;.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c bệnh về xương khớp&lt;/p&gt;
+&lt;p&gt;Nhiều loại ch&amp;oacute; nhỏ như phốc, chihuahua&amp;hellip; hay mắc những bệnh về xương, khớp. V&amp;igrave; vậy bạn n&amp;ecirc;n ch&amp;uacute; &amp;yacute; bổ sung canxi v&amp;agrave;o khẩu phần ăn cho ch&amp;oacute;, hạn chế c&amp;aacute;c loại thức ăn chứa axit b&amp;eacute;o c&amp;oacute; thể l&amp;agrave;m xương bị xốp, bị thấp khớp v&amp;agrave; dễ gẫy xương nếu vận động nhanh. Ngo&amp;agrave;i ra bạn n&amp;ecirc;n cho ch&amp;oacute; thường xuy&amp;ecirc;n đi dạo v&amp;agrave; vận động.&lt;/p&gt;
+&lt;p&gt;Ch&amp;oacute; dễ bị mắc c&amp;aacute;c chứng bệnh b&amp;eacute;o ph&amp;igrave;&lt;/p&gt;
+&lt;p&gt;D&amp;oacute; c&amp;oacute; k&amp;iacute;ch thước nhỏ lại kh&amp;aacute; lười vận động n&amp;ecirc;n bạn cần ch&amp;uacute; &amp;yacute; đến chế độ ăn uống v&amp;agrave; dinh dưỡng v&amp;igrave; ch&amp;oacute; cũng dễ mắc bệnh b&amp;eacute;o ph&amp;igrave; đấy. Bạn n&amp;ecirc;n hạn chế c&amp;aacute;c thức ăn chứa nhiều chất b&amp;eacute;o, kh&amp;ocirc;ng cho ch&amp;uacute;ng ăn qu&amp;aacute; nhiều. Nếu để t&amp;igrave;nh trạng b&amp;eacute;o ph&amp;igrave; k&amp;eacute;o d&amp;agrave;i sẽ rất nguy hại đến sức khỏe của ch&amp;uacute;ng.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c bệnh về răng miệng&lt;/p&gt;
+&lt;p&gt;Kh&amp;ocirc;ng giống những loại ch&amp;oacute; to, những ch&amp;uacute; ch&amp;oacute; nhỏ nhắn thường c&amp;oacute; h&amp;agrave;m răng kh&amp;ocirc;ng được thực sự chắc khỏe. V&amp;igrave; vậy bạn cần chăm ch&amp;uacute;t cẩn thận hơn, đừng để ch&amp;oacute; nhỏ gặm xương, răng ch&amp;uacute;ng c&amp;oacute; thể bị hỏng v&amp;agrave; cũng rất dễ bị h&amp;oacute;c xương đấy.&lt;/p&gt;
+&lt;p&gt;Ch&amp;oacute; dễ mắc c&amp;aacute;c bệnh về h&amp;ocirc; hấp&lt;/p&gt;
+&lt;p&gt;Khả năng chịu lạnh của c&amp;aacute;c giống ch&amp;oacute; con thường kh&amp;aacute; k&amp;eacute;m, v&amp;igrave; vậy ch&amp;uacute;ng rất dễ mắc c&amp;aacute;c bệnh về đường h&amp;ocirc; hấp như vi&amp;ecirc;m phổi, vi&amp;ecirc;m phế quản, ho cũi ch&amp;oacute;&amp;hellip; Nếu ch&amp;oacute; con thường vận động nhanh, thở kh&amp;ograve; kh&amp;egrave; th&amp;igrave; bạn cần thường xuy&amp;ecirc;n vệ sinh mũi, mắt cho c&amp;uacute;n thật sạch sẽ nh&amp;eacute;.&lt;/p&gt;
+&lt;p&gt;Nguồn: Tạp Ch&amp;iacute; Người Chăn nu&amp;ocirc;i&lt;/p&gt;</processContent_html>
 	<createdDate>2020-07-29T03:11:04.619Z</createdDate>
 	<createdDate_dt>2020-07-29T03:11:04.619Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T03:11:04.619Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T03:11:04.619Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-31T05:59:11.841Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:59:11.841Z</lastModifiedDate_dt>
 </page>
