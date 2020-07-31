@@ -10,9 +10,9 @@
 	<folder-name>quy-trinh-cahm-soc-tom-cang-xanh-31e24ff0</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<internal-name>Quy trình chăm sóc tôm hùm xanh 1</internal-name>
-	<navLabel>Quy trình chăm sóc tôm hùm xanh</navLabel>
-	<processName_s>Quy trình chăm sóc tôm hùm xanh</processName_s>
+	<internal-name>Bệnh tilapia lake virus (TILV)</internal-name>
+	<navLabel>Bệnh tilapia lake virus (TILV)</navLabel>
+	<processName_s>Bệnh tilapia lake virus (TILV)</processName_s>
 	<datecreated_s>17/04/2017</datecreated_s>
 	<parentURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-thuy-san</parentURL_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e3a8acc5-8fe8-c465-9d2f-bd4dfe2ca05a</key>
@@ -37,50 +37,21 @@
 	<processType_o>	<item>	<key>banh-thuy-san</key>
 	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Thủy sản</value_smv>
 	</item></processType_o>
-	<processContent_html>&lt;p&gt;KH&amp;Aacute;I NIỆM&lt;/p&gt;
-&lt;p&gt;Bệnh do vi khuẩn E.coli khi ph&amp;aacute;t triển trong ruột heo sinh ra c&amp;aacute;c ngoại độc tố v&amp;agrave; c&amp;aacute;c chất n&amp;agrave;y thấm v&amp;agrave;o m&amp;aacute;u đầu độc cơ thể&lt;/p&gt;
-&lt;p&gt;Vai tr&amp;ograve; vi khuẩn E.coli l&amp;agrave; kế ph&amp;aacute;t, cần c&amp;oacute; th&amp;ecirc;m c&amp;aacute;c yếu tố thuận lợi ti&amp;ecirc;n ph&amp;aacute;t: chuồng bẩn lạnh; kh&amp;ocirc;ng kiểm so&amp;aacute;t được lượng &amp; chất của thức ăn.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;DẤU HIỆU BỆNH L&amp;Yacute;&lt;/p&gt;
-&lt;p&gt;Bệnh thường ph&amp;aacute;t sinh tr&amp;ecirc;n heo trong khoảng 25 &amp;ndash; 50kg v&amp;agrave; tr&amp;ecirc;n những heo b&amp;eacute;o tốt; Hai dấu hiệu ch&amp;iacute;nh của heo bệnh l&amp;agrave; ph&amp;ugrave; thủng v&amp;agrave; rối loạn vận động&lt;/p&gt;
-&lt;p&gt;- Ph&amp;ugrave;: thấy r&amp;otilde; ở v&amp;ugrave;ng quanh mắt, v&amp;ugrave;ng tr&amp;aacute;n&lt;/p&gt;
-&lt;p&gt;- Rối loạn vận động: heo bị co giật hay bại liệt 2 ch&amp;acirc;n sau.&lt;/p&gt;
-&lt;p&gt;Mổ kh&amp;aacute;m heo bệnh sẽ thấy:&lt;/p&gt;
-&lt;p&gt;- T&amp;iacute;ch nhiều dịch trong xoang ngực, xoang bụng&lt;/p&gt;
-&lt;p&gt;- Ph&amp;ugrave; thủng m&amp;agrave;ng treo ruột, Vi&amp;ecirc;m phổi kẻ&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;BIỆN PH&amp;Aacute;P GIẢI QUYẾT&lt;/p&gt;
-&lt;p&gt;T&amp;aacute;ch ri&amp;ecirc;ng heo bệnh. Tập trung chăm s&amp;oacute;c những heo chưa bệnh, nếu to&amp;agrave;n trại c&amp;agrave;ng tốt (đ&amp;acirc;y l&amp;agrave; điểm mấu chốt)&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Với heo chưa bệnh:&lt;/p&gt;
-&lt;p&gt;- Giảm lượng thức ăn c&amp;ograve;n 2/3, cho thức ăn dễ ti&amp;ecirc;u (như th&amp;ecirc;m ch&amp;aacute;o); kh&amp;ocirc;ng cho ăn sau 17h. Khi t&amp;igrave;nh h&amp;igrave;nh bệnh giảm sẽ tăng dần lượng thức ăn trở lại. Heo sau 60kg/con sẽ cho ăn tự do&lt;/p&gt;
-&lt;p&gt;- Acid h&amp;oacute;a thức ăn với ACID MIXED (pha nước cho uống), cho th&amp;ecirc;m probiotic như BIO ACIMIN Gold (trộn v&amp;agrave;o thức ăn). Cho d&amp;ugrave;ng li&amp;ecirc;n tục &amp;iacute;t nhất 10 ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;- Tăng cường chuyển h&amp;oacute;a với MEKOSAL (ti&amp;ecirc;m mỗi tuần/ lần); ti&amp;ecirc;m ngay mỗi con heo 1 liều VITAMIN ADE (2 th&amp;aacute;ng sau ti&amp;ecirc;m lại)&lt;/p&gt;
-&lt;p&gt;- D&amp;ugrave;ng BYE-CILOX + APRA-COLIS trộn v&amp;agrave;o thức ăn li&amp;ecirc;n tuc &amp;iacute;t nhất 10 ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;- Ti&amp;ecirc;m ngay cho mỗi con 1 liều CL- AMOXGEN (chỉ cần 1 lần)&lt;/p&gt;
-&lt;p&gt;- Sau khi can thiệp khoảng 5 ng&amp;agrave;y, d&amp;ugrave;ng VIMILAC PLUS 2 (trộn thức ăn &amp;iacute;t nhất 5 ng&amp;agrave;y), rồi sau đ&amp;oacute; d&amp;ugrave;ng MKV- GROWTH NEW trộn v&amp;agrave;o thức ăn&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Với heo đang bệnh: rất kh&amp;oacute; chữa trị&lt;/p&gt;
-&lt;p&gt;- Ti&amp;ecirc;m ngay 1 liều TROFURIT&lt;/p&gt;
-&lt;p&gt;- 2h sau ti&amp;ecirc;m th&amp;ecirc;m 1 liều TROFURIT + 1 liều HEPTAMINOL (hay cafein) + 1 liều DEXASONE&lt;/p&gt;
-&lt;p&gt;- 2h sau ti&amp;ecirc;m 1 liều CATAXIM (hay CL-AMOXGEN)&lt;/p&gt;
-&lt;p&gt;- Mỗi ng&amp;agrave;y ti&amp;ecirc;m 1 liều CL-AMOXGEN (&amp;iacute;t nhất 3 ng&amp;agrave;y), 1 liều CAFEIN, cho uống th&amp;ecirc;m SORBITOL&lt;/p&gt;
-&lt;p&gt;- Cho heo bệnh ăn uống như heo chưa bệnh&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Với chuồng trại:&lt;/p&gt;
-&lt;p&gt;- Cần giữ kh&amp;ocirc;, ấm, sạch. Tuyệt đối kh&amp;ocirc;ng cho g&amp;agrave;, vịt, ch&amp;oacute; v&amp;agrave;o chuồng heo&lt;/p&gt;
-&lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng chuồng ng&amp;agrave;y 1 lần&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;* Ph&amp;ograve;ng bệnh:&lt;/p&gt;
-&lt;p&gt;- Heo từ 20 đến 50kg/con n&amp;ecirc;n cho ăn định lượng kết hợp d&amp;ugrave;ng c&amp;aacute;c chất acidifier, probiotic&lt;/p&gt;
-&lt;p&gt;- Bố tr&amp;iacute; đủ m&amp;aacute;ng ăn&lt;/p&gt;
-&lt;p&gt;- Khi c&amp;oacute; stress hay khi nghi ngờ n&amp;ecirc;n d&amp;ugrave;ng APRA-COLIS trộn v&amp;agrave;o thức ăn &amp;iacute;t nhất 3 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style="text-align: right;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;
-&lt;p style="text-align: right;"&gt;Ảnh minh họa: sưu tầm&lt;/p&gt;</processContent_html>
+	<processContent_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Nguồn gốc&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh TiLV (Tilapia lake virus) l&amp;agrave; bệnh do vi r&amp;uacute;t c&amp;oacute; nh&amp;acirc;n ARN thuộc họ Orthomyxoviridae g&amp;acirc;y ra ở c&amp;aacute; R&amp;ocirc; phi. Bệnh n&amp;agrave;y được c&amp;ocirc;ng bố lần đầu ti&amp;ecirc;n v&amp;agrave;o năm 2014 tại Israel, n&amp;oacute; đ&amp;atilde; g&amp;acirc;y ra tỉ lệ chết l&amp;ecirc;n đến 80% trong v&amp;ograve;ng 10 ng&amp;agrave;y ở c&amp;aacute; R&amp;ocirc; phi [Eyngor v&amp;agrave; cs. 2014]. Những nghi&amp;ecirc;n cứu gần đ&amp;acirc;y tại Th&amp;aacute;i Lan cho thấy, tỷ lệ chết sẽ đạt đỉnh 86% (R&amp;ocirc; phi vằn) v&amp;agrave; 66% với R&amp;ocirc; phi đỏ trong v&amp;ograve;ng 4-12 ng&amp;agrave;y sau khi cảm nhiễm mầm bệnh [Tattiapong v&amp;agrave; cs., 2017]. Ở Việt Nam Bệnh TiLV được c&amp;ocirc;ng bố ch&amp;iacute;nh thức v&amp;agrave;o th&amp;aacute;ng 7 năm 2017, với 60 mẫu cho kết quả dương t&amp;iacute;nh với TiLV tr&amp;ecirc;n tổng số 227 mẫu đến từ c&amp;aacute;c tỉnh Bắc Trung Bộ v&amp;agrave; Miền Bắc (chiếm tỉ lệ 26.43%, trong đ&amp;oacute; c&amp;oacute; 9/29 mẫu c&amp;oacute; nguồn gốc c&amp;aacute; giống từ Việt nam v&amp;agrave; 36/135 mẫu c&amp;aacute; giống c&amp;oacute; nguồn gốc từ Trung Quốc) [B&amp;aacute;o c&amp;aacute;o Cục Th&amp;uacute; y, 10/2017].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong nu&amp;ocirc;i trồng thủy sản, bệnh TiLV thường xảy ra ở khoảng nhiệt độ từ 20-30oC v&amp;agrave; khi c&amp;oacute; hiện tượng sốc m&amp;ocirc;i trường như nhiệt độ, độ mặn&amp;hellip; [OIE, 2018; Jansen v&amp;agrave; cs. 2019]. Bệnh l&amp;acirc;y lan theo chiều ngang, từ nguồn nước hoặc từ c&amp;aacute; bệnh sang c&amp;aacute; khỏe trong c&amp;ugrave;ng lồng/ao nu&amp;ocirc;i, trại nu&amp;ocirc;i, qua nguồn nước, dụng cụ nu&amp;ocirc;i [Eyngor v&amp;agrave; cs., 2014; Tattiyapong, Dachavichitlead, &amp; Surachetpong, 2017]. Mầm bệnh c&amp;oacute; thể tồn tại ở nhớt c&amp;aacute;, gan v&amp;agrave; ruột c&amp;aacute; trong v&amp;ograve;ng hai tuần, v&amp;igrave; vậy khi c&amp;oacute; c&amp;aacute; bị nhiễm TiLV th&amp;igrave; khả năng l&amp;acirc;y lan trong quần đ&amp;agrave;n l&amp;agrave; rất lớn, đặc biệt với c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh nu&amp;ocirc;i c&amp;aacute; R&amp;ocirc; phi với mật độ cao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đối tượng nhiễm bệnh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Virus TiLV g&amp;acirc;y bệnh ở c&amp;aacute;c lo&amp;agrave;i c&amp;aacute; r&amp;ocirc; phi nu&amp;ocirc;i, gồm: C&amp;aacute; r&amp;ocirc; phi vằn (Nile tilapia, Oreochromis niloticus), c&amp;aacute; r&amp;ocirc; phi lai tạo (O. niloticus &amp;times; O. aureus hybrids) v&amp;agrave; c&amp;aacute; r&amp;ocirc; phi đỏ/c&amp;aacute; đi&amp;ecirc;u hồng (Oreochromis sp.). C&amp;aacute;c lo&amp;agrave;i c&amp;aacute; r&amp;ocirc; phi hoang d&amp;atilde; như c&amp;aacute; r&amp;ocirc; phi xanh (Oreochromis aureus), c&amp;aacute; r&amp;ocirc; phi Mango (Sarotherodon galilaeus), Tilapia zilli v&amp;agrave; Tristamellasimonis intermedia cũng mẫn cảm với vi r&amp;uacute;t n&amp;agrave;y. Tuy nhi&amp;ecirc;n, c&amp;aacute;c dấu hiệu bệnh l&amp;yacute; ở c&amp;aacute;c c&amp;aacute; kh&amp;aacute;c như c&amp;aacute; ch&amp;eacute;p, c&amp;aacute; đối kh&amp;ocirc;ng được ghi nhận mặc d&amp;ugrave; c&amp;aacute;c đối tượng n&amp;agrave;y c&amp;ugrave;ng sống hoặc c&amp;ugrave;ng được nu&amp;ocirc;i trong một khu vực với c&amp;aacute; R&amp;ocirc; phi [Eyngor v&amp;agrave; cs. 2014; OIE 2018].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Dấu hiệu bệnh l&amp;yacute;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute; mắc bệnh c&amp;oacute; biểu hiện ch&amp;aacute;n ăn, m&amp;agrave;u sắc cơ thể biến đổi (sẫm m&amp;agrave;u); thay đổi tập t&amp;iacute;nh bơi lội (như tập trung ở tr&amp;ecirc;n bề mặt, bơi lờ đờ), ngừng k&amp;eacute;o đ&amp;agrave;n, h&amp;ocirc;n m&amp;ecirc; trước khi chết. Một số dấu hiệu tr&amp;ecirc;n cơ thể gồm: hiện tượng xung huyết, xuất huyết n&amp;atilde;o; ăn m&amp;ograve;n v&amp;agrave; lở lo&amp;eacute;t từ dạng điểm đến mảng tr&amp;ecirc;n da; mang t&amp;aacute;i nhợt; mắt bị teo lại hoặc lồi ra, c&amp;oacute; hiện tượng đục thủy tinh thể; xoang bụng v&amp;agrave; hậu m&amp;ocirc;n ph&amp;igrave;nh to; vẩy dựng l&amp;ecirc;n, c&amp;oacute; thể bong tr&amp;oacute;c; đu&amp;ocirc;i bị ăn m&amp;ograve;n [Eyngor v&amp;agrave; cs. 2014; OIE 2018; Jansen v&amp;agrave; cs., 2019].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tỷ lệ chết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tỷ lệ chết t&amp;ugrave;y thuộc v&amp;agrave;o giai đoạn ph&amp;aacute;t triển v&amp;agrave; giống c&amp;aacute; R&amp;ocirc; phi, tỷ lệ chết dao động 9,2 - 90% đ&amp;atilde; được ghi nhận ở c&amp;aacute;c nước Ai Cập, Israel, Th&amp;aacute;i Lan v&amp;agrave; Ecuador [Eyngor v&amp;agrave; cs. 2014]; bệnh xuất hiện ở mọi lứa tuổi nhưng chủ yếu tập trung ở c&amp;aacute; giống (c&amp;aacute; con). Với gi&amp;ocirc;́ng c&amp;aacute; r&amp;ocirc; phi đỏ nu&amp;ocirc;i lồng bị nhiễm bệnh, tỷ lệ chết c&amp;oacute; thể l&amp;ecirc;n tới 90% trong v&amp;ograve;ng một th&amp;aacute;ng sau thả đ&amp;atilde; diễn ra ở Th&amp;aacute;i Lan [Dong v&amp;agrave; cs. 2017]. Tỷ lệ chết cao cũng đ&amp;atilde; được b&amp;aacute;o c&amp;aacute;o thường xảy ra trong v&amp;ograve;ng một th&amp;aacute;ng đầu khi chuyển c&amp;aacute; từ trại giống ra lồng nu&amp;ocirc;i tr&amp;ecirc;n s&amp;ocirc;ng hoặc hồ chứa [Surachetpong v&amp;agrave; cs., 2017]. Tỷ lệ chết chỉ vượt qu&amp;aacute; 9% đối với c&amp;aacute; c&amp;oacute; k&amp;iacute;ch cỡ trung b&amp;igrave;nh đến cỡ lớn (giai đoạn nu&amp;ocirc;i thương phẩm) [Fathi v&amp;agrave; cs. 2017]. Trong khi c&amp;aacute;c nghi&amp;ecirc;n cứu kh&amp;aacute;c th&amp;igrave; kh&amp;ocirc;ng đề cập đến tỉ lệ chết theo k&amp;iacute;ch cỡ của c&amp;aacute; [Eyngor v&amp;agrave; cs. 2014].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Giải ph&amp;aacute;p kiểm so&amp;aacute;t bệnh TiLV&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hiện nay chưa c&amp;oacute; phương ph&amp;aacute;p hiệu quả để ngăn chặn TiLV một khi n&amp;oacute; b&amp;ugrave;ng ph&amp;aacute;t. Đặc biệt một số trường hợp xẩy ra hiện tượng gh&amp;eacute;p bệnh giữa TiLV với c&amp;aacute;c bệnh do vi khuẩn g&amp;acirc;y l&amp;ecirc;n như bệnh Nhiễm tr&amp;ugrave;ng huyết do vi khuẩn Aeromonas spp; bệnh thối mang/v&amp;acirc;y do vi khuẩn Flavobacterium sp v&amp;agrave; bệnh xuất huyết do Streptococcus sp [Surachetpong v&amp;agrave; cs., 2017; Amal v&amp;agrave; cs., 2018].&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;igrave; vậy, mọi giải ph&amp;aacute;p để kiểm so&amp;aacute;t bệnh n&amp;agrave;y l&amp;agrave; tập trung v&amp;agrave;o c&amp;ocirc;ng t&amp;aacute;c ph&amp;ograve;ng bệnh, bao gồm: (1) thực hiện triệt để c&amp;ocirc;ng t&amp;aacute;c an to&amp;agrave;n sinh học trong chăn nu&amp;ocirc;i c&amp;aacute; R&amp;ocirc; phi (kiểm tra mầm bệnh TiLV trước khi thả giống); (2) Tăng cường sức đề kh&amp;aacute;ng cho c&amp;aacute; bằng vitamin v&amp;agrave; c&amp;aacute;c hoạt chất tăng cường hệ miễn dịch của c&amp;aacute;; (3) Giảm thiểu tối đa c&amp;aacute;c hiện tượng sốc do m&amp;ocirc;i trường, do đ&amp;aacute;nh bắt v&amp;agrave; vận chuyển c&amp;aacute;&amp;hellip; hoặc sốc do mật độ nu&amp;ocirc;i cao [Yang v&amp;agrave; cs., 2018; OIE, 2018].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;T&amp;aacute;c giả: TS. Đo&amp;agrave;n Quốc Kh&amp;aacute;nh - GĐ DVKTTS Tập đo&amp;agrave;n Mavin&lt;/em&gt;&lt;/p&gt;</processContent_html>
 	<createdDate>2020-07-29T03:06:29.590Z</createdDate>
 	<createdDate_dt>2020-07-29T03:06:29.590Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T03:14:26.019Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T03:14:26.019Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-31T04:48:15.885Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T04:48:15.885Z</lastModifiedDate_dt>
 </page>
