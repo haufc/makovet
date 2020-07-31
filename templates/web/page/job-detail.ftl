@@ -29,6 +29,7 @@
         .job-content p {
             font-size: 18px;
             font-weight: 300;
+            line-height: 1.5;
         }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
