@@ -406,7 +406,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>uploadfromDesktop,uploadfromRepository</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
