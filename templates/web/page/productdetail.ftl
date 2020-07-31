@@ -81,7 +81,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__img"><img class="product-header__img--content mt-lg-5 mt-md-5" src="${contentModel.productImage_s}" width="254" height="262"/></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__buy"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
                 </div>
-                <div class="col-md-12 p-lg-0 p-md-0 mb-5 product__content" style="font-size: 26px;margin-top:40px; line-height:1.2">
+                <div class="col-md-12 p-lg-0 p-md-0 mb-5 product__content" style="font-size: 18px;margin-top:40px; line-height:1.2">
                     ${contentModel.productDescription_html}
                 </div>
                 <div class="products__list-title" style="margin-top: 60px;">
