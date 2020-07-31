@@ -11,7 +11,6 @@
 	<internal-name>Giám đốc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</internal-name>
 	<navLabel>Giám đốc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</navLabel>
 	<jobTitle_s>Giám đốc Chi nhánh Mavin Duck Farm (Thành viên TẬP ĐOÀN MAVIN)</jobTitle_s>
-	<jobDuration_s>14/07/2017</jobDuration_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b6cd5584-1b02-aa30-4709-bca64bbe501b</key>
 	<value>header Slide</value>
 <component id="b6cd5584-1b02-aa30-4709-bca64bbe501b">
@@ -66,6 +65,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</jobContent_html>
 	<createdDate>2020-06-29T07:33:09.251Z</createdDate>
 	<createdDate_dt>2020-06-29T07:33:09.251Z</createdDate_dt>
-	<lastModifiedDate>2020-07-23T03:33:40.545Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-23T03:33:40.545Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-31T07:29:39.408Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T07:29:39.408Z</lastModifiedDate_dt>
+	<jobDuration_dt>2020-07-30T17:00:00.000Z</jobDuration_dt>
+	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
 </page>
