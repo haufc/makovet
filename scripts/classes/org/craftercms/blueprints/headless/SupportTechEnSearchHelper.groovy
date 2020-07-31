@@ -37,7 +37,7 @@ class SupportTechEnSearchHelper {
             .query(QueryBuilders.queryStringQuery(q))
             .from(start)
             .size(rows)
-        
+            .sort(new FieldSortBuilder("createdDate_dt").order(SortOrder.DESC))
         def result = elasticsearch.search(new SearchRequest().source(builder))
         
         if (result) {
@@ -57,7 +57,7 @@ class SupportTechEnSearchHelper {
                 def supportTech = [:]
                     supportTech.title = doc.diseaseName_s
                     supportTech.desc = doc.diseaseContent_html
-                    supportTech.time = doc.datecreated_s
+                    supportTech.time = doc.createdDate_dt
                     supportTech.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 supportTechs << supportTech
             }
