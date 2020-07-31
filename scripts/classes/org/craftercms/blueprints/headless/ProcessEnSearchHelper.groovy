@@ -37,6 +37,7 @@ class ProcessEnSearchHelper {
             .query(QueryBuilders.queryStringQuery(q))
             .from(start)
             .size(rows)
+            .sort(new FieldSortBuilder("createdDate_dt").order(SortOrder.DESC))
         
         def result = elasticsearch.search(new SearchRequest().source(builder))
         
@@ -57,7 +58,7 @@ class ProcessEnSearchHelper {
                 def supportTech = [:]
                     supportTech.title = doc.processName_s
                     supportTech.desc = doc.processContent_html
-                    supportTech.time = doc.datecreated_s
+                    supportTech.time = doc.createdDate_dt
                     supportTech.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 supportTechs << supportTech
             }
