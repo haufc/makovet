@@ -7,12 +7,12 @@
 	<objectGroupId>05646d1f</objectGroupId>
 	<objectId>05646d1f-49c5-4ded-989c-b2d8ec4d304c</objectId>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
 	<folder-name>tai-lieuhop-co-dong-lan-2-974bd2df</folder-name>
-	<internal-name>MKV công bố tài liệu họp Đại hội đồng cổ đông thường niên năm 2020 lần 2 974bd2df</internal-name>
-	<navLabel>MKV công bố tài liệu họp Đại hội đồng cổ đông thườ</navLabel>
-	<title_s>MKV công bố tài liệu họp Đại hội đồng cổ đông thường niên năm 2020 lần 2</title_s>
+	<internal-name>Công bố biên bản và quyết định đại hội đồng cổ đông thường niên năm 2020</internal-name>
+	<navLabel>Công bố biên bản và quyết định đại hội đồng cổ đôn</navLabel>
+	<title_s>Công bố biên bản và quyết định đại hội đồng cổ đông thường niên năm 2020</title_s>
 	<categories_o>	<item>	<key>shareholders</key>
 	<value_smv>Đại hội đồng cổ đông</value_smv>
 	</item></categories_o>
@@ -21,11 +21,11 @@
 	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></slideImage_o>
-	<content_html>&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/Tai%20lieu%20hop%20DHDCD%20thuong%20nien%202020.rar"&gt;TL Đại hội đồng cổ đ&amp;ocirc;ng thường ni&amp;ecirc;n năm 2020 lần 2&lt;/a&gt;&lt;/p&gt;</content_html>
+	<content_html>&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/NQ%20DHDCD%202020.pdf"&gt;Bi&amp;ecirc;n bản v&amp;agrave; quyết định đại hội đồng cổ đ&amp;ocirc;ng thường ni&amp;ecirc;n năm 2020&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T10:46:21.463Z</createdDate>
 	<createdDate_dt>2020-07-31T10:46:21.463Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T10:46:21.463Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T10:46:21.463Z</lastModifiedDate_dt>
-	<date_dt>2020-07-31T10:46:21.000Z</date_dt>
+	<lastModifiedDate>2020-07-31T10:55:46.622Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:55:46.622Z</lastModifiedDate_dt>
+	<date_dt>2020-07-31T10:56:21.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
