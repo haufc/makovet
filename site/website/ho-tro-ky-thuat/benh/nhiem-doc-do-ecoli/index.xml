@@ -10,7 +10,7 @@
 	<folder-name>nhiem-doc-do-ecoli</folder-name>
 	<internal-name>Bệnh hen trên gà</internal-name>
 	<navLabel>Bệnh hen trên gà</navLabel>
-	<diseaseName_s>Nhiễm độc do E. coli (EDEMA DISEASE; Bệnh phù)</diseaseName_s>
+	<diseaseName_s>Bệnh hen trên gà</diseaseName_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>33a8bdf3-1212-f43a-1baa-edadea31c7ad</key>
 	<value>slide</value>
 <component id="33a8bdf3-1212-f43a-1baa-edadea31c7ad">
@@ -35,8 +35,7 @@
 	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
 	<value_smv>Bệnh gia súc - gia cầm</value_smv>
 	</item></technicalAssistance_o>
-	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;Bản inEmail&lt;/p&gt;
-&lt;p style="text-align: justify;"&gt;1. Nguy&amp;ecirc;n nh&amp;acirc;n:&lt;/p&gt;
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;1. Nguy&amp;ecirc;n nh&amp;acirc;n:&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;- Bệnh hen tr&amp;ecirc;n g&amp;agrave; l&amp;agrave; bệnh vi&amp;ecirc;m nhiễm phức hợp đường h&amp;ocirc; hấp do nhiều loại mầm bệnh g&amp;acirc;y ra, c&amp;aacute;c mầm bệnh n&amp;agrave;y c&amp;oacute; thể hoạt động đơn độc hay kết hợp hoặc kế ph&amp;aacute;t nhau.&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;- C&amp;aacute;c loại virus g&amp;acirc;y bệnh như l&amp;agrave;: virus bệnh vi&amp;ecirc;m thanh kh&amp;iacute; quản truyền nhiễm (ILTV), virus bệnh vi&amp;ecirc;m phế quản truyển nhiễm (IBV), virus c&amp;uacute;m (AIV &amp;ndash; avian influenza virus), virus bệnh Newcastle,&amp;hellip;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;- C&amp;aacute;c loại vi khuẩn g&amp;acirc;y bệnh như l&amp;agrave;: Mycoplasma gallisepticum g&amp;acirc;y bệnh CRD v&amp;agrave; CCRD, Pasteurella multocida g&amp;acirc;y bệnh tụ huyết tr&amp;ugrave;ng, Haemophilus paragallinarum g&amp;acirc;y bệnh sổ mũi truyền nhiễm, Aspergillus fumigatus g&amp;acirc;y bệnh nấm phổi, E. coli g&amp;acirc;y ra vi&amp;ecirc;m đa phủ tạng hoặc phụ nhiễm theo c&amp;aacute;c bệnh kh&amp;aacute;c.&lt;/p&gt;
@@ -162,8 +161,8 @@
 &lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
 	<createdDate>2020-06-26T07:15:13.762Z</createdDate>
 	<createdDate_dt>2020-06-26T07:15:13.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T08:29:26.974Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T08:29:26.974Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-07-31T08:41:09.966Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T08:41:09.966Z</lastModifiedDate_dt>
 	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
 	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>
