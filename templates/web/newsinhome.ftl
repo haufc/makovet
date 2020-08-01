@@ -26,7 +26,7 @@
                         </p>
                     </div>
 
-                    <a class="view-more flex" href="${firstNew.url}">
+                    <a class="view-more flex" href="${firstNew.url}" style="margin-top: 32px;">
                         <span class="font-bold font-title" style="color: #322372; font-size: 16.8px;">Xem thêm</span>
                         <img src="/static-assets/images/icon_arrow_yellow.png" alt="Arrow icon">
                     </a>
@@ -53,7 +53,7 @@
                             <h3 id="doc-0" style="margin-bottom: 0 !important;padding: 12px;font-size:20px;background-color: #322372;" class="video-name text-white text--uppercase font-title">${contentModel.titleBanner_s}</h3>
                         </a>
                 </div>
-                <div class="row">
+                <div class="row" style="margin-top: 48px;">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <figure>
                              <img  style="width:100%; height:140px; margin-bottom:16px;" src="${contentModel.photoAvatar_s}" alt="News image">
