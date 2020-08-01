@@ -6,15 +6,12 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>7601</objectGroupId>
 	<objectId>7601f0fd-cd50-c097-3698-1f3e6f73eec3</objectId>
-	<listVideo_o item-list="true">	<item>	<videoName_s>Tập đoàn Mavin: Doanh nghiệp Việt đầu tiên xuất khẩu thịt heo thành công</videoName_s>
-	<videoYoutubeURL_s>https://www.youtube.com/embed/oqNBznIK6d0</videoYoutubeURL_s>
-	<videoBanner_s>/static-assets/images/libraries/videos/xuat_khau_thit_heo_mavin_.jpg</videoBanner_s>
-	</item>	<item>	<videoName_s>Tập đoàn Mavin đầu tư dự án trăm tỷ ở huyện Cao Lãnh</videoName_s>
-	<videoBanner_s>/static-assets/images/libraries/videos/dau_tu_tram_ty_vao_huyen_cao_lanh.jpg</videoBanner_s>
-	<videoYoutubeURL_s>https://www.youtube.com/embed/NrOR99DUPlk</videoYoutubeURL_s>
-	</item>	<item>	<videoName_s>Giới thiệu Tập đoàn Mavin</videoName_s>
+	<listVideo_o item-list="true">	<item>	<videoName_s>Giới thiệu Tập đoàn Mavin</videoName_s>
 	<videoBanner_s>/static-assets/images/libraries/videos/Tập đoàn Mavin - Chuỗi 3F.jpg</videoBanner_s>
 	<videoYoutubeURL_s>https://www.youtube.com/watch?v=z24b-1zc9BA&amp;t=21s</videoYoutubeURL_s>
+	</item>	<item>	<videoName_s>Tập đoàn Mavin: Doanh nghiệp Việt đầu tiên xuất khẩu thịt heo thành công</videoName_s>
+	<videoYoutubeURL_s>https://www.youtube.com/embed/oqNBznIK6d0</videoYoutubeURL_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/xuat_khau_thit_heo_mavin_.jpg</videoBanner_s>
 	</item>	<item>	<videoName_s>Giới thiệu Công ty thực phẩm Mavin Foods</videoName_s>
 	<videoBanner_s>/static-assets/images/libraries/videos/Nha may Mavin Food.JPG</videoBanner_s>
 	<videoYoutubeURL_s>https://www.youtube.com/watch?v=RPghOiDVWaI&amp;t=93s</videoYoutubeURL_s>
@@ -27,6 +24,12 @@
 	</item>	<item>	<videoName_s>Mavin Aquaculture - Công nghệ nuôi lồng tròn NaUy</videoName_s>
 	<videoBanner_s>/static-assets/images/libraries/videos/Du an nuoi ca long ho Hoa Binh.jpg</videoBanner_s>
 	<videoYoutubeURL_s>https://www.youtube.com/watch?v=Ud42V26zZDo</videoYoutubeURL_s>
+	</item>	<item>	<videoName_s>Nuôi cá rô phi xuất khẩu</videoName_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/Mavin Aqua Dec2019.JPG</videoBanner_s>
+	<videoYoutubeURL_s>https://www.youtube.com/watch?v=1HexBY-4Vlk</videoYoutubeURL_s>
+	</item>	<item>	<videoName_s>10 sự kiện tiêu biểu của Mavin năm 2019</videoName_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/Chuoi gia tri (2).jpg</videoBanner_s>
+	<videoYoutubeURL_s>https://www.youtube.com/watch?v=1HexBY-4Vlk</videoYoutubeURL_s>
 	</item></listVideo_o>
 	<internal-name>Thư viện video</internal-name>
 	<title_s>Thư viện video</title_s>
@@ -41,6 +44,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-07-07T07:33:25.999Z</createdDate>
 	<createdDate_dt>2020-07-07T07:33:25.999Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T02:02:46.853Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T02:02:46.853Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T02:08:28.815Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T02:08:28.815Z</lastModifiedDate_dt>
 </page>
