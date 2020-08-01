@@ -28,6 +28,23 @@
         .bg-dialog{
             background-color: #322372;
         }
+        
+        .play-icon {
+            background: #FEBD11;
+            border-radius: 50%;
+            color: #00559a;
+            display: block;
+            font-size: 25px;
+            height: 45px;
+            left: 50%;
+            line-height: 45px;
+            position: absolute;
+            text-align: center;
+            top: 40%;
+            transform: translate(-50%, -50%);
+            -webkit-transform: translate(-50%, -50%);
+            width: 45px;
+        }
     </style>
   </head>
   <body>
