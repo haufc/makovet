@@ -8,9 +8,9 @@
 	<objectId>e15a14c9-8c0e-6ebf-7275-334c6cf133fb</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>ampicolistin-100</folder-name>
-	<internal-name>Ampicolistin 100</internal-name>
-	<navLabel>Ampicolistin 100</navLabel>
-	<productName_s>Ampicolistin</productName_s>
+	<internal-name>MEKOCANXI</internal-name>
+	<navLabel>MEKOCANXI</navLabel>
+	<productName_s>MEKOCANXI</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
@@ -18,65 +18,42 @@
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
-	<isHot_b>true</isHot_b>
-	<productImage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</productImage_s>
+	<isHot_b>false</isHot_b>
+	<productImage_s>/static-assets/images/products/Mekocanxi.png</productImage_s>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
 	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
 	</item></productgrouplv1_o>
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
-	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="width: 45.6897%;"&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CHỈ TI&amp;Ecirc;U CHẤT LƯỢNG:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chất ch&amp;iacute;nh &amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Beta-Glucan (min)&lt;/p&gt;
-&lt;p&gt;Sorbitol (min)&lt;/p&gt;
-&lt;p&gt;Vitamin C (min)&lt;/p&gt;
-&lt;p&gt;Chất kh&amp;aacute;c:&lt;/p&gt;
-&lt;p&gt;Protein (min)&lt;/p&gt;
-&lt;p&gt;Chất mang&lt;/p&gt;
-&lt;p&gt;(MOS, dextrose, lactose, chất hấp phụ độc tố,...) vđ&lt;/p&gt;
-&lt;p&gt;Chất cấm: Kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NGUY&amp;Ecirc;N LIỆU CH&amp;Iacute;NH:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;beta;-glucan (1,3-1,6), Sorbitol, Vitamin C, v&amp;aacute;ch tế b&amp;agrave;o nấm men, mannan-oligosaccharide (MOS), dextrose, lactose, chất hấp phụ độc tố (Toxibind dry),...&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- N&amp;acirc;ng cao sức đề kh&amp;aacute;ng, tăng cường hệ miễn dịch tự nhi&amp;ecirc;n cho gia s&amp;uacute;c, gia cầm.&lt;/p&gt;
-&lt;p&gt;- N&amp;acirc;ng cao khả năng đ&amp;aacute;p ứng miễn dịch sau khi ti&amp;ecirc;m vaccin.&lt;/p&gt;
-&lt;p&gt;- Bổ sung vitamin, nguồn dinh dưỡng cho vi sinh vật c&amp;oacute;&amp;nbsp;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style="width: 4.31034%;"&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style="width: 50%;"&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;- Bổ sung vitamin, nguồn dinh dưỡng cho vi sinh vật c&amp;oacute; lợi ph&amp;aacute;t triển, tăng cường chức năng gan, tăng chuyển h&amp;oacute;a thức ăn, gi&amp;uacute;p tăng trọng nhanh, n&amp;acirc;ng cao năng suất, r&amp;uacute;t ngắn thời gian nu&amp;ocirc;i.&lt;/p&gt;
-&lt;p&gt;- Giảm stress khi thời tiết thay đổi, chủng ngừa, chuyển chuồng, &amp;uacute;m g&amp;agrave;, mật độ cao, cắt mỏ, thay l&amp;ocirc;ng, ...&lt;/p&gt;
-&lt;p&gt;- L&amp;agrave; một trong c&amp;aacute;c giải ph&amp;aacute;p thay thế, hạn chế kh&amp;aacute;ng sinh d&amp;ugrave;ng trong chăn nu&amp;ocirc;i.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;C&amp;Aacute;CH D&amp;Ugrave;NG:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Trộn v&amp;agrave;o thức ăn cho ăn.&lt;/p&gt;
-&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;, cừu: 1kg/tấn thức ăn.&lt;/p&gt;
-&lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: 1-2kg/tấn thức ăn&lt;/p&gt;
-&lt;p&gt;Mỗi đợt d&amp;ugrave;ng li&amp;ecirc;n tục 7-10 ng&amp;agrave;y. D&amp;ugrave;ng 1-2 đợt/th&amp;aacute;ng.&lt;/p&gt;
-&lt;p&gt;N&amp;ecirc;n d&amp;ugrave;ng trước v&amp;agrave; sau khi chủng vaccin 7 ng&amp;agrave;y, gi&amp;uacute;p nhanh ch&amp;oacute;ng tạo kh&amp;aacute;ng thể ph&amp;ograve;ng bệnh.&lt;/p&gt;
-&lt;p&gt;* Trong m&amp;ugrave;a dịch bệnh: liều d&amp;ugrave;ng gấp 2-4 lần so với liều định kỳ.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color: #e74c3c;"&gt;&lt;strong&gt;CHỈ D&amp;Ugrave;NG TRONG TH&amp;Uacute; Y&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BẢO QUẢN:&lt;/strong&gt;&amp;nbsp;ở nơi kh&amp;ocirc; m&amp;aacute;t, nhiệt độ kh&amp;ocirc;ng qu&amp;aacute; 30oC.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;QUY C&amp;Aacute;CH:&lt;/strong&gt;&amp;nbsp;100g, 1Kg&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</productDescription_html>
+	<productDescription_html>&lt;p&gt;Th&amp;agrave;nh phần:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Calcium gluconate&lt;/p&gt;
+&lt;p&gt;Butaphosphan&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;C&amp;ocirc;ng dụng:&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng v&amp;agrave; trị bại liệt do giảm canxi huyết trước, trong, sau khi đẻ hoặc trong giai đoạn cho sữa.&lt;/p&gt;
+&lt;p&gt;- Bệnh c&amp;ograve;i xương, mềm xương, xốp xương, co cứng, co giật ở heo, tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, cừu, chứng bại liệt kh&amp;ocirc;ng r&amp;otilde; nguy&amp;ecirc;n nh&amp;acirc;n, c&amp;ograve;i cọc v&amp;agrave; bệnh ở gia s&amp;uacute;c non.&lt;/p&gt;
+&lt;p&gt;- Giảm khả năng sinh sản, đẻ yếu.&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng chống ph&amp;aacute; hủy gan do độc tố; ngộ độc ch&amp;igrave;, acid oxalic, thuốc diệt c&amp;ocirc;n tr&amp;ugrave;ng v&amp;agrave; c&amp;aacute;c h&amp;oacute;a chất kh&amp;aacute;c.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Gia s&amp;uacute;c: Ti&amp;ecirc;m chậm v&amp;agrave;o tĩnh mạch, ti&amp;ecirc;m bắp.&lt;/p&gt;
+&lt;p&gt;- Gia cầm: Pha v&amp;agrave;o nước cho uống.&lt;/p&gt;
+&lt;p&gt;Liều d&amp;ugrave;ng:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, ngựa (đến 500kg): 20-25ml/con.&lt;/p&gt;
+&lt;p&gt;- Heo, b&amp;ecirc;, ngh&amp;eacute;, d&amp;ecirc;, cừu (50-100kg): 10-15ml/con.&lt;/p&gt;
+&lt;p&gt;- Heo con theo mẹ: 2-3ml/con.&lt;/p&gt;
+&lt;p&gt;- Gia cầm: 1-2ml/5kg thể trọng.&lt;/p&gt;
+&lt;p&gt;Ch&amp;uacute; &amp;yacute;:&lt;/p&gt;
+&lt;p&gt;CHỈ D&amp;Ugrave;NG TRONG TH&amp;Uacute; Y&lt;/p&gt;
+&lt;p&gt;Bảo quản: ở nơi kh&amp;ocirc; m&amp;aacute;t, nhiệt độ kh&amp;ocirc;ng qu&amp;aacute; 30oC.&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-07-31T07:46:48.780Z</createdDate>
 	<createdDate_dt>2020-07-31T07:46:48.780Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T07:46:48.780Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T07:46:48.780Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T03:15:13.462Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T03:15:13.462Z</lastModifiedDate_dt>
 	<createddate_dt>2020-07-31T07:46:49.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
