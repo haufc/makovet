@@ -20,9 +20,13 @@
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap/css/bootstrap.min.css"/>  
     <link rel="stylesheet" href="/static-assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="/static-assets/css/animate.min.css"> 
+    <link rel="stylesheet" href="/static-assets/css/bootstrap-dropdownhover.min.css"> 
+    
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css"> 
+    
     <style>
         .bg-dialog{
             background-color: #322372;
@@ -91,6 +95,8 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/popper.min.js"></script>
     <script src="/static-assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static-assets/js/bootstrap-dropdownhover.min.js"></script>
+    
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
     <script src="/static-assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
     <script src="/static-assets/plugins/OwlCarousel/js/owl.carousel.min.js"></script>
