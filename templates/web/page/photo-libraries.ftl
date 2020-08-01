@@ -177,7 +177,7 @@
                     <#list contentModel.listphoto_o.item as photo>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 photo-item">
                             <figure>
-                              <img class="img-full" style="height: 265px;" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
+                              <img class="img-full" style="height: 265px; width="100%" id="img-${photo?index}" src="${photo.photoImage_s}" alt="${photo.photoName_s}"/>
                               <figcaption style="font-size:26px; margin-bottom: 3.1875rem" class="mt-3 font-title" id="cap-${photo?index}">${photo.photoName_s}</figcaption>
                             </figure>
                         </div>
