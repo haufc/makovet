@@ -55,21 +55,24 @@
                 </div>
                 <ul class="news__block-links">
                     <li class="news__block-link" style="margin-right:4%;">
-                        <img src="${contentModel.photoAvatar_s}" alt="News image">
-
-                        <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>
+                        <figure>
+                             <img src="${contentModel.photoAvatar_s}" alt="News image">
+                             <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>                 
+                        </figure>
                     </li>
 
                     <li class="news__block-link" style="margin-right:4%;">
-                        <img src="${contentModel.documentAvatar_s}" alt="News image">
-
-                        <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-tai-lieu" style="color: #322372;font-size: 16.8px;">thư viện tài liệu</a>
+                        <figure>
+                             <img src="${contentModel.documentAvatar_s}" alt="News image">
+                             <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-tai-lieu" style="color: #322372;font-size: 16.8px;">thư viện tài liệu</a>                 
+                        </figure>
                     </li>
 
                     <li class="news__block-link">
-                        <img src="${contentModel.videoAvatar_s}" alt="News image">
-
-                        <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-video" style="color: #322372;font-size: 16.8px;">thư viện video</a>
+                        <figure>
+                             <img src="${contentModel.documentAvatar_s}" alt="News image">
+                             <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-video" style="color: #322372;font-size: 16.8px;">thư viện video</a>                 
+                        </figure>
                     </li>
                 </ul>
             </div>
