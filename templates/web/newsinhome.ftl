@@ -53,7 +53,27 @@
                             <h3 id="doc-0" style="margin-bottom: 0 !important;padding: 12px;font-size:20px;background-color: #322372;" class="video-name text-white text--uppercase font-title">${contentModel.titleBanner_s}</h3>
                         </a>
                 </div>
-                <ul class="news__block-links">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <figure>
+                             <img src="${contentModel.photoAvatar_s}" alt="News image">
+                             <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>                 
+                        </figure>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <figure>
+                             <img src="${contentModel.photoAvatar_s}" alt="News image">
+                             <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>                 
+                        </figure>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <figure>
+                             <img src="${contentModel.photoAvatar_s}" alt="News image">
+                             <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>                 
+                        </figure>
+                    </div>
+                </div>
+                <#--<ul class="news__block-links">
                     <li class="news__block-link" style="margin-right:4%;">
                         <figure>
                              <img src="${contentModel.photoAvatar_s}" alt="News image">
@@ -74,7 +94,7 @@
                              <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-video" style="color: #322372;font-size: 16.8px;">thư viện video</a>                 
                         </figure>
                     </li>
-                </ul>
+                </ul> -->
             </div>
         </section>
     </div>
