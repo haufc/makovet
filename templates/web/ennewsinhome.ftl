@@ -38,8 +38,18 @@
                     </div>
 
             <div class="news__block-content">
-                <div class="news__block-img">
-                    <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}"><img class="full-image" src="/static-assets/images/news_img_2.png" alt="News image"></a>
+               <div class="news__block-img">
+                   <figure style="width: 100%; height: 322px;">
+                          <a data-fancybox="" data-small-btn="true" href="${contentModel.videoURL_s}">
+                            <span class="play-icon"><i class="fa fa-play text-white"></i></span>
+                          </a>
+                          <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}">
+                            <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.videoBanner_s}">
+                          </a>
+                            </figure>
+                        <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}">
+                            <h3 id="doc-0" style="margin-bottom: 0 !important;padding: 12px;font-size:20px;background-color: #322372;" class="video-name text-white text--uppercase font-title">${contentModel.titleBanner_s}</h3>
+                        </a>
                 </div>
 
                 <ul class="news__block-links">
