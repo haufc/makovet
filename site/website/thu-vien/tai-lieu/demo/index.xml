@@ -6,20 +6,20 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>4fde</objectGroupId>
 	<objectId>4fde97e6-08eb-fca1-320f-327474081587</objectId>
-	<internal-name>Tạp chí ngành thủy sản</internal-name>
+	<internal-name>Profie giới thiệu Tập đoàn Mavin</internal-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
 	<folder-name>demo</folder-name>
 	<createdDate>2020-07-08T09:52:43.091Z</createdDate>
 	<createdDate_dt>2020-07-08T09:52:43.091Z</createdDate_dt>
-	<lastModifiedDate>2020-07-09T08:20:27.651Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-09T08:20:27.651Z</lastModifiedDate_dt>
-	<avatar_s>/static-assets/images/libraries/documents/doc2.png</avatar_s>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/sample-signed.pdf</key>
-	<value>/static-assets/images/libraries/sample-signed.pdf</value>
+	<lastModifiedDate>2020-08-01T02:14:01.152Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T02:14:01.152Z</lastModifiedDate_dt>
+	<avatar_s>/static-assets/images/libraries/Bia Profile.jpg</avatar_s>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Profile Mavin Group.pdf</key>
+	<value>/static-assets/images/libraries/Profile Mavin Group.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>70693</fileSize_s>
+	<fileSize_s>20691560</fileSize_s>
 	</item></pDFfile_o>
-	<title_s>Tạp chí ngành thủy sản</title_s>
+	<title_s>Profie giới thiệu Tập đoàn Mavin</title_s>
 </page>
