@@ -41,7 +41,7 @@
 
             <div class="news__block-content">
                 <div class="news__block-img">
-                   <figure style="width: 100%; height: 256.757px;">
+                   <figure style="width: 100%; height: 322px;">
                           <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}">
                             <img style="height: 100%;object-fit: cover;width: 100%;" src="${contentModel.videoBanner_s}">
                           </a>
