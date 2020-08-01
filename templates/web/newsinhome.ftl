@@ -47,7 +47,7 @@
                           </a>
                             </figure>
                         <a data-fancybox data-small-btn="true" href="${contentModel.videoURL_s}">
-                            <h3 id="doc-0" style="margin-bottom: 0 !important;padding: 12px;font-size:20px;background-color: rebeccapurple;" class="video-name text-dark text--uppercase font-title">Catalog thuốc thú y Mekovet</h3>
+                            <h3 id="doc-0" style="margin-bottom: 0 !important;padding: 12px;font-size:20px;background-color: #322372;" class="video-name text-white text--uppercase font-title">Catalog thuốc thú y Mekovet</h3>
                         </a>
                 </div>
                 <ul class="news__block-links">
