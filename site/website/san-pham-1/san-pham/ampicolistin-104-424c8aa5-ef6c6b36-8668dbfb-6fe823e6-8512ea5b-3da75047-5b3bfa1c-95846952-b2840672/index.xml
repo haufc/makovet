@@ -8,9 +8,9 @@
 	<objectId>ee2e192d-822c-4194-b3e6-c78fc91100ba</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>ampicolistin-104-424c8aa5-ef6c6b36-8668dbfb-6fe823e6-8512ea5b-3da75047-5b3bfa1c-95846952-b2840672</folder-name>
-	<internal-name>Ampicolistin 113</internal-name>
-	<navLabel>Ampicolistin 113</navLabel>
-	<productName_s>Ampicolistin</productName_s>
+	<internal-name>MKV-GUM GÀ</internal-name>
+	<navLabel>MKV-GUM GÀ</navLabel>
+	<productName_s>MKV-GUM GÀ</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
@@ -18,63 +18,36 @@
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
-	<isHot_b>true</isHot_b>
-	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
-	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
 	</item></productgrouplv1_o>
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
-	<productImage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="width: 45.0001%;"&gt;
-&lt;p&gt;&lt;strong&gt;CHỈ TI&amp;Ecirc;U CHẤT LƯỢNG:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chất ch&amp;iacute;nh &amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Beta-Glucan (min)&lt;/p&gt;
-&lt;p&gt;Sorbitol (min)&lt;/p&gt;
-&lt;p&gt;Vitamin C (min)&lt;/p&gt;
-&lt;p&gt;Chất kh&amp;aacute;c:&lt;/p&gt;
-&lt;p&gt;Protein (min)&lt;/p&gt;
-&lt;p&gt;Chất mang&lt;/p&gt;
-&lt;p&gt;(MOS, dextrose, lactose, chất hấp phụ độc tố,...) vđ&lt;/p&gt;
-&lt;p&gt;Chất cấm: Kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NGUY&amp;Ecirc;N LIỆU CH&amp;Iacute;NH:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;beta;-glucan (1,3-1,6), Sorbitol, Vitamin C, v&amp;aacute;ch tế b&amp;agrave;o nấm men, mannan-oligosaccharide (MOS), dextrose, lactose, chất hấp phụ độc tố (Toxibind dry),...&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- N&amp;acirc;ng cao sức đề kh&amp;aacute;ng, tăng cường hệ miễn dịch tự nhi&amp;ecirc;n cho gia s&amp;uacute;c, gia cầm.&lt;/p&gt;
-&lt;p&gt;- N&amp;acirc;ng cao khả năng đ&amp;aacute;p ứng miễn dịch sau khi ti&amp;ecirc;m vaccin.&lt;/p&gt;
-&lt;p&gt;- Bổ sung vitamin, nguồn dinh dưỡng cho vi sinh vật c&amp;oacute;&amp;nbsp;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style="width: 5%;"&gt;
-&lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style="width: 50%;"&gt;
-&lt;p&gt;- Bổ sung vitamin, nguồn dinh dưỡng cho vi sinh vật c&amp;oacute; lợi ph&amp;aacute;t triển, tăng cường chức năng gan, tăng chuyển h&amp;oacute;a thức ăn, gi&amp;uacute;p tăng trọng nhanh, n&amp;acirc;ng cao năng suất, r&amp;uacute;t ngắn thời gian nu&amp;ocirc;i.&lt;/p&gt;
-&lt;p&gt;- Giảm stress khi thời tiết thay đổi, chủng ngừa, chuyển chuồng, &amp;uacute;m g&amp;agrave;, mật độ cao, cắt mỏ, thay l&amp;ocirc;ng, ...&lt;/p&gt;
-&lt;p&gt;- L&amp;agrave; một trong c&amp;aacute;c giải ph&amp;aacute;p thay thế, hạn chế kh&amp;aacute;ng sinh d&amp;ugrave;ng trong chăn nu&amp;ocirc;i.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;C&amp;Aacute;CH D&amp;Ugrave;NG:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Trộn v&amp;agrave;o thức ăn cho ăn.&lt;/p&gt;
-&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;, cừu: 1kg/tấn thức ăn.&lt;/p&gt;
-&lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: 1-2kg/tấn thức ăn&lt;/p&gt;
-&lt;p&gt;Mỗi đợt d&amp;ugrave;ng li&amp;ecirc;n tục 7-10 ng&amp;agrave;y. D&amp;ugrave;ng 1-2 đợt/th&amp;aacute;ng.&lt;/p&gt;
-&lt;p&gt;N&amp;ecirc;n d&amp;ugrave;ng trước v&amp;agrave; sau khi chủng vaccin 7 ng&amp;agrave;y, gi&amp;uacute;p nhanh ch&amp;oacute;ng tạo kh&amp;aacute;ng thể ph&amp;ograve;ng bệnh.&lt;/p&gt;
-&lt;p&gt;* Trong m&amp;ugrave;a dịch bệnh: liều d&amp;ugrave;ng gấp 2-4 lần so với liều định kỳ.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color: #e74c3c;"&gt;&lt;strong&gt;CHỈ D&amp;Ugrave;NG TRONG TH&amp;Uacute; Y&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BẢO QUẢN:&lt;/strong&gt;&amp;nbsp;ở nơi kh&amp;ocirc; m&amp;aacute;t, nhiệt độ kh&amp;ocirc;ng qu&amp;aacute; 30oC.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;QUY C&amp;Aacute;CH:&lt;/strong&gt;&amp;nbsp;100g, 1Kg&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</productDescription_html>
+	<productImage_s>/static-assets/images/products/73 MKV-GUM GAA.png</productImage_s>
+	<productDescription_html>&lt;p&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/p&gt;
+&lt;p&gt;Vitamin C (min) 2g&lt;/p&gt;
+&lt;p&gt;Vitamin K3 (min) 1g&lt;/p&gt;
+&lt;p&gt;Rutin (min) 500mg&lt;/p&gt;
+&lt;p&gt;Bicarbonate (min-max) 1,5-3,5g&lt;/p&gt;
+&lt;p&gt;Chloride (min-max) 1,5-3,5g&lt;/p&gt;
+&lt;p&gt;Postassium (min-max) 1,5-3,5g&lt;/p&gt;
+&lt;p&gt;Sodium (min-max) 1-2,5g&lt;/p&gt;
+&lt;p&gt;Chất mang (dextrose) vđ 100g&lt;/p&gt;
+&lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;p&gt;C&amp;ocirc;ng dụng&lt;/p&gt;
+&lt;p&gt;- D&amp;ugrave;ng hỗ trợ trong điều trị bệnh Gumboro.&lt;/p&gt;
+&lt;p&gt;- Duy tr&amp;igrave; lượng vitamin, kho&amp;aacute;ng chất cần thiết trong cơ thể. Bồi dưỡng sức khỏe nhanh cho g&amp;agrave; khi mắc bệnh hay sau khi d&amp;ugrave;ng kh&amp;aacute;ng sinh. Giảm tỉ lệ chết.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống&lt;/p&gt;
+&lt;p&gt;- Bổi dưỡng: 1g/1 l&amp;iacute;t nước uống, li&amp;ecirc;n tục 3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- Trong giai đoạn bệnh: 2g/1 l&amp;iacute;t nước uống, li&amp;ecirc;n tục 4-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Số đăng k&amp;yacute;: TCCS 03:2013/CL&lt;/p&gt;</productDescription_html>
 	<createddate_dt>2020-07-31T09:42:57.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T09:42:51.696Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T09:42:51.696Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T03:52:53.020Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T03:52:53.020Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
