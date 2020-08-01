@@ -43,20 +43,20 @@
                 </div>
 
                 <ul class="news__block-links">
-                    <li class="news__block-link">
-                        <img src="/static-assets/images/news_img_3.png" alt="News image">
+                    <li class="news__block-link" style="margin-right: 4%">
+                        <img src="${contentModel.photoAvatar_s}" alt="News image">
 
                         <a class="font-title text--uppercase font-bold" href="/en/library/photo-library" style="color: #322372;font-size: 16.8px;">image category</a>
                     </li>
 
-                    <li class="news__block-link">
-                        <img src="/static-assets/images/news_img_4.png" alt="News image">
+                    <li class="news__block-link" style="margin-right: 4%">
+                        <img src="${contentModel.documentAvatar_s}" alt="News image">
 
                         <a class="font-title text--uppercase font-bold" href="/en/document-library" style="color: #322372;font-size: 16.8px;">document category</a>
                     </li>
 
                     <li class="news__block-link">
-                        <img src="/static-assets/images/news_img_5.png" alt="News image">
+                        <img src="${contentModel.videoAvatar_s}" alt="News image">
 
                         <a class="font-title text--uppercase font-bold" href="/en/library/video-libary" style="color: #322372;font-size: 16.8px;">video category</a>
                     </li>
