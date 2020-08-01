@@ -69,12 +69,13 @@
 	<videoURL_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL_s>
 	<createdDate>2020-07-13T09:29:23.498Z</createdDate>
 	<createdDate_dt>2020-07-13T09:29:23.498Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T03:01:32.582Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T03:01:32.582Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T03:59:09.721Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T03:59:09.721Z</lastModifiedDate_dt>
 	<videoBanner_s>/static-assets/images/libraries/photos/photo1.png</videoBanner_s>
 	<photoAvatar_s>/static-assets/images/libraries/photos/photo1.png</photoAvatar_s>
 	<documentAvatar_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar_s>
 	<videoAvatar_s>/static-assets/images/libraries/photos/photo2.png</videoAvatar_s>
+	<titleBanner_s>Mekovet Introduction film</titleBanner_s>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>47cc037b-a914-16cc-b822-05712b69a838</key>
 	<value>Disease &amp; Treatment</value>
@@ -98,6 +99,6 @@
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T03:01:26.731Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T03:01:26.731Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T03:59:03.912Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T03:59:03.912Z</lastModifiedDate_dt>
 </page>
