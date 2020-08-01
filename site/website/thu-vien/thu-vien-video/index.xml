@@ -30,6 +30,9 @@
 	</item>	<item>	<videoName_s>10 sự kiện tiêu biểu của Mavin năm 2019</videoName_s>
 	<videoBanner_s>/static-assets/images/libraries/videos/Chuoi gia tri (2).jpg</videoBanner_s>
 	<videoYoutubeURL_s>https://www.youtube.com/watch?v=1HexBY-4Vlk</videoYoutubeURL_s>
+	</item>	<item>	<videoName_s>Quy trình kiểm soát ATSH tại trang trại Mavin</videoName_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/He thong silo chua cam va cho an tu dong.jpg</videoBanner_s>
+	<videoYoutubeURL_s>https://www.youtube.com/watch?v=k-Se1YO9aYw&amp;t=1s</videoYoutubeURL_s>
 	</item></listVideo_o>
 	<internal-name>Thư viện video</internal-name>
 	<title_s>Thư viện video</title_s>
@@ -44,6 +47,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-07-07T07:33:25.999Z</createdDate>
 	<createdDate_dt>2020-07-07T07:33:25.999Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T02:08:28.815Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T02:08:28.815Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T02:11:21.859Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T02:11:21.859Z</lastModifiedDate_dt>
 </page>
