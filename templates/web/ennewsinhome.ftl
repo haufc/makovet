@@ -39,7 +39,7 @@
 
             <div class="news__block-content">
                <div class="news__block-img">
-                   <figure style="width: 100%; height: 322px;">
+                   <figure style="width: 100%; height: 355px;">
                           <a data-fancybox="" data-small-btn="true" href="${contentModel.videoURL_s}">
                             <span class="play-icon"><i class="fa fa-play text-white"></i></span>
                           </a>
