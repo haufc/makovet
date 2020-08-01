@@ -56,19 +56,19 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <figure>
-                             <img  style="width:100%;" src="${contentModel.photoAvatar_s}" alt="News image">
+                             <img  style="width:100%; height:160px" src="${contentModel.photoAvatar_s}" alt="News image">
                              <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>                 
                         </figure>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <figure>
-                             <img style="width:100%;" src="${contentModel.documentAvatar_s}" alt="News image">
+                             <img style="width:100%; height:160px" src="${contentModel.documentAvatar_s}" alt="News image">
                              <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-tai-lieu" style="color: #322372;font-size: 16.8px;">thư viện tài liệu</a>                 
                         </figure>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <figure>
-                             <img style="width:100%;" src="${contentModel.videoAvatar_s}" alt="News image">
+                             <img style="width:100%; height:160px" src="${contentModel.videoAvatar_s}" alt="News image">
                              <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-video" style="color: #322372;font-size: 16.8px;">thư viện video</a>                 
                         </figure>
                     </div>
