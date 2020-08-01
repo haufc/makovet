@@ -46,13 +46,13 @@
 
                 <ul class="news__block-links">
                     <li class="news__block-link">
-                        <img src="${contentModel.photoAvatar_s}" alt="News image">
+                        <img src="${contentModel.photoAvatar_s}" style="margin-right:4%;" alt="News image">
 
                         <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-anh" style="color: #322372;font-size: 16.8px;">thư viện ảnh</a>
                     </li>
 
                     <li class="news__block-link">
-                        <img src="${contentModel.documentAvatar_s}" alt="News image">
+                        <img src="${contentModel.documentAvatar_s}" style="margin-right:4%;" alt="News image">
 
                         <a class="font-title text--uppercase font-bold" href="/thu-vien/thu-vien-tai-lieu" style="color: #322372;font-size: 16.8px;">thư viện tài liệu</a>
                     </li>
