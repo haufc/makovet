@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>143ec088</objectGroupId>
+	<objectId>143ec088-6762-40a0-81ec-a5ff79061d51</objectId>
+	<internal-name>B.COMPLEX SUPER 623ea839</internal-name>
+	<navLabel>B.COMPLEX SUPER</navLabel>
+	<productName_s>B.COMPLEX SUPER</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/7df960a6-356e-6923-d5a2-5afeb110f887.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/7df960a6-356e-6923-d5a2-5afeb110f887.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>b-complex-01db62af-623ea839</folder-name>
+	<isHot_b>false</isHot_b>
+	<productImage_s>/static-assets/images/products/2 B.Complex SuperA.png</productImage_s>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Dextrose&lt;/p&gt;
+&lt;p&gt;- Sodium acetate &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Magnessium sulfate &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Potassium chloride&lt;/p&gt;
+&lt;p&gt;- Sodium chloride &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Vitamin B1 HCl &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Vitamin B6 &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Calcium Pantothenate &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Vitamin B2 Na.phosphate&lt;/p&gt;
+&lt;p&gt;- Vitamin PP&lt;/p&gt;
+&lt;p&gt;- Dung m&amp;ocirc;i vđ &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bổ sung vitamin v&amp;agrave; kho&amp;aacute;ng vi lượng được d&amp;ugrave;ng trong c&amp;aacute;c trường hợp mất nước, mất sức do ti&amp;ecirc;u chảy, trợ sức trước v&amp;agrave; sau khi sinh, bồi dưỡng tăng sức trong bệnh nhiễm tr&amp;ugrave;ng ở tr&amp;acirc;u, b&amp;ograve;, heo.&lt;/p&gt;
+&lt;p&gt;Ngo&amp;agrave;i ra thuốc c&amp;oacute; thể d&amp;ugrave;ng thay nước cất pha ti&amp;ecirc;m v&amp;agrave; thay nước uống d&amp;ugrave;ng trong giai đoạn &amp;uacute;m ở g&amp;agrave;, vịt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Aacute;CH D&amp;Ugrave;NG:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Heo con: ti&amp;ecirc;m xoang&amp;nbsp; bụng 10-50ml/con/lần&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, heo lớn: ti&amp;ecirc;m dưới da hay ti&amp;ecirc;m tĩnh mạch 20-50ml/con/lần&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt: pha 1 chai với 1,5 l&amp;iacute;t nước ch&amp;iacute;n cho uống tự do.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ch&amp;uacute; &amp;yacute;: CHỈ D&amp;Ugrave;NG TRONG TH&amp;Uacute; Y&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lu&amp;ocirc;n để trong hộp khi chưa sử dụng. Sử dụng ngay sau khi mở nắp chai.&lt;/p&gt;
+&lt;p&gt;BẢO QUẢN: nhiệt độ kh&amp;ocirc;ng qu&amp;aacute; 27oC, tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng kể cả &amp;aacute;nh s&amp;aacute;ng qua cửa k&amp;iacute;nh.&lt;/p&gt;
+&lt;p&gt;QUY C&amp;Aacute;CH: 500ML&lt;/p&gt;</productDescription_html>
+	<createdDate>2020-08-01T02:54:45.716Z</createdDate>
+	<createdDate_dt>2020-08-01T02:54:45.716Z</createdDate_dt>
+	<lastModifiedDate>2020-08-01T02:57:58.387Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T02:57:58.387Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-01T02:54:46.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>
