@@ -88,12 +88,8 @@
                 <button class="nav__menu-btn" onclick="toggleNav()">
                     <i class="fas fa-times"></i>
                 </button>
-                <li class="nav__menu-item dropdown">
-                    <a class="nav__menu-link font-title dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="/en/introduction">Introduction</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Action</a></li>
-                        <li><a href="#">Another action</a></li>
-                    </div>
+                <li class="nav__menu-item">
+                    <a class="nav__menu-link font-title" href="/en/introduction">Introduction</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link active font-title" href="/en/products">Product</a>
