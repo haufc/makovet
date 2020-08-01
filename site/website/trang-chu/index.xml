@@ -61,10 +61,14 @@
 	<internal-name>Tin tức</internal-name>
 	<createdDate>2020-06-25T10:28:54.186Z</createdDate>
 	<createdDate_dt>2020-06-25T10:28:54.186Z</createdDate_dt>
-	<lastModifiedDate>2020-07-09T09:03:19.372Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-09T09:03:19.372Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T02:46:47.083Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T02:46:47.083Z</lastModifiedDate_dt>
 	<newscategory_s>internalnews</newscategory_s>
 	<videoURL_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL_s>
+	<videoBanner_s>/static-assets/images/libraries/photos/photo1.png</videoBanner_s>
+	<photoAvatar_s>/static-assets/images/libraries/photos/photo1.png</photoAvatar_s>
+	<documentAvatar_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar_s>
+	<videoAvatar_s>/static-assets/images/libraries/videos/img__41.jpg</videoAvatar_s>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>a5d11046-5e8e-bc97-188f-9c9eccc439e5</key>
 	<value>Điều trị bệnh</value>
@@ -96,6 +100,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-06-24T06:58:45.441Z</createdDate>
 	<createdDate_dt>2020-06-24T06:58:45.441Z</createdDate_dt>
-	<lastModifiedDate>2020-07-28T09:12:11.699Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-28T09:12:11.699Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T02:46:42.071Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T02:46:42.071Z</lastModifiedDate_dt>
 </page>
