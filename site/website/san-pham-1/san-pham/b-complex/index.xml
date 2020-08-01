@@ -22,6 +22,10 @@
 	<productImage_s>/static-assets/images/products/1 B.Complex 3A.png</productImage_s>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
 	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
 	</item></productgrouplv1_o>
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
@@ -46,8 +50,8 @@
 &lt;p&gt;Bảo quản: nơi kh&amp;ocirc; m&amp;aacute;t, nhiệt độ kh&amp;ocirc;ng qu&amp;aacute; 30oC.&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-01T02:54:45.716Z</createdDate>
 	<createdDate_dt>2020-08-01T02:54:45.716Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T02:54:45.716Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T02:54:45.716Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-01T03:03:10.419Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T03:03:10.419Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-01T02:54:46.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
