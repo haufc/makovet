@@ -89,7 +89,7 @@
                 <button class="nav__menu-btn" onclick="toggleNav()">
                     <i class="fas fa-times"></i>
                 </button>
-                <li class="nav__menu-item">
+                <li class="nav__menu-item dropdown">
                     <a class="nav__menu-link font-title" href="/gioithieu">Giới thiệu</a>
                     <ul class="dropdown-menu">
                         <li><a class="nav__menu-link font-title" href="#">Giới thiệu chung</a></li>
