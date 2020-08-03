@@ -48,7 +48,7 @@
 
     .nav__sub-menu {
         position: absolute;
-        bottom: -190px;
+        bottom: -150px;
         z-index: 10;
         width: 170px;
         display: none;
