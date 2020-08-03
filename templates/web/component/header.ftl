@@ -91,6 +91,12 @@
                 </button>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/gioithieu">Giới thiệu</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="nav__menu-link font-title" href="#">Giới thiệu chung</a></li>
+                        <li><a class="nav__menu-link font-title" href="#">Tầm nhìn sứ mệnh</a></li>
+                        <li><a class="nav__menu-link font-title" href="#">Lịch sử hình thành</a></li>
+                        <li><a class="nav__menu-link font-title" href="#">Thành tích đạt được</a></li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/san-pham">Sản phẩm</a>
