@@ -14,8 +14,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T01:47:55.916Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T01:47:55.916Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T09:47:03.821Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:47:03.821Z</lastModifiedDate_dt>
 	<title_s>Công ty cổ phần dược thú y Cai Lậy 2</title_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>d8d168e3-dc69-eb80-e55a-66360c2cdf58</key>
 	<value>Slide</value>
@@ -55,21 +55,21 @@
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO GÀ - VỊT</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-cho-ga-vit/thuoc-cho-ga-vit</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/thuoc-cho-ga-vit</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO CHÓ - MÈO</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-meo</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO TÔM - CÁ</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO LOÀI VẬT KHÁC</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
 	</item></groupProduct_o>
 	<createdDate>2020-07-30T06:50:07.266Z</createdDate>
 	<createdDate_dt>2020-07-30T06:50:07.266Z</createdDate_dt>
-	<lastModifiedDate>2020-07-30T06:50:07.266Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-30T06:50:07.266Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T09:47:47.542Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:47:47.542Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="section" inline="true">	<key>1c39470a-9b61-9e24-7651-1394f6702193</key>
 	<value>Tin tức</value>
