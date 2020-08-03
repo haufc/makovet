@@ -108,7 +108,7 @@
 
     .nav__sub-menu {
     position: absolute;
-    margin-top: 2px;
+    padding-top: 10px;
     z-index: 10;
     width: 160px;
     display: none;
