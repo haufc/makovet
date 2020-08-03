@@ -48,9 +48,9 @@
 
     .nav__sub-menu {
         position: absolute;
-        bottom: -200px;
+        bottom: -190px;
         z-index: 10;
-        width: 160px;
+        width: 170px;
         display: none;
         background: #fff;
         -webkit-transition: 0.3s;
@@ -117,7 +117,7 @@
                         <a class="nav__menu-link font-title" href="#">Tầm nhìn sứ mệnh</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Lịch sử hìn hình thành</a>
+                        <a class="nav__menu-link font-title" href="#">Lịch sử hình thành</a>
                     </li>
                     <li class="nav__sub-menu-item">
                         <a class="nav__menu-link font-title" href="#">Thành tích đạt được</a>
