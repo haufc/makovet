@@ -19,8 +19,18 @@
 	<file-name>index.xml</file-name>
 	<folder-name>meko--proges-e</folder-name>
 	<isHot_b>false</isHot_b>
-	<productgrouplv1_o/>
-	<productgrouplv2_o/>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
+	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/62 MEKO.PROGES EA.png</productImage_s>
 	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Progesterone 2,5g&lt;/p&gt;
@@ -40,8 +50,8 @@
 &lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-304&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T07:13:54.848Z</createdDate>
 	<createdDate_dt>2020-08-03T07:13:54.848Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T07:13:54.848Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T07:13:54.848Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T07:15:26.409Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T07:15:26.409Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T07:13:55.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
