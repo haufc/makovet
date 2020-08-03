@@ -8,11 +8,11 @@
 	<objectId>6d4eca39-970e-46ec-9581-cd6c1f1007b1</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>ampicolistin-114-a30911a3-5b8878de-602ea992-00e8a960-d601e49f-e483ba55-7a6780a8-7836278d-5094801c-d80d21f6-a62749f4-f063639d-a3de526e-05c10229</folder-name>
-	<internal-name>CL-FLODOXY 05c10229</internal-name>
-	<navLabel>CL-FLODOXY</navLabel>
-	<productName_s>CL-FLODOXY</productName_s>
+	<internal-name>CL-FLOR 30</internal-name>
+	<navLabel>CL-FLOR 30</navLabel>
+	<productName_s>CL-FLOR 30</productName_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
 	<value>Header Slide</value>
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
@@ -27,26 +27,22 @@
 	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
 	<value_smv>Nhóm thuốc kháng sinh</value_smv>
 	</item></productgrouplv2_o>
-	<productImage_s>/static-assets/images/products/27 CL-FLODOXY (2A).png</productImage_s>
+	<productImage_s>/static-assets/images/products/26 CL-FLOR 30 (2)A.png</productImage_s>
 	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Florfenicol 10g&lt;/p&gt;
-&lt;p&gt;- Doxycycline hyclate 5g&lt;/p&gt;
+&lt;p&gt;- Florfenicol 30g&lt;/p&gt;
 &lt;p&gt;- Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Điều trị nhiễm khuẩn đường h&amp;ocirc; hấp, ti&amp;ecirc;u h&amp;oacute;a tr&amp;ecirc;n tr&amp;acirc;u,&amp;nbsp;b&amp;ograve;, heo như:&lt;/p&gt;
-&lt;p&gt;- Vi&amp;ecirc;m nhiễm phức hợp đường h&amp;ocirc; hấp đơn nguy&amp;ecirc;n hay đa&amp;nbsp;nhiễm (BRD, SRD), bệnh suyễn, vi&amp;ecirc;m phổi, vi&amp;ecirc;m m&amp;agrave;ng não.&lt;/p&gt;
-&lt;p&gt;- Vi&amp;ecirc;m ruột ti&amp;ecirc;u chảy, ti&amp;ecirc;u chảy ph&amp;acirc;n trắng, ph&amp;acirc;n v&amp;agrave;ng.&lt;/p&gt;
-&lt;p&gt;- Vi&amp;ecirc;m v&amp;uacute;, vi&amp;ecirc;m tử cung, vi&amp;ecirc;m &amp;acirc;m đạo, sốt hậu sản.&lt;/p&gt;
+&lt;p&gt;Điều trị nhiễm tr&amp;ugrave;ng đường h&amp;ocirc; hấp ở tr&amp;acirc;u, b&amp;ograve;, heo trong&amp;nbsp;c&amp;aacute;c bệnh như: tụ huyết tr&amp;ugrave;ng, thương h&amp;agrave;n, ph&amp;oacute; thương&amp;nbsp;h&amp;agrave;n, nhiễm tr&amp;ugrave;ng phức hợp đường h&amp;ocirc; hấp, c&amp;aacute;c bệnh kế&amp;nbsp;ph&amp;aacute;t do tai xanh (PRRS).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ti&amp;ecirc;m bắp.&lt;/p&gt;
-&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 1ml/10-15kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;- Heo: 1ml/8-10kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-284&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;Ti&amp;ecirc;m bắp hoặc ti&amp;ecirc;m dưới da.&lt;/p&gt;
+&lt;p&gt;- Th&amp;uacute; trưởng th&amp;agrave;nh: 1ml/15kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Th&amp;uacute; non: 1ml/10kg thể trọng&lt;/p&gt;
+&lt;p&gt;Khoảng c&amp;aacute;ch 2 lần ti&amp;ecirc;m l&amp;agrave; 48 giờ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-277&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T02:41:26.744Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T02:41:26.744Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T02:53:38.533Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T02:53:38.533Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
