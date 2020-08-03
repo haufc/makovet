@@ -45,7 +45,7 @@
 	<internal-name>Sản phẩm dành cho heo</internal-name>
 	<title_s>Sản phẩm dành cho heo</title_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</groupProductImg2_s>
+	<groupProductImg2_s>/static-assets/images/products/CL TYLVA 50 moi.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc/tăng sức đề kháng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
@@ -67,13 +67,13 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-06-23T04:34:45.063Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:45.063Z</createdDate_dt>
-	<lastModifiedDate>2020-07-22T06:54:33.994Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-22T06:54:33.994Z</lastModifiedDate_dt>
-	<rightTitle_s>Ampicolistin</rightTitle_s>
+	<lastModifiedDate>2020-08-03T04:52:02.474Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T04:52:02.474Z</lastModifiedDate_dt>
+	<rightTitle_s>CL-TYLVA 50</rightTitle_s>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
-	<lastModifiedDate>2020-07-22T06:54:29.343Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-22T06:54:29.343Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T04:51:57.088Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T04:51:57.088Z</lastModifiedDate_dt>
 </page>
