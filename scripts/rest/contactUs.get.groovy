@@ -9,7 +9,7 @@ service.setHost('smtp.gmail.com')
 service.setPort('587')
 service.setEncoding('utf-8')
 
-service.sendEmail(params.email, "keysoft.hotro@gmail.com", null, 
+service.sendEmail(params.email, "it.keysoft@gmail.com", null, 
                   params.title ,"<strong>Họ Tên: </strong>" + params.name + "<br/>" + "<strong>Email: </strong>" + params.email +"<br/>" + "<strong>Số điện thoại: </strong>" 
                   + params.phone + "<br/>" +"<strong>Tên công ty: </strong>" 
                   + params.company + "<br/>" + "<strong>Nội dung: </strong>" + params.content)
