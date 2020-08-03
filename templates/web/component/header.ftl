@@ -142,13 +142,13 @@
     right: -175px;
     width: 160px;
     display: none;
-    background: #ddd;
+    background: #f6f6f6;
     }   
     .nav__sub-menu-item {
-    margin: 15px;
+    padding: 15px;
     }
     .nav__dropdown-item{
-    margin: 10px;
+    padding: 10px;
     }
 </style>
 <header>
