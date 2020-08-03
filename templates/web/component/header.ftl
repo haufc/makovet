@@ -236,15 +236,47 @@
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/tin-tuc">Tin tức - Sự kiện</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="#">Tin nội bộ</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="#">Tin ngành</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Thông tin kỹ thuật</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="#">Quy trình chăn nuôi - chăm sóc – phòng bệnh</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="#">Bệnh và điều trị</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/quan-he-co-dong">Quan hệ cổ đông</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="#">Công bố thông tin</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="#">Đại hội cổ đông</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="#">Tin tuyển dụng</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="#">Chính sách nhân sự</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/lien-he">Liên hệ</a>
