@@ -148,7 +148,7 @@
     margin: 15px;
     }
     .nav__dropdown-item{
-    margin: 15px;
+    margin: 10px;
     }
 </style>
 <header>
