@@ -390,6 +390,16 @@ p{
   font-weight: bolder;
 }
 
+.nav__menu-sublink {
+  font-weight: 400;
+  color: #322372;
+  font-size: 15px;
+}
+
+.nav__menu-sublink.active {
+  font-weight: bolder;
+}
+
 .nav__menu-tools {
   display: none;
 }
