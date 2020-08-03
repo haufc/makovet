@@ -42,8 +42,8 @@
                     <img class="img-full" src="${contentModel.leftImage_s}"/>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
-                    <div class="banner-content" style="padding-top: 9%;">
-                        <img style="width:40%;" class="img-center" src="${contentModel.rightimage_s}"/>
+                    <div class="banner-content" style="padding-top: 7%;">
+                        <img style="width:30%;" class="img-center" src="${contentModel.rightimage_s}"/>
                         <p style="font-size: 1.4375em" class="font-weight-bold violet-color text-center mt-4 text--uppercase font-title">ampicolistin</p>
                     </div>
                 </div>
