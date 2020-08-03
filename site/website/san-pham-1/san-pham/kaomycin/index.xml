@@ -26,7 +26,9 @@
 	</item>	<item>	<key>thuoc-cho-ga-vit</key>
 	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
 	</item></productgrouplv1_o>
-	<productgrouplv2_o/>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/94 KAOMYCIN HOP 10GA.png</productImage_s>
 	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sulfadimidin sodium 16,25g&lt;/p&gt;
@@ -43,8 +45,8 @@
 &lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-47&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T04:09:21.330Z</createdDate>
 	<createdDate_dt>2020-08-03T04:09:21.330Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T04:09:21.330Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T04:09:21.330Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T04:11:33.650Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T04:11:33.650Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T04:09:21.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
