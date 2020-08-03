@@ -13,27 +13,27 @@
         <div class="row">
             <label class="col-md-2 mb-1 mt-5" style="font-size: 28px;font-family: Roboto Condensed, sans-serif !important;">Họ tên</label>
             <div class="col-md-10 mb-1 mt-md-5">
-                <input type="text" class="form-control" name="name" id="name" required/>
+                <input type="text" class="form-control" name="name" required/>
             </div>
             <label class="col-md-2 mb-1" style="font-size: 28px;font-family: Roboto Condensed, sans-serif !important;">Công ty</label>
             <div class="col-md-10 mb-1">
-                <input type="text" class="form-control" name="company" id="company" required/>
+                <input type="text" class="form-control" name="company" required/>
             </div>
             <label class="col-md-2 mb-1" style="font-size: 28px;font-family: Roboto Condensed, sans-serif !important;">Email</label>
             <div class="col-md-10 mb-1">
-                <input type="email" class="form-control" name="email" id="email" required/>
+                <input type="email" class="form-control" name="email" required/>
             </div>
             <label class="col-md-2 mb-1" style="font-size: 28px;font-family: Roboto Condensed, sans-serif !important;">Điện thoại</label>
             <div class="col-md-10 mb-1">
-                <input type="text" class="form-control" name="phone" id="phone" required/>
+                <input type="text" class="form-control" name="phone" required/>
             </div>
             <label class="col-md-2 mb-1" style="font-size: 28px;font-family: Roboto Condensed, sans-serif !important;">Tiêu đề</label>
             <div class="col-md-10 mb-1">
-                <input type="text" class="form-control" name="title" id="title" required/>
+                <input type="text" class="form-control" name="title" required/>
             </div>
             <label class="col-md-2 mb-1" style="font-size: 28px;font-family: Roboto Condensed, sans-serif !important;">Nội dung</label>
             <div class="col-md-10 mb-1">
-                <textarea class="form-control" name="content" id="content"></textarea>
+                <textarea class="form-control" name="content" ></textarea>
             </div>
             <div class="col-md-12 mb-1 mt-1">
                 <p class="text-right">
