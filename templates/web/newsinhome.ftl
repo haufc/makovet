@@ -2,7 +2,7 @@
 <section class="news">
             <div class="news__title section-title" id="newsTitle">
                 <div class="news__title-container section-title__content block">
-                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle"><a class="text-white" href="/tin-tuc">tin nội bộ</a></h1>
+                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle"><a class="text-white" href="/tin-tuc">tin mekovet</a></h1>
                     <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNganhTitle"><a class="text-white" href="/thu-vien-tu-lieu">thư viện tư liệu</a></h1>
                 </div>
             </div>
