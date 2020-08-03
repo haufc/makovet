@@ -143,7 +143,10 @@
     width: 160px;
     display: none;
     background: #ddd;
-    }             
+    }   
+    .nav__sub-menu-item {
+    margin: 15px;
+    }
 </style>
 <header>
     <section class="nav">   
