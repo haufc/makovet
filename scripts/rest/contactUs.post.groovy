@@ -17,9 +17,9 @@ println params
 //                   + params.company + "<br/>" + "<strong>Nội dung: </strong>" + params.content)
 
 service.sendEmail("haufc1997@gmail.com", "keysoft.hotro@gmail.com", null, 
-                  params.title ,"<strong>Họ Tên: </strong>" + params.name + "<br/>" + "<strong>Email: </strong>" + params.email +"<br/>" + "<strong>Số điện thoại: </strong>" 
-                  + params.phone + "<br/>" +"<strong>Tên công ty: </strong>" 
-                  + params.company + "<br/>" + "<strong>Nội dung: </strong>" + params.content)
+                 " params.title" ,"<strong>Họ Tên: </strong>" + "params.name" + "<br/>" + "<strong>Email: </strong>" + "params.email" +"<br/>" + "<strong>Số điện thoại: </strong>" 
+                  + "params.phone" + "<br/>" +"<strong>Tên công ty: </strong>" 
+                  + "params.company" + "<br/>" + "<strong>Nội dung: </strong>" + "params.content")
 
 def result=[:]
 result.success = true
