@@ -19,8 +19,8 @@ class MailService {
     def MailService() {
         mailSender.setHost("smtp.gmail.com")
 		mailSender.setPort(587)
-		mailSender.setUsername("keysoft.hotro@gmail.com")
-		mailSender.setPassword("1234567a@")
+		mailSender.setUsername("it.keysoft@gmail.com")
+		mailSender.setPassword("12345678aA@")
 		
 		javaMailProperties["mail.transport.protocol"] = "smtp"
         javaMailProperties["mail.smtp.auth"] = "false"
