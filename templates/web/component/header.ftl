@@ -198,16 +198,16 @@
                     <a class="nav__menu-link font-title" href="/gioithieu">Giới thiệu</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Giới thiệu chung</a>
+                        <a class="nav__menu-sublink font-title" href="#">Giới thiệu chung</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Tầm nhìn sứ mệnh</a>
+                        <a class="nav__menu-sublink font-title" href="#">Tầm nhìn sứ mệnh</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Lịch sử hình thành</a>
+                        <a class="nav__menu-sublink font-title" href="#">Lịch sử hình thành</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Thành tích đạt được</a>
+                        <a class="nav__menu-sublink font-title" href="#">Thành tích đạt được</a>
                     </li>
                     </ul>
                 </li>
@@ -215,22 +215,22 @@
                     <a class="nav__menu-link font-title" href="/san-pham">Sản phẩm</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho heo</a>
+                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho heo</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho gà vịt</a>
+                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho gà vịt</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho trâu bò</a>
+                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho trâu bò</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho chó mèo</a>
+                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho chó mèo</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho tôm cá</a>
+                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho tôm cá</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho loài khác</a>
+                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho loài khác</a>
                     </li>
                     </ul>
                 </li>
