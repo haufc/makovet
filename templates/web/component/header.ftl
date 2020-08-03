@@ -145,7 +145,7 @@
     background: #f6f6f6;
     }   
     .nav__sub-menu-item {
-    padding: 15px;
+    padding: 15px 10px;
     }
     .nav__dropdown-item{
     margin: 10px;
