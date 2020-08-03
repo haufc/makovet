@@ -112,7 +112,7 @@
     z-index: 10;
     width: 160px;
     display: none;
-    background: #ddd;
+    background: #f6f6f6;
     -webkit-transition: 0.3s;
     transition: 0.3s;
     }
