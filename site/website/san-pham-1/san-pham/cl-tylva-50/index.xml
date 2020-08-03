@@ -14,9 +14,9 @@
 	<navLabel>CL-TYLVA 50</navLabel>
 	<productName_s>CL-TYLVA 50</productName_s>
 	<isHot_b>true</isHot_b>
-	<section_o item-list="true">	<item datasource="section">	<key>/site/items/6f431038-f6f7-d220-978a-54a2929cb97f.xml</key>
-	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</value>
-	<include>/site/items/6f431038-f6f7-d220-978a-54a2929cb97f.xml</include>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
@@ -47,8 +47,8 @@
 &lt;p style="text-align: justify;"&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-354&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T04:01:14.922Z</createdDate>
 	<createdDate_dt>2020-08-03T04:01:14.922Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T04:01:14.922Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T04:01:14.922Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T04:04:14.485Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T04:04:14.485Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T04:01:15.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
