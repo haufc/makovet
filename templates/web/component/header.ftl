@@ -267,6 +267,17 @@
                     </li>
                     <li class="nav__sub-menu-item">
                         <a class="nav__menu-sublink font-title" href="#">Bệnh và điều trị</a>
+                        <ul class="nav__dropdown">
+                            <li class="nav__dropdown-item">
+                                <a class="nav__menu-sublink font-title" href="#">Bệnh gia súc, gia cầm</a>
+                            </li>
+                            <li class="nav__dropdown-item">
+                                <a class="nav__menu-sublink font-title" href="#">Bệnh thuỷ sản</a>
+                            </li>
+                            <li class="nav__dropdown-item">
+                                <a class="nav__menu-sublink font-title" href="#">Bệnh thú cưng</a>
+                            </li>
+                        </ul>
                     </li>
                     </ul>
                 </li>
