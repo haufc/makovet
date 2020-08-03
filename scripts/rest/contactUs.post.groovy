@@ -10,7 +10,7 @@ service.setPort('587')
 service.setEncoding('utf-8')
 
 println "email==================================="
-println params.email
+println params
 service.sendEmail(params.email, "keysoft.hotro@gmail.com", null, 
                   params.title ,"<strong>Họ Tên: </strong>" + params.name + "<br/>" + "<strong>Email: </strong>" + params.email +"<br/>" + "<strong>Số điện thoại: </strong>" 
                   + params.phone + "<br/>" +"<strong>Tên công ty: </strong>" 
