@@ -51,7 +51,7 @@
 	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/thuoc-cho-ga-vit</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO CHÓ - MÈO</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-meo</groupChildProductURL_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/thuoc-cho-meo</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO TÔM - CÁ</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
 	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
@@ -64,12 +64,12 @@
 	<title_s>Sản phẩm</title_s>
 	<createdDate>2020-06-23T03:39:50.888Z</createdDate>
 	<createdDate_dt>2020-06-23T03:39:50.888Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:45:07.334Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:45:07.334Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T09:51:39.270Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:51:39.270Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T03:28:29.300Z</createdDate>
 	<createdDate_dt>2020-06-23T03:28:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:45:02.286Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:45:02.286Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T09:51:32.516Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:51:32.516Z</lastModifiedDate_dt>
 </page>
