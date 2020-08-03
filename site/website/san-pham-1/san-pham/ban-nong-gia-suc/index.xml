@@ -19,8 +19,20 @@
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
-	<productgrouplv1_o/>
-	<productgrouplv2_o/>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
+	<value_smv>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value_smv>
+	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/97 BAN NONG GS 100gA.png</productImage_s>
 	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Paracetamol 25g&lt;/p&gt;
@@ -39,8 +51,8 @@
 &lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-141&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T06:27:29.739Z</createdDate>
 	<createdDate_dt>2020-08-03T06:27:29.739Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:27:29.739Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:27:29.739Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T06:28:57.810Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T06:28:57.810Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T06:27:30.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
