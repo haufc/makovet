@@ -145,10 +145,10 @@
     background: #f6f6f6;
     }   
     .nav__sub-menu-item {
-    padding: 15px;
+    margin: 15px;
     }
     .nav__dropdown-item{
-    padding: 15px;
+    margin: 10px;
     }
 </style>
 <header>
