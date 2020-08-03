@@ -126,7 +126,7 @@
             display: block;
             font-size: 25px;
             height: 45px;
-            left: 50%;
+            left: 75%;
             line-height: 45px;
             position: absolute;
             text-align: center;
