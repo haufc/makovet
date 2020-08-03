@@ -9,15 +9,15 @@
 	<file-name>index.xml</file-name>
 	<folder-name>analgin-19644b9e</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
 	<value>Header Slide</value>
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
-	<internal-name>ANALGIN 19644b9e</internal-name>
-	<navLabel>ANALGIN</navLabel>
-	<productName_s>ANALGIN</productName_s>
+	<internal-name>ANALGIN C - FORT</internal-name>
+	<navLabel>ANALGIN C - FORT</navLabel>
+	<productName_s>ANALGIN C - FORT</productName_s>
 	<isHot_b>false</isHot_b>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
 	<value_smv>Sản phẩm cho trâu - bò</value_smv>
@@ -25,35 +25,32 @@
 	<value_smv>Sản phẩm cho heo</value_smv>
 	</item>	<item>	<key>thuoc-cho-ga-vit</key>
 	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
-	</item>	<item>	<key>thuoc-cho-cho-meo</key>
-	<value_smv>Sản phẩm cho chó - mèo</value_smv>
 	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
 	<value_smv>Sản phẩm cho loài vật khác</value_smv>
 	</item></productgrouplv1_o>
 	<productgrouplv2_o>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
 	<value_smv>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value_smv>
 	</item></productgrouplv2_o>
-	<productImage_s>/static-assets/images/products/51 ANALGINA.png</productImage_s>
+	<productImage_s>/static-assets/images/products/52 Analgin C Fort (moi)A.png</productImage_s>
 	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Analgin 25g&lt;/p&gt;
+&lt;p&gt;Vitamin C 10g&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Hạ sốt, giảm đau ở tr&amp;acirc;u, b&amp;ograve;, ngựa, d&amp;ecirc;, cừu, heo, ch&amp;oacute;,&amp;nbsp;m&amp;egrave;o, g&amp;agrave;, vịt.&lt;/p&gt;
-&lt;p&gt;- Phối hợp với kh&amp;aacute;ng sinh trong điều trị c&amp;aacute;c bệnh nhiễm&amp;nbsp;tr&amp;ugrave;ng ở vật nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;- Hạ sốt, giảm đau nhanh, giảm sưng ph&amp;ugrave; ở vết thương.&lt;/p&gt;
+&lt;p&gt;- Tăng sức đề kh&amp;aacute;ng. Đặc biệt phối hợp với kh&amp;aacute;ng sinh&amp;nbsp;sẽ l&amp;agrave;m tăng hiệu quả điều trị&lt;/p&gt;
+&lt;p&gt;- Giảm hiện tượng stress do ti&amp;ecirc;m ph&amp;ograve;ng, thức ăn, thời&amp;nbsp;tiết thay đổi hay vận chuyển.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ti&amp;ecirc;m bắp.&lt;/p&gt;
-&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, ngựa: 1ml/20-30kg thể trọng&lt;/p&gt;
-&lt;p&gt;- Heo, d&amp;ecirc;, cừu: 1ml/10-15kg thể trọng&lt;/p&gt;
-&lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 1ml/8-10kg thể trọng&lt;/p&gt;
-&lt;p&gt;- G&amp;agrave;, vịt: 1ml/8-10kg thể trọng&lt;/p&gt;
-&lt;p&gt;Gia s&amp;uacute;c lớn kh&amp;ocirc;ng ti&amp;ecirc;m qu&amp;aacute;: 10ml/con/lần.&lt;/p&gt;
-&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp hoặc pha nước cho uống.&lt;/p&gt;
+&lt;p&gt;- Heo lớn, tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, cừu: 1ml/15-20kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Heo con, g&amp;agrave;, vịt: 1ml/10-15kg thể trọng&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục &amp;iacute;t nhất 3 ng&amp;agrave;y.&lt;/p&gt;
 &lt;p&gt;T&amp;ugrave;y t&amp;igrave;nh trạng sốt c&amp;oacute; thể ti&amp;ecirc;m 2-3 lần/ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-36&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-260&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T06:12:30.235Z</createdDate>
 	<createdDate_dt>2020-08-03T06:12:30.235Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:12:30.235Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:12:30.235Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T06:16:00.308Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T06:16:00.308Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T06:12:30.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
