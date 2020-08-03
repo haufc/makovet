@@ -13,7 +13,7 @@
 	<productName_s>VIMILAC-PLUS 2</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<isHot_b>true</isHot_b>
+	<isHot_b>false</isHot_b>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
 	<value_smv>Sản phẩm cho heo</value_smv>
 	</item>	<item>	<key>thuoc-cho-trau-bo</key>
@@ -72,7 +72,7 @@
 	<createddate_dt>2020-07-31T09:54:19.000Z</createddate_dt>
 	<createdDate>2020-07-31T09:52:30.412Z</createdDate>
 	<createdDate_dt>2020-07-31T09:52:30.412Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:52:16.259Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:52:16.259Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T06:57:50.393Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T06:57:50.393Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
