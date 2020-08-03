@@ -42,24 +42,108 @@
         border: none;
         background: #fff;
     }
-    .nav__menu:hover .nav__sub-menu {
-        display: block;
+    .nav__menu {
+    position: relative;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    -ms-grid-row: 2;
+    -ms-grid-column: 2;
+    grid-area: menu;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    }
+
+    .nav__menu.show {
+    position: absolute;
+    top: 0;
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-color: #322372;
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+    }
+
+    .nav__menu-item:not(:last-child) {
+    margin-right: 30px;
+    }
+
+    .nav__menu-item:hover .nav__sub-menu {
+    display: block;
+    }
+
+    .nav__menu-btn {
+    display: none;
+    border: 1px solid transparent;
+    color: #fff;
+    background-color: transparent;
+    }
+
+    .nav__menu-link {
+    font-weight: lighter;
+    }
+
+    .nav__menu-link.active {
+    font-weight: bolder;
+    }
+
+    .nav__menu-tools {
+    display: none;
+    }
+
+    .nav__menu-tools li {
+    width: 20px;
+    height: 20px;
+    }
+
+    .nav__menu:hover > .nav__sub-menu {
+    display: block;
     }
 
     .nav__sub-menu {
-        position: absolute;
-        bottom: -150px;
-        z-index: 10;
-        width: 170px;
-        display: none;
-        background: #fff;
-        -webkit-transition: 0.3s;
-        transition: 0.3s;
+    position: absolute;
+    bottom: -50px;
+    z-index: 10;
+    width: 160px;
+    display: none;
+    background: #ddd;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
     }
 
     .nav__sub-menu-item {
-        margin: 12px;
+    position: relative;
     }
+
+    .nav__sub-menu-item:hover .nav__dropdown {
+    display: block;
+    }
+
+    .nav__sub-link {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    }
+
+    .nav__sub-link:hover {
+    color: #fff;
+    background: #333;
+    }
+
+    .nav__dropdown {
+    position: absolute;
+    top: 0;
+    right: -100%;
+    width: 160px;
+    display: none;
+    background: #ddd;
+    }             
 </style>
 <header>
     <section class="nav">   
