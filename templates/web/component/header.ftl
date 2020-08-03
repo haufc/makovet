@@ -139,12 +139,15 @@
     .nav__dropdown {
     position: absolute;
     top: 0;
-    right: -100%;
+    right: -175px;
     width: 160px;
     display: none;
     background: #ddd;
     }   
     .nav__sub-menu-item {
+    margin: 15px;
+    }
+    .nav__dropdown-item{
     margin: 15px;
     }
 </style>
