@@ -48,7 +48,7 @@
 
     .nav__sub-menu {
         position: absolute;
-        bottom: -190px;
+        bottom: -200px;
         z-index: 10;
         width: 160px;
         display: none;
@@ -58,7 +58,7 @@
     }
 
     .nav__sub-menu-item {
-        margin: 15px;
+        margin: 12px;
     }
 </style>
 <header>
