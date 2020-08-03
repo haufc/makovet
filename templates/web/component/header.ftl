@@ -122,10 +122,30 @@
                     <li class="nav__sub-menu-item">
                         <a class="nav__menu-link font-title" href="#">Thành tích đạt được</a>
                     </li>
-                </ul>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/san-pham">Sản phẩm</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho heo</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho gà vịt</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho trâu bò</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho chó mèo</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho tôm cá</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-link font-title" href="#">Sản phẩm cho loài khác</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/tin-tuc">Tin tức - Sự kiện</a>
