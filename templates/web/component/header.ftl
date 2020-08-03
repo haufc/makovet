@@ -249,7 +249,18 @@
                     <a class="nav__menu-link font-title" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Thông tin kỹ thuật</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Quy trình chăn nuôi - chăm sóc – phòng bệnh</a>
+                        <a class="nav__menu-sublink font-title" href="#">Quy trình chăn nuôi, phòng bệnh</a>
+                        <ul class="nav__dropdown">
+                            <li class="nav__dropdown-item">
+                                <a class="nav__sub-link" href="#">Với gia súc, gia cầm</a>
+                            </li>
+                            <li class="nav__dropdown-item">
+                                <a class="nav__sub-link" href="#">Với thuỷ sản</a>
+                            </li>
+                            <li class="nav__dropdown-item">
+                                <a class="nav__sub-link" href="#">Với thú cưng</a>
+                            </li>
+                        </ul>
                     </li>
                     <li class="nav__sub-menu-item">
                         <a class="nav__menu-sublink font-title" href="#">Bệnh và điều trị</a>
