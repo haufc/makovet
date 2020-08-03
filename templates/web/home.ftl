@@ -36,11 +36,11 @@
             display: block;
             font-size: 25px;
             height: 45px;
-            left: 75%;
+            left: 50%;
             line-height: 45px;
             position: absolute;
             text-align: center;
-            top: 40%;
+            top: 50%;
             transform: translate(-50%, -50%);
             -webkit-transform: translate(-50%, -50%);
             width: 45px;
