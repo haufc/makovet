@@ -112,7 +112,7 @@
     z-index: 10;
     width: 160px;
     display: none;
-    background: #f6f6f6;
+    background: #fff;
     -webkit-transition: 0.3s;
     transition: 0.3s;
     }
@@ -148,7 +148,7 @@
     padding: 15px;
     }
     .nav__dropdown-item{
-    padding: 10px;
+    padding: 15px;
     }
 </style>
 <header>
