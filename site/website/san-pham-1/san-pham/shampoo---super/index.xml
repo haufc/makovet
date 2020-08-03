@@ -28,7 +28,9 @@
 	</item>	<item>	<key>thuoc-cho-cho-meo</key>
 	<value_smv>Sản phẩm cho chó - mèo</value_smv>
 	</item></productgrouplv1_o>
-	<productgrouplv2_o/>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
+	<value_smv>Nhóm thuốc sát trùng, dầu tằm</value_smv>
+	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/112 SHAMPOO SUPERA.png</productImage_s>
 	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Deltamethrin 12,5mg&lt;/p&gt;
@@ -46,8 +48,8 @@
 &lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-241&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T09:07:27.250Z</createdDate>
 	<createdDate_dt>2020-08-03T09:07:27.250Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:09:10.583Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:09:10.583Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T09:09:28.976Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:09:28.976Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T09:07:27.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
