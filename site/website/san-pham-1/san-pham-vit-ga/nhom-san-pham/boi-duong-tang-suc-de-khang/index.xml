@@ -36,12 +36,12 @@
 </component>
 	</item></section_o>
 	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/8fe74515-3811-6d2b-a489-a64773239e42.xml</key>
-	<value>Slide</value>
+	<value>Danh sách sản phẩm</value>
 	<include>/site/items/8fe74515-3811-6d2b-a489-a64773239e42.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<createdDate>2020-08-03T08:01:22.600Z</createdDate>
 	<createdDate_dt>2020-08-03T08:01:22.600Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T08:01:22.600Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T08:01:22.600Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T08:06:15.989Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:06:15.989Z</lastModifiedDate_dt>
 </page>
