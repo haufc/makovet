@@ -52,7 +52,7 @@
         z-index: 10;
         width: 160px;
         display: none;
-        background: #ddd;
+        background: #fff;
         -webkit-transition: 0.3s;
         transition: 0.3s;
     }
@@ -111,16 +111,16 @@
                     <a class="nav__menu-link font-title" href="/gioithieu">Giới thiệu</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a href="#">Giới thiệu chung</a>
+                        <a class="nav__menu-link font-title" href="#">Giới thiệu chung</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a href="#">Tầm nhìn sứ mệnh</a>
+                        <a class="nav__menu-link font-title" href="#">Tầm nhìn sứ mệnh</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a href="#">Lịch sử hìn hình thành</a>
+                        <a class="nav__menu-link font-title" href="#">Lịch sử hìn hình thành</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a href="#">Thành tích đạt được</a>
+                        <a class="nav__menu-link font-title" href="#">Thành tích đạt được</a>
                     </li>
                 </ul>
                 </li>
