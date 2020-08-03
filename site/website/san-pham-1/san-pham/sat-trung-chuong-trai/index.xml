@@ -30,8 +30,8 @@
 	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
 	<value_smv>Sản phẩm cho loài vật khác</value_smv>
 	</item></productgrouplv1_o>
-	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-thuoc-dung-ngoai</key>
-	<value_smv>Nhóm thuốc sát trùng thuốc dùng ngoài</value_smv>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
+	<value_smv>Nhóm thuốc sát trùng, dầu tằm</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/113 THUOC SAT TRUNGA.png</productImage_s>
 	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
@@ -50,8 +50,8 @@
 &lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-270&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T08:56:00.052Z</createdDate>
 	<createdDate_dt>2020-08-03T08:56:00.052Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T08:56:00.052Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T08:56:00.052Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T09:02:59.148Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:02:59.148Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T08:56:00.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
