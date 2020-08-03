@@ -6,9 +6,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>b56fbae8</objectGroupId>
 	<objectId>b56fbae8-23f7-4443-9ee1-69daae13f849</objectId>
-	<internal-name>SHAMPOO - ANTIPARA d426e8f0</internal-name>
-	<navLabel>SHAMPOO - ANTIPARA</navLabel>
-	<productName_s>SHAMPOO - ANTIPARA</productName_s>
+	<internal-name>SHAMPOO - ANTIPARA (new)</internal-name>
+	<navLabel>SHAMPOO - ANTIPARA (new)</navLabel>
+	<productName_s>SHAMPOO - ANTIPARA (new)</productName_s>
 	<file-name>index.xml</file-name>
 	<folder-name>shampoo---antipara-d426e8f0</folder-name>
 	<placeInNav>false</placeInNav>
@@ -39,8 +39,8 @@
 &lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-243&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T09:03:25.708Z</createdDate>
 	<createdDate_dt>2020-08-03T09:03:25.708Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:05:26.435Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:05:26.435Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-03T09:06:47.020Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:06:47.020Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T09:03:26.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
