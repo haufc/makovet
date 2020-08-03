@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a78c8021</objectGroupId>
+	<objectId>a78c8021-8155-47e2-ad16-b3d5b362f27e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-114-a30911a3-5b8878de</folder-name>
+	<internal-name>AMPICILLIN 5b8878de</internal-name>
+	<navLabel>AMPICILLIN</navLabel>
+	<productName_s>AMPICILLIN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/14 AMPICILLIN 3A.png</productImage_s>
+	<productDescription_html>&lt;p&gt;Th&amp;agrave;nh phần: Trong 1 lọ chứa&lt;/p&gt;
+&lt;p&gt;Ampicillin Sodium 1g&lt;/p&gt;
+&lt;p&gt;C&amp;ocirc;ng dụng&lt;/p&gt;
+&lt;p&gt;- Trị bệnh ti&amp;ecirc;u chảy, vi&amp;ecirc;m ruột, vi&amp;ecirc;m v&amp;uacute;, vi&amp;ecirc;m tử cung, thương h&amp;agrave;n, vi&amp;ecirc;m phổi, tụ huyết tr&amp;ugrave;ng, dấu son&amp;hellip; ở tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;.&lt;/p&gt;
+&lt;p&gt;- Bệnh vi&amp;ecirc;m ruột, thương h&amp;agrave;n, E.coli, bệnh do Clostridium, bệnh coryza tr&amp;ecirc;n gia cầm.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/p&gt;
+&lt;p&gt;H&amp;ograve;a nước cất hay sinh l&amp;yacute; mặn 9&amp;permil; v&amp;agrave;o lọ thuốc bột.&lt;/p&gt;
+&lt;p&gt;Lắc đều cho tan. Ti&amp;ecirc;m bắp hay ti&amp;ecirc;m dưới da.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;: 1g/65-200kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: 1g/50-100kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng trong 5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Số đăng k&amp;yacute;: CL-52&lt;/p&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-01T04:03:13.109Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T04:03:13.109Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>
