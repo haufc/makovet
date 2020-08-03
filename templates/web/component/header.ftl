@@ -42,6 +42,24 @@
         border: none;
         background: #fff;
     }
+    .nav__menu:hover .nav__sub-menu {
+        display: block;
+    }
+
+    .nav__sub-menu {
+        position: absolute;
+        bottom: -90px;
+        z-index: 10;
+        width: 160px;
+        display: none;
+        background: #ddd;
+        -webkit-transition: 0.3s;
+        transition: 0.3s;
+    }
+
+    .nav__sub-menu-item {
+        margin: 15px;
+    }
 </style>
 <header>
     <section class="nav">   
@@ -91,12 +109,20 @@
                 </button>
                 <li class="nav__menu-item dropdown">
                     <a class="nav__menu-link font-title" href="/gioithieu">Giới thiệu</a>
-                    <ul class="dropdown-menu">
-                        <li><a class="nav__menu-link font-title" href="#">Giới thiệu chung</a></li>
-                        <li><a class="nav__menu-link font-title" href="#">Tầm nhìn sứ mệnh</a></li>
-                        <li><a class="nav__menu-link font-title" href="#">Lịch sử hình thành</a></li>
-                        <li><a class="nav__menu-link font-title" href="#">Thành tích đạt được</a></li>
-                    </ul>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a href="#">Giới thiệu chung</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a href="#">Tầm nhìn sứ mệnh</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a href="#">Lịch sử hìn hình thành</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a href="#">Thành tích đạt được</a>
+                    </li>
+                </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/san-pham">Sản phẩm</a>
