@@ -37,7 +37,7 @@
             <@renderComponent parent=contentModel component=section />
         </#list>
         
-        <div class="section-title">
+        <div class="section-title" id="benh">
             <div class="section-title__content block">
                 <h1 class="section-title__content-text text--uppercase">${contentModel.processtitle_s}</h1>
             </div>
@@ -54,7 +54,7 @@
             </div>
         </div>
         
-        <div class="section-title">
+        <div class="section-title" id="dieutri">
             <div class="section-title__content block">
                 <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
             </div>
