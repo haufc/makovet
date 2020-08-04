@@ -8,9 +8,9 @@
 	<objectId>4103116a-5453-e5a7-2ba4-19117eaeb683</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>test-2</folder-name>
-	<internal-name>CAILAYVETCO - Intensive training about 3 classes of defense for business staff</internal-name>
-	<navLabel>CAILAYVETCO - Intensive training about 3 classes o</navLabel>
-	<title_s>CAILAYVETCO - Intensive training about 3 classes of defense for business staff</title_s>
+	<internal-name>Intensive training on 3-layer Protection Packages</internal-name>
+	<navLabel>Intensive training on 3-layer Protection Packages</navLabel>
+	<title_s>Intensive training on 3-layer Protection Packages</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<categories_o>	<item>	<key>internalnews</key>
@@ -21,11 +21,17 @@
 	<include>/site/items/slides/fa249ec2-3939-7ea9-8369-868670e7aea1.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></slideImage_o>
-	<image_s>/static-assets/images/news/Layer 194.png</image_s>
-	<content_html>&lt;p&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec dui a magna vehicula tempus sagittis vel ante. Nullam risus felis, dapibus et sem eu, vulputate venenatis nunc. Mauris lobortis purus ac vehicula lacinia. Aenean lobortis maximus elit. In fringilla non justo quis faucibus. Suspendisse suscipit eleifend lectus, molestie tristique velit bibendum id. Fusce ut velit ac nunc pellentesque rutrum. Maecenas at faucibus nunc. Donec hendrerit dolor ut metus tristique rutrum. Aliquam est nibh, accumsan in mollis ut, vestibulum a risus. Fusce pretium, mauris ac interdum tincidunt, nisi felis condimentum sapien, vulputate pharetra est erat a quam. Donec pellentesque diam in magna ultricies, eu pellentesque purus sodales.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<image_s>/static-assets/images/news/Layer 192.png</image_s>
+	<content_html>&lt;p&gt;On February 21 and 22, 2020, sales staff of Cai Lay Veterinary Pharmacy Joint Stock Company attended a training course on Mavin Group's 3-layer Protection Package at Mavin Austfeed Dong Thap Factory.&lt;/p&gt;
+&lt;p&gt;The content of the training program:&lt;/p&gt;
+&lt;p&gt;1. Post-treatment plan for ASF and re-stocking instructions&lt;/p&gt;
+&lt;p&gt;2. Introduction of 3-layer Protection Packages (CL-Tylva 50, Glucanvita, Formavet)&lt;/p&gt;
+&lt;p&gt;3. Nutrition of pig bran&lt;/p&gt;
+&lt;p&gt;4. Successful Repetition Program with Mavin&lt;/p&gt;
+&lt;p&gt;In addition to the training program, staff also participated in the exchange program to connect the team spirit including: football match, team meetings...&lt;/p&gt;</content_html>
 	<createdDate>2020-07-13T04:57:14.126Z</createdDate>
-	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-14T06:55:26.180Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-14T06:55:26.180Z</lastModifiedDate_dt>
+	<createdDate_dt>2020-02-24T05:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:49:59.628Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:49:59.628Z</lastModifiedDate_dt>
 	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
 </page>
