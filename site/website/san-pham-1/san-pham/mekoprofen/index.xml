@@ -32,12 +32,19 @@
 	<value_smv>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/Meko Profen 2.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ketoprofen 10g&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Giảm đau, hạ sốt, kh&amp;aacute;ng vi&amp;ecirc;m, giảm ph&amp;ugrave; nề.&lt;/p&gt;
-&lt;p&gt;- Kết hợp với kh&amp;aacute;ng sinh để điều trị hội chứng MMA ở&amp;nbsp;heo n&amp;aacute;i, nhiễm khuẩn đường h&amp;ocirc; hấp, vi&amp;ecirc;m khớp, vi&amp;ecirc;m cơ - xương - khớp, đau bụng ngựa, vi&amp;ecirc;m m&amp;oacute;ng, giảm đau phẫu thuật, hậu phẫu,&amp;hellip;ở tr&amp;acirc;u, b&amp;ograve;, ngựa, heo, ch&amp;oacute;, m&amp;egrave;o,&amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giảm đau, hạ sốt, kh&amp;aacute;ng vi&amp;ecirc;m, giảm ph&amp;ugrave; nề.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kết hợp với kh&amp;aacute;ng sinh để điều trị hội chứng MMA ở&amp;nbsp;heo n&amp;aacute;i, nhiễm khuẩn đường h&amp;ocirc; hấp, vi&amp;ecirc;m khớp, vi&amp;ecirc;m cơ - xương - khớp, đau bụng ngựa, vi&amp;ecirc;m m&amp;oacute;ng, giảm đau phẫu thuật, hậu phẫu,&amp;hellip;ở tr&amp;acirc;u, b&amp;ograve;, ngựa, heo, ch&amp;oacute;, m&amp;egrave;o,&amp;hellip;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.05153%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.593%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Heo: 1ml/33kg thể trọng/ng&amp;agrave;y.&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m bắp s&amp;acirc;u.&lt;/p&gt;
@@ -48,11 +55,15 @@
 &lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 0,2ml/10kg thể trọng/ng&amp;agrave;y.&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m dưới da.&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-338&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-338&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T06:23:03.539Z</createdDate>
 	<createdDate_dt>2020-08-03T06:23:03.539Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:23:03.539Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:23:03.539Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T03:55:17.725Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:55:17.725Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T06:23:04.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
