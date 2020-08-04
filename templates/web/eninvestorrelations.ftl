@@ -37,7 +37,7 @@
                 <p style="color: #322372; font-size: 26px; font-weight: bold; margin-bottom: 0px !important;">${contentModel.title_s}</p>
                 <p class="dim-grey-color" style="line-height: 1.5;  font-size: 20px; font-weight: 400;">(${contentModel.date_dt?date?string('dd/MM/yyyy')})</p>
                 <div class="new-detail__content" style="line-height: 1.5;  font-size: 18px; padding-top:30px; color: #636466; font-weight: 300; word-spacing: 2px;">${contentModel.content_html}</div>
-                <a href="/quan-he-co-dong"><i class="fa fa-arrow-left violet-color" style="padding-right:10px;" aria-hidden="true"></i><span class="mr-1 text--italic violet-color" style="color: #00549a; font-size: 18px;">Quay lại trang quan hệ cổ đông</span>
+                <a href="/quan-he-co-dong"><i class="fa fa-arrow-left violet-color" style="padding-right:10px;" aria-hidden="true"></i><span class="mr-1 text--italic violet-color" style="color: #00549a; font-size: 16px;">Return Investor Relations</span>
                 </a>
             </div>
         </section>
