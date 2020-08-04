@@ -285,10 +285,10 @@
                     <a class="nav__menu-link font-title" href="/quan-he-co-dong">Quan hệ cổ đông</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Công bố thông tin</a>
+                        <a class="nav__menu-sublink font-title" href="/quan-he-co-dong#quanhe1">Công bố thông tin</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Đại hội cổ đông</a>
+                        <a class="nav__menu-sublink font-title" href="/quan-he-co-dong#quanhe2">Đại hội cổ đông</a>
                     </li>
                     </ul>
                 </li>
