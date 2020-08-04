@@ -34,12 +34,19 @@
 	<value_smv>Nhóm thuốc sát trùng, dầu tằm</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/113 THUOC SAT TRUNGA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.5267%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Glutaraldehyde 15g&lt;/p&gt;
 &lt;p&gt;Benzalkonium chloride 10g&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;S&amp;aacute;t tr&amp;ugrave;ng chuồng trại, dụng cụ chăn nu&amp;ocirc;i. Diệt c&amp;aacute;c loại vi&amp;nbsp;tr&amp;ugrave;ng, virus, nấm mốc g&amp;acirc;y bệnh.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.32775%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.1455%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Ti&amp;ecirc;u độc hố s&amp;aacute;t tr&amp;ugrave;ng, ti&amp;ecirc;u độc x&amp;aacute;c chết: 10ml/l&amp;iacute;t nước&lt;/p&gt;
 &lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng chuồng trại khi c&amp;oacute; dịch (đang c&amp;oacute; th&amp;uacute;):&amp;nbsp;3,3ml/l&amp;iacute;t nước&lt;/p&gt;
@@ -47,11 +54,15 @@
 &lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng xe chở GS-GC, nh&amp;agrave; vắt sữa, l&amp;ograve; ấp trứng:&amp;nbsp;2ml/l&amp;iacute;t nước&lt;/p&gt;
 &lt;p&gt;- Khử tr&amp;ugrave;ng trứng trước khi ấp (nh&amp;uacute;ng trứng): 1ml/l&amp;iacute;t nước&lt;/p&gt;
 &lt;p&gt;- Khử tr&amp;ugrave;ng nước: 0,5ml/l&amp;iacute;t nước&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-270&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-270&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T08:56:00.052Z</createdDate>
 	<createdDate_dt>2020-08-03T08:56:00.052Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:02:59.148Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:02:59.148Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:24:22.244Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:24:22.244Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T08:56:00.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
