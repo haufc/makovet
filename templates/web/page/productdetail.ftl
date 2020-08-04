@@ -149,10 +149,13 @@
               $(lstCate).each(function() {
                 let compareVal = $(this).val().split('/');
                 if (compareVal[0] == val) {
-                    console.log(compareVal[1].split('cho'));
+                    let arrCate = compareVal[1].split('cho');
+                    moreCate + = arrCate[1] + ",";
                 }
               });
             });
+            
+            console.log("San pham danh cho (" + moreCate + ")");
         } 
 
         for (let i = 0; i< lstCate.length; i++) {
