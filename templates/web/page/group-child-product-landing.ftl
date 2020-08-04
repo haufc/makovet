@@ -24,6 +24,37 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css"/>
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
+    <style>
+       .img-circle__product {
+           display: inline-block;
+           border-radius: 50%;
+           width: 100%;
+           height: 335px;
+           border: 14px solid #ffcb08;
+           background-image: url(./image/tron-tim.png);
+           background-size: cover;
+           background-position: center center;
+       }
+       .img-circle__product-yeallow {
+           display: inline-block;
+           border-radius: 50%;
+           width: 100%;
+           height: 335px;
+           border: 14px solid #322271;
+           background-image: url(./image/vang.png);
+           background-size: cover;
+           background-position: center center;
+       }
+       .img-circle__product--img {
+         background-image: url(./image/arnh-sp.png);
+         /* z-index: 1; */
+         height: 100%;
+         width: 100%;
+         background-repeat: no-repeat;
+         background-position: center center;
+         background-size: 186px
+       }
+    </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
