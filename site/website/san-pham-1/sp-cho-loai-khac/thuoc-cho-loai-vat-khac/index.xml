@@ -43,9 +43,9 @@
 	<file-name>c56bb2c6-fcd6-67ad-aaa2-c2088866e666.xml</file-name>
 	<internal-name>Sản phẩm dành cho loài vật khác(dê, cừu, ngựa)</internal-name>
 	<title_s>Sản phẩm dành cho loài vật khác(dê, cừu, ngựa)</title_s>
-	<rightTitle_s>B. Complex</rightTitle_s>
+	<rightTitle_s>CALCIUM-FORT</rightTitle_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
+	<groupProductImg2_s>/static-assets/images/products/Calcium fort.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
@@ -67,12 +67,12 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-08-03T09:34:43.408Z</createdDate>
 	<createdDate_dt>2020-08-03T09:34:43.408Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:34:43.408Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:34:43.408Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T07:22:53.492Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:22:53.492Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-08-03T09:32:16.112Z</createdDate>
 	<createdDate_dt>2020-08-03T09:32:16.112Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:32:16.112Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:32:16.112Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T07:22:46.829Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:22:46.829Z</lastModifiedDate_dt>
 </page>
