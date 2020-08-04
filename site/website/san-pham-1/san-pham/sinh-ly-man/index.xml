@@ -30,17 +30,28 @@
 	</item></productgrouplv2_o>
 	<isHot_b>false</isHot_b>
 	<productImage_s>/static-assets/images/products/64 Sinh ly man.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 47.0799%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Muối NaCl 9&amp;permil;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng pha thuốc bột ti&amp;ecirc;m, vaccin, cấp nước,&amp;nbsp;cấp muối kho&amp;aacute;ng.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.95328%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.9667%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m bắp, ti&amp;ecirc;m tĩnh mạch, ti&amp;ecirc;m dưới da,&amp;nbsp;ti&amp;ecirc;m xoang bụng.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-66&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-66&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T07:37:13.251Z</createdDate>
 	<createdDate_dt>2020-08-03T07:37:13.251Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T07:37:13.251Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T07:37:13.251Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:19:44.053Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:19:44.053Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T07:37:13.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
