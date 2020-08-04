@@ -28,24 +28,35 @@
 	<value_smv>Nhóm thuốc kháng sinh</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/84 MKV-AMOX 50 100gA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.4935%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Amoxicillin trihydrate 50g&lt;/p&gt;
 &lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh&lt;/p&gt;
-&lt;p&gt;- Tr&amp;ecirc;n heo: tụ huyết tr&amp;ugrave;ng, ph&amp;oacute; thương h&amp;agrave;n, ti&amp;ecirc;u chảy ph&amp;acirc;n&amp;nbsp;trắng, v&amp;agrave;ng; vi&amp;ecirc;m phổi, vi&amp;ecirc;m khớp, vi&amp;ecirc;m đa xoang, vi&amp;ecirc;m&amp;nbsp;phổi (APP), hội chứng MMA, nhiễm tr&amp;ugrave;ng hệ tiết niệu.&lt;/p&gt;
-&lt;p&gt;- Tr&amp;ecirc;n gia cầm: tụ huyết tr&amp;ugrave;ng, thương h&amp;agrave;n, ti&amp;ecirc;u chảy&amp;nbsp;ph&amp;acirc;n trắng, ph&amp;acirc;n v&amp;agrave;ng, ph&amp;acirc;n xanh, vi&amp;ecirc;m ruột hoại tử&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tr&amp;ecirc;n heo: tụ huyết tr&amp;ugrave;ng, ph&amp;oacute; thương h&amp;agrave;n, ti&amp;ecirc;u chảy ph&amp;acirc;n&amp;nbsp;trắng, v&amp;agrave;ng; vi&amp;ecirc;m phổi, vi&amp;ecirc;m khớp, vi&amp;ecirc;m đa xoang, vi&amp;ecirc;m&amp;nbsp;phổi (APP), hội chứng MMA, nhiễm tr&amp;ugrave;ng hệ tiết niệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tr&amp;ecirc;n gia cầm: tụ huyết tr&amp;ugrave;ng, thương h&amp;agrave;n, ti&amp;ecirc;u chảy ph&amp;acirc;n trắng, ph&amp;acirc;n v&amp;agrave;ng, ph&amp;acirc;n xanh, vi&amp;ecirc;m ruột hoại tử.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.18967%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.3167%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Trộn v&amp;agrave;o thức ăn hay pha v&amp;agrave;o nước cho uống.&lt;/p&gt;
 &lt;p&gt;- Heo: 1g/30-40kg TT/ng&amp;agrave;y hay 1g/1-1,5kg thức ăn hay&amp;nbsp;1g/3-4l&amp;iacute;t nước uống.&lt;/p&gt;
 &lt;p&gt;- Gia cầm: 1g/40-50kg TT/ng&amp;agrave;y hay 1g/1,5-2kg thức ăn&amp;nbsp;hay 1g/4-5l&amp;iacute;t nước uống.&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
 &lt;p&gt;Liều ph&amp;ograve;ng bằng 1/2 liều tr&amp;ecirc;n.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-328&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-328&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T04:16:58.540Z</createdDate>
 	<createdDate_dt>2020-08-03T04:16:58.540Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T04:16:58.540Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T04:16:58.540Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:00:09.675Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:00:09.675Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T04:17:00.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
