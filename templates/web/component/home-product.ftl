@@ -26,7 +26,7 @@
                         <#if (products)??>
                         	<#list products as product>
                                 <div class="products__list-item item">
-                                    <a href="${product.url}"><img class="products__img" src="${product.avatar}" alt="Product image" width="135" height="160"/></a>
+                                    <a href="${product.url}"><img class="products__img" src="${product.avatar}" style="width: auto !important;" alt="Product image" width="135" height="160"/></a>
                                     <p class="font-weight-bold mb-0 font-title" style="font-size: 23px;">${product.title}</p>
                                 </div>
                             </#list>
