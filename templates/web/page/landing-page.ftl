@@ -140,7 +140,7 @@
            display: inline-block;
            border-radius: 50%;
            width: 100%;
-           height: 335px;
+           height: 360px;
            border: 14px solid #ffcb08;
            background-image: url(./image/tron-tim.png);
            background-size: cover;
