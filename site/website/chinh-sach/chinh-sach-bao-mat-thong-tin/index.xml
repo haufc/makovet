@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsach</content-type>
+	<display-template>/templates/web/page/chinhsach.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9e95</objectGroupId>
+	<objectId>9e95a453-b5fe-42ef-850c-427db3419d01</objectId>
+	<internal-name>Chính sách bảo mật thông tin</internal-name>
+	<navLabel>Chính sách bảo mật thông tin</navLabel>
+	<title_s/>
+	<file-name>index.xml</file-name>
+	<folder-name>chinh-sach-bao-mat-thong-tin</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<imageBanner_s>/static-assets/images/news/img-chinh-sach.jpg</imageBanner_s>
+	<content_html/>
+	<createdDate>2020-08-04T09:05:19.209Z</createdDate>
+	<createdDate_dt>2020-08-04T09:05:19.209Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T09:05:19.209Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T09:05:19.209Z</lastModifiedDate_dt>
+</page>
