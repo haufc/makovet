@@ -31,7 +31,11 @@
 	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
 	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
 	</item></productgrouplv2_o>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 47.4217%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Urotropin 7,3g&lt;/p&gt;
 &lt;p&gt;Glucose 5g&lt;/p&gt;
 &lt;p&gt;Kali lodua 6,7mg&lt;/p&gt;
@@ -41,16 +45,23 @@
 &lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng đường tiết niệu, đường ruột, lợi tiểu v.v...&lt;/p&gt;
 &lt;p&gt;- Sử dụng tốt trong c&amp;aacute;c bệnh ti&amp;ecirc;u chảy, vi&amp;ecirc;m ruột, vi&amp;ecirc;m&amp;nbsp;đường tiết niệu, &amp;hellip;ở tr&amp;acirc;u, b&amp;ograve;, ngựa, heo, d&amp;ecirc;, cừu, ch&amp;oacute;, m&amp;egrave;o.&lt;/p&gt;
 &lt;p&gt;- D&amp;ugrave;ng phối hợp với kh&amp;aacute;ng sinh để chống nhiễm độc,&amp;nbsp;nhiễm tr&amp;ugrave;ng, cảm c&amp;uacute;m.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.46589%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.1123%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m bắp s&amp;acirc;u&lt;/p&gt;
 &lt;p&gt;Tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;, cừu, ch&amp;oacute;: 1ml/ 6-10kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 2 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-187&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-187&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<productImage_s>/static-assets/images/products/63 Septicemine MOI.png</productImage_s>
 	<createdDate>2020-08-03T07:32:10.985Z</createdDate>
 	<createdDate_dt>2020-08-03T07:32:10.985Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T07:32:10.985Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T07:32:10.985Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:17:09.609Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:17:09.609Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T07:32:11.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
