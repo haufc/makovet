@@ -9,7 +9,7 @@
 	<internal-name>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</internal-name>
 	<navLabel>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</navLabel>
 	<title_s>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</title_s>
-	<rightTitle_s>B. Complex</rightTitle_s>
+	<rightTitle_s>MKV-PARA C</rightTitle_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e20069eb-a03d-b0d2-7458-414ed27691ea</key>
@@ -39,9 +39,9 @@
 	<file-name>index.xml</file-name>
 	<folder-name>giam-dau-ha-sot-khang-viem</folder-name>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
-	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<rightimage_s>/static-assets/images/products/98 MKV-PARA C 100gA.png</rightimage_s>
 	<createdDate>2020-08-03T08:10:40.651Z</createdDate>
 	<createdDate_dt>2020-08-03T08:10:40.651Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T08:10:40.651Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T08:10:40.651Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T07:00:44.314Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:00:44.314Z</lastModifiedDate_dt>
 </page>
