@@ -22,7 +22,7 @@
                     <div class="products__list-title">
                         <h1 class="text--uppercase violet-color">sản phẩm chủ lực</h1>
                     </div>
-                    <div class="products__list-items owl-carousel owl-theme">
+                    <div class="products__list-items owl-two owl-carousel owl-theme">
                         <#if (products)??>
                         	<#list products as product>
                                 <div class="products__list-item item">
