@@ -157,7 +157,7 @@
         if (productCate.length > 1) {
             $('#parent-title').text("Sản phẩm cho (" + moreCate + ")/");
         } else {
-            moreCate.replace(',', '');
+            moreCate = moreCate.replace(',', '');
             $('#parent-title').text("Sản phẩm cho " + moreCate + "/");
         }
         
@@ -179,7 +179,7 @@
         if (textTitle.length > 90) {
             textTitle = textTitle.slice(0, 86);
             let arrTitle = textTitle.split('/');
-            $('#parent-title').text(arrTitle[0]);
+            $('#parent-title').text(arrTitle[0] + "/");
             $('#child-title').text(arrTitle[1] + '...');
             
         }
