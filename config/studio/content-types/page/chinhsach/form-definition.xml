@@ -259,7 +259,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>uploadImage,existingImage</value>
+							<value>existingImage,uploadImahe</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -327,7 +327,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>uploadImage,existingImage</value>
+							<value>existingImage,uploadImahe</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -353,32 +353,32 @@
 		</section>
 	</sections>
 	<datasources>				<datasource>
-					<type>img-repository-upload</type>
-					<id>uploadImage</id>
+					<type>img-desktop-upload</type>
+					<id>uploadImahe</id>
 					<title>Upload Image</title>
 					<interface>image</interface>
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/static-assets/images</value>
-								<type>undefined</type>
-						</property>
-						<property>
-							<name>useSearch</name>
-							<value>false</value>
+							<value> /static-assets/images</value>
 								<type>undefined</type>
 						</property>
 					</properties>
 				</datasource>
 				<datasource>
-					<type>img-desktop-upload</type>
+					<type>img-repository-upload</type>
 					<id>existingImage</id>
 					<title>Existing Image</title>
 					<interface>image</interface>
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/static-assets/images</value>
+							<value> /static-assets/images/</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>useSearch</name>
+							<value>false</value>
 								<type>undefined</type>
 						</property>
 					</properties>
