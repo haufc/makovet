@@ -30,7 +30,11 @@
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/68 ADEB-MethilysinA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;* C&amp;aacute;c chất ch&amp;iacute;nh:&lt;/p&gt;
 &lt;p&gt;Vitamin A (min) 81.000UI&lt;/p&gt;
 &lt;p&gt;Vitamin D3 (min) 12.150UI&lt;/p&gt;
@@ -45,6 +49,8 @@
 &lt;p&gt;Cu (min-max) 100-150mg&lt;/p&gt;
 &lt;p&gt;Bột m&amp;igrave; vừa đủ 1kg&lt;/p&gt;
 &lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 50%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bổ sung vitamin, acid amin, kho&amp;aacute;ng chất thiết yếu cho&amp;nbsp;tr&amp;acirc;u, b&amp;ograve;, heo, g&amp;agrave;, vịt, &amp;hellip;&lt;/p&gt;
 &lt;p&gt;* Tăng tiết sữa heo n&amp;aacute;i.&lt;/p&gt;
@@ -56,11 +62,15 @@
 &lt;p&gt;Trộn v&amp;agrave;o thức ăn.&lt;/p&gt;
 &lt;p&gt;Trộn 10g ADEB-METHILYSIN v&amp;agrave;o 1kg thức ăn.&lt;/p&gt;
 &lt;p&gt;Heo con cho ăn mỗi bữa 5g (1 muỗng c&amp;agrave; ph&amp;ecirc;). Cho ăn&amp;nbsp;h&amp;agrave;ng ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 03:2010/CL&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 03:2010/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createddate_dt>2020-07-31T09:33:49.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:45:10.016Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:45:10.016Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T02:04:56.721Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T02:04:56.721Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
