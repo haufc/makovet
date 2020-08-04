@@ -6,7 +6,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>4f5bf9b1</objectGroupId>
 	<objectId>4f5bf9b1-3d80-4c6d-bf5b-94607c36fb8c</objectId>
-	<isHot_b>true</isHot_b>
+	<isHot_b>false</isHot_b>
 	<internal-name>MEKOBENXIDE 80 (TÔM)</internal-name>
 	<navLabel>MEKOBENXIDE 80</navLabel>
 	<productName_s>MEKOBENXIDE 80 (BKC 80%) TÔM</productName_s>
@@ -53,8 +53,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
 	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:27:15.207Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:27:15.207Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T06:57:36.322Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:57:36.322Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
