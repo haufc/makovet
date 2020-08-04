@@ -28,22 +28,33 @@
 	<value_smv>Nhóm thuốc kháng sinh</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/41 TiamulinA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.1735%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tiamulin HF 10g&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Heo: đặc trị bệnh vi&amp;ecirc;m ruột xuất huyết (hồng lỵ),&amp;nbsp;bệnh vi&amp;ecirc;m phổi địa phương (suyễn), bệnh vi&amp;ecirc;m phổi -&amp;nbsp;m&amp;agrave;ng phổi, vi&amp;ecirc;m đa khớp truyền nhiễm.&lt;/p&gt;
 &lt;p&gt;- G&amp;agrave;, vịt, g&amp;agrave; t&amp;acirc;y, c&amp;uacute;t: trị c&amp;aacute;c bệnh do Mycoplasma: vi&amp;ecirc;m&amp;nbsp;khớp, CRD g&amp;agrave;, vi&amp;ecirc;m xoang mũi.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 5.23415%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 45.5923%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Heo ti&amp;ecirc;m bắp, gia cầm ti&amp;ecirc;m dưới da.&lt;/p&gt;
 &lt;p&gt;- Heo: 1ml/5-10kg TT/ng&amp;agrave;y&lt;/p&gt;
 &lt;p&gt;- G&amp;agrave;, vịt, g&amp;agrave; t&amp;acirc;y, c&amp;uacute;t: 1ml/5kg TT/ng&amp;agrave;y&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 2-3 ng&amp;agrave;y&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-90&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-90&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T03:30:22.801Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T03:30:22.801Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:27:40.676Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:27:40.676Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
