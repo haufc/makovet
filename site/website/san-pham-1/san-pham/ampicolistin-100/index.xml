@@ -30,13 +30,20 @@
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.6316%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Calcium gluconate 40g&lt;/p&gt;
 &lt;p&gt;Butaphosphan 2g&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Cung cấp h&amp;agrave;m lượng cao Ca &amp; P dưới dạng hữu cơ. Ph&amp;ograve;ng&amp;nbsp;v&amp;agrave; trị bại liệt do thiếu canxi huyết trước, trong, sau khi đẻ hoặc&amp;nbsp;trong giai đoạn cho sữa. Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh c&amp;ograve;i xương,&amp;nbsp;mềm xương, xốp xương, co cứng, co giật, sốt sữa, chứng bại&amp;nbsp;liệt kh&amp;ocirc;ng r&amp;otilde; nguy&amp;ecirc;n nh&amp;acirc;n, c&amp;ograve;i cọc ở heo, tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, cừu.&lt;/p&gt;
-&lt;p&gt;Thuốc rất tốt cho B&amp;ograve; sữa v&amp;agrave; Heo n&amp;aacute;i khi thiếu Canxi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cung cấp h&amp;agrave;m lượng cao Ca &amp; P dưới dạng hữu cơ. Ph&amp;ograve;ng&amp;nbsp;v&amp;agrave; trị bại liệt do thiếu canxi huyết trước, trong, sau khi đẻ hoặc&amp;nbsp;trong giai đoạn cho sữa. Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh c&amp;ograve;i xương,&amp;nbsp;mềm xương, xốp xương, co cứng, co giật, sốt sữa, chứng bại&amp;nbsp;liệt kh&amp;ocirc;ng r&amp;otilde; nguy&amp;ecirc;n nh&amp;acirc;n, c&amp;ograve;i cọc ở heo, tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, cừu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thuốc rất tốt cho B&amp;ograve; sữa v&amp;agrave; Heo n&amp;aacute;i khi thiếu Canxi.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.46594%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 45.9024%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Gia s&amp;uacute;c: ti&amp;ecirc;m bắp, ti&amp;ecirc;m dưới da.&lt;/p&gt;
 &lt;p&gt;- Heo con c&amp;oacute; thể ti&amp;ecirc;m xoang bụng.&lt;/p&gt;
@@ -46,11 +53,15 @@
 &lt;p&gt;- Heo con theo mẹ: 2-3ml/con&lt;/p&gt;
 &lt;p&gt;- Gia cầm: 1-2ml/5kg TT&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-300&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-300&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-07-31T07:46:48.780Z</createdDate>
 	<createdDate_dt>2020-07-31T07:46:48.780Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:39:00.177Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:39:00.177Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T03:51:44.714Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:51:44.714Z</lastModifiedDate_dt>
 	<createddate_dt>2020-07-31T07:46:49.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
