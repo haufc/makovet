@@ -158,7 +158,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value></value>
+							<value>section</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -379,6 +379,19 @@
 						<property>
 							<name>useSearch</name>
 							<value>false</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>embedded-content</type>
+					<id>section</id>
+					<title>Section</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>contentType</name>
+							<value></value>
 								<type>undefined</type>
 						</property>
 					</properties>
