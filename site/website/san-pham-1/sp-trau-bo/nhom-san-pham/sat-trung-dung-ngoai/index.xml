@@ -9,11 +9,11 @@
 	<internal-name>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </internal-name>
 	<navLabel>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </navLabel>
 	<title_s>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </title_s>
-	<rightTitle_s/>
+	<rightTitle_s>MEKOMEC</rightTitle_s>
 	<file-name>index.xml</file-name>
 	<folder-name>sat-trung-dung-ngoai</folder-name>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
-	<rightimage_s>/static-assets/images/products/left-img.png</rightimage_s>
+	<rightimage_s>/static-assets/images/products/108 MEKOMECA.png</rightimage_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>633bac33-68ae-1c9a-aaf3-168a60b4248a</key>
@@ -42,6 +42,6 @@
 	</item></productChildgroup_o>
 	<createdDate>2020-08-03T07:40:20.910Z</createdDate>
 	<createdDate_dt>2020-08-03T07:40:20.910Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T07:40:20.910Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T07:40:20.910Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T01:24:17.864Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T01:24:17.864Z</lastModifiedDate_dt>
 </page>
