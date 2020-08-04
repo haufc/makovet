@@ -28,7 +28,11 @@
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/75 MKV-MEKOVIT 1 100gA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.941%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Vitamin A (min) 455.000UI&lt;/p&gt;
 &lt;p&gt;Vitanim D3 (min) 68.000UI&lt;/p&gt;
 &lt;p&gt;Vitamin E (min) 1.000UI&lt;/p&gt;
@@ -38,10 +42,13 @@
 &lt;p&gt;Chất mang (dextrose) vđ 1kg&lt;/p&gt;
 &lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Bổ sung vitamin v&amp;agrave; acid amin cho gia s&amp;uacute;c-gia cầm:&lt;/p&gt;
-&lt;p&gt;- Tăng cường chuyển h&amp;oacute;a thức ăn, hạn chế c&amp;aacute;c bệnh đường ruột, k&amp;iacute;ch th&amp;iacute;ch ăn nhiều, ch&amp;oacute;ng lớn, mau ra l&amp;ocirc;ng, đẻ sai.&lt;/p&gt;
-&lt;p&gt;- Giảm c&amp;ograve;i cọc, tăng tỉ lệ đồng đều v&amp;agrave; nu&amp;ocirc;i sống.&lt;/p&gt;
-&lt;p&gt;- Gi&amp;uacute;p vật nu&amp;ocirc;i giảm stress, giảm nguy cơ nhiễm bệnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bổ sung vitamin v&amp;agrave; acid amin cho gia s&amp;uacute;c-gia cầm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tăng cường chuyển h&amp;oacute;a thức ăn, hạn chế c&amp;aacute;c bệnh đường ruột, k&amp;iacute;ch th&amp;iacute;ch ăn nhiều, ch&amp;oacute;ng lớn, mau ra l&amp;ocirc;ng, đẻ sai.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giảm c&amp;ograve;i cọc, tăng tỉ lệ đồng đều v&amp;agrave; nu&amp;ocirc;i sống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;uacute;p vật nu&amp;ocirc;i giảm stress, giảm nguy cơ nhiễm bệnh.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 5.01842%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.0405%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pha v&amp;agrave;o nước cho uống hay trộn đều v&amp;agrave;o thức ăn.&lt;/p&gt;
 &lt;p&gt;* Bổ sung gi&amp;uacute;p tăng trọng nhanh:&lt;/p&gt;
@@ -49,11 +56,15 @@
 &lt;p&gt;- Heo: 100g/25kg thức ăn&lt;/p&gt;
 &lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: 100g/30kg thức ăn hay 2g/l&amp;iacute;t nước uống.&lt;/p&gt;
 &lt;p&gt;* Bổ sung trong thời gian bị stress hay nhiễm bệnh: d&amp;ugrave;ng gấp đ&amp;ocirc;i liều tr&amp;ecirc;n, li&amp;ecirc;n tục 1-2 tuần.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 01:2013/CL&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 01:2013/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createddate_dt>2020-07-31T09:43:43.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:51:35.690Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:51:35.690Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:06:19.599Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:06:19.599Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
