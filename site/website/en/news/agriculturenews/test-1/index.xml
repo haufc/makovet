@@ -8,9 +8,9 @@
 	<objectId>fbfc2323-d766-e440-7f18-54306925502d</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>test-1</folder-name>
-	<internal-name>CAILAYVETCO - Intensive training about 3 classes </internal-name>
-	<navLabel>CAILAYVETCO - Intensive training about 3 classes </navLabel>
-	<title_s>CAILAYVETCO - Intensive training about 3 classes</title_s>
+	<internal-name>Chairman of Mavin to be appointed Vice President of Auscham Vietnam</internal-name>
+	<navLabel>Chairman of Mavin to be appointed Vice President o</navLabel>
+	<title_s>Chairman of Mavin to be appointed Vice President of Auscham Vietnam</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<categories_o>	<item>	<key>industrynews</key>
@@ -21,11 +21,13 @@
 	<include>/site/items/slides/c1c3fbd7-21a6-70eb-a699-884cdff70be4.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></slideImage_o>
-	<image_s>/static-assets/images/news/Layer 192.png</image_s>
-	<content_html>&lt;p&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec dui a magna vehicula tempus sagittis vel ante. Nullam risus felis, dapibus et sem eu, vulputate venenatis nunc. Mauris lobortis purus ac vehicula lacinia. Aenean lobortis maximus elit. In fringilla non justo quis faucibus. Suspendisse suscipit eleifend lectus, molestie tristique velit bibendum id. Fusce ut velit ac nunc pellentesque rutrum. Maecenas at faucibus nunc. Donec hendrerit dolor ut metus tristique rutrum. Aliquam est nibh, accumsan in mollis ut, vestibulum a risus. Fusce pretium, mauris ac interdum tincidunt, nisi felis condimentum sapien, vulputate pharetra est erat a quam. Donec pellentesque diam in magna ultricies, eu pellentesque purus sodales.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<image_s>/static-assets/images/news/Mr David 2018_Fotor.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Recently, the Australia - Vietnam Chamber of Commerce (AusCham) has announced the appointment of Mr. David John Whitehead - Chairman of Mavin Group as its Vice President for the 2020-2021 term.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mr. David has spent many years living and working in Vietnam, has knowledge and deep understanding of business in Vietnam, as well as particular experience dealing with government authorities in provinces throughout the country.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As Chairman of Mavin Group, a member of Auscham from 2005 up to now, Mr. David has held various positions of Auscham such as: Director, Chairman of Hanoi Chapter, and Vice-President during that time.&amp;nbsp; He is a member of a number of committees of the VBF and has represented Auscham in workshops, conferences and seminars in Vietnam and overseas.&amp;nbsp; He has a strong business relationship with the Australian Embassy and the Australian-Consulate.&amp;nbsp; He also has good relationships with all Business Chambers including AmCham, BBGV and EuroCham.&amp;nbsp;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-13T05:06:43.376Z</createdDate>
-	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-14T06:51:24.822Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-14T06:51:24.822Z</lastModifiedDate_dt>
+	<createdDate_dt>2020-05-20T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T08:07:59.704Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:07:59.704Z</lastModifiedDate_dt>
 	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
 </page>
