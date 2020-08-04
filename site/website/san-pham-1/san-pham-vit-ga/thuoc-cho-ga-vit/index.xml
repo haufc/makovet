@@ -38,9 +38,9 @@
 	<file-name>017da3c7-5b9e-e196-cda2-9aa1b7888ef2.xml</file-name>
 	<internal-name>Sản phẩm dành gà vịt</internal-name>
 	<title_s>Sản phẩm dành cho gà - vịt</title_s>
-	<rightTitle_s>B. Complex</rightTitle_s>
+	<rightTitle_s>CL.NEOTESUL</rightTitle_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
+	<groupProductImg2_s>/static-assets/images/products/90 CL-NEOTESUL 1A.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
@@ -62,8 +62,8 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-08-03T09:11:27.536Z</createdDate>
 	<createdDate_dt>2020-08-03T09:11:27.536Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T10:06:38.183Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T10:06:38.183Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T06:51:14.702Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:51:14.702Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<internal-name>Các Nhóm Sản phẩm dành cho gà vịt</internal-name>
@@ -73,6 +73,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-08-03T09:09:27.088Z</createdDate>
 	<createdDate_dt>2020-08-03T09:09:27.088Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T10:06:23.685Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T10:06:23.685Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T06:51:07.126Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:51:07.126Z</lastModifiedDate_dt>
 </page>
