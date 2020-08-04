@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bace</objectGroupId>
+	<objectId>baced8fa-e7fa-7d30-0f2a-088ab47b3882</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>general-annual-meeting</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Annual General Meeting of Shareholders in 2020</internal-name>
+	<navLabel>Announcing the minutes and decision of the Annual </navLabel>
+	<title_s>Announcing the minutes and decision of the Annual General Meeting of Shareholders in 2020</title_s>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</key>
+	<value>Header - Detail Quan hệ cổ đông</value>
+	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>shareholders</key>
+	<value_smv>Đại hội đồng cổ đông</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/NQ%20DHDCD%202020.pdf"&gt;Minutes and decision of the Annual General Meeting of Shareholders in 2020&lt;/a&gt;&lt;/p&gt;</content_html>
+	<date_dt>2020-06-28T08:27:02.000Z</date_dt>
+	<createdDate>2020-08-04T08:27:02.094Z</createdDate>
+	<createdDate_dt>2020-08-04T08:27:02.094Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T08:27:02.094Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:27:02.094Z</lastModifiedDate_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>
