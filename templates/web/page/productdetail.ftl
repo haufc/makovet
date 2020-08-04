@@ -121,7 +121,7 @@
     <script src="/static-assets/js/product-detail.js"></script>
     <script src="/static-assets/js/search.js"></script>
     <#list contentModel.productgrouplv1_o.item as myItem>
-        <input hidden value="${myItem.key}" id="category"/>
+        <input hidden value="${myItem.key}" class="category"/>
     </#list>
 
    <#-- <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/> -->
@@ -139,9 +139,16 @@
     </div>
     <script>
     $(document).ready(function(){
+        var productCate = $('.category');
         var lstCate = $('#lst-categories').children();
         var childCate = $('#child-cate').children();
-        
+        var moreCate = "";
+        if (productCate.length > 1) {
+            $(productCate).each(function( index ) {
+              console.log( index + ": " + $( this ).val() );
+            });
+        } 
+
         for (let i = 0; i< lstCate.length; i++) {
            let strSplit = $(lstCate[i]).val().split('/');
            if (strSplit[0] == $('#category').val()) {
