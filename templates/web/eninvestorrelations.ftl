@@ -26,10 +26,10 @@
             <div class="section-title">
                 <div class="section-title__content block">
                     <#if contentModel.categories_o.item.key = "announcement" >
-                    <h1 class="section-title__content-text text--uppercase">Công bố thông tin</h1>
+                    <h1 class="section-title__content-text text--uppercase">Investor Note</h1>
                     </#if>
                     <#if contentModel.categories_o.item.key ="shareholders" >
-                    <h1 class="section-title__content-text text--uppercase">Đại hội đồng cổ đông</h1>
+                    <h1 class="section-title__content-text text--uppercase">Shareholder meeting</h1>
                 </#if>
                 </div>
             </div>
