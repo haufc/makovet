@@ -52,7 +52,6 @@
     <script src="/static-assets/js/logos.js"></script>
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
-    <script src="/static-assets/js/product-detail.js"></script>
     <script src="/static-assets/js/search.js"></script>
     
   </body>
