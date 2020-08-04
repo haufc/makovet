@@ -9,7 +9,7 @@
 	<internal-name>Nhóm Thuốc kháng sinh</internal-name>
 	<navLabel>Nhóm Thuốc kháng sinh</navLabel>
 	<title_s>Nhóm Thuốc kháng sinh</title_s>
-	<rightTitle_s>B. Complex</rightTitle_s>
+	<rightTitle_s>AMPICILLIN</rightTitle_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
@@ -39,9 +39,9 @@
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
-	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<rightimage_s>/static-assets/images/products/14 AMPICILLIN 3A.png</rightimage_s>
 	<createdDate>2020-08-03T08:07:11.199Z</createdDate>
 	<createdDate_dt>2020-08-03T08:07:11.199Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T08:07:11.199Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T08:07:11.199Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T07:07:09.686Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:07:09.686Z</lastModifiedDate_dt>
 </page>
