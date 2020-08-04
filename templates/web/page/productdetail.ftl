@@ -168,6 +168,10 @@
            }
         }
         
+        
+        // split title
+        
+        
         var url = window.location.href;
         if (url.indexOf('/en') > -1) {
             $('.diffrence-product').text('other products');
