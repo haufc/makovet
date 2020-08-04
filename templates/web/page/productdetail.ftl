@@ -155,16 +155,16 @@
               });
             });
             
-            console.log("San pham danh cho (" + moreCate + ")");
+            $('#parent-title').text("San pham danh cho (" + moreCate + ")");
+        } else {
+            for (let i = 0; i< lstCate.length; i++) {
+               let strSplit = $(lstCate[i]).val().split('/');
+               if (strSplit[0] == $('#category').val()) {
+                   $('#parent-title').text(strSplit[1] + "/");
+               }
+            }
         } 
 
-        for (let i = 0; i< lstCate.length; i++) {
-           let strSplit = $(lstCate[i]).val().split('/');
-           if (strSplit[0] == $('#category').val()) {
-               $('#parent-title').text(strSplit[1] + "/");
-           }
-        }
-        
         for (let i = 0; i< childCate.length; i++) {
            let strSplit = $(childCate[i]).val().split('/');
            if (strSplit[0] == $('#child-category').val()) {
