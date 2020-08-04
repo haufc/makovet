@@ -32,11 +32,18 @@
 	</item></productgrouplv2_o>
 	<isHot_b>false</isHot_b>
 	<productImage_s>/static-assets/images/products/111 Shampoo Antipara New 350MLA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.2173%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Deltamethrin 25mg&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vừa đủ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tắm sạch, mượt l&amp;ocirc;ng, trị ghẻ, ve, rận, bọ ch&amp;eacute;t ở heo, ch&amp;oacute;,&amp;nbsp;m&amp;egrave;o, b&amp;ograve;, d&amp;ecirc;, cừu, ngựa,&amp;hellip;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.80842%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.9742%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Xoa đều dầu sau khi đã l&amp;agrave;m ướt, để y&amp;ecirc;n 5 ph&amp;uacute;t, sau đ&amp;oacute; xả sạch.&lt;/p&gt;
 &lt;p&gt;* Ph&amp;ograve;ng: 1 lần/th&amp;aacute;ng.&lt;/p&gt;
@@ -45,11 +52,15 @@
 &lt;p&gt;* Trị: Tắm 3 ng&amp;agrave;y/lần, li&amp;ecirc;n tục 3 lần.&lt;/p&gt;
 &lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 2-5ml/con.&lt;/p&gt;
 &lt;p&gt;- Heo, b&amp;ograve;, d&amp;ecirc;, cừu, ngựa: 10-50ml/con&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-243&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-243&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T09:03:25.708Z</createdDate>
 	<createdDate_dt>2020-08-03T09:03:25.708Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:03:25.708Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:03:25.708Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:17:41.114Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:17:41.114Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T09:03:26.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
