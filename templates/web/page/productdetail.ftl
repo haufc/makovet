@@ -145,7 +145,10 @@
         var moreCate = "";
         if (productCate.length > 1) {
             $(productCate).each(function( index ) {
-              console.log( index + ": " + $( this ).val() );
+              let val = $(this).val();
+              $(lstCate).each(function() {
+                console.log($(this).val());                  
+              })
             });
         } 
 
