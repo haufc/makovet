@@ -70,8 +70,8 @@
             <div class="section-title">
                 <div class="section-title__content block">
                     <span class="d-inline">
-                        <span class="section-title__content-text text--uppercase" id="parent-title"></span>
-                        <span class="text-white font-weight-bold" id="child-title" style="font-size: 32px;"></span>
+                        <span class="section-title__content-text text--uppercase" style="font-size: 28px;" id="parent-title"></span>
+                        <span class="text-white font-weight-bold" id="child-title" style="font-size: 28px;"></span>
                     </span>
                 </div>
             </div>
