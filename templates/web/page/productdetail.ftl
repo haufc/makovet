@@ -147,8 +147,10 @@
             $(productCate).each(function( index ) {
               let val = $(this).val();
               $(lstCate).each(function() {
-                console.log($(this).val());                  
-              })
+                if ($(this).val() == val) {
+                    console.log($(this).val().split('cho'));
+                }
+              });
             });
         } 
 
