@@ -27,6 +27,8 @@
 	<value_smv>Sản phẩm cho chó - mèo</value_smv>
 	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
 	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
 	</item></productgrouplv1_o>
 	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
 	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
@@ -59,8 +61,8 @@
 	<productImage_s>/static-assets/images/products/43 MEKO.BROM INJA.png</productImage_s>
 	<createdDate>2020-08-03T07:24:39.184Z</createdDate>
 	<createdDate_dt>2020-08-03T07:24:39.184Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T03:49:38.444Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T03:49:38.444Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T07:06:15.787Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:06:15.787Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T07:24:39.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
