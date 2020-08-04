@@ -148,17 +148,17 @@
           $(lstCate).each(function() {
             let compareVal = $(this).val().split('/');
             if (compareVal[0] == val) {
-                let arrCate = compareVal[1].split('cho');
+                let arrCate = compareVal[1].split('for');
                 moreCate += arrCate[1] + ",";
             }
           });
         });
         
         if (productCate.length > 1) {
-            $('#parent-title').text("Sản phẩm cho (" + moreCate + ")/");
+            $('#parent-title').text("Product for (" + moreCate + ")/");
         } else {
             moreCate = moreCate.replace(',', '');
-            $('#parent-title').text("Sản phẩm cho " + moreCate + "/");
+            $('#parent-title').text("Product for " + moreCate + "/");
         }
         
         for (let i = 0; i< childCate.length; i++) {
