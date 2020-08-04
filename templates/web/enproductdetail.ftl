@@ -32,22 +32,22 @@
             <div class="section-title">
                 <div class="section-title__content block">
                     <span class="d-inline">
-                        <span class="section-title__content-text text--uppercase" id="parent-title"></span>
-                        <span class="text-white" id="child-title" style="font-size: 30px;"></span>
+                        <span class="section-title__content-text text--uppercase font-title" style="font-size: 28px;" id="parent-title"></span>
+                        <span class="text-white font-title" id="child-title" style="font-size: 28px;"></span>
                     </span>
                 </div>
             </div>
             <div class="container">
                  <div class="d-flex mb-4" style="background-color: #ffcb0c;">
-                        <div class="product-info m-auto product-name"><h1 class="font-weight-bold violet-color text-center" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
+                        <div class="product-info m-auto product-name"><h1 class="font-weight-bold violet-color text-center font-title" style="font-size: 20px; margin-top: 13%;">${contentModel.productName_s}</h1></div>
                         <div class="product-info product-image" style="padding: 3%;"><img class="img-center" src="${contentModel.productImage_s}"/></div>
-                        <div class="product-info text-center m-auto product-book"><a href="/en/contact"><span class="product-buy text-white font-weight-bold">Order</span></a></div>
+                        <div class="product-info text-center m-auto product-book"><a href="/en/contact"><span class="product-buy text-white font-weight-bold font-title">Order</span></a></div>
                 </div>
-                <div class="col-md-12 p-lg-0 p-md-0 mb-3">
+                <div class="col-md-12 p-lg-0 p-md-0 mb-3" style="font-size: 22px;margin-top:40px; line-height:1.5">
                     ${contentModel.productDescription_html}
                 </div>
                 <div class="products__list-title">
-                    <h1 class="text--uppercase violet-color">other products</h1>
+                    <h1 class="text--uppercase violet-color font-title">other products</h1>
                 </div>
                 <div class="mt-4">
                     <div class="col-lg -12 col-md-12 row row-cols-lg-5 row-cols-md-5 p-lg-0 p-md-0 mb-4" id ="panigation-product"> 
@@ -55,7 +55,7 @@
                             <#list productOther as item>
                                 <div class="col-lg col-md col-sm-6 col-xs-6 product-item">
                                     <a href="${item.url}"><img class="img-full" style="max-width:100%; height:auto;display: block;margin-left: auto;margin-right: auto;" src="${item.avatar}" width="150" height="155"/></a>
-                                    <p class="text-center violet-color font-weight-bold mt-3">${item.title}</p>
+                                    <p class="text-center violet-color font-weight-bold mt-3 font-title">${item.title}</p>
                                 </div>
                             </#list>
                         </#if>
@@ -82,7 +82,9 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/product-detail.js"></script>
     <script src="/static-assets/js/search.js"></script>
-    <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
+     <#list contentModel.productgrouplv1_o.item as myItem>
+        <input hidden value="${myItem.key}" class="category"/>
+    </#list>
     <input hidden value="${contentModel.productgrouplv2_o.item.key}" id="child-category"/>
     <div id="lst-categories">
         <#list categories.items as cate>
@@ -96,14 +98,26 @@
     </div>
     <script>
     $(document).ready(function(){
+        var productCate = $('.category');
         var lstCate = $('#lst-categories').children();
         var childCate = $('#child-cate').children();
+        var moreCate = "";
+        $(productCate).each(function( index ) {
+          let val = $(this).val();
+          $(lstCate).each(function() {
+            let compareVal = $(this).val().split('/');
+            if (compareVal[0] == val) {
+                let arrCate = compareVal[1].split('cho');
+                moreCate += arrCate[1] + ",";
+            }
+          });
+        });
         
-        for (let i = 0; i< lstCate.length; i++) {
-           let strSplit = $(lstCate[i]).val().split('/');
-           if (strSplit[0] == $('#category').val()) {
-               $('#parent-title').text(strSplit[1] + "/");
-           }
+        if (productCate.length > 1) {
+            $('#parent-title').text("Sản phẩm cho (" + moreCate + ")/");
+        } else {
+            moreCate = moreCate.replace(',', '');
+            $('#parent-title').text("Sản phẩm cho " + moreCate + "/");
         }
         
         for (let i = 0; i< childCate.length; i++) {
@@ -113,10 +127,26 @@
            }
         }
         
-        //var prItem = $('#panigation-product').children();
-        //for(let i = 0; i < prItem.length - 1; i++) {
-        //    $(prItem[i]).css('margin-right', '3.33%');
-        //}
+        
+        // split title
+        var textTitle = "";
+        
+        $('.d-inline').children().each(function() {
+            textTitle += $(this).text();
+        });
+        
+        if (textTitle.length > 90) {
+            textTitle = textTitle.slice(0, 86);
+            let arrTitle = textTitle.split('/');
+            $('#parent-title').text(arrTitle[0] + "/");
+            $('#child-title').text(arrTitle[1] + '...');
+            
+        }
+        
+        var url = window.location.href;
+        if (url.indexOf('/en') > -1) {
+            $('.diffrence-product').text('other products');
+        }
     });
     
     $('body').find('strong').addClass('violet-color');
