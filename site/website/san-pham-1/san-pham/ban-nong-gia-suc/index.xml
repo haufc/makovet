@@ -34,13 +34,20 @@
 	<value_smv>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/97 BAN NONG GS 100gA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 51.4273%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Paracetamol 25g&lt;/p&gt;
 &lt;p&gt;Oxytetracycline HCl 1g&lt;/p&gt;
 &lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Hạ sốt, giảm đau.&lt;/p&gt;
 &lt;p&gt;- Thuốc an to&amp;agrave;n cho th&amp;uacute; non v&amp;agrave; gia s&amp;uacute;c mang thai.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 1.38122%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.1914%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pha v&amp;agrave;o nước cho uống hay trộn v&amp;agrave;o thức ăn cho ăn.&lt;/p&gt;
 &lt;p&gt;- B&amp;ecirc;, ngh&amp;eacute;: 15-20g/con/lần&lt;/p&gt;
@@ -48,11 +55,15 @@
 &lt;p&gt;- Ch&amp;oacute;: 1g/8kg thể trọng/lần&lt;/p&gt;
 &lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: 1g/15-25kg thể trọng hay 2g/l&amp;iacute;t nước uống.&lt;/p&gt;
 &lt;p&gt;Ng&amp;agrave;y d&amp;ugrave;ng 2 lần (s&amp;aacute;ng v&amp;agrave; chiều), nếu sốt k&amp;eacute;o d&amp;agrave;i c&amp;oacute; thể&amp;nbsp;tăng 4 lần/ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-141&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-141&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T06:27:29.739Z</createdDate>
 	<createdDate_dt>2020-08-03T06:27:29.739Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:28:57.810Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:28:57.810Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T02:56:13.819Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T02:56:13.819Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T06:27:30.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
