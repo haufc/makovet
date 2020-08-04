@@ -252,7 +252,7 @@
                     <a class="nav__menu-link font-title" href="/ho-tro-ky-thuat/benh-va-dieu-tri">Thông tin kỹ thuật</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Quy trình chăn nuôi, phòng bệnh</a>
+                        <a class="nav__menu-sublink font-title" href="/ho-tro-ky-thuat/benh-va-dieu-tri#benh">Quy trình chăn nuôi, phòng bệnh</a>
                         <ul class="nav__dropdown">
                             <li class="nav__dropdown-item">
                                 <a class="nav__menu-sublink font-title" href="#">Với gia súc, gia cầm</a>
@@ -266,7 +266,7 @@
                         </ul>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Bệnh và điều trị</a>
+                        <a class="nav__menu-sublink font-title" href="/ho-tro-ky-thuat/benh-va-dieu-tri#dieutri">Bệnh và điều trị</a>
                         <ul class="nav__dropdown">
                             <li class="nav__dropdown-item">
                                 <a class="nav__menu-sublink font-title" href="#">Bệnh gia súc, gia cầm</a>
@@ -296,10 +296,10 @@
                     <a class="nav__menu-link font-title" href="/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Tin tuyển dụng</a>
+                        <a class="nav__menu-sublink font-title" href="/co-hoi-nghe-nghiep#job1">Tin tuyển dụng</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Chính sách nhân sự</a>
+                        <a class="nav__menu-sublink font-title" href="/co-hoi-nghe-nghiep#job2">Chính sách nhân sự</a>
                     </li>
                     </ul>
                 </li>
