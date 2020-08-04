@@ -24,6 +24,8 @@
 	</item></productgrouplv1_o>
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/CEVIMIX 10 CA 1kg.png</productImage_s>
 	<productDescription_html>&lt;p&gt;Th&amp;agrave;nh phần:&lt;/p&gt;
@@ -42,7 +44,7 @@
 	<createddate_dt>2020-07-31T09:57:26.000Z</createddate_dt>
 	<createdDate>2020-07-31T09:56:18.741Z</createdDate>
 	<createdDate_dt>2020-07-31T09:56:18.741Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T04:08:58.363Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T04:08:58.363Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T03:54:31.611Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:54:31.611Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
