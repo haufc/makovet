@@ -28,10 +28,17 @@
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Mỗi ml dung dịch chứa 50mg sắt.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Trị v&amp;agrave; ngừa c&amp;aacute;c bệnh thiếu sắt, thiếu m&amp;aacute;u ở heo con, b&amp;ecirc;,&amp;nbsp;ngh&amp;eacute;, d&amp;ecirc;, cừu. Trị bệnh c&amp;ograve;i cọc, gi&amp;uacute;p tăng trọng nhanh.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.32777%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.3167%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m bắp s&amp;acirc;u.&lt;/p&gt;
 &lt;p&gt;- Heo con: 2ml/con&lt;/p&gt;
@@ -39,11 +46,15 @@
 &lt;p&gt;- D&amp;ecirc;, cừu: 3ml/con&lt;/p&gt;
 &lt;p&gt;- B&amp;ecirc;, ngh&amp;eacute;: 3-6ml/con&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m l&amp;uacute;c 7 ng&amp;agrave;y tuổi.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-41&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-41&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-01T02:54:45.716Z</createdDate>
 	<createdDate_dt>2020-08-01T02:54:45.716Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:37:06.973Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:37:06.973Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T03:42:01.064Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:42:01.064Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-01T02:54:46.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
