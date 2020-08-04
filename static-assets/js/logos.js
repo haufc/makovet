@@ -23,7 +23,7 @@ $('.logos__container').owlCarousel({
 });
 $('.owl-two').owlCarousel({
     loop: true,
-    margin: 20,
+    margin: 0,
     dots: false,
     autoplay: true,
     autoplayTimeout: 1000,
