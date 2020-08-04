@@ -27,15 +27,18 @@
             position : relative;
         }
         .product-header__name--content {
-            line-height: 11;
             text-align: center;
             font-size: 30px;
+            margin-top: 38%;
+            margin-bottom: 20%;
             font-family: Roboto Condensed, sans-serif !important;
         }
         .product-header__img--content {
             display: block;
             margin-left: auto;
             margin-right: auto;
+            width: 160px;
+            height: 239px;
         }
         
         .product-header__buy {
