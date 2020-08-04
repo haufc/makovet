@@ -259,7 +259,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>existingImage,uploadImahe</value>
+							<value>uploadImahe,existingImage</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -327,7 +327,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>existingImage,uploadImahe</value>
+							<value>uploadImahe,existingImage</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -360,7 +360,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value> /static-assets/images</value>
+							<value>/static-assets/images/news</value>
 								<type>undefined</type>
 						</property>
 					</properties>
@@ -373,7 +373,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value> /static-assets/images/</value>
+							<value>/static-assets/images/news</value>
 								<type>undefined</type>
 						</property>
 						<property>
