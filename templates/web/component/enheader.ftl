@@ -134,21 +134,87 @@
                 </button>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/en/introduction">Introduction</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="/en/introduction/about-makovet">About Mekovet</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="/en/introduction/history">History</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="/en/introduction/achievements">Achievements</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="/en/introduction/vision">Mision - Vision</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/en/products">Product</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="/en/product/products-for-swine/index">Products for swine</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Products for poultry</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Products for cattle</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Products for pet</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Products for fish</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Products for other animals</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/en/news">News - Events</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="/en/news#mavinex-news">Company news</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="/en/news#field-news">Agriculture news</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/en/disease-treatment">Customer Support</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Livestock process - Care - Diseae prevention</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Diseae & Treatment</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/en/investor-relation">Investor Relation</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Investor note</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Shareholder meeting</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/en/career-opportunities">Career</a>
+                    <ul class="nav__sub-menu">
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Recuitment</a>
+                    </li>
+                    <li class="nav__sub-menu-item">
+                        <a class="nav__menu-sublink font-title" href="">Employment policy</a>
+                    </li>
+                    </ul>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/en/contact">Contact</a>
