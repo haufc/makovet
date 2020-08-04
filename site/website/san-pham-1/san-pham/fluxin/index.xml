@@ -29,7 +29,11 @@
 	<productgrouplv2_o>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
 	<value_smv>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value_smv>
 	</item></productgrouplv2_o>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.6316%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Flunixin meglumine 5g&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
@@ -38,18 +42,25 @@
 &lt;p&gt;- Ngựa: vi&amp;ecirc;m v&amp;agrave; đau do rối loạn cơ xương v&amp;agrave; đường ti&amp;ecirc;u&amp;nbsp;h&amp;oacute;a bị tổn thương.&lt;/p&gt;
 &lt;p&gt;- Heo: kết hợp trong điều trị MMA, c&amp;aacute;c trường hợp vi&amp;ecirc;m&amp;nbsp;phổi, sốt kh&amp;ocirc;ng r&amp;otilde; nguy&amp;ecirc;n nh&amp;acirc;n.&lt;/p&gt;
 &lt;p&gt;* Kết hợp với kh&amp;aacute;ng sinh trong điều trị c&amp;aacute;c bệnh vi&amp;ecirc;m&amp;nbsp;nhiễm rất hiệu quả.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.36097%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.0073%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m bắp, ti&amp;ecirc;m tĩnh mạch.&lt;/p&gt;
 &lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 2ml/45kg thể trọng&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;- Ngựa: 1ml/45kg thể trọng&lt;/p&gt;
 &lt;p&gt;- Heo: 2ml/45kg thể trọng&lt;/p&gt;
 &lt;p&gt;Lặp lại sau 8-10h nếu cần thiết. D&amp;ugrave;ng li&amp;ecirc;n tục 2-3 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-309&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-309&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<productImage_s>/static-assets/images/products/Meko Fluxin.png</productImage_s>
 	<createdDate>2020-08-03T06:21:07.463Z</createdDate>
 	<createdDate_dt>2020-08-03T06:21:07.463Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:21:07.463Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:21:07.463Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T03:42:32.377Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:42:32.377Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T06:21:07.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
