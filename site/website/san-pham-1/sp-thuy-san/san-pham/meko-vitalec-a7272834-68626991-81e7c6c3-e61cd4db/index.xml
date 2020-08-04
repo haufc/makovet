@@ -22,9 +22,7 @@
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
 	<value_smv>Sản phẩm cho tôm - cá</value_smv>
 	</item></productgrouplv1_o>
-	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
-	<value_smv>Nhóm thuốc kháng sinh</value_smv>
-	</item>	<item>	<key>nhom-xu-ly-nuoc-cai-tao-moi-truong</key>
+	<productgrouplv2_o>	<item>	<key>nhom-xu-ly-nuoc-cai-tao-moi-truong</key>
 	<value_smv>Nhóm thuốc xử lý nước, cải tạo môi trường</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/MEKODINE-FORT 100 CA.png</productImage_s>
@@ -54,8 +52,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
 	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:07:10.549Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:07:10.549Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T06:18:22.097Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:18:22.097Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
