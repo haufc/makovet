@@ -8,9 +8,9 @@
 	<objectId>ca44267d-0391-fcf7-54f3-4a7f0515f708</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>nhan-vien-kinh-doanh-an-giang-dong-nai-can-tho-vinh-long</folder-name>
-	<internal-name>Nhân viên kinh doanh An Giang, Đồng Nai, Cần Thơ, </internal-name>
-	<navLabel>Nhân viên kinh doanh An Giang, Đồng Nai, Cần Thơ, Vĩnh Long</navLabel>
-	<jobTitle_s>Nhân viên kinh doanh An Giang, Đồng Nai, Cần Thơ, Vĩnh Long</jobTitle_s>
+	<internal-name>Tuyển nhân viên kinh doanh An Giang, Đồng Nai, Lâm Đồng, Đăk Lăk</internal-name>
+	<navLabel>Tuyển nhân viên kinh doanh An Giang, Đồng Nai, Lâm Đồng, Đăk Lăk</navLabel>
+	<jobTitle_s>Tuyển nhân viên kinh doanh An Giang, Đồng Nai, Lâm Đồng, Đăk Lăk</jobTitle_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</key>
 	<value>Job Slide</value>
 <component id="de4d6544-37a0-6bce-d2b5-fcdebfa0405f">
@@ -32,41 +32,36 @@
 	</item></section_o>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<jobContent_html>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;strong&gt;Số lượng tuyển&lt;/strong&gt;: 1 người&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;:&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Quản l&amp;yacute;, gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; vận h&amp;agrave;nh c&amp;aacute;c hoạt động sản xuất &amp;ndash; kinh doanh mảng Duck-Farm tại chi nh&amp;aacute;nh Đồng Th&amp;aacute;p&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Lập kế hoạch ph&amp;aacute;t triển hệ thống chăn nu&amp;ocirc;i gia c&amp;ocirc;ng&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Tổ chức thị trường &amp;ndash; quảng b&amp;aacute; v&amp;agrave; giới thiệu vịt giống&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Quản l&amp;yacute; v&amp;agrave; vận h&amp;agrave;nh trạm ấp&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Kinh doanh đ&amp;uacute;ng quy định v&amp;agrave; ph&amp;aacute;t triển hiệu quả&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Tổ chức x&amp;acirc;y dựng, định hướng ph&amp;aacute;t triển hệ thống, tổ chức h&amp;agrave;nh ch&amp;aacute;nh nh&amp;acirc;n sự trong hoạt động chi nh&amp;aacute;nh, tạo m&amp;ocirc;i trường, điều kiện, động lực ph&amp;aacute;t triển cho nh&amp;acirc;n vi&amp;ecirc;n&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Chịu tr&amp;aacute;ch nhiệm trước c&amp;ocirc;ng ty về kết quả hoạt động kinh doanh của khu vực m&amp;igrave;nh phụ tr&amp;aacute;ch&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Tốt nghiệp B&amp;aacute;c sĩ Th&amp;uacute; y, Kỹ sư Chăn nu&amp;ocirc;i, Kỹ sư n&amp;ocirc;ng nghiệp, ưu ti&amp;ecirc;n B&amp;aacute;c sĩ Th&amp;uacute; y, Kỹ sư Chăn nu&amp;ocirc;i&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- C&amp;oacute; kinh nghiệm tại vị tr&amp;iacute; tương đương từ 3 đến dưới 5 năm&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- C&amp;oacute; những &amp;yacute; tưởng mới trong việc quản l&amp;yacute;, kinh doanh&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- C&amp;oacute; kỹ năng l&amp;atilde;nh đạo v&amp;agrave; kết nối tổ chức&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Thu nhập từ 20 đến 40 triệu đồng/ th&amp;aacute;ng , hưởng thưởng theo quy chế C&amp;ocirc;ng ty&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Hưởng tất c&amp;aacute;c c&amp;aacute;c quyền lợi về BHXH,YT,TN c&amp;aacute;c ng&amp;agrave;y Lễ, Tết theo quy định của Ph&amp;aacute;p luật hiện h&amp;agrave;nh&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- C&amp;ocirc;ng ty chăm s&amp;oacute;c sức khỏe (BHSK) 24/24&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Gia nhập v&amp;agrave; hưởng quyền lợi của c&amp;ocirc;ng đo&amp;agrave;n.&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu hồ sơ:&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Hồ sơ xin việc, giấy x&amp;aacute;c nhận hạnh kiểm, giấy kh&amp;aacute;m sức khỏe (trong v&amp;ograve;ng 6 th&amp;aacute;ng).&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Giấy chứng minh nh&amp;acirc;n d&amp;acirc;n, Sổ hộ khẩu gia đ&amp;igrave;nh (bản sao).&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- C&amp;aacute;c văn bằng, chứng chỉ c&amp;oacute; li&amp;ecirc;n quan.&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;&lt;strong&gt;H&amp;igrave;nh thức li&amp;ecirc;n hệ:&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Nộp hồ sơ trực tiếp tại c&amp;ocirc;ng ty.&lt;/p&gt;
-&lt;p class="MsoNormal"&gt;- Ứng vi&amp;ecirc;n nộp hồ sơ qua mail vui l&amp;ograve;ng scan c&amp;aacute;c văn bằng, chứng chỉ, bảng điểm, CV v&amp;agrave; c&amp;aacute;c giấy tờ c&amp;oacute; li&amp;ecirc;n quan gửi v&amp;agrave;o mail C&amp;ocirc;ng ty: tuyendung@cailayvetco.com&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</jobContent_html>
+	<jobContent_html>&lt;p&gt;&lt;strong&gt;Số lượng tuyển: 4 người&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Quản l&amp;yacute; v&amp;agrave; ph&amp;aacute;t triển hệ thống kh&amp;aacute;ch h&amp;agrave;ng tại khu vực được giao&lt;/p&gt;
+&lt;p&gt;- Tiếp cận, tư vấn giải ph&amp;aacute;p nhằm đề xuất k&amp;yacute; kết hợp đồng với kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p&gt;- Chăm s&amp;oacute;c v&amp;agrave; tạo mối quan hệ hợp t&amp;aacute;c bền vững với kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p&gt;- Duy tr&amp;igrave; c&amp;aacute;c mối quan hệ kh&amp;aacute;ch h&amp;agrave;ng; thiết lập được hệ thống b&amp;aacute;n h&amp;agrave;ng v&amp;agrave; thực thi tốt việc kinh doanh trong khu vực&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Giới t&amp;iacute;nh: Nam&lt;/p&gt;
+&lt;p&gt;- Tốt nghiệp trung cấp/cao đẳng/đại học chuy&amp;ecirc;n ng&amp;agrave;nh Th&amp;uacute; Y/ Chăn nu&amp;ocirc;i th&amp;uacute; y/ thủy sản&lt;/p&gt;
+&lt;p&gt;- C&amp;oacute; kinh nghiệm b&amp;aacute;n h&amp;agrave;ng từ 01 năm trở l&amp;ecirc;n&lt;/p&gt;
+&lt;p&gt;- Giao tiếp v&amp;agrave; tr&amp;igrave;nh b&amp;agrave;y hiệu quả&lt;/p&gt;
+&lt;p&gt;- X&amp;acirc;y dựng mối quan hệ hợp t&amp;aacute;c bền vững với kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p&gt;- Thương lượng v&amp;agrave; giải quyết tốt vấn đề&lt;/p&gt;
+&lt;p&gt;- Khả năng l&amp;agrave;m việc độc lập, nh&amp;oacute;m&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Thu nhập từ 10 đến 30 triệu đồng/th&amp;aacute;ng&lt;/p&gt;
+&lt;p&gt;- Hưởng tất c&amp;aacute;c c&amp;aacute;c quyền lợi về BHXH,YT,TN, c&amp;aacute;c ng&amp;agrave;y Lễ, Tết theo quy định của Ph&amp;aacute;p luật hiện h&amp;agrave;nh.&lt;/p&gt;
+&lt;p&gt;- C&amp;ocirc;ng ty tham gia BHTN 24/24&lt;/p&gt;
+&lt;p&gt;- Gia nhập v&amp;agrave; hưởng quyền lợi của c&amp;ocirc;ng đo&amp;agrave;n.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu hồ sơ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Hồ sơ xin việc, giấy x&amp;aacute;c nhận hạnh kiểm, giấy kh&amp;aacute;m sức khỏe (trong v&amp;ograve;ng 6 th&amp;aacute;ng).&lt;/p&gt;
+&lt;p&gt;- Giấy chứng minh nh&amp;acirc;n d&amp;acirc;n, Sổ hộ khẩu gia đ&amp;igrave;nh (bản sao).&lt;/p&gt;
+&lt;p&gt;- C&amp;aacute;c văn bằng, chứng chỉ c&amp;oacute; li&amp;ecirc;n quan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H&amp;igrave;nh thức li&amp;ecirc;n hệ:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Nộp hồ sơ trực tiếp tại c&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p&gt;- Ứng vi&amp;ecirc;n nộp hồ sơ qua mail vui l&amp;ograve;ng scan c&amp;aacute;c văn bằng, chứng chỉ, bảng điểm, CV v&amp;agrave; c&amp;aacute;c giấy tờ c&amp;oacute; li&amp;ecirc;n quan gửi v&amp;agrave;o Email C&amp;ocirc;ng ty: tuyendung@cailayvetco.com&lt;/p&gt;</jobContent_html>
 	<createdDate>2020-06-29T07:27:00.149Z</createdDate>
 	<createdDate_dt>2020-06-29T07:27:00.149Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T07:33:32.522Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T07:33:32.522Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T07:30:56.429Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:30:56.429Z</lastModifiedDate_dt>
 	<jobDuration_dt>2020-07-31T07:33:32.000Z</jobDuration_dt>
 	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
 </page>
