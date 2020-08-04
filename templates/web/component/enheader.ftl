@@ -92,7 +92,7 @@
                     <a class="nav__menu-link font-title" href="/en/introduction">Introduction</a>
                 </li>
                 <li class="nav__menu-item">
-                    <a class="nav__menu-link active font-title" href="/en/products">Product</a>
+                    <a class="nav__menu-link font-title" href="/en/products">Product</a>
                 </li>
                 <li class="nav__menu-item">
                     <a class="nav__menu-link font-title" href="/en/news">News - Events</a>
