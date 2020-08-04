@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <div class="content" <@studio.iceAttr component=contentModel/>>
     <div class="section-title">
-        <div class="section-title__content block">
+        <div class="section-title__content block" id="news1">
             <h1 class="section-title__content-text text--uppercase">Tin nội bộ</h1>
         </div>
     </div>
@@ -30,7 +30,7 @@
         </nav>
     </div>
     <div class="section-title">
-        <div class="section-title__content block">
+        <div class="section-title__content block" id="news2">
             <h1 class="section-title__content-text text--uppercase">Tin ngành</h1>
         </div>
     </div>
