@@ -147,7 +147,7 @@
             $(productCate).each(function( index ) {
               let val = $(this).val();
               $(lstCate).each(function() {
-                let compareVal = ($(this).val().split('/');
+                let compareVal = $(this).val().split('/');
                 if (compareVal[0] == val) {
                     console.log($(this).val().split('cho'));
                 }
