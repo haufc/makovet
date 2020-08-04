@@ -150,7 +150,7 @@
                 let compareVal = $(this).val().split('/');
                 if (compareVal[0] == val) {
                     let arrCate = compareVal[1].split('cho');
-                    moreCate + = arrCate[1] + ",";
+                    moreCate += arrCate[1] + ",";
                 }
               });
             });
