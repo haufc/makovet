@@ -218,22 +218,22 @@
                     <a class="nav__menu-link font-title" href="/san-pham">Sản phẩm</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho heo</a>
+                        <a class="nav__menu-sublink font-title" href="/san-pham-1/sp-cho-heo/thuoc-cho-heo">Sản phẩm cho heo</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho gà vịt</a>
+                        <a class="nav__menu-sublink font-title" href="/san-pham-1/san-pham-vit-ga/thuoc-cho-ga-vit">Sản phẩm cho gà vịt</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho trâu bò</a>
+                        <a class="nav__menu-sublink font-title" href="/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo">Sản phẩm cho trâu bò</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho chó mèo</a>
+                        <a class="nav__menu-sublink font-title" href="/san-pham-1/sp-cho-cho-meo/thuoc-cho-meo">Sản phẩm cho chó mèo</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho tôm cá</a>
+                        <a class="nav__menu-sublink font-title" href="/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san">Sản phẩm cho tôm cá</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Sản phẩm cho loài khác</a>
+                        <a class="nav__menu-sublink font-title" href="/san-pham-1/sp-cho-loai-khac/thuoc-cho-loai-vat-khac">Sản phẩm cho loài khác</a>
                     </li>
                     </ul>
                 </li>
@@ -241,10 +241,10 @@
                     <a class="nav__menu-link font-title" href="/tin-tuc">Tin tức - Sự kiện</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Tin nội bộ</a>
+                        <a class="nav__menu-sublink font-title" href="/tin-tuc#mavinex-news">Tin nội bộ</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="#">Tin ngành</a>
+                        <a class="nav__menu-sublink font-title" href="/tin-tuc#field-news">Tin ngành</a>
                     </li>
                     </ul>
                 </li>
