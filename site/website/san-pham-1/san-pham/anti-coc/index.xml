@@ -28,7 +28,11 @@
 	<value_smv>Nhóm thuốc sát trùng nấm, cầu trùng</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/99 Anticoc 100gA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Clopidol (Rigecoccin) 10g&lt;/p&gt;
 &lt;p&gt;Sulfadimidin sodium 5g&lt;/p&gt;
 &lt;p&gt;Trimethoprim 1g&lt;/p&gt;
@@ -42,6 +46,9 @@
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Đặc trị cầu tr&amp;ugrave;ng ở g&amp;agrave;, thỏ; hồng lỵ ở heo, bạch lỵ ở g&amp;agrave;.&lt;/p&gt;
 &lt;p&gt;- Trị vi&amp;ecirc;m ruột, ti&amp;ecirc;u chảy do nhiễm tạp khuẩn đường ruột,&amp;nbsp;E.coli, thương h&amp;agrave;n, ph&amp;oacute; thương h&amp;agrave;n,&amp;hellip; ở gia s&amp;uacute;c, gia cầm.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.11788%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.5267%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Trộn v&amp;agrave;o thức ăn hay pha nước cho uống&lt;/p&gt;
 &lt;p&gt;* Liều trị:&lt;/p&gt;
@@ -50,11 +57,15 @@
 &lt;p&gt;- Gia cầm: 1g/6kg thể trọng/lần. Hoặc 2g/l&amp;iacute;t nước hay&amp;nbsp;2g/0,5kg thức ăn.&lt;/p&gt;
 &lt;p&gt;* Liều ph&amp;ograve;ng: D&amp;ugrave;ng 1/2 liều tr&amp;ecirc;n.&lt;/p&gt;
 &lt;p&gt;Ng&amp;agrave;y 2 lần. D&amp;ugrave;ng li&amp;ecirc;n tục trong 3 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-30&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-30&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T08:20:06.933Z</createdDate>
 	<createdDate_dt>2020-08-03T08:20:06.933Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T08:20:06.933Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T08:20:06.933Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T02:14:26.182Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T02:14:26.182Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T08:20:07.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
