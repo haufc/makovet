@@ -1569,4 +1569,45 @@ font-size: 16px;
        margin-left: 0px !important;
     }
 }
+
+/*Circle group product*/
+@media (max-width: 1199px) and (min-width: 992px) {
+    .img-circle__product {
+        height: 286px; 
+    }
+    .img-circle__product-yeallow {
+        height: 286px;
+    }
+    .img-circle__product--img {
+        background-size: 150px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .img-circle__product {
+        height: 222px; 
+        border: 8px solid #ffcb08;
+    }
+    .img-circle__product-yeallow {
+        height: 222px;
+        border: 8px solid #322372;
+    }
+    .img-circle__product--img {
+        background-size: 110px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .img-circle__product {
+        height: 222px; 
+        border: 8px solid #ffcb08;
+    }
+    .img-circle__product-yeallow {
+        height: 222px;
+        border: 8px solid #322372;
+    }
+    .img-circle__product--img {
+        background-size: 110px;
+    }
+}
 /*# sourceMappingURL=dtycl.css.map */
