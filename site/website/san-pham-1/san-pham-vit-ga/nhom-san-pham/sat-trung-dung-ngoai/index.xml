@@ -11,7 +11,7 @@
 	<internal-name>Nhóm Thuốc Sát trùng, thuốc dùng ngoài</internal-name>
 	<navLabel>Nhóm Thuốc Sát trùng, thuốc dùng ngoài</navLabel>
 	<title_s>Nhóm Thuốc Sát trùng, thuốc dùng ngoài</title_s>
-	<rightTitle_s>B. Complex</rightTitle_s>
+	<rightTitle_s>D.M.C</rightTitle_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>f8294cee-f308-dbe1-b9ee-4d79db1afd47</key>
@@ -39,9 +39,9 @@
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
-	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<rightimage_s>/static-assets/images/products/107 DMC GSGCA.png</rightimage_s>
 	<createdDate>2020-08-03T08:18:47.173Z</createdDate>
 	<createdDate_dt>2020-08-03T08:18:47.173Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T08:18:47.173Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T08:18:47.173Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T07:12:58.625Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:12:58.625Z</lastModifiedDate_dt>
 </page>
