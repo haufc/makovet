@@ -8,9 +8,9 @@
 	<objectId>09ca37c3-c5b9-4618-aab4-24d90fdde98c</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>ampicolistin-10</folder-name>
-	<internal-name>CEVIMIX 10%</internal-name>
-	<navLabel>CEVIMIX 10%</navLabel>
-	<productName_s>CEVIMIX 10%</productName_s>
+	<internal-name>CEVIMIX 10% (TÔM)</internal-name>
+	<navLabel>CEVIMIX 10% (TÔM)</navLabel>
+	<productName_s>CEVIMIX 10% (TÔM)</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
@@ -25,24 +25,34 @@
 	<productgrouplv2_o>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
 	<value_smv>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
-	<productImage_s>/static-assets/images/products/CEVIMIX 10 CA 1kg.png</productImage_s>
-	<productDescription_html>&lt;p&gt;Th&amp;agrave;nh phần:&lt;/p&gt;
-&lt;p&gt;Vitamin C &amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Acid citric&lt;/p&gt;
-&lt;p&gt;T&amp;aacute; dược vđ&lt;/p&gt;
-&lt;p&gt;C&amp;ocirc;ng dụng: Cung cấp vitamin C, g&amp;oacute;p phần cho sự tăng trọng v&amp;agrave; ph&amp;aacute;t triển của c&amp;aacute;.&lt;/p&gt;
-&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng:&lt;/p&gt;
+	<productImage_s>/static-assets/images/products/CEVIMIX 10 TOM 1kg.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.3471%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Vitamin C (min) 100g&lt;/p&gt;
+&lt;p&gt;- Acid citric (min) 150g&lt;/p&gt;
+&lt;p&gt;- T&amp;aacute; dược vđ&amp;nbsp; 1kg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cung cấp vitamin C, g&amp;oacute;p phần cho sự tăng trọng v&amp;agrave; ph&amp;aacute;t triển của t&amp;ocirc;m.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.16798%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.4848%;"&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Trộn đều v&amp;agrave;o thức ăn với liều 2-3g/1kg thức ăn.&lt;/p&gt;
-&lt;p&gt;- H&amp;ograve;a tan v&amp;agrave;o nước để tạt: 1kg/1.000-1.200m3 nước.&lt;/p&gt;
-&lt;p&gt;- N&amp;ecirc;n cho c&amp;aacute; ăn li&amp;ecirc;n tục từ l&amp;uacute;c thả nu&amp;ocirc;i đến khi thu hoạch.&lt;/p&gt;
-&lt;p&gt;Ch&amp;uacute; &amp;yacute;:&lt;/p&gt;
-&lt;p&gt;CHỈ D&amp;Ugrave;NG TRONG NU&amp;Ocirc;I TRỒNG THỦY SẢN&lt;/p&gt;
-&lt;p&gt;Sản phẩm kh&amp;ocirc;ng chứa c&amp;aacute;c chất cấm sử dụng theo th&amp;ocirc;ng tư số 15/2009/TT-BNN ng&amp;agrave;y 17/03/2009 của Bộ N&amp;ocirc;ng Nghiệp v&amp;agrave; Ph&amp;aacute;t triển N&amp;ocirc;ng Th&amp;ocirc;n.&lt;/p&gt;
-&lt;p&gt;Bảo quản: ở nơi kh&amp;ocirc; tho&amp;aacute;ng, nhiệt độ kh&amp;ocirc;ng qu&amp;aacute; 30oC.&lt;/p&gt;</productDescription_html>
+&lt;p&gt;- H&amp;ograve;a tan v&amp;agrave;o nước để tạt: 1kg/1.000 - 1.200m3 nước.&lt;/p&gt;
+&lt;p&gt;- N&amp;ecirc;n cho t&amp;ocirc;m ăn li&amp;ecirc;n tục từ l&amp;uacute;c thả nu&amp;ocirc;i đến khi thu hoạch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createddate_dt>2020-07-31T09:57:26.000Z</createddate_dt>
 	<createdDate>2020-07-31T09:56:18.741Z</createdDate>
 	<createdDate_dt>2020-07-31T09:56:18.741Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T03:54:49.019Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T03:54:49.019Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T06:14:17.417Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:14:17.417Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
