@@ -26,11 +26,19 @@
   <body>
     <@renderComponent component=contentModel.header_o.item />
     <main>
+        <div class="section-title">
+            <div class="section-title__content block">
+                <h1 class="section-title__content-text text--uppercase">${contentModel.title_s}</h1>
+            </div>
+        </div>
         <#list (contentModel.section_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
-        <div class="container">
-            
+        <div class="container pl-lg-0 pl-md-0">
+             <img style="padding-top:20px;display: block;margin-left: auto;margin-right: auto;width: 75%;" class="img-responsive" src="${contentModel.imageBanner_s}">
+             <div class="sick-content">
+                ${contentModel.content_html}
+            </div>
         </div>
     </main>
     <@renderComponent component=contentModel.slideLogo_o.item />
