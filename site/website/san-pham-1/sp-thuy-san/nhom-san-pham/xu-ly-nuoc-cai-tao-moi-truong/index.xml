@@ -11,11 +11,11 @@
 	<internal-name>Nhóm Xử lý nước, cải tạo môi trường</internal-name>
 	<navLabel>Nhóm Xử lý nước, cải tạo môi trường</navLabel>
 	<title_s>Nhóm Xử lý nước, cải tạo môi trường</title_s>
-	<rightTitle_s>B. Complex</rightTitle_s>
+	<rightTitle_s>MEKODINE-FORT 300 </rightTitle_s>
 	<file-name>index.xml</file-name>
 	<folder-name>xu-ly-nuoc-cai-tao-moi-truong</folder-name>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
-	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<rightimage_s>/static-assets/images/products/MEKODINE-FORT 300 CA.png</rightimage_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>9a9dab60-8b80-4ff8-1c48-8bc1b587695e</key>
 	<value>Slide</value>
 <component id="9a9dab60-8b80-4ff8-1c48-8bc1b587695e">
@@ -42,6 +42,6 @@
 	</item></productChildgroup_o>
 	<createdDate>2020-08-03T07:12:13.074Z</createdDate>
 	<createdDate_dt>2020-08-03T07:12:13.074Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T07:12:13.074Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T07:12:13.074Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T06:48:38.474Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:48:38.474Z</lastModifiedDate_dt>
 </page>
