@@ -22,8 +22,8 @@
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
 	<value_smv>Sản phẩm cho tôm - cá</value_smv>
 	</item></productgrouplv1_o>
-	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
-	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	<productgrouplv2_o>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/MKV-GROWTH FOR FISH 200g (MAT TRUOC).png</productImage_s>
 	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
@@ -62,8 +62,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
 	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T04:52:33.693Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T04:52:33.693Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T06:19:03.754Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:19:03.754Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
