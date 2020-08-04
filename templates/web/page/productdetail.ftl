@@ -149,7 +149,7 @@
               $(lstCate).each(function() {
                 let compareVal = $(this).val().split('/');
                 if (compareVal[0] == val) {
-                    console.log($(compareVal[1].split('cho'));
+                    console.log(compareVal[1].split('cho'));
                 }
               });
             });
