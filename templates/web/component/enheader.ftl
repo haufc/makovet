@@ -42,6 +42,50 @@
         border: none;
         background: #fff;
     }
+    .nav__sub-menu {
+    position: absolute;
+    padding-top: 10px;
+    z-index: 10;
+    width: 160px;
+    display: none;
+    background: #fff;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    }
+
+    .nav__sub-menu-item {
+    position: relative;
+    }
+
+    .nav__sub-menu-item:hover .nav__dropdown {
+    display: block;
+    }
+
+    .nav__sub-link {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    }
+
+    .nav__sub-link:hover {
+    color: #fff;
+    background: #333;
+    }
+
+    .nav__dropdown {
+    position: absolute;
+    top: 0;
+    right: -160px;
+    width: 160px;
+    display: none;
+    background: #f6f6f6;
+    }   
+    .nav__sub-menu-item {
+    padding: 10px 15px;
+    }
+    .nav__dropdown-item{
+    margin: 10px;
+    }
 </style>
 <header>
     <section class="nav">   
