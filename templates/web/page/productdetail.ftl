@@ -120,13 +120,12 @@
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/product-detail.js"></script>
     <script src="/static-assets/js/search.js"></script>
-    <#if contentModel.productgrouplv1_o?size > 1>
-        <#list contentModel.productgrouplv1_o.item as myItem>
-            <input hidden value="${myItem.key}" id="category"/>
-        </#list>
-        <#else>
-            <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
-    </#if>
+    <#list contentModel.productgrouplv1_o.item as myItem>
+        <input hidden value="${myItem.key}" id="category"/>
+    </#list>
+
+    <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
+
     <input hidden value="${contentModel.productgrouplv2_o.item.key}" id="child-category"/>
     <div id="lst-categories">
         <#list categories.items as cate>
