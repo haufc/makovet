@@ -1,6 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <div class="section-title">
-        <div class="section-title__content block">
+        <div class="section-title__content block" id="job1">
             <h1 class="section-title__content-text text--uppercase">${contentModel.title1_s}</h1>
         </div>
     </div>
@@ -23,7 +23,7 @@
     </div>
     
    <div class="section-title mt-3">
-        <div class="section-title__content block">
+        <div class="section-title__content block" id="job2">
             <h1 class="section-title__content-text text--uppercase">${contentModel.title2_s}</h1>
         </div>
     </div>
