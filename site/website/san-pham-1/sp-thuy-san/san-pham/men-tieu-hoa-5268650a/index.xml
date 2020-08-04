@@ -6,11 +6,11 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>b5203a90</objectGroupId>
 	<objectId>b5203a90-e715-4d43-9f48-74ec77cdcda5</objectId>
-	<internal-name>MEN TIÊU HÓA 5268650a</internal-name>
-	<navLabel>MEN TIÊU HÓA</navLabel>
-	<productName_s>MEN TIÊU HÓA</productName_s>
+	<internal-name>MEN XỬ LÝ ĐÁY AO</internal-name>
+	<navLabel>MEN XỬ LÝ ĐÁY AO</navLabel>
+	<productName_s>MEN XỬ LÝ ĐÁY AO</productName_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
 	<folder-name>men-tieu-hoa-5268650a</folder-name>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
@@ -22,33 +22,33 @@
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
 	<value_smv>Sản phẩm cho tôm - cá</value_smv>
 	</item></productgrouplv1_o>
-	<productgrouplv2_o>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
-	<value_smv>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value_smv>
+	<productgrouplv2_o>	<item>	<key>nhom-xu-ly-nuoc-cai-tao-moi-truong</key>
+	<value_smv>Nhóm thuốc xử lý nước, cải tạo môi trường</value_smv>
 	</item></productgrouplv2_o>
-	<productImage_s>/static-assets/images/products/MEN TIEU HOA.png</productImage_s>
+	<productImage_s>/static-assets/images/products/MEN XU LY DAY AO.png</productImage_s>
 	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="width: 48.7603%;"&gt;
 &lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Saccharomyces cerevisiae (min):&amp;nbsp; 10^8 CFU&lt;/p&gt;
-&lt;p&gt;- Lactobacillus acidophilus (min): 10^5 CFU&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;- Bacillus subtilis (min): 10^7 CFU&lt;/p&gt;
-&lt;p&gt;- Amylase (min)&amp;nbsp; 20.000U&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;- Cellulase (min) 30.000U&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;- Protease (min)&amp;nbsp; &amp;nbsp; &amp;nbsp;9.000U&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;- Chất mang (dextrose) vđ:&amp;nbsp; 1kg&lt;/p&gt;
+&lt;p&gt;Bacillus licheniformis&amp;nbsp; &amp;nbsp;1.6*10^10 CFU&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Bacillus megaterium&amp;nbsp; &amp;nbsp; 1.6*10^10 CFU&lt;/p&gt;
+&lt;p&gt;Bacillus mensentericus&amp;nbsp; &amp;nbsp; 1.6*10^10 CFU&lt;/p&gt;
+&lt;p&gt;Nitrosomonas&amp;nbsp; &amp;nbsp; 1.6*10^10 CFU&lt;/p&gt;
+&lt;p&gt;Nitrobacter&amp;nbsp; &amp;nbsp; &amp;nbsp;1.6*10^10 CFU&lt;/p&gt;
+&lt;p&gt;Dextrose, tinh bột m&amp;igrave; vđ: 1kg&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- K&amp;iacute;ch th&amp;iacute;ch ti&amp;ecirc;u h&amp;oacute;a, giảm c&amp;aacute;c triệu chứng bệnh chướng hơi, s&amp;igrave;nh bụng, ph&amp;acirc;n trắng,....tr&amp;ecirc;n c&amp;aacute;c lo&amp;agrave;i thủy sản như: t&amp;ocirc;m, c&amp;aacute;, ếch, lươn,....&lt;/p&gt;
-&lt;p&gt;- C&amp;acirc;n bằng, ổn định hệ vi sinh vật đường ruột, tăng cường miễn dịch.&lt;/p&gt;
-&lt;p&gt;- N&amp;acirc;ng cao hiệu quả sử dụng thức ăn, cải thiện m&amp;ocirc;i trường nước.&lt;/p&gt;
+&lt;p&gt;Ph&amp;acirc;n hủy chất hữu cơ tồn đọng trong ao, giảm kh&amp;iacute; độc, ổn định m&amp;agrave;u nước&lt;/p&gt;
 &lt;/td&gt;
 &lt;td style="width: 3.58123%;"&gt;&lt;br /&gt;&lt;/td&gt;
 &lt;td style="width: 47.6584%;"&gt;
 &lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- K&amp;iacute;ch th&amp;iacute;ch ti&amp;ecirc;u h&amp;oacute;a, giảm c&amp;aacute;c triệu chứng bệnh chướng hơi, s&amp;igrave;nh bụng, ph&amp;acirc;n trắng,....tr&amp;ecirc;n c&amp;aacute;c lo&amp;agrave;i thủy sản như: t&amp;ocirc;m, c&amp;aacute;, ếch, lươn,....&lt;/p&gt;
-&lt;p&gt;- C&amp;acirc;n bằng, ổn định hệ vi sinh vật đường ruột, tăng cường miễn dịch.&lt;/p&gt;
-&lt;p&gt;- N&amp;acirc;ng cao hiệu quả sử dụng thức ăn, cải thiện m&amp;ocirc;i trường nước.&lt;/p&gt;
+&lt;p&gt;* Cải tạo ao trước khi thả giống : 200 g / 1.000 m3.&lt;/p&gt;
+&lt;p&gt;* Cải tạo ao trong qu&amp;aacute; tr&amp;igrave;nh nu&amp;ocirc;i :&lt;/p&gt;
+&lt;p&gt;2 th&amp;aacute;ng đầu : 250 g / 1.000 m3, 2 tuần xử l&amp;yacute; một lần.&lt;/p&gt;
+&lt;p&gt;2 th&amp;aacute;ng cuối : 300 g / 1.000 m3, 10 ng&amp;agrave;y xử l&amp;yacute; một lần.&lt;/p&gt;
+&lt;p&gt;* Trường hợp nước &amp;ocirc; nhiễm : 400 g / 1.000 m3, 5 ng&amp;agrave;y xử l&amp;yacute; một lần&lt;/p&gt;
+&lt;p&gt;* Trường hợp đ&amp;aacute;y ao bị &amp;ocirc; nhiễm nặng : 500 g / 1.000 m3, mỗi tuần xử l&amp;yacute; một lần cho&amp;nbsp; &amp;nbsp; đến khi hết &amp;ocirc; nhiễm.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
 &lt;/td&gt;
@@ -57,8 +57,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-04T06:35:38.501Z</createdDate>
 	<createdDate_dt>2020-08-04T06:35:38.501Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:35:38.501Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:35:38.501Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T06:38:23.405Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:38:23.405Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-04T06:35:39.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
