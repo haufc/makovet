@@ -155,7 +155,7 @@
               });
             });
             
-            $('#parent-title').text("San pham cho (" + moreCate + ")");
+            $('#parent-title').text("San pham cho (" + moreCate + ")/");
         } else {
             for (let i = 0; i< lstCate.length; i++) {
                let strSplit = $(lstCate[i]).val().split('/');
