@@ -155,6 +155,11 @@
         });
         
         if (productCate.length > 1) {
+            if(moreCate.endsWith(","))
+            {
+              moreCate = moreCate.substring(0,moreCate.length() - 1);
+            }
+
             $('#parent-title').text("Sản phẩm cho (" + moreCate + ")/");
         } else {
             moreCate = moreCate.replace(',', '');
