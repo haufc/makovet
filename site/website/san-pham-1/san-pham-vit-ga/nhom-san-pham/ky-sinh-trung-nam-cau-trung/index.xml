@@ -11,7 +11,7 @@
 	<internal-name>Nhóm Thuốc Ký sinh trùng, nấm, cầu trùng</internal-name>
 	<navLabel>Nhóm Thuốc Ký sinh trùng, nấm, cầu trùng</navLabel>
 	<title_s>Nhóm Thuốc Ký sinh trùng, nấm, cầu trùng</title_s>
-	<rightTitle_s>B. Complex</rightTitle_s>
+	<rightTitle_s>MKV-NYSTATIN</rightTitle_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b31bb050-0e25-ec88-2aac-659bd7599b8a</key>
@@ -39,9 +39,9 @@
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
-	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<rightimage_s>/static-assets/images/products/102 MKV-NYSTATIN 100gA.png</rightimage_s>
 	<createdDate>2020-08-03T08:13:32.097Z</createdDate>
 	<createdDate_dt>2020-08-03T08:13:32.097Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T08:13:32.097Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T08:13:32.097Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T07:11:06.855Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:11:06.855Z</lastModifiedDate_dt>
 </page>
