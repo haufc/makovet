@@ -170,7 +170,19 @@
         
         
         // split title
+        var textTitle = "";
         
+        $('.d-inline').children().each(function() {
+            textTitle += $(this).text();
+        });
+        
+        if (textTitle.length > 90) {
+            textTitle = textTitle.slice(0, 86);
+            let arrTitle = textTitle.split('/');
+            $('#parent-title').text(arrTitle[0]);
+            $('#child-title').text(arrTitle[1] + '...');
+            
+        }
         
         var url = window.location.href;
         if (url.indexOf('/en') > -1) {
