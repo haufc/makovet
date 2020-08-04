@@ -30,13 +30,20 @@
 	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
 	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
 	</item></productgrouplv2_o>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.3223%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Strychnin sulfate 40mg&lt;/p&gt;
 &lt;p&gt;Vitamin B1 HCl 5g&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Trị c&amp;aacute;c trường hợp th&amp;uacute; bị t&amp;ecirc; liệt d&amp;acirc;y thần kinh, sưng ph&amp;ugrave;&amp;nbsp;to&amp;agrave;n th&amp;acirc;n, ăn k&amp;eacute;m ngon, suy nhược, mệt mỏi.&lt;/p&gt;
 &lt;p&gt;- Phối hợp kh&amp;aacute;ng sinh trong điều trị bệnh nhiễm tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.46585%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 45.2118%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m bắp.&lt;/p&gt;
 &lt;p&gt;Đại gia s&amp;uacute;c: 5-10ml/con/ng&amp;agrave;y&lt;/p&gt;
@@ -44,11 +51,15 @@
 &lt;p&gt;Ch&amp;oacute;, m&amp;egrave;o: 0,5-3ml/con/ng&amp;agrave;y&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 5-7 ng&amp;agrave;y.&lt;/p&gt;
 &lt;p&gt;Ch&amp;uacute; &amp;yacute;: Kh&amp;ocirc;ng d&amp;ugrave;ng qu&amp;aacute; liều quy định.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-151&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-151&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T07:41:33.583Z</createdDate>
 	<createdDate_dt>2020-08-03T07:41:33.583Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T07:41:33.583Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T07:41:33.583Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:22:30.498Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:22:30.498Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T07:41:34.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
