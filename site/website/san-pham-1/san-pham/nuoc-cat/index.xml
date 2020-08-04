@@ -30,17 +30,28 @@
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
 	<productImage_s>/static-assets/images/products/60 Nuoc catA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.2173%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Nước cất 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng l&amp;agrave;m dung m&amp;ocirc;i để h&amp;ograve;a tan c&amp;aacute;c loại thuốc ti&amp;ecirc;m đ&amp;oacute;ng&amp;nbsp;ở dạng bột, vaccin hay pha loãng một số thuốc ti&amp;ecirc;m&amp;nbsp;kh&amp;aacute;c d&amp;ugrave;ng cho gia s&amp;uacute;c, gia cầm.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.3609%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.4217%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng theo sản phẩm được pha tương ứng.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-188&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-188&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T07:30:09.881Z</createdDate>
 	<createdDate_dt>2020-08-03T07:30:09.881Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T07:30:09.881Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T07:30:09.881Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T04:12:03.085Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:12:03.085Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T07:30:10.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
