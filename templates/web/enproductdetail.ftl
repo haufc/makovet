@@ -79,7 +79,7 @@
                 <div class="product-header row py-2 mr-md-0 mr-lg-0 ml-lg-0 ml-md-0" style="background-color: #ffcb0c;">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__name"><h1 class="font-weight-bold violet-color text--uppercase product-header__name--content">${contentModel.productName_s}</h1></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__img"><img class="product-header__img--content mt-lg-5 mt-md-5" src="${contentModel.productImage_s}" width="254" height="262"/></div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__buy"><a href="/lien-he"><span class="text-white font-weight-bold">Đặt mua</span></a></div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 product-header__buy"><a href="/lien-he"><span class="text-white font-weight-bold">Order</span></a></div>
                 </div>
                 <div class="col-md-12 p-lg-0 p-md-0 mb-5 product__content" style="font-size: 22px;margin-top:40px; line-height:1.5">
                     ${contentModel.productDescription_html}
