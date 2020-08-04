@@ -124,7 +124,7 @@
         <input hidden value="${myItem.key}" id="category"/>
     </#list>
 
-    <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/>
+   <#-- <input hidden value="${contentModel.productgrouplv1_o.item.key}" id="category"/> -->
 
     <input hidden value="${contentModel.productgrouplv2_o.item.key}" id="child-category"/>
     <div id="lst-categories">
