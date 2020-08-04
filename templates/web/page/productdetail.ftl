@@ -143,28 +143,24 @@
         var lstCate = $('#lst-categories').children();
         var childCate = $('#child-cate').children();
         var moreCate = "";
-        if (productCate.length > 1) {
-            $(productCate).each(function( index ) {
-              let val = $(this).val();
-              $(lstCate).each(function() {
-                let compareVal = $(this).val().split('/');
-                if (compareVal[0] == val) {
-                    let arrCate = compareVal[1].split('cho');
-                    moreCate += arrCate[1] + ",";
-                }
-              });
-            });
-            
-            $('#parent-title').text("San pham cho (" + moreCate + ")/");
-        } else {
-            for (let i = 0; i< lstCate.length; i++) {
-               let strSplit = $(lstCate[i]).val().split('/');
-               if (strSplit[0] == $('#category').val()) {
-                   $('#parent-title').text(strSplit[1] + "/");
-               }
+        $(productCate).each(function( index ) {
+          let val = $(this).val();
+          $(lstCate).each(function() {
+            let compareVal = $(this).val().split('/');
+            if (compareVal[0] == val) {
+                let arrCate = compareVal[1].split('cho');
+                moreCate += arrCate[1] + ",";
             }
-        } 
-
+          });
+        });
+        
+        if (productCate.length > 1) {
+            $('#parent-title').text("Sản phẩm cho (" + moreCate + ")/");
+        } else {
+            moreCate.replace(',', '');
+            $('#parent-title').text("Sản phẩm cho " + moreCate + "/");
+        }
+        
         for (let i = 0; i< childCate.length; i++) {
            let strSplit = $(childCate[i]).val().split('/');
            if (strSplit[0] == $('#child-category').val()) {
