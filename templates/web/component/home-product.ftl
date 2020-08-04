@@ -22,10 +22,10 @@
                     <div class="products__list-title">
                         <h1 class="text--uppercase violet-color">sản phẩm chủ lực</h1>
                     </div>
-                    <div class="products__list-items">
+                    <div class="products__list-items owl-carousel owl-theme">
                         <#if (products)??>
                         	<#list products as product>
-                                <div class="products__list-item">
+                                <div class="products__list-item item">
                                     <a href="${product.url}"><img class="products__img" src="${product.avatar}" alt="Product image" width="135" height="160"/></a>
                                     <p class="font-weight-bold mb-0 font-title" style="font-size: 23px;">${product.title}</p>
                                 </div>
