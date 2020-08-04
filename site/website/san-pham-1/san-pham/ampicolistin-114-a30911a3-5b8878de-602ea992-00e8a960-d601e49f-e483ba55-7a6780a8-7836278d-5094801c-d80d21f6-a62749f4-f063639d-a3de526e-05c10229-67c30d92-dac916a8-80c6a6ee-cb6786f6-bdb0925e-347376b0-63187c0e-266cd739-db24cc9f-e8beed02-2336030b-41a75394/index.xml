@@ -30,7 +30,11 @@
 	<value_smv>Nhóm thuốc kháng sinh</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/80 AMPI-STREP 100gA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Ampicillin trihydrate 5g&lt;/p&gt;
 &lt;p&gt;- Streptomycin sulfate 2,5g&lt;/p&gt;
 &lt;p&gt;- Vitamin A 300.000UI&lt;/p&gt;
@@ -39,6 +43,8 @@
 &lt;p&gt;- T&amp;aacute; dược vđ 100g&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Đặc trị c&amp;aacute;c bệnh nhiễm khuẩn đường ti&amp;ecirc;u h&amp;oacute;a, h&amp;ocirc; hấp&amp;nbsp;như: thương h&amp;agrave;n, ph&amp;oacute; thương h&amp;agrave;n, ti&amp;ecirc;u chảy ph&amp;acirc;n trắng,&amp;nbsp;vi&amp;ecirc;m ruột, tụ huyết tr&amp;ugrave;ng, vi&amp;ecirc;m phổi, vi&amp;ecirc;m phế quản, kh&amp;ograve;&amp;nbsp;kh&amp;egrave;,&amp;hellip; ở b&amp;ecirc;, ngh&amp;eacute;, heo, d&amp;ecirc;, cừu non, g&amp;agrave;, vịt.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 50%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pha v&amp;agrave;o nước cho uống hay trộn v&amp;agrave;o thức ăn cho ăn.&lt;/p&gt;
 &lt;p&gt;- B&amp;ecirc;, ngh&amp;eacute;, heo, d&amp;ecirc;, cừu non: 1g/5kg thể trọng hay&lt;/p&gt;
@@ -47,11 +53,15 @@
 &lt;p&gt;5g/1l&amp;iacute;t nước uống&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 2-3 ng&amp;agrave;y.&lt;/p&gt;
 &lt;p&gt;* Ph&amp;ograve;ng bệnh d&amp;ugrave;ng 1/3 liều tr&amp;ecirc;n.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-97&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-97&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T03:35:23.529Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T03:35:23.529Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T02:07:14.337Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T02:07:14.337Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
