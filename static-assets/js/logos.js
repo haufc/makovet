@@ -21,6 +21,29 @@ $('.logos__container').owlCarousel({
         }
     }
 });
+$('.owl-two').owlCarousel({
+    loop: true,
+    margin: 0,
+    dots: false,
+    autoplay: true,
+    autoplayTimeout: 1000,
+    autoplayHoverPause: true,
+    responsiveClass:true,
+    responsive: {
+        0: {
+            items: 5
+        },
+        300: {
+            items: 5
+        },
+        700: {
+            items: 5
+        },
+        1200: {
+            items: 5
+        }
+    }
+});
 $('.play').on('click',function(){
     owl.trigger('play.owl.autoplay', [1000])
 })
