@@ -32,13 +32,20 @@
 	<value_smv>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value_smv>
 	</item></productgrouplv2_o>
 	<productImage_s>/static-assets/images/products/54 DEXASONEA.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dexamethasone 100mg&lt;/p&gt;
 &lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Chống vi&amp;ecirc;m mạnh, d&amp;ugrave;ng trong c&amp;aacute;c trường hợp tr&amp;acirc;u,&amp;nbsp;b&amp;ograve;, ngựa, b&amp;ecirc;, ngh&amp;eacute;, ngựa con, heo, d&amp;ecirc;, cừu, ch&amp;oacute;, m&amp;egrave;o bị&amp;nbsp;vi&amp;ecirc;m, sưng.&lt;/p&gt;
 &lt;p&gt;- D&amp;ugrave;ng khi bị dị ứng bất kể l&amp;yacute; do n&amp;agrave;o (ti&amp;ecirc;m vac-xin, nhiễm&amp;nbsp;độc tố vi khuẩn, sốc nhiễm khuẩn).&lt;/p&gt;
 &lt;p&gt;- Phối hợp th&amp;ecirc;m kh&amp;aacute;ng sinh trong việc điều trị nhiễm tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.49905%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.1455%;"&gt;
 &lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ti&amp;ecirc;m bắp.&lt;/p&gt;
 &lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, ngựa lớn: 2,5-5ml/100kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
@@ -46,11 +53,15 @@
 &lt;p&gt;0,5-1ml/10kg thể trọng/ng&amp;agrave;y nhưng kh&amp;ocirc;ng qu&amp;aacute; 5ml/con.&lt;/p&gt;
 &lt;p&gt;Thuốc c&amp;oacute; t&amp;aacute;c dụng k&amp;eacute;o d&amp;agrave;i, ng&amp;agrave;y ti&amp;ecirc;m 1 lần.&lt;/p&gt;
 &lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục kh&amp;ocirc;ng qu&amp;aacute; 5 ng&amp;agrave;y.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-25&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-25&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T06:18:58.661Z</createdDate>
 	<createdDate_dt>2020-08-03T06:18:58.661Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:18:58.661Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:18:58.661Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-04T03:34:35.587Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:34:35.587Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T06:18:59.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
