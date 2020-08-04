@@ -45,7 +45,7 @@
             font-size: 30px;
             background-color: #322372;
             border-radius: 50%;
-            padding: 40px 10px;
+            padding: 40px 25px;
             line-height: 11;
             font-family: Roboto Condensed, sans-serif !important;
         }
