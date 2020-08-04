@@ -4,6 +4,7 @@
   <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>${contentModel.title_s}</title>
     <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon"> 
     <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/>
     
@@ -43,7 +44,7 @@
             <@renderComponent parent=contentModel component=section />
         </#list>
         <div class="container pl-lg-0 pl-md-0">
-             <img style="padding-top:20px;display: block;margin-left: auto;margin-right: auto;width: 75%;" class="img-responsive" src="${contentModel.imageBanner_s}">
+             <img style="padding-top:20px;display: block;margin-left: auto;margin-right: auto;width: 75%;margin-bottom: 40px;" class="img-responsive" src="${contentModel.imageBanner_s}">
              <div class="sick-content">
                 ${contentModel.content_html}
             </div>
