@@ -18,7 +18,7 @@
 	<internal-name>ANALGIN C - FORT</internal-name>
 	<navLabel>ANALGIN C - FORT</navLabel>
 	<productName_s>ANALGIN C - FORT</productName_s>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
 	<value_smv>Sản phẩm cho trâu - bò</value_smv>
 	</item>	<item>	<key>thuoc-cho-heo</key>
@@ -60,8 +60,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T06:12:30.235Z</createdDate>
 	<createdDate_dt>2020-08-03T06:12:30.235Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T02:13:43.912Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T02:13:43.912Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:17:53.096Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:17:53.096Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T06:12:30.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
