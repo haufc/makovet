@@ -6,13 +6,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>6783ecf4</objectGroupId>
 	<objectId>6783ecf4-daeb-43c7-bc94-8a414798dd6e</objectId>
-	<internal-name>Products for cattle </internal-name>
-	<navLabel>Products for cattle</navLabel>
-	<t_s>Products for cattle</t_s>
+	<internal-name>Products for other animal</internal-name>
+	<navLabel>Products for other animal</navLabel>
+	<t_s>Products for other animal</t_s>
 	<file-name>index.xml</file-name>
 	<folder-name>list</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b5c3107b-0a02-31fe-60f5-5bebbb260710</key>
 	<value>Slide</value>
 <component id="b5c3107b-0a02-31fe-60f5-5bebbb260710">
@@ -31,18 +31,18 @@
 	<lastModifiedDate>2020-08-05T04:05:40.259Z</lastModifiedDate>
 	<lastModifiedDate_dt>2020-08-05T04:05:40.259Z</lastModifiedDate_dt>
 </component>
-	</item>	<item datasource="section" inline="true">	<key>a13ec5ec-4441-bfa1-0501-1856d8705c4f</key>
-	<value>Products for cattle</value>
-<component id="a13ec5ec-4441-bfa1-0501-1856d8705c4f">
+	</item>	<item datasource="section" inline="true">	<key>42465ed3-55f5-ed82-f376-c078bd82e7ae</key>
+	<value>Products for other animal</value>
+<component id="42465ed3-55f5-ed82-f376-c078bd82e7ae">
 	<content-type>/component/nhomsanphamconEn</content-type>
 	<display-template>/templates/web/component/group-child-product.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>a13e</objectGroupId>
-	<objectId>a13ec5ec-4441-bfa1-0501-1856d8705c4f</objectId>
-	<file-name>a13ec5ec-4441-bfa1-0501-1856d8705c4f.xml</file-name>
-	<internal-name>Products for cattle</internal-name>
-	<title_s>Products for cattle</title_s>
+	<objectGroupId>4246</objectGroupId>
+	<objectId>42465ed3-55f5-ed82-f376-c078bd82e7ae</objectId>
+	<file-name>42465ed3-55f5-ed82-f376-c078bd82e7ae.xml</file-name>
+	<internal-name>Products for other animal</internal-name>
+	<title_s>Products for other animal</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
 	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
@@ -52,7 +52,7 @@
 	</item>	<item>	<groupChildProductName_s>Antibiotic </groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
-	</item>	<item>	<groupChildProductName_s>Analgesic, antipyretic and anti-inflammatory</groupChildProductName_s>
+	</item>	<item>	<groupChildProductName_s>Analgesic, antipyretic and anti-inflammatory </groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Parasitic Medicine, fungi, coccidiosis</groupChildProductName_s>
@@ -65,14 +65,14 @@
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
 	</item></groupproductchild_o>
-	<createdDate>2020-08-05T04:10:44.435Z</createdDate>
-	<createdDate_dt>2020-08-05T04:10:44.435Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:10:44.435Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:10:44.435Z</lastModifiedDate_dt>
+	<createdDate>2020-08-05T04:31:28.378Z</createdDate>
+	<createdDate_dt>2020-08-05T04:31:28.378Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:31:28.378Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:31:28.378Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-08-05T04:04:39.950Z</createdDate>
 	<createdDate_dt>2020-08-05T04:04:39.950Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:10:15.737Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:10:15.737Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T04:28:07.707Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:28:07.707Z</lastModifiedDate_dt>
 </page>
