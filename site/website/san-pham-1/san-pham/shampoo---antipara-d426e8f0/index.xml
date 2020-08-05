@@ -24,7 +24,7 @@
 	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
 	<value_smv>Nhóm thuốc sát trùng, dầu tằm</value_smv>
 	</item></productgrouplv2_o>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<productImage_s>/static-assets/images/products/111 SHAMPOO ANTIPARA NEWA.png</productImage_s>
 	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
 &lt;tbody&gt;
@@ -50,8 +50,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T09:03:25.708Z</createdDate>
 	<createdDate_dt>2020-08-03T09:03:25.708Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T04:18:13.580Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T04:18:13.580Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:51:21.886Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:51:21.886Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T09:03:26.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
