@@ -18,7 +18,7 @@
 	</item></section_o>
 	<file-name>index.xml</file-name>
 	<folder-name>b-complex</folder-name>
-	<isHot_b>true</isHot_b>
+	<isHot_b>false</isHot_b>
 	<productImage_s>/static-assets/images/products/1 B.Complex 3A.png</productImage_s>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
 	<value_smv>Sản phẩm cho heo</value_smv>
@@ -63,8 +63,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-01T02:54:45.716Z</createdDate>
 	<createdDate_dt>2020-08-01T02:54:45.716Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T02:19:18.876Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T02:19:18.876Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:19:55.797Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:19:55.797Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-01T02:54:46.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
