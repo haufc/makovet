@@ -6,18 +6,18 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>89f34624</objectGroupId>
 	<objectId>89f34624-e6d1-4752-b272-2e957a4d077d</objectId>
-	<listphoto_o item-list="true">	<item>	<photoName_s>Factory photo (5.2000)</photoName_s>
-	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
-	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo2.png</photoImage_s>
-	<photoName_s>Factory photo (5.2018)</photoName_s>
-	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo3.png</photoImage_s>
-	<photoName_s>Factory photo (5.2018)</photoName_s>
-	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
-	<photoName_s>Factory photo (5.2000)</photoName_s>
-	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo2.png</photoImage_s>
-	<photoName_s>Factory photo (5.2018)</photoName_s>
-	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo3.png</photoImage_s>
-	<photoName_s>Factory photo (5.2018)</photoName_s>
+	<listphoto_o item-list="true">	<item>	<photoName_s>Australian Embassy visit</photoName_s>
+	<photoImage_s>/static-assets/images/libraries/photos/Dai su quan Uc 62019 (8).jpg</photoImage_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/Dai su quan Uc 62019 (9).jpg</photoImage_s>
+	<photoName_s>Australian Embassy visit</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/thu_tuong_tham_gian_hang_cl_.jpg</photoImage_s>
+	<photoName_s>Prime Minister visit MKV's exhibition booth</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/z1075802578245_548ae899123d7a894cfcc3370f164c13.jpg</photoImage_s>
+	<photoName_s>MKV's exhibition booth</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/z848492399032_b0ebaa169fbcad18f6360babe7a7eb80.jpg</photoImage_s>
+	<photoName_s>Customer conference 2017</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/z848492467419_da51cb0013850292623dc350d929f0c6.jpg</photoImage_s>
+	<photoName_s>Customer conference 2017</photoName_s>
 	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
 	<photoName_s>Factory photo (5.2000)</photoName_s>
 	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo2.png</photoImage_s>
@@ -38,6 +38,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-07-07T02:23:27.255Z</createdDate>
 	<createdDate_dt>2020-07-07T02:23:27.255Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T11:03:12.265Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T11:03:12.265Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T03:21:58.867Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:21:58.867Z</lastModifiedDate_dt>
 </page>
