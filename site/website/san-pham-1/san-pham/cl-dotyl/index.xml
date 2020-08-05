@@ -13,7 +13,7 @@
 	<productName_s>CL-DOTYL</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
 	<value_smv>Sản phẩm cho trâu - bò</value_smv>
 	</item>	<item>	<key>thuoc-cho-ga-vit</key>
@@ -57,8 +57,8 @@
 	<productImage_s>/static-assets/images/products/87 CL-DOTYL 100gA.png</productImage_s>
 	<createdDate>2020-08-03T03:53:17.919Z</createdDate>
 	<createdDate_dt>2020-08-03T03:53:17.919Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T03:18:25.585Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T03:18:25.585Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:25:04.294Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:25:04.294Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T03:53:18.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
