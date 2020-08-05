@@ -6,9 +6,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>8704</objectGroupId>
 	<objectId>8704fbdd-2525-a733-c218-439acff046ca</objectId>
-	<internal-name>Ampicolistin</internal-name>
-	<navLabel>Ampicolistin</navLabel>
-	<productName_s>Ampicolistin</productName_s>
+	<internal-name>FER-B12</internal-name>
+	<navLabel>FER-B12</navLabel>
+	<productName_s>FER-B12</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
@@ -19,57 +19,42 @@
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
-	<value_smv>Medicine for cattle</value_smv>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
 	</item></productgrouplv1_o>
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Group of fostering drugs increases resistance</value_smv>
 	</item></productgrouplv2_o>
-	<productImage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</productImage_s>
-	<productDescription_html>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table style="border-collapse: collapse; width: 100%; height: 21px;" border="1"&gt;
+	<productImage_s>/static-assets/images/products/FER-B12.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
 &lt;tbody&gt;
-&lt;tr style="height: 21px;"&gt;
-&lt;td style="width: 50%; height: 21px;"&gt;
-&lt;p&gt;&lt;strong&gt;QUALITY INDICATOR:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;Main substance&lt;/p&gt;
-&lt;p&gt;Beta-Glucan (min)&lt;/p&gt;
-&lt;p&gt;Sorbitol (min)&lt;/p&gt;
-&lt;p&gt;Vitamin C (min)&lt;/p&gt;
-&lt;p&gt;Other substances:&lt;/p&gt;
-&lt;p&gt;Protein (min)&lt;/p&gt;
-&lt;p&gt;Carrier&lt;/p&gt;
-&lt;p&gt;(MOS, dextrose, lactose, toxin adsorbents, ...) vđ&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;Prohibited substance: Not available&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;MAIN MATERIAL:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;beta;-glucan (1,3-1,6), Sorbitol, Vitamin C, yeast cell wall, mannan-oligosaccharide (MOS), dextrose, lactose, toxic adsorbent (Toxibind dry), ...&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;USES:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Improve resistance, strengthen the natural immune system for cattle and poultry.&lt;/p&gt;
-&lt;p&gt;- Enhance the immune response after vaccination.&lt;/p&gt;
-&lt;p&gt;- Supplement vitamins, nutritional sources for microorganisms&lt;/p&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0142%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each ml of solution contains 100mg of iron and 100mcg&amp;nbsp;vitamin B12.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Treating and preventing anemia, iron deficiency.&lt;/p&gt;
+&lt;p&gt;- Treating stunting, help gain weight fast.&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style="width: 50%; height: 21px;"&gt;
-&lt;p&gt;- Supplement vitamins, nutrition sources for beneficial microorganisms to develop, enhance liver function, increase food metabolism, help gain weight fast, increase productivity, shorten farming time.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;- Reduce stress when the weather changes, vaccines, moving cages, chickens, high density, cut beak, molting, ...&lt;/p&gt;
-&lt;p&gt;- As one of the alternatives, limiting antibiotics used in livestock.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;HOW TO USE:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mix into feed to eat.&lt;/p&gt;
-&lt;p&gt;- Cattle, pigs, goats, sheep: 1kg / ton of feed.&lt;/p&gt;
-&lt;p&gt;- Chickens, ducks and quails: 1-2kg / ton of feed&lt;/p&gt;
-&lt;p&gt;Each continuous use 7-10 days. Use 1-2 times / month.&lt;/p&gt;
-&lt;p&gt;Should be used before and after vaccination 7 days, help quickly create antibodies against disease.&lt;/p&gt;
-&lt;p&gt;* During the epidemic season: the dose is 2-4 times higher than the regular dose.&lt;/p&gt;
-&lt;p&gt;&lt;span style="color: #e74c3c;"&gt;&lt;strong&gt;USED ​​ONLY IN VETERINARY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;STORAGE&lt;/strong&gt;: in a cool dry place, temperature not exceeding 30oC.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PRESENTATION&lt;/strong&gt;: 100g, 1Kg&lt;/p&gt;
+&lt;td style="width: 2.24662%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.7391%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intramuscular injection.&lt;/p&gt;
+&lt;p&gt;- Piglets: 1ml / pig&lt;/p&gt;
+&lt;p&gt;Inject at 3 days of age and repeat at 10 days of age.&lt;/p&gt;
+&lt;p&gt;- Goats and sheep: 1,5ml / head&lt;/p&gt;
+&lt;p&gt;- Calves and calves: 1.5-3ml / head&lt;/p&gt;
+&lt;p&gt;Injections at 7 days of age&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-94&lt;/strong&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-07-13T07:04:20.649Z</createdDate>
 	<createdDate_dt>2020-07-13T07:04:20.649Z</createdDate_dt>
-	<lastModifiedDate>2020-07-20T02:58:08.879Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-20T02:58:08.879Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T06:50:35.391Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:50:35.391Z</lastModifiedDate_dt>
 	<createddate_dt>2020-07-13T04:00:00.000Z</createddate_dt>
 	<createddate_dt_tz>EST5EDT</createddate_dt_tz>
 	<isHot_b>true</isHot_b>
