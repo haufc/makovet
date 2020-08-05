@@ -8,8 +8,8 @@
 	<objectId>6faef340-2839-96cf-9143-0fd910766d95</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>support-for-blue-ear-disease</folder-name>
-	<internal-name>Support for blue ear disease</internal-name>
-	<diseaseName_s> Can blue ear disease be treated?</diseaseName_s>
+	<internal-name>Coccidiosis in pigs</internal-name>
+	<diseaseName_s>Coccidiosis in pigs</diseaseName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>48c5ba73-f418-a573-9cc9-75ba11aff30f</key>
@@ -31,47 +31,24 @@
 	<lastModifiedDate_dt>2020-07-13T08:01:20.081Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<diseaseContent_html>&lt;p&gt;CONCEPT&lt;/p&gt;
-&lt;p&gt;Diseases caused by E.coli bacteria when developing in pig intestine produce foreign toxins and these substances seep into blood poisoning body&lt;/p&gt;
-&lt;p&gt;The role of E.coli bacteria is primary, there should be more favorable primary factors: dirty dirty cages; Unable to control the quantity &amp;amp; quality of food.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;DISEASE SIGNS&lt;/p&gt;
-&lt;p&gt;The disease usually arises in pigs of about 25 - 50kg and in fat pigs; The two main signs of diseased pigs are edema and movement disorders&lt;/p&gt;
-&lt;p&gt;- Edema: clearly visible around the eyes and forehead&lt;/p&gt;
-&lt;p&gt;- Movement disorders: pigs have seizures or paralysis of the hind legs.&lt;/p&gt;
-&lt;p&gt;Slaughter of pigs will see:&lt;/p&gt;
-&lt;p&gt;- Accumulate fluid in chest sinuses, abdominal sinuses&lt;/p&gt;
-&lt;p&gt;- Perforated intestinal perforated membrane, Pneumonia&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;SOLUTION&lt;/p&gt;
-&lt;p&gt;Separate sick pigs. Concentrate on taking care of the pigs that are not sick, if the whole farm is as good (this is the key point)&lt;/p&gt;
-&lt;p&gt;* For pigs not yet sick:&lt;/p&gt;
-&lt;p&gt;- Reduce the amount of food to 2/3, for easy-to-digest foods (like adding porridge); No feeding after 17h. When the situation decreases, it will gradually increase the amount of food again. After 60kg / pig will feed freely&lt;/p&gt;
-&lt;p&gt;- Acidify food with ACID MIXED (mix water for drinking), add probiotics as BIO ACIMIN Gold (mix into food). Use continuously for at least 10 days&lt;/p&gt;
-&lt;p&gt;- Enhance metabolism with MEKOSAL (injected once a week); Immediately inject 1 dose of VITAMIN ADE per pig (2 months after injection)&lt;/p&gt;
-&lt;p&gt;- Use BYE-CILOX + APRA-COLIS to mix with food continuously for at least 10 days&lt;/p&gt;
-&lt;p&gt;- Immediately give each dose of CL-AMOXGEN 1 dose (only need 1 time)&lt;/p&gt;
-&lt;p&gt;- After intervention for about 5 days, use VIMILAC PLUS 2 (mix food at least 5 days), then use MKV- GROWTH NEW to mix with food&lt;/p&gt;
-&lt;p&gt;* With sick pigs: very difficult to treat&lt;/p&gt;
-&lt;p&gt;- Immediately inject 1 dose of TROFURIT&lt;/p&gt;
-&lt;p&gt;- 2 hours after an additional dose of TROFURIT + 1 dose of HEPTAMINOL (or caffeine) + 1 dose of DEXASONE&lt;/p&gt;
-&lt;p&gt;- 2 hours after 1 dose of CATAXIM (or CL-AMOXGEN)&lt;/p&gt;
-&lt;p&gt;- 1 dose of CL-AMOXGEN daily (at least 3 days), 1 dose of CAFEIN, for additional SORBITOL&lt;/p&gt;
-&lt;p&gt;- Feed sick pigs like pigs that are not sick&lt;/p&gt;
-&lt;p&gt;* With barns:&lt;/p&gt;
-&lt;p&gt;- Need to keep dry, warm, clean. Absolutely do not put chickens, ducks and dogs in the pigpen&lt;/p&gt;
-&lt;p&gt;- Disinfect barns once a day&lt;/p&gt;
-&lt;p&gt;* Prevention:&lt;/p&gt;
-&lt;p&gt;- Pigs from 20 to 50kg / pig should be fed quantitatively in combination with acidifiers, probiotics&lt;/p&gt;
-&lt;p&gt;- Arranging enough food trough&lt;/p&gt;
-&lt;p&gt;- When stressed or when in doubt, use APRA-COLIS to mix with food for at least 3 days.&lt;/p&gt;</diseaseContent_html>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;Coccidiosis caused by the parasite Isospora suis, which occurs in pigs of all ages but is most common in piglets following the mother, concentrated in pigs under 2 weeks of age. The disease is quite common in places where pigs are raised with high density and poor sanitary conditions. There are eight species of Eimeria and one species of Isospora that causes coccidiosis in pigs in North America. Pigs from 5 to 15 days old are usually infected with coccidiosis characterized by I. suis, which causes enteritis and diarrhea. Pasteurellosis is common in newborn piglets. The disease is characterized by fluid or thick diarrhea, often milky white and then yellow and foul-smelling. Piglets may appear symptoms such as weakness, dehydration and stunting; reduce weight gain and piglets may die. Another factor contributing to the increased mortality is that the piglets are always covered with stool due to diarrhea and are always in wet condition.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Coccidiosis in pigs&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The oocytes of coccidiosis are usually excreted with the feces and can be identified by their size, shape and spore-specific characteristics; however, in diagnosis, it must be based on finding parasitic stages through cytological examination or histological examination of the small intestine, as piglets may die before oocyte formation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In severely infected animals, histological lesions occur in the colon and ileum characterized by lesions such as atrophy, intestinal villi, hemorrhage and enteritis accompanied by fibrin depending on the stage of the parasite in the cell. epithelial cells.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The control and prevention by using antiseptic drugs for sows from 2 weeks before farrowing to calving or from birth to weaning has been reported; However, efficacy in the later stages has not been determined. Although sows are considered a source of infection for piglets, this has not been clearly demonstrated. Clean faeces and regular disinfection of cages and breeding equipment between litters significantly reduces the incidence of coccidiosis. Piglets recover badly when coccidiosis infection is highly resistant to re-infection.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Although less associated with clinical coccidiosis, E debliecki, E neodebliecki, E scabra, and E spinosa species have been found in 1-3 month old pigs with diarrhea. The disease can last 7-10 days for live pigs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sulfamethazine can be used in drinking water to treat coccidiosis. Coccidiosis control in newborn piglets infected with I. suis is very difficult. The use of coccidiostats against sow feed for a few days or weeks before and after calving was recommended and used in practice, but the results were not stable.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The use of Amprolium and Monensin was not effective in preventing coccidiosis in piglets in the experiment. A controlled procedure to reduce the number of follicles is recommended, including: cleaning, disinfection and steam cleaning of the breeding facilities. Amprolium supplement (25% type used in feed) at a dose of 10kg / ton of feed, sow this feed a week before farrowing and lasts until the piglet is 3 weeks old, but the results are still not as expected.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Using a single dose of Toltrazuril (20 mg / kg, orally) helps reduce follicle secretion, reduces the incidence of diarrhea, and reduces weight loss in pigs infected with coccidiosis experimentally. Dicalazuril (5mg / kg) is being studied as an anti-coccidiosis drug in piglets.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Source: Acare Vietnam&lt;/em&gt;&lt;/p&gt;</diseaseContent_html>
 	<createdDate>2020-07-13T08:00:36.896Z</createdDate>
 	<createdDate_dt>2020-07-13T08:00:36.896Z</createdDate_dt>
-	<lastModifiedDate>2020-07-17T08:37:50.785Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-17T08:37:50.785Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T04:17:49.888Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:17:49.888Z</lastModifiedDate_dt>
 	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
 	<value_smv>Poultry disease</value_smv>
 	</item></technicalAssistance_o>
-	<datecreated_s>14/07/2017</datecreated_s>
 	<parentURL_s>/en/technical-assistance/group-sick/poultry-disease/index</parentURL_s>
+	<createdDate_dt_dt>2020-08-05T04:17:50.000Z</createdDate_dt_dt>
+	<createdDate_dt_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_dt_tz>
 </page>
