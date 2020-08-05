@@ -6,10 +6,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>2b29</objectGroupId>
 	<objectId>2b29c32f-9c04-6458-c53c-c876083b2361</objectId>
-	<internal-name>Chicken care process</internal-name>
+	<internal-name>Prevention of heat stress in chickens</internal-name>
 	<navLabel>Chicken care process</navLabel>
-	<processName_s>Chicken care process</processName_s>
-	<datecreated_s>17/04/2017</datecreated_s>
+	<processName_s>Prevention of heat stress in chickens</processName_s>
 	<parentURL_s>/en/technical-assistance/process-care/cattle/index</parentURL_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
@@ -37,42 +36,17 @@
 	<lastModifiedDate_dt>2020-07-29T03:57:55.097Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<processContent_html>&lt;p&gt;CONCEPT&lt;/p&gt;
-&lt;p&gt;Diseases caused by E.coli bacteria when developing in pig intestine produce foreign toxins and these substances seep into blood poisoning body&lt;/p&gt;
-&lt;p&gt;The role of E.coli bacteria is primary, there should be more favorable primary factors: dirty dirty cages; Unable to control the quantity &amp; quality of food.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;DISEASE SIGNS&lt;/p&gt;
-&lt;p&gt;The disease usually arises in pigs of about 25 - 50kg and in fat pigs; The two main signs of diseased pigs are edema and movement disorders&lt;/p&gt;
-&lt;p&gt;- Edema: clearly visible around the eyes and forehead&lt;/p&gt;
-&lt;p&gt;- Movement disorders: pigs have seizures or paralysis of the hind legs.&lt;/p&gt;
-&lt;p&gt;Slaughter of pigs will see:&lt;/p&gt;
-&lt;p&gt;- Accumulate fluid in chest sinuses, abdominal sinuses&lt;/p&gt;
-&lt;p&gt;- Perforated intestinal perforated membrane, Pneumonia&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;SOLUTION&lt;/p&gt;
-&lt;p&gt;Separate sick pigs. Concentrate on taking care of the pigs that are not sick, if the whole farm is as good (this is the key point)&lt;/p&gt;
-&lt;p&gt;* For pigs not yet sick:&lt;/p&gt;
-&lt;p&gt;- Reduce the amount of food to 2/3, for easy-to-digest foods (like adding porridge); No feeding after 17h. When the situation decreases, it will gradually increase the amount of food again. After 60kg / pig will feed freely&lt;/p&gt;
-&lt;p&gt;- Acidify food with ACID MIXED (mix water for drinking), add probiotics as BIO ACIMIN Gold (mix into food). Use continuously for at least 10 days&lt;/p&gt;
-&lt;p&gt;- Enhance metabolism with MEKOSAL (injected once a week); Immediately inject 1 dose of VITAMIN ADE per pig (2 months after injection)&lt;/p&gt;
-&lt;p&gt;- Use BYE-CILOX + APRA-COLIS to mix with food continuously for at least 10 days&lt;/p&gt;
-&lt;p&gt;- Immediately give each dose of CL-AMOXGEN 1 dose (only need 1 time)&lt;/p&gt;
-&lt;p&gt;- After intervention for about 5 days, use VIMILAC PLUS 2 (mix food at least 5 days), then use MKV- GROWTH NEW to mix with food&lt;/p&gt;
-&lt;p&gt;* With sick pigs: very difficult to treat&lt;/p&gt;
-&lt;p&gt;- Immediately inject 1 dose of TROFURIT&lt;/p&gt;
-&lt;p&gt;- 2 hours after an additional dose of TROFURIT + 1 dose of HEPTAMINOL (or caffeine) + 1 dose of DEXASONE&lt;/p&gt;
-&lt;p&gt;- 2 hours after 1 dose of CATAXIM (or CL-AMOXGEN)&lt;/p&gt;
-&lt;p&gt;- 1 dose of CL-AMOXGEN daily (at least 3 days), 1 dose of CAFEIN, for additional SORBITOL&lt;/p&gt;
-&lt;p&gt;- Feed sick pigs likepigs that are not sick&lt;/p&gt;
-&lt;p&gt;* With barns:&lt;/p&gt;
-&lt;p&gt;- Need to keep dry, warm, clean. Absolutely do not put chickens, ducks and dogs in the pigpen&lt;/p&gt;
-&lt;p&gt;- Disinfect barns once a day&lt;/p&gt;
-&lt;p&gt;* Prevention:&lt;/p&gt;
-&lt;p&gt;- Pigs from 20 to 50kg / pig should be fed quantitatively in combination with acidifiers, probiotics&lt;/p&gt;
-&lt;p&gt;- Arranging enough food trough&lt;/p&gt;
-&lt;p&gt;- When stressed or when in doubt, use APRA-COLIS to mix with food for at least 3 days.&lt;/p&gt;</processContent_html>
+	<processContent_html>&lt;p&gt;Chickens and poultry in general, unlike other warm-blooded animals, do not have sweat glands to release body temperature, but often emit heat in the following ways: heat radiation, heat convection, evaporation. water, heat transfer.&lt;/p&gt;
+&lt;p&gt;The ideal temperature for poultry development is between 18 and 24 degrees Celsius, the% RH humidity is less than 50%. When the temperature increases, it will affect the health and productivity of poultry: from 24 - 30 degrees Celsius, chickens reduce hunting, reduce laying rates, over 30 degrees C: chickens reduce weight gain, reduce laying, quality egg drops. The effects of heat stress on broiler chickens and layers are: reduced productivity, increased mortality, increased investment costs, reduced fertility, increased metabolic disorders, reduced resistance ...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some solutions to prevent heat stress:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Feeding: moderate density (8-10 chickens / m2, breed chicken 4-5 chickens / m2), too hot weather to release chickens into the garden, the stumps around the barn or the covered covered playground , if the temperature increases more than 25 degrees, water can be sprayed on the roof, avoiding poultry during the period of 10h-15h, when the need to transport poultry in the hot season, vitamin C must be added to drinking water ...&lt;/p&gt;
+&lt;p&gt;- Breeding barns: layout of roofs that can be pulled down during the day, pulled up at night for cool breezes, clean barn floor, moderate litter, regularly replace litter to ensure dry, clean pathogens, roofs using insulation panels can reflect 98% of the radiant heat.&lt;/p&gt;
+&lt;p&gt;- Drinking water: provide clean and cool water, avoid pumping and drying the tank on hot days. Increasing water and adding drinking troughs, water pipes or tanks that can be built underground or insulated roofs to keep water cool, supplementing with Vitamin C, sugar, electrolytes help chickens cool down and increase resistance.&lt;/p&gt;
+&lt;p&gt;- Nutrition: reasonable, increasing the number of meals during the day and at cool times (6am, 6pm and 22pm), calcium supplementation, increased feeding troughs, amino acid supplements D, L - methionine help increase ability digestion and absorption&lt;/p&gt;
+&lt;p&gt;A detailed guide on preventing stress on chickens prepared by Veterinary Mavin Group - click &lt;a href="https://issuu.com/tapdoanmavin/docs/stress_nhiet_tren_gia_cam"&gt;HERE&lt;/a&gt; to see details.&lt;/p&gt;</processContent_html>
 	<createdDate>2020-07-29T03:55:45.504Z</createdDate>
-	<createdDate_dt>2020-07-29T03:55:45.504Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T04:05:08.475Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T04:05:08.475Z</lastModifiedDate_dt>
+	<createdDate_dt>2020-07-29T03:55:45.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:45:34.861Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:45:34.861Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>
