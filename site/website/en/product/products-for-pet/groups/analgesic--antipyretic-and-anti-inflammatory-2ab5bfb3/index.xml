@@ -7,12 +7,12 @@
 	<objectGroupId>521c42d4</objectGroupId>
 	<objectId>521c42d4-f2ed-423f-9c6c-7cc256b610be</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>analgesic--antipyretic-and-anti-inflammatory-2ab5bfb3</folder-name>
-	<internal-name>Analgesic, antipyretic and anti-inflammatory 2ab5bfb3</internal-name>
-	<title_s>Analgesic, antipyretic and anti-inflammatory</title_s>
+	<folder-name>parasitic-medicine--fungi--coccidiosis</folder-name>
+	<internal-name>Parasitic Medicine, fungi, coccidiosis</internal-name>
+	<title_s>Parasitic Medicine, fungi, coccidiosis</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b49cf5a6-9280-3fc2-9a57-6933988dc316</key>
@@ -34,13 +34,13 @@
 	<lastModifiedDate_dt>2020-08-05T06:58:53.105Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/1fc37b5e-ba5d-c1de-d040-f0c346b7e39f.xml</key>
-	<value>Analgesic, antipyretic and anti-inflammatory</value>
-	<include>/site/items/1fc37b5e-ba5d-c1de-d040-f0c346b7e39f.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/186db874-0ab1-ce4b-5755-798e83129315.xml</key>
+	<value>Parasitic Medicine, fungi, coccidiosis</value>
+	<include>/site/items/186db874-0ab1-ce4b-5755-798e83129315.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<createdDate>2020-08-05T06:57:26.796Z</createdDate>
 	<createdDate_dt>2020-08-05T06:57:26.796Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:01:54.510Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:01:54.510Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:03:27.422Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:03:27.422Z</lastModifiedDate_dt>
 </page>
