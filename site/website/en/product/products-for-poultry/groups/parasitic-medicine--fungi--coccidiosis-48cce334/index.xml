@@ -7,12 +7,12 @@
 	<objectGroupId>db3eea3f</objectGroupId>
 	<objectId>db3eea3f-aef4-4d56-9401-415450acecd0</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>parasitic-medicine--fungi--coccidiosis-48cce334</folder-name>
-	<internal-name>Parasitic Medicine, fungi, coccidiosis 48cce334</internal-name>
-	<title_s>Parasitic Medicine, fungi, coccidiosis</title_s>
+	<folder-name>antiseptics</folder-name>
+	<internal-name>Antiseptics</internal-name>
+	<title_s>Antiseptics</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>a7fef86b-4a13-d79a-fed3-dad1c7646ae2</key>
 	<value>Slide</value>
 <component id="a7fef86b-4a13-d79a-fed3-dad1c7646ae2">
@@ -32,15 +32,15 @@
 	<lastModifiedDate_dt>2020-08-05T07:43:26.451Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/e14208d8-4481-9829-41a6-c6c177c6972c.xml</key>
-	<value>Parasitic Medicine, fungi, coccidiosis</value>
-	<include>/site/items/e14208d8-4481-9829-41a6-c6c177c6972c.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/2cab30ac-8e7b-05f1-14b9-540be2742ea6.xml</key>
+	<value>Antiseptics</value>
+	<include>/site/items/2cab30ac-8e7b-05f1-14b9-540be2742ea6.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
 	<createdDate>2020-08-05T07:42:06.626Z</createdDate>
 	<createdDate_dt>2020-08-05T07:42:06.626Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:45:40.364Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:45:40.364Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:46:24.053Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:46:24.053Z</lastModifiedDate_dt>
 </page>
