@@ -6,7 +6,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>9ac8fa73</objectGroupId>
 	<objectId>9ac8fa73-5ead-423a-8e1a-43e035f91a56</objectId>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<internal-name>MEKODINE-FORT 300 (CÁ)</internal-name>
 	<navLabel>MEKODINE-FORT 300 (CÁ)</navLabel>
 	<productName_s>MEKODINE-FORT 300 (CÁ)</productName_s>
@@ -52,8 +52,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
 	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:18:46.779Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:18:46.779Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:35:35.769Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:35:35.769Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
