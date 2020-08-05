@@ -6,7 +6,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>2fa69fb1</objectGroupId>
 	<objectId>2fa69fb1-a8e6-4816-837a-61488b90d2bb</objectId>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<internal-name>MKV-GROWTH FOR FISH</internal-name>
 	<navLabel>MKV-GROWTH FOR FISH</navLabel>
 	<productName_s>MKV-GROWTH FOR FISH</productName_s>
@@ -62,8 +62,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
 	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:19:03.754Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:19:03.754Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:36:36.062Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:36:36.062Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
