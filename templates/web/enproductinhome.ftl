@@ -20,7 +20,7 @@
                 </section>
                 <section class="products__list">
                     <div class="products__list-title">
-                        <h1 class="text--uppercase violet-color">hot products</h1>
+                        <h1 class="text--uppercase violet-color">main products</h1>
                     </div>
                     <div class="products__list-items owl-two owl-carousel owl-theme">
                         <#if (products)??>
