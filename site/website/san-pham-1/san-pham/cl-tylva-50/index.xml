@@ -13,7 +13,7 @@
 	<internal-name>CL-TYLVA 50</internal-name>
 	<navLabel>CL-TYLVA 50</navLabel>
 	<productName_s>CL-TYLVA 50</productName_s>
-	<isHot_b>true</isHot_b>
+	<isHot_b>false</isHot_b>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
 	<value>Header Slide</value>
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
@@ -58,8 +58,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T04:01:14.922Z</createdDate>
 	<createdDate_dt>2020-08-03T04:01:14.922Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T03:30:47.653Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T03:30:47.653Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:55:10.883Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:55:10.883Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T04:01:15.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
