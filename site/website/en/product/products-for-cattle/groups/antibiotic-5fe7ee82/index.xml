@@ -7,12 +7,12 @@
 	<objectGroupId>01bddfc6</objectGroupId>
 	<objectId>01bddfc6-9571-4be9-9503-135b5ae3087f</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>antibiotic-5fe7ee82</folder-name>
-	<internal-name>Antibiotic 5fe7ee82</internal-name>
-	<title_s>Antibiotic</title_s>
+	<folder-name>parasitic-medicine--fungi--coccidiosis</folder-name>
+	<internal-name>Parasitic Medicine, fungi, coccidiosis</internal-name>
+	<title_s>Parasitic Medicine, fungi, coccidiosis</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>64b3a2a8-00fc-376f-2485-a3dd20785c25</key>
@@ -34,13 +34,13 @@
 	<lastModifiedDate_dt>2020-08-05T05:05:39.220Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/51bcad71-1714-9af7-7e48-dfa0adf93044.xml</key>
-	<value>Antibiotic</value>
-	<include>/site/items/51bcad71-1714-9af7-7e48-dfa0adf93044.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/fc926172-714c-2c9c-4a78-6f80443675d2.xml</key>
+	<value>Parasitic Medicine, fungi, coccidiosis</value>
+	<include>/site/items/fc926172-714c-2c9c-4a78-6f80443675d2.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<createdDate>2020-08-05T05:02:11.041Z</createdDate>
 	<createdDate_dt>2020-08-05T05:02:11.041Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T05:07:44.660Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T05:07:44.660Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T05:11:38.205Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:11:38.205Z</lastModifiedDate_dt>
 </page>
