@@ -6,7 +6,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>e3a82ded</objectGroupId>
 	<objectId>e3a82ded-00e0-47a1-abde-c38670bfe3d9</objectId>
-	<internal-name>Analgesic, antipyretic and anti-inflammatory 3dc0a5cb</internal-name>
+	<internal-name>Parasitic Medicine, fungi, coccidiosis</internal-name>
 	<title_s>Analgesic, antipyretic and anti-inflammatory</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
@@ -35,12 +35,12 @@
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<file-name>index.xml</file-name>
-	<folder-name>analgesic--antipyretic-and-anti-inflammatory-3dc0a5cb</folder-name>
+	<folder-name>parasitic-medicine--fungi--coccidiosis</folder-name>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-13T06:53:56.964Z</createdDate>
 	<createdDate_dt>2020-07-13T06:53:56.964Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:35:05.796Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:35:05.796Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:35:45.083Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:35:45.083Z</lastModifiedDate_dt>
 	<rightTitle_s>Amplicolistin</rightTitle_s>
 </page>
