@@ -7,12 +7,12 @@
 	<objectGroupId>c51f6c34</objectGroupId>
 	<objectId>c51f6c34-2510-4bc5-b986-c1e6875a54cb</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>parasitic-medicine--fungi--coccidiosis-dd2e3f44</folder-name>
-	<internal-name>Parasitic Medicine, fungi, coccidiosis dd2e3f44</internal-name>
-	<title_s>Parasitic Medicine, fungi, coccidiosis</title_s>
+	<folder-name>antiseptics</folder-name>
+	<internal-name>Antiseptics</internal-name>
+	<title_s>Antiseptics</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>64b3a2a8-00fc-376f-2485-a3dd20785c25</key>
@@ -34,13 +34,13 @@
 	<lastModifiedDate_dt>2020-08-05T05:05:39.220Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/fc926172-714c-2c9c-4a78-6f80443675d2.xml</key>
-	<value>Parasitic Medicine, fungi, coccidiosis</value>
-	<include>/site/items/fc926172-714c-2c9c-4a78-6f80443675d2.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/a475b06b-6bb3-720b-0b99-b1eee5d706d2.xml</key>
+	<value>Antiseptics</value>
+	<include>/site/items/a475b06b-6bb3-720b-0b99-b1eee5d706d2.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<createdDate>2020-08-05T05:02:11.041Z</createdDate>
 	<createdDate_dt>2020-08-05T05:02:11.041Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T05:11:38.205Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T05:11:38.205Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T05:13:36.336Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:13:36.336Z</lastModifiedDate_dt>
 </page>
