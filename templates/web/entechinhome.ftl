@@ -18,13 +18,13 @@
                     </div>
                 </div>
                 <a class="view-more flex" href="/en/disease-treatment">
-                    <span style="color: #322372;">See more</span>
+                    <span style="color: #322372;" class="font-weight-bold font-title">See more</span>
                     <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
                 </a>
             <div class="line"></div>
 
             <#list lstTechSp as item>
-            	<a class="services__link" href="${item.url}"><h3 style="color: #322372; font-size: 24px; font-weight: bold;" >${item.title}</h3></a>
+            	<a class="services__link" href="${item.url}"><h3 class="font-title" style="color: #322372; font-size: 22px; font-weight: bold;" >${item.title}</h3></a>
             </#list>
         </section>
     </div>
