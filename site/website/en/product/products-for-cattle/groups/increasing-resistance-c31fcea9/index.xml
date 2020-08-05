@@ -7,12 +7,12 @@
 	<objectGroupId>8f990c22</objectGroupId>
 	<objectId>8f990c22-b0bf-4633-92ca-38a4faf98750</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>increasing-resistance-c31fcea9</folder-name>
-	<internal-name>Increasing resistance c31fcea9</internal-name>
-	<title_s>Increasing resistance</title_s>
+	<folder-name>antibiotic</folder-name>
+	<internal-name>Antibiotic</internal-name>
+	<title_s>Antibiotic</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>64b3a2a8-00fc-376f-2485-a3dd20785c25</key>
@@ -34,13 +34,13 @@
 	<lastModifiedDate_dt>2020-08-05T05:05:39.220Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/f64f96ad-629e-8a8f-1e03-f0646650361f.xml</key>
-	<value>Increasing resistance</value>
-	<include>/site/items/f64f96ad-629e-8a8f-1e03-f0646650361f.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/51bcad71-1714-9af7-7e48-dfa0adf93044.xml</key>
+	<value>Antibiotic</value>
+	<include>/site/items/51bcad71-1714-9af7-7e48-dfa0adf93044.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<createdDate>2020-08-05T05:02:11.041Z</createdDate>
 	<createdDate_dt>2020-08-05T05:02:11.041Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T05:02:11.041Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T05:02:11.041Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T05:07:44.660Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:07:44.660Z</lastModifiedDate_dt>
 </page>
