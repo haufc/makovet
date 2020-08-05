@@ -8,7 +8,7 @@
     <h4 style="margin-bottom: 0px; font-family: Roboto Condensed, sans-serif !important;" class="text-uppercase font-weight-bold violet-color">${contentModel.companyName_s}</h4>
     <span class="d-block font-weight-bold violet-color " style="font-size: 26px;font-family: Roboto Condensed, sans-serif !important;">Trụ sở chính:</span>
     <span class="d-block font-weight-bold violet-color" style="font-size: 26px;font-family: Roboto Condensed, sans-serif !important;">${contentModel.companyHeadquater_s}</span>
-    <span class="font-weight-bold violet-color" style="font-size: 26px;font-family: Roboto Condensed, sans-serif !important;">Điện thoại: ${contentModel.phoneNumber_s} - Fax: ${contentModel.fax_s} - Email: ${contentModel.email_s}</span>
+    <span class="d-block font-weight-bold violet-color" style="font-size: 26px;font-family: Roboto Condensed, sans-serif !important;">Điện thoại: ${contentModel.phoneNumber_s} - Fax: ${contentModel.fax_s} - Email: ${contentModel.email_s}</span>
     <span class="font-weight-bold violet-color" style="font-size: 26px;font-family: Roboto Condensed, sans-serif !important;">Chứng nhận ĐKKD: 1200505472 - Ngày cấp: 28/01/2002  - Nơi cấp: Sở KHĐT Tiền Giang</span>
     <form action="/api/1/services/contactUs.json" method="GET">
         <div class="row">
