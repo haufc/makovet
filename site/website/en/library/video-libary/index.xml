@@ -9,9 +9,12 @@
 	<listVideo_o item-list="true">	<item>	<videoName_s> Mavin Group: The first Vietnamese enterprise successfully exported pork</videoName_s>
 	<videoYoutubeURL_s>https://www.youtube.com/embed/oqNBznIK6d0</videoYoutubeURL_s>
 	<videoBanner_s>/static-assets/images/libraries/videos/xuat_khau_thit_heo_mavin_.jpg</videoBanner_s>
-	</item>	<item>	<videoName_s>Mavin Group invests a hundred billion project in Cao Lanh district</videoName_s>
-	<videoBanner_s>/static-assets/images/libraries/videos/dau_tu_tram_ty_vao_huyen_cao_lanh.jpg</videoBanner_s>
-	<videoYoutubeURL_s>https://www.youtube.com/embed/NrOR99DUPlk</videoYoutubeURL_s>
+	</item>	<item>	<videoName_s>Mavin Group Corporate video</videoName_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/Tập đoàn Mavin - Chuỗi 3F.jpg</videoBanner_s>
+	<videoYoutubeURL_s>https://www.youtube.com/watch?v=z24b-1zc9BA&amp;t=21s</videoYoutubeURL_s>
+	</item>	<item>	<videoName_s>Round cage aquaculture technology of Mavin Group</videoName_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/Du an nuoi ca long ho Hoa Binh.jpg</videoBanner_s>
+	<videoYoutubeURL_s>https://www.youtube.com/watch?v=Ud42V26zZDo</videoYoutubeURL_s>
 	</item></listVideo_o>
 	<internal-name>Video libary</internal-name>
 	<title_s>Video libary</title_s>
@@ -26,6 +29,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-07-07T07:33:25.999Z</createdDate>
 	<createdDate_dt>2020-07-07T07:33:25.999Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T11:04:56.036Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T11:04:56.036Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T03:13:56.472Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:13:56.472Z</lastModifiedDate_dt>
 </page>
