@@ -7,12 +7,12 @@
 	<objectGroupId>3e43073d</objectGroupId>
 	<objectId>3e43073d-9508-4694-b6f6-07d5f7ac36a1</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>antiseptics--bathsoap-027e47c8</folder-name>
-	<internal-name>Antiseptics, Bathsoap 027e47c8</internal-name>
-	<title_s>Antibiotic</title_s>
+	<folder-name>reproductive-medicine</folder-name>
+	<internal-name>Reproductive Medicine</internal-name>
+	<title_s>Reproductive Medicine</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b49cf5a6-9280-3fc2-9a57-6933988dc316</key>
@@ -34,13 +34,13 @@
 	<lastModifiedDate_dt>2020-08-05T06:58:53.105Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/da111d58-3d62-95a5-1911-8c4ac25f3cba.xml</key>
-	<value>Antiseptics, Bathsoap</value>
-	<include>/site/items/da111d58-3d62-95a5-1911-8c4ac25f3cba.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/bed6564c-162b-eee8-981c-b85011d04dc9.xml</key>
+	<value>Reproductive Medicine</value>
+	<include>/site/items/bed6564c-162b-eee8-981c-b85011d04dc9.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<createdDate>2020-08-05T06:57:26.796Z</createdDate>
 	<createdDate_dt>2020-08-05T06:57:26.796Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:31:08.367Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:31:08.367Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:32:11.722Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:32:11.722Z</lastModifiedDate_dt>
 </page>
