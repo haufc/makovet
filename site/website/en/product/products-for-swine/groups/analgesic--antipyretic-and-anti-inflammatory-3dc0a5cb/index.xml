@@ -9,7 +9,7 @@
 	<internal-name>Analgesic, antipyretic and anti-inflammatory 3dc0a5cb</internal-name>
 	<title_s>Analgesic, antipyretic and anti-inflammatory</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e7a507fd-bada-8cb4-6a93-99d2e948b79d</key>
 	<value>Increasing resistance Slide</value>
 <component id="e7a507fd-bada-8cb4-6a93-99d2e948b79d">
@@ -29,9 +29,9 @@
 	<lastModifiedDate_dt>2020-07-13T07:01:40.465Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/bb57753f-4c3b-acf7-92b6-63076ad42e77.xml</key>
-	<value>Analgesic, antipyretic and anti-inflammatory</value>
-	<include>/site/items/bb57753f-4c3b-acf7-92b6-63076ad42e77.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/6e7a3273-4f62-d585-5f79-ac77c83c1bfc.xml</key>
+	<value>Parasitic Medicine, fungi, coccidiosis</value>
+	<include>/site/items/6e7a3273-4f62-d585-5f79-ac77c83c1bfc.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<file-name>index.xml</file-name>
@@ -40,7 +40,7 @@
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-13T06:53:56.964Z</createdDate>
 	<createdDate_dt>2020-07-13T06:53:56.964Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:34:12.265Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:34:12.265Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:35:05.796Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:35:05.796Z</lastModifiedDate_dt>
 	<rightTitle_s>Amplicolistin</rightTitle_s>
 </page>
