@@ -31,7 +31,7 @@
 	<lastModifiedDate_dt>2020-07-13T08:43:02.966Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="section" inline="true">	<key>7a3e9b4d-db90-9d40-9ce3-bc8c9ad6554e</key>
-	<value>Job listings &amp; CSNS</value>
+	<value>Job listings &amp;amp; CSNS</value>
 <component id="7a3e9b4d-db90-9d40-9ce3-bc8c9ad6554e">
 	<content-type>/component/jobsEn</content-type>
 	<display-template>/templates/web/component/jobs.ftl</display-template>
@@ -44,21 +44,21 @@
 	<title1_s>Recruitment</title1_s>
 	<title2_s>Employment Policy</title2_s>
 	<contentLeftTitle_s>Training and developing</contentLeftTitle_s>
-	<contentLeftDesc_s>Cai Lay Veterinary Pharmacy Joint Stock Company pays special attention to the development of human resources through the effective implementation of training policies, improving knowledge and professional qualifications for employees. Not just taking training courses ....</contentLeftDesc_s>
+	<contentLeftDesc_s>Mekovet pays special attention to the development of human resources through the effective implementation of training policies, improving knowledge and professional qualifications for employees. Not just taking training courses ....</contentLeftDesc_s>
 	<contentLeftURL_s>/en/recruitment/career-opportunities/training-and-developing</contentLeftURL_s>
 	<contentRightTitle_s> Remuneration and benefits</contentRightTitle_s>
-	<contentRightDesc_s> With a team of experienced technicians, enthusiastic customer care team, Makovet is always looking forward to receiving the comments and suggestions from customers, Breeders to contribute to improving the products. The company's products are getting better and better ....</contentRightDesc_s>
+	<contentRightDesc_s> With a team of experienced technicians, enthusiastic customer care team, Mekovet is always looking forward to receiving the comments and suggestions from customers, Breeders to contribute to improving the products. The company's products are getting better and better ....</contentRightDesc_s>
 	<contentRightURL_s>/en/recruitment/career-opportunities/remuneration-and-welfare</contentRightURL_s>
 	<contentLeftImage_s>/static-assets/images/policies/Layer 201.png</contentLeftImage_s>
 	<contentRightImage_s>/static-assets/images/policies/Layer 202.png</contentRightImage_s>
 	<createdDate>2020-07-13T08:43:45.555Z</createdDate>
 	<createdDate_dt>2020-07-13T08:43:45.555Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T09:25:59.506Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T09:25:59.506Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T03:43:08.150Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:43:08.150Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-07-13T08:42:44.419Z</createdDate>
 	<createdDate_dt>2020-07-13T08:42:44.419Z</createdDate_dt>
-	<lastModifiedDate>2020-07-14T04:17:10.052Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-14T04:17:10.052Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T03:43:01.115Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:43:01.115Z</lastModifiedDate_dt>
 </page>
