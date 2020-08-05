@@ -6,10 +6,10 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>1a61fd1a</objectGroupId>
 	<objectId>1a61fd1a-eaf5-44cc-bdc8-3c0498b8eebe</objectId>
-	<internal-name>Parasitic Medicine, fungi, coccidiosis d378554a</internal-name>
-	<title_s>Analgesic, antipyretic and anti-inflammatory</title_s>
+	<internal-name>Antiseptics</internal-name>
+	<title_s>Antiseptics</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e7a507fd-bada-8cb4-6a93-99d2e948b79d</key>
 	<value>Increasing resistance Slide</value>
 <component id="e7a507fd-bada-8cb4-6a93-99d2e948b79d">
@@ -29,18 +29,18 @@
 	<lastModifiedDate_dt>2020-07-13T07:01:40.465Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/6e7a3273-4f62-d585-5f79-ac77c83c1bfc.xml</key>
-	<value>Parasitic Medicine, fungi, coccidiosis</value>
-	<include>/site/items/6e7a3273-4f62-d585-5f79-ac77c83c1bfc.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/8c99ab63-835c-ebf9-b2b7-669f9823c912.xml</key>
+	<value>Antiseptics</value>
+	<include>/site/items/8c99ab63-835c-ebf9-b2b7-669f9823c912.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<file-name>index.xml</file-name>
-	<folder-name>parasitic-medicine--fungi--coccidiosis-d378554a</folder-name>
+	<folder-name>antiseptics</folder-name>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-13T06:53:56.964Z</createdDate>
 	<createdDate_dt>2020-07-13T06:53:56.964Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:35:45.083Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:35:45.083Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:36:38.833Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:36:38.833Z</lastModifiedDate_dt>
 	<rightTitle_s>Amplicolistin</rightTitle_s>
 </page>
