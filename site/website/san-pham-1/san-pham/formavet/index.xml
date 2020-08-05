@@ -13,7 +13,7 @@
 	<internal-name>FORMAVET</internal-name>
 	<navLabel>FORMAVET</navLabel>
 	<productName_s>FORMAVET</productName_s>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
 	<value_smv>Sản phẩm cho trâu - bò</value_smv>
 	</item>	<item>	<key>thuoc-cho-ga-vit</key>
@@ -55,8 +55,8 @@
 &lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-349&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
 	<createdDate>2020-08-03T08:59:39.016Z</createdDate>
 	<createdDate_dt>2020-08-03T08:59:39.016Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T10:12:30.634Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T10:12:30.634Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:29:05.720Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:29:05.720Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T08:59:39.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
