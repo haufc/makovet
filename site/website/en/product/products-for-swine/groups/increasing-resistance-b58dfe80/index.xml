@@ -6,10 +6,10 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>c70f3d68</objectGroupId>
 	<objectId>c70f3d68-a2a5-4929-a90d-53fd05d01db1</objectId>
-	<internal-name>Increasing resistance b58dfe80</internal-name>
-	<title_s>Increasing resistance</title_s>
+	<internal-name>Antibiotic</internal-name>
+	<title_s>Antibiotic</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e7a507fd-bada-8cb4-6a93-99d2e948b79d</key>
 	<value>Increasing resistance Slide</value>
 <component id="e7a507fd-bada-8cb4-6a93-99d2e948b79d">
@@ -29,18 +29,18 @@
 	<lastModifiedDate_dt>2020-07-13T07:01:40.465Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/9029aaef-f469-6029-cde6-9de0eeef7751.xml</key>
-	<value>Increasing resistance</value>
-	<include>/site/items/9029aaef-f469-6029-cde6-9de0eeef7751.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/93daf901-0092-f275-e8fb-d11255782594.xml</key>
+	<value>Antibiotic</value>
+	<include>/site/items/93daf901-0092-f275-e8fb-d11255782594.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<file-name>index.xml</file-name>
-	<folder-name>increasing-resistance-b58dfe80</folder-name>
+	<folder-name>antibiotic</folder-name>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-13T06:53:56.964Z</createdDate>
 	<createdDate_dt>2020-07-13T06:53:56.964Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:28:19.594Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:28:19.594Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:33:10.397Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:33:10.397Z</lastModifiedDate_dt>
 	<rightTitle_s>Amplicolistin</rightTitle_s>
 </page>
