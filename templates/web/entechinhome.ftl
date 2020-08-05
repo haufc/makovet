@@ -17,7 +17,7 @@
                         ${contentModel.description_html}
                     </div>
                 </div>
-                <a class="view-more flex" href="/ho-tro-ky-thuat/benh-va-dieu-tri">
+                <a class="view-more flex" href="/en/disease-treatment">
                     <span style="color: #322372;">See more</span>
                     <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
                 </a>
