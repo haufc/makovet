@@ -31,28 +31,28 @@
 	<internal-name>List of products</internal-name>
 	<title_s>products</title_s>
 	<groupProduct_o item-list="true">	<item>	<groupProductName_s>Products for cattle</groupProductName_s>
-	<groupChildProductURL_s>/en/product/products-for-swine/index</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/list</groupChildProductURL_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
 	</item>	<item>	<groupProductName_s>Products for swine</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/index</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>Products for Poultry</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-cho-ga-vit/thuoc-cho-ga-vit</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/list</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>Products for pet</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-cho-meo/thuoc-cho-cho-me</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/list</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>Product for fish</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/product-for-fish/list</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>Product for other animals</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
-	<groupChildProductURL_s>/san-pham-1/sp-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-other-animal/list</groupChildProductURL_s>
 	</item></groupProduct_o>
 	<createdDate>2020-07-13T11:38:11.028Z</createdDate>
 	<createdDate_dt>2020-07-13T11:38:11.028Z</createdDate_dt>
-	<lastModifiedDate>2020-07-14T03:37:59.907Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-14T03:37:59.907Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:50:50.589Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:50:50.589Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>d1f59fa4-0444-6716-7621-1e083fc5fa4b</key>
 	<value>News</value>
@@ -78,7 +78,7 @@
 	<titleBanner_s>Mekovet Introduction film</titleBanner_s>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>47cc037b-a914-16cc-b822-05712b69a838</key>
-	<value>Disease &amp;amp; Treatment</value>
+	<value>Disease &amp; Treatment</value>
 <component id="47cc037b-a914-16cc-b822-05712b69a838">
 	<content-type>/component/entechinhome</content-type>
 	<display-template>/templates/web/entechinhome.ftl</display-template>
@@ -99,6 +99,6 @@
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:58:00.366Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:58:00.366Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:50:43.716Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:50:43.716Z</lastModifiedDate_dt>
 </page>
