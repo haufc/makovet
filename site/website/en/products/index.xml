@@ -41,35 +41,35 @@
 	<objectGroupId>d146</objectGroupId>
 	<objectId>d146d63f-f574-2daa-a99c-bd418db1655a</objectId>
 	<groupProduct_o item-list="true">	<item>	<groupProductName_s>Products for cattle</groupProductName_s>
-	<groupChildProductURL_s>/en/product/products-for-swine/index</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/list</groupChildProductURL_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
 	</item>	<item>	<groupProductName_s>Products for swine</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/index</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>Products for Poultry</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/list</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>Products for pet</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/list</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>Product for fish</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/product-for-fish/list</groupChildProductURL_s>
 	</item>	<item>	<groupProductName_s>Product for other animals</groupProductName_s>
 	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-other-animal/list</groupChildProductURL_s>
 	</item></groupProduct_o>
 	<internal-name>Group parent</internal-name>
 	<title_s>Products</title_s>
 	<file-name>d146d63f-f574-2daa-a99c-bd418db1655a.xml</file-name>
 	<createdDate>2020-07-13T07:21:37.576Z</createdDate>
 	<createdDate_dt>2020-07-13T07:21:37.576Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T15:07:47.578Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T15:07:47.578Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:13:59.661Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:13:59.661Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-07-13T07:20:27.997Z</createdDate>
 	<createdDate_dt>2020-07-13T07:20:27.997Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T15:07:42.659Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T15:07:42.659Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:13:35.224Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:13:35.224Z</lastModifiedDate_dt>
 </page>
