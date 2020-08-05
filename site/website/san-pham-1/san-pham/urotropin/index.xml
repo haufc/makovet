@@ -13,7 +13,7 @@
 	<productName_s>UROTROPIN</productName_s>
 	<file-name>index.xml</file-name>
 	<folder-name>urotropin</folder-name>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
 	<value_smv>Sản phẩm cho trâu - bò</value_smv>
 	</item>	<item>	<key>thuoc-cho-heo</key>
@@ -57,8 +57,8 @@
 	</item></section_o>
 	<createdDate>2020-08-03T07:43:25.220Z</createdDate>
 	<createdDate_dt>2020-08-03T07:43:25.220Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T04:29:02.207Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T04:29:02.207Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:50:43.574Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:50:43.574Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T07:43:25.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
