@@ -8,7 +8,7 @@
 	<objectId>673812bf-2a8d-4911-b53c-5c986db71c4d</objectId>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<internal-name>MỠ GHẺ XANH</internal-name>
 	<navLabel>MỠ GHẺ XANH</navLabel>
 	<productName_s>MỠ GHẺ XANH</productName_s>
@@ -55,8 +55,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T08:51:40.077Z</createdDate>
 	<createdDate_dt>2020-08-03T08:51:40.077Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T04:11:00.797Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T04:11:00.797Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:34:12.864Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:34:12.864Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T08:51:40.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
