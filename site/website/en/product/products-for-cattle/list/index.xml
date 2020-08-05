@@ -6,13 +6,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>ac0c36f3</objectGroupId>
 	<objectId>ac0c36f3-6461-406c-98e7-09620df9e6e9</objectId>
-	<internal-name>Product for fish </internal-name>
-	<navLabel>Product for fish</navLabel>
-	<t_s>Product for fish</t_s>
+	<internal-name>Products for cattle</internal-name>
+	<navLabel>Products for cattle</navLabel>
+	<t_s>Products for cattle</t_s>
 	<file-name>index.xml</file-name>
 	<folder-name>list</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b5c3107b-0a02-31fe-60f5-5bebbb260710</key>
 	<value>Slide</value>
 <component id="b5c3107b-0a02-31fe-60f5-5bebbb260710">
@@ -31,39 +31,48 @@
 	<lastModifiedDate>2020-08-05T04:05:40.259Z</lastModifiedDate>
 	<lastModifiedDate_dt>2020-08-05T04:05:40.259Z</lastModifiedDate_dt>
 </component>
-	</item>	<item datasource="section" inline="true">	<key>8d88f772-d2d7-de3a-1a9a-7a5800c7e707</key>
-	<value>Product for fish</value>
-<component id="8d88f772-d2d7-de3a-1a9a-7a5800c7e707">
+	</item>	<item datasource="section" inline="true">	<key>a13ec5ec-4441-bfa1-0501-1856d8705c4f</key>
+	<value>Products for cattle</value>
+<component id="a13ec5ec-4441-bfa1-0501-1856d8705c4f">
 	<content-type>/component/nhomsanphamconEn</content-type>
 	<display-template>/templates/web/component/group-child-product.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>8d88</objectGroupId>
-	<objectId>8d88f772-d2d7-de3a-1a9a-7a5800c7e707</objectId>
-	<file-name>8d88f772-d2d7-de3a-1a9a-7a5800c7e707.xml</file-name>
-	<internal-name>Product for fish</internal-name>
-	<title_s>Product for fish</title_s>
+	<objectGroupId>a13e</objectGroupId>
+	<objectId>a13ec5ec-4441-bfa1-0501-1856d8705c4f</objectId>
+	<file-name>a13ec5ec-4441-bfa1-0501-1856d8705c4f.xml</file-name>
+	<internal-name>Products for cattle</internal-name>
+	<title_s>Products for cattle</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
 	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
-	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nutrition, mineral group, strengthening resistance</groupChildProductName_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Increasing resistance</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
-	</item>	<item>	<groupChildProductName_s>Preventive and curative medicines</groupChildProductName_s>
+	</item>	<item>	<groupChildProductName_s>Antibiotic </groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
-	</item>	<item>	<groupChildProductName_s>Water treatment and environmental improvement.</groupChildProductName_s>
+	</item>	<item>	<groupChildProductName_s>Analgesic, antipyretic and anti-inflammatory</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>#</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Parasitic Medicine, fungi, coccidiosis</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>#</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Antiseptics</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductURL_s>#</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Reproductive Medicine</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
 	</item></groupproductchild_o>
-	<createdDate>2020-08-05T04:07:05.346Z</createdDate>
-	<createdDate_dt>2020-08-05T04:07:05.346Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:07:05.346Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:07:05.346Z</lastModifiedDate_dt>
+	<createdDate>2020-08-05T04:10:44.435Z</createdDate>
+	<createdDate_dt>2020-08-05T04:10:44.435Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:10:44.435Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:10:44.435Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-08-05T04:04:39.950Z</createdDate>
 	<createdDate_dt>2020-08-05T04:04:39.950Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:04:39.950Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:04:39.950Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T04:10:15.737Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:10:15.737Z</lastModifiedDate_dt>
 </page>
