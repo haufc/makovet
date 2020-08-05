@@ -6,10 +6,10 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>9bc7221b</objectGroupId>
 	<objectId>9bc7221b-e8d8-4242-b8a9-11de652d3cd3</objectId>
-	<internal-name>Antiseptics db94fd77</internal-name>
-	<title_s>Antiseptics</title_s>
+	<internal-name>Reproductive Medicine</internal-name>
+	<title_s>Reproductive Medicine</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e7a507fd-bada-8cb4-6a93-99d2e948b79d</key>
 	<value>Increasing resistance Slide</value>
 <component id="e7a507fd-bada-8cb4-6a93-99d2e948b79d">
@@ -29,18 +29,18 @@
 	<lastModifiedDate_dt>2020-07-13T07:01:40.465Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/8c99ab63-835c-ebf9-b2b7-669f9823c912.xml</key>
-	<value>Antiseptics</value>
-	<include>/site/items/8c99ab63-835c-ebf9-b2b7-669f9823c912.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/e673b3db-993f-ecf4-71f7-a05376c33ef3.xml</key>
+	<value>Reproductive Medicine</value>
+	<include>/site/items/e673b3db-993f-ecf4-71f7-a05376c33ef3.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<file-name>index.xml</file-name>
-	<folder-name>antiseptics-db94fd77</folder-name>
+	<folder-name>reproductive-medicine</folder-name>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</rightimage_s>
 	<createdDate>2020-07-13T06:53:56.964Z</createdDate>
 	<createdDate_dt>2020-07-13T06:53:56.964Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:36:38.833Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:36:38.833Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:37:33.018Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:37:33.018Z</lastModifiedDate_dt>
 	<rightTitle_s>Amplicolistin</rightTitle_s>
 </page>
