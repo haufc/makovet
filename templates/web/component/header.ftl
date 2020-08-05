@@ -166,9 +166,7 @@
             </div>
             
             <!-- 29/07/2020 -->
-            <div class="nav__hotline">
-                <p class="font-title font-bold" >Hotline: <span class="hotline-span" >0273 382 6462</span></p>
-            </div>
+            
             
             <a class="nav__btn" onclick="toggleNav()">
                 <i class="fas fa-bars"></i>
