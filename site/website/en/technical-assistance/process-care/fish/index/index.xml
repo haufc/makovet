@@ -27,7 +27,7 @@
 	<lastModifiedDate_dt>2020-07-29T03:48:54.969Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="section" inline="true">	<key>0fde038b-6ea6-2b6f-ced5-c5cc571ae47d</key>
-	<value> LIVESTOCK - CARE PREVENTION SEAFOOD</value>
+	<value>FISH CARE</value>
 <component id="0fde038b-6ea6-2b6f-ced5-c5cc571ae47d">
 	<content-type>/component/listprocessEn</content-type>
 	<display-template>/templates/web/component/list-process.ftl</display-template>
@@ -36,22 +36,22 @@
 	<objectGroupId>0fde</objectGroupId>
 	<objectId>0fde038b-6ea6-2b6f-ced5-c5cc571ae47d</objectId>
 	<file-name>0fde038b-6ea6-2b6f-ced5-c5cc571ae47d.xml</file-name>
-	<internal-name> LIVESTOCK - CARE PREVENTION SEAFOOD</internal-name>
-	<title_s> LIVESTOCK - CARE PREVENTION SEAFOOD</title_s>
+	<internal-name>FISH CARE</internal-name>
+	<title_s>FISH CARE</title_s>
 	<processType_s>banh-thuy-san</processType_s>
 	<createdDate>2020-07-29T03:53:07.475Z</createdDate>
 	<createdDate_dt>2020-07-29T03:53:07.475Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T03:53:07.475Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T03:53:07.475Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T04:49:36.148Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:49:36.148Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<internal-name> LIVESTOCK - CARE PREVENTION SEAFOOD</internal-name>
-	<navLabel> LIVESTOCK - CARE PREVENTION SEAFOOD</navLabel>
-	<t_s> LIVESTOCK - CARE PREVENTION SEAFOOD</t_s>
+	<internal-name>FISH CARE</internal-name>
+	<navLabel>FISH CARE</navLabel>
+	<t_s>FISH CARE</t_s>
 	<file-name>index.xml</file-name>
 	<folder-name>index</folder-name>
 	<createdDate>2020-07-29T03:48:22.705Z</createdDate>
 	<createdDate_dt>2020-07-29T03:48:22.705Z</createdDate_dt>
-	<lastModifiedDate>2020-07-29T03:48:22.705Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-29T03:48:22.705Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T04:49:15.174Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:49:15.174Z</lastModifiedDate_dt>
 </page>
