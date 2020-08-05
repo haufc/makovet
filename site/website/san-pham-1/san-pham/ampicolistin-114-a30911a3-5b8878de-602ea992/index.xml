@@ -18,7 +18,7 @@
 	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></section_o>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
 	<value_smv>Sản phẩm cho trâu - bò</value_smv>
 	</item>	<item>	<key>thuoc-cho-heo</key>
@@ -59,7 +59,7 @@
 	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:59:35.877Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:59:35.877Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:22:09.316Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:22:09.316Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
