@@ -24,8 +24,8 @@
 	<value_smv>Products for cattle</value_smv>
 	</item>	<item>	<key>thuoc-cho-heo</key>
 	<value_smv>Products for swine</value_smv>
-	</item>	<item>	<key>thuoc-cho-cho-meo</key>
-	<value_smv>Products for pet</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
 	</item></productgrouplv1_o>
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Increasing resistance</value_smv>
@@ -63,8 +63,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-05T06:10:13.215Z</createdDate>
 	<createdDate_dt>2020-08-05T06:10:13.215Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T06:13:05.972Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T06:13:05.972Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T06:20:17.483Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:20:17.483Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
