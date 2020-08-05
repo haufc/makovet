@@ -29,7 +29,20 @@ $('.owl-two').owlCarousel({
     autoplayTimeout: 1000,
     autoplayHoverPause: true,
     responsiveClass:true,
-    items: 5,
+    responsive: {
+        0: {
+            items: 1
+        },
+        300: {
+            items: 3
+        },
+        700: {
+            items: 3
+        },
+        1200: {
+            items: 5
+        }
+    }
 });
 $('.play').on('click',function(){
     owl.trigger('play.owl.autoplay', [1000])
