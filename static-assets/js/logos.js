@@ -34,7 +34,7 @@ $('.owl-two').owlCarousel({
             items: 1
         },
         300: {
-            items: 3
+            items: 2
         },
         700: {
             items: 3
