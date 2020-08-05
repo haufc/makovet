@@ -11,7 +11,7 @@
 	<productName_s>MEKOMEC</productName_s>
 	<file-name>index.xml</file-name>
 	<folder-name>mekomec</folder-name>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true"/>
@@ -54,8 +54,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-03T08:47:52.724Z</createdDate>
 	<createdDate_dt>2020-08-03T08:47:52.724Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T03:54:45.765Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T03:54:45.765Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:29:39.066Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:29:39.066Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-03T08:47:53.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
