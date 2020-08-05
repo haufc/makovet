@@ -48,31 +48,31 @@
 	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Increasing resistance</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/groups/increasing-resistance</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Antibiotic </groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/groups/antibiotic</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Analgesic, antipyretic and anti-inflammatory</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/groups/analgesic--antipyretic-and-anti-inflammatory</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Parasitic Medicine, fungi, coccidiosis</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/groups/parasitic-medicine--fungi--coccidiosis</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Antiseptics</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/groups/antiseptics</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Reproductive Medicine</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/groups/reproductive-medicine</groupChildProductURL_s>
 	</item></groupproductchild_o>
 	<createdDate>2020-08-05T04:42:53.952Z</createdDate>
 	<createdDate_dt>2020-08-05T04:42:53.952Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:42:53.952Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:42:53.952Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:48:15.766Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:48:15.766Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-08-05T04:04:39.950Z</createdDate>
 	<createdDate_dt>2020-08-05T04:04:39.950Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:42:11.063Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:42:11.063Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:47:51.333Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:47:51.333Z</lastModifiedDate_dt>
 </page>
