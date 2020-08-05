@@ -14,7 +14,7 @@
 
         <!-- social -->
         <section class="footer__item text--center" id="social">
-            <p class="footer__item-title text--uppercase font-bold font-title" style="font-size: 18px;">kết nối với cailayvetco</p>
+            <p class="footer__item-title text--uppercase font-bold font-title" style="font-size: 18px;">kết nối với mekovet</p>
             <ul class="footer__item-btns flex">
                 <li><a href="${contentModel.fburl_s}"><img src="/static-assets/images/btn_facebook.png" alt="Facebook"></a></li>
                <#-- <li><a href="${contentModel.twitterurl_s}"><img src="/static-assets/images/btn_twitter.png" alt="Twitter"></a></li> -->
