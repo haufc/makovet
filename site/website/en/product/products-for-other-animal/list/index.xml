@@ -48,7 +48,7 @@
 	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Increasing resistance</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>/en/product/products-for-other-animal/groups/analgesic--antipyretic-and-anti-inflammatory</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-other-animal/groups/increasing-resistance</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Antibiotic </groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
 	<groupChildProductURL_s>/en/product/products-for-other-animal/groups/antibiotic</groupChildProductURL_s>
@@ -67,12 +67,12 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-08-05T04:31:28.378Z</createdDate>
 	<createdDate_dt>2020-08-05T04:31:28.378Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:10:17.890Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:10:17.890Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T08:04:56.592Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:04:56.592Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-08-05T04:04:39.950Z</createdDate>
 	<createdDate_dt>2020-08-05T04:04:39.950Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T07:10:02.064Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T07:10:02.064Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T08:04:50.074Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:04:50.074Z</lastModifiedDate_dt>
 </page>
