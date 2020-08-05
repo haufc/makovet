@@ -1,9 +1,9 @@
-<section class="services">
-    <div class="section-title" style="margin-bottom: 0px;">
-        <div class="section-title__content block">
-            <h1 class="section-title__content-text text--uppercase">Disease & Treatment</h1>
-        </div>
-    </div>
+            <section class="services">
+                <div class="section-title" style="margin-bottom: 0px;">
+                    <div class="section-title__content block">
+                        <h1 class="section-title__content-text text--uppercase">Disease & Treatment</h1>
+                    </div>
+                </div>
 
     <div class="services__container block flex">
         <section class="services__img" style="padding-top: 15px;">
@@ -12,13 +12,13 @@
 
         <section class="services__content">
                 <div class="services__content-text">
-                    <h3 class="text--uppercase" style="font-weight: bold; font-size: 20px;margin-bottom: 25px; color: #322372;" >${contentModel.title_s}</h3>
+                    <h3 class="text--uppercase font-title" style="font-weight: bold; font-size: 25px;margin-bottom: 15px; color: #322372;" >${contentModel.title_s}</h3>
                     <div class="truncate-multi-line text--justify" style="font-size: 16px; line-height: 1.5">
                         ${contentModel.description_html}
                     </div>
                 </div>
-                <a class="view-more flex" href="/en/disease-treatment">
-                    <span style="color: #322372;" class="font-weight-bold font-title">See more</span>
+                <a class="view-more flex" href="/ho-tro-ky-thuat/benh-va-dieu-tri">
+                    <span class="font-bold font-title" style="font-size:16.8px; color: #322372;">See more</span>
                     <img src="/static-assets/images/icon_arrow_white.png" alt="Arrow icon">
                 </a>
             <div class="line"></div>
