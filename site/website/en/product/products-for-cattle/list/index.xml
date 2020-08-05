@@ -48,31 +48,31 @@
 	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Increasing resistance</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/groups/analgesic--antipyretic-and-anti-inflammatory</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Antibiotic </groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/groups/antibiotic</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Analgesic, antipyretic and anti-inflammatory</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
-	</item>	<item>	<groupChildProductName_s>Parasitic Medicine, fungi, coccidiosis</groupChildProductName_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/groups/antiseptics</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Parasitic Medicine/fungi, coccidiosis</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/groups/parasitic-medicine--fungi--coccidiosis</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Antiseptics</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/groups/antiseptics</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Reproductive Medicine</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>#</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/groups/reproductive-medicine</groupChildProductURL_s>
 	</item></groupproductchild_o>
 	<createdDate>2020-08-05T04:10:44.435Z</createdDate>
 	<createdDate_dt>2020-08-05T04:10:44.435Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:10:44.435Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:10:44.435Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:07:46.409Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:07:46.409Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2020-08-05T04:04:39.950Z</createdDate>
 	<createdDate_dt>2020-08-05T04:04:39.950Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:10:15.737Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:10:15.737Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:07:36.753Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:07:36.753Z</lastModifiedDate_dt>
 </page>
