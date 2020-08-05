@@ -7,6 +7,7 @@
             <p class="mb-5 " style="font-weight: 100; font-size: 13px;">${contentModel.address_s}</p>
             <p class="mb-5 " style="font-weight: 100; font-size: 13px;">Điện thoại: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
             <p class="mb-5 " style="font-weight: 100; font-size: 13px;">Email: ${contentModel.email_s}</p>
+            <p class="mb-5 " style="font-weight: 100; font-size: 13px;">Chứng nhận ĐKKD số 1200505472 - Ngày cấp: 28/01/2002  - Nơi cấp: Sở KHĐT tỉnh Tiền Giang </p>
         </section>
         <!-- /address -->
 
