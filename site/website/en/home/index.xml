@@ -78,7 +78,7 @@
 	<titleBanner_s>Mekovet Introduction film</titleBanner_s>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>47cc037b-a914-16cc-b822-05712b69a838</key>
-	<value>Disease &amp; Treatment</value>
+	<value>Disease &amp;amp; Treatment</value>
 <component id="47cc037b-a914-16cc-b822-05712b69a838">
 	<content-type>/component/entechinhome</content-type>
 	<display-template>/templates/web/entechinhome.ftl</display-template>
@@ -88,17 +88,17 @@
 	<objectId>47cc037b-a914-16cc-b822-05712b69a838</objectId>
 	<file-name>47cc037b-a914-16cc-b822-05712b69a838.xml</file-name>
 	<internal-name>Disease &amp; Treatment</internal-name>
-	<title_s>Poultry disease</title_s>
+	<title_s>Prevention of heat stress in chickens</title_s>
 	<image_s>/static-assets/images/techsupport/left-img.png</image_s>
-	<description_html>&lt;p&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec dui a magna vehicula tempus sagittis vel ante. Nullam risus felis, dapibus et sem eu, vulputate venenatis nunc&lt;/span&gt;&lt;/p&gt;</description_html>
+	<description_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: Open Sans, Arial, sans-serif;"&gt;&lt;span style="font-size: 14px;"&gt;Chicken and poultry in general are not like other warm-blooded animals, chickens do not have sweat glands to release body temperature, but often radiate in the following ways: heat radiation, convection heat, evaporation. water, heat transfer.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description_html>
 	<createdDate>2020-07-13T10:01:29.354Z</createdDate>
 	<createdDate_dt>2020-07-13T10:01:29.354Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T11:13:48.237Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T11:13:48.237Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T04:58:06.889Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:58:06.889Z</lastModifiedDate_dt>
 </component>
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T03:48:34.568Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T03:48:34.568Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T04:58:00.366Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:58:00.366Z</lastModifiedDate_dt>
 </page>
