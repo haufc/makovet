@@ -8,8 +8,8 @@
 	<objectId>a9741e78-16f6-4edc-c31f-14bc5e086ae3</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>poisoning-caused-by-e-coli</folder-name>
-	<internal-name>Poisoning caused by E. coli(EDEMA DISEASE)</internal-name>
-	<diseaseName_s>Poisoning caused by E. coli(EDEMA DISEASE)</diseaseName_s>
+	<internal-name>Swine diarrhea due to Balantidium Coli</internal-name>
+	<diseaseName_s>Swine diarrhea due to Balantidium Coli</diseaseName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>c87c7c18-cb03-8aec-24e1-8a2da903d33d</key>
@@ -31,47 +31,21 @@
 	<lastModifiedDate_dt>2020-07-13T08:09:07.130Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<diseaseContent_html>&lt;p&gt;CONCEPT&lt;/p&gt;
-&lt;p&gt;Diseases caused by E.coli bacteria when developing in pig intestine produce foreign toxins and these substances seep into blood poisoning bod&lt;/p&gt;
-&lt;p&gt;The role of E.coli bacteria is primary, there should be more favorable primary factors: dirty dirty cages; Unable to control the quantity &amp;amp; quality of food.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;DISEASE SIGNS&lt;/p&gt;
-&lt;p&gt;The disease usually arises in pigs of about 25 - 50kg and in fat pigs; The two main signs of diseased pigs are edema and movement disorders&lt;/p&gt;
-&lt;p&gt;- Edema: clearly visible around the eyes and forehead&lt;/p&gt;
-&lt;p&gt;- Movement disorders: pigs have seizures or paralysis of the hind legs.&lt;/p&gt;
-&lt;p&gt;Slaughter of pigs will see:&lt;/p&gt;
-&lt;p&gt;- Accumulate fluid in chest sinuses, abdominal sinuses&lt;/p&gt;
-&lt;p&gt;- Perforated intestina perforated membrane, Pneumonia&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;SOLUTION&lt;/p&gt;
-&lt;p&gt;Separate sick pigs. Concentrate on taking care of the pigs that are not sick, if the whole farm is as good (this is the key point)&lt;/p&gt;
-&lt;p&gt;* For pigs not yet sick:&lt;/p&gt;
-&lt;p&gt;- Reduce the amount of food to 2/3, for easy-to-digest foods (like adding porridge); No feeding after 17h. When the situation decreases, it will gradually increase the amount of food again. After 60kg / pig will feed freely&lt;/p&gt;
-&lt;p&gt;- Acidify food with ACID MIXED (mix water for drinking), add probiotics as BIO ACIMIN Gold (mix into food). Use continuously for at least 10 days&lt;/p&gt;
-&lt;p&gt;- Enhance metabolism with MEKOSAL (injected once a week); Immediately inject 1 dose of VITAMIN ADE per pig (2 months after injection)&lt;/p&gt;
-&lt;p&gt;- Use BYE-CILOX + APRA-COLIS to mix with food continuously for at least 10 days&lt;/p&gt;
-&lt;p&gt;- Immediately give each dose of CL-AMOXGEN 1 dose (only need 1 time)&lt;/p&gt;
-&lt;p&gt;- After intervention for about 5 days, use VIMILAC PLUS 2 (mix food at least 5 days), then use MKV- GROWTH NEW to mix with food&lt;/p&gt;
-&lt;p&gt;* With sick pigs: very difficult to treat&lt;/p&gt;
-&lt;p&gt;- Immediately inject 1 dose of TROFURIT&lt;/p&gt;
-&lt;p&gt;- 2 hours after an additional dose of TROFURIT + 1 dose of HEPTAMINOL (or caffeine) + 1 dose of DEXASONE&lt;/p&gt;
-&lt;p&gt;- 2 hours after 1 dose of CATAXIM (or CL-AMOXGEN)&lt;/p&gt;
-&lt;p&gt;- 1 dose of CL-AMOXGEN daily (at least 3 days), 1 dose of CAFEIN, for additional SORBITOL&lt;/p&gt;
-&lt;p&gt;- Feed sick pigs like pigs that are not sick&lt;/p&gt;
-&lt;p&gt;* With barns:&lt;/p&gt;
-&lt;p&gt;- Need to keep dry, warm, clean. Absolutely do not put chickens, ducks and dogs in the pigpen&lt;/p&gt;
-&lt;p&gt;- Disinfect barns once a day&lt;/p&gt;
-&lt;p&gt;* Prevention:&lt;/p&gt;
-&lt;p&gt;- Pigs from 20 to 50kg / pig should be fed quantitatively in combination with acidifiers, probiotics&lt;/p&gt;
-&lt;p&gt;- Arranging enough food trough&lt;/p&gt;
-&lt;p&gt;- When stressed or when in doubt, use APRA-COLIS to mix with food for at least 3 days.&lt;/p&gt;</diseaseContent_html>
+	<diseaseContent_html>&lt;p&gt;The disease is a concern of many farms, causing pigs to reduce weight gain and affect the economic efficiency of farmers.&lt;/p&gt;
+&lt;p&gt;Invite people to consult Mavin Animal Health's advice on:&lt;/p&gt;
+&lt;p&gt;- Overview, mechanism of disease&lt;/p&gt;
+&lt;p&gt;- Identify the disease&lt;/p&gt;
+&lt;p&gt;- Diagnostic&lt;/p&gt;
+&lt;p&gt;- Prevention and treatment of diseases&lt;/p&gt;
+&lt;p&gt;View detail Documents &lt;a href="https://issuu.com/tapdoanmavin/docs/benh_do_balantidium_coli_mavinfarm"&gt;HERE.&lt;/a&gt;&lt;/p&gt;</diseaseContent_html>
 	<createdDate>2020-07-13T08:08:14.457Z</createdDate>
 	<createdDate_dt>2020-07-13T08:08:14.457Z</createdDate_dt>
-	<lastModifiedDate>2020-07-17T08:37:31.809Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-17T08:37:31.809Z</lastModifiedDate_dt>
-	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
-	<value_smv>Poultry disease</value_smv>
+	<lastModifiedDate>2020-08-05T04:11:15.874Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:11:15.874Z</lastModifiedDate_dt>
+	<technicalAssistance_o>	<item>	<key>benh-thu-cung</key>
+	<value_smv>Pet disease</value_smv>
 	</item></technicalAssistance_o>
-	<datecreated_s>14/07/2017</datecreated_s>
 	<parentURL_s>/en/technical-assistance/group-sick/poultry-disease/index</parentURL_s>
+	<createdDate_dt_dt>2020-08-05T04:11:16.000Z</createdDate_dt_dt>
+	<createdDate_dt_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_dt_tz>
 </page>
