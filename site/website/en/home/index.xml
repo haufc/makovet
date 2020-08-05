@@ -9,11 +9,11 @@
 	<file-name>index.xml</file-name>
 	<folder-name>home</folder-name>
 	<internal-name>Home Page</internal-name>
-	<navLabel>Makovet joint stock company</navLabel>
-	<title_s>Makovet joint stock company</title_s>
+	<navLabel>CAI LAY VETERINARY JOINT STOCK COMPANY</navLabel>
+	<title_s>CAI LAY VETERINARY JOINT STOCK COMPANY</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<description_t>Makovet joint stock company</description_t>
+	<description_t>CAI LAY VETERINARY JOINT STOCK COMPANY</description_t>
 	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</key>
 	<value>Header - Home Page</value>
 	<include>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</include>
@@ -99,6 +99,6 @@
 	</item></sections_o>
 	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
 	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T03:59:03.912Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T03:59:03.912Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T03:46:20.799Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:46:20.799Z</lastModifiedDate_dt>
 </page>
