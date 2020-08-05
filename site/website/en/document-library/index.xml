@@ -55,11 +55,11 @@
 	<documentAvatar2_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar2_s>
 	<createdDate>2020-07-13T10:12:33.087Z</createdDate>
 	<createdDate_dt>2020-07-13T10:12:33.087Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T15:28:32.021Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T15:28:32.021Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T03:44:48.615Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:44:48.615Z</lastModifiedDate_dt>
 	<videoURL1_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL1_s>
 	<videoURL2_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL2_s>
-	<videoBanner_s>/static-assets/images/libraries/videos/img__41.jpg</videoBanner_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/MKV.jpg</videoBanner_s>
 </component>
 	</item></section_o>
 	<internal-name>Document library</internal-name>
@@ -67,6 +67,6 @@
 	<t_s>Document library</t_s>
 	<createdDate>2020-07-13T10:09:41.315Z</createdDate>
 	<createdDate_dt>2020-07-13T10:09:41.315Z</createdDate_dt>
-	<lastModifiedDate>2020-07-14T04:18:06.545Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-14T04:18:06.545Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T03:44:41.694Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:44:41.694Z</lastModifiedDate_dt>
 </page>
