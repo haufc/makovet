@@ -46,7 +46,7 @@
 	<groupProductImg2_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Increasing resistance</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
-	<groupChildProductURL_s>/en/product/products-for-swine/group/increasing-resistance</groupChildProductURL_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/groups/increasing-resistance</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Antibiotic </groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
 	<groupChildProductURL_s>#</groupChildProductURL_s>
@@ -65,14 +65,14 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-07-13T06:40:27.813Z</createdDate>
 	<createdDate_dt>2020-07-13T06:40:27.813Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T15:09:00.255Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T15:09:00.255Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:22:07.692Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:22:07.692Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-07-13T06:38:31.480Z</createdDate>
 	<createdDate_dt>2020-07-13T06:38:31.480Z</createdDate_dt>
-	<lastModifiedDate>2020-07-13T15:08:53.437Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-13T15:08:53.437Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T07:21:38.560Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:21:38.560Z</lastModifiedDate_dt>
 </page>
