@@ -6,7 +6,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>8bf20120</objectGroupId>
 	<objectId>8bf20120-bc35-4451-bb92-5be4bb1422b6</objectId>
-	<isHot_b>false</isHot_b>
+	<isHot_b>true</isHot_b>
 	<internal-name>MEKO-SULFAN (CÁ)</internal-name>
 	<navLabel>MEKO-SULFAN (CÁ)</navLabel>
 	<productName_s>MEKO-SULFAN (CÁ)</productName_s>
@@ -54,8 +54,8 @@
 &lt;/table&gt;</productDescription_html>
 	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
 	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:16:42.147Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:16:42.147Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T02:37:05.051Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:37:05.051Z</lastModifiedDate_dt>
 	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>
