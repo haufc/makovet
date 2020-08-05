@@ -31,7 +31,7 @@
 </component>
 	</item></section_o>
 	<technicalAssistanceCompoent_o item-list="true">	<item datasource="technicalAssistanceComponent">	<key>/site/items/e85bba81-5eb8-2efb-193f-6ef21d5174a9.xml</key>
-	<value>Poultry disease</value>
+	<value>Poultry &amp; Animal disease</value>
 	<include>/site/items/e85bba81-5eb8-2efb-193f-6ef21d5174a9.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="technicalAssistanceComponent">	<key>/site/items/240eb7cf-d391-92c1-e63a-8b972204228e.xml</key>
@@ -46,12 +46,12 @@
 	<supportCustomerImage_s>/static-assets/images/techsupport/ho-tro-kh.png</supportCustomerImage_s>
 	<file-name>index.xml</file-name>
 	<folder-name>disease-treatment</folder-name>
-	<supportCustomerContent_html>&lt;p&gt;With a team of responsible, experienced technicians, enthusiastic customer care team ... Mekovet always wishes to receive comments and sharing from customers, Breeders to contribute. improve the Company's products more and more perfect. We hope MEKOVET will be the cohesion, sharing and solution of difficulties and problems of the Farmers to best serve our customers through the best products and services for the goal of "&lt;strong&gt;General Vietnam Agricultural Development Sector&lt;/strong&gt; &amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Please contact us to receive advice, timely support with the best quality of service.&lt;/p&gt;</supportCustomerContent_html>
+	<supportCustomerContent_html>&lt;p style="text-align: justify;"&gt;With a team of responsible, experienced technicians, enthusiastic customer care team ... Mekovet always wishes to receive comments and sharing from customers, Breeders to contribute. improve the Company's products more and more perfect. We hope MEKOVET will be the cohesion, sharing and solution of difficulties and problems of the Farmers to best serve our customers through the best products and services for the goal of "&lt;strong&gt;General Vietnam Agricultural Development Sector&lt;/strong&gt; &amp;rdquo;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Please contact us to receive advice, timely support with the best quality of service.&lt;/p&gt;</supportCustomerContent_html>
 	<createdDate>2020-07-13T07:46:23.664Z</createdDate>
 	<createdDate_dt>2020-07-13T07:46:23.664Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T04:24:49.362Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T04:24:49.362Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T04:27:20.207Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:27:20.207Z</lastModifiedDate_dt>
 	<processtitle_s> LIVESTOCK PROCESS - CARE - DISEASE PREVENTION</processtitle_s>
 	<processComponent_o item-list="true">	<item datasource="processComponent">	<key>/site/items/64585c14-1c64-9223-bbdb-c000126100fa.xml</key>
 	<value> LIVESTOCK - CARE PREVENTION CATTLE - POULTRY</value>
