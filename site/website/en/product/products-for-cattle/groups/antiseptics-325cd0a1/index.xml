@@ -7,12 +7,12 @@
 	<objectGroupId>47245ded</objectGroupId>
 	<objectId>47245ded-a252-49e5-af8b-55b381b0addc</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>antiseptics-325cd0a1</folder-name>
-	<internal-name>Antiseptics 325cd0a1</internal-name>
-	<title_s>Antiseptics</title_s>
+	<folder-name>reproductive-medicine</folder-name>
+	<internal-name>Reproductive Medicine</internal-name>
+	<title_s>Reproductive Medicine</title_s>
 	<rightTitle_s>B. Complex</rightTitle_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
 	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>64b3a2a8-00fc-376f-2485-a3dd20785c25</key>
@@ -34,13 +34,13 @@
 	<lastModifiedDate_dt>2020-08-05T05:05:39.220Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
-	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/a475b06b-6bb3-720b-0b99-b1eee5d706d2.xml</key>
-	<value>Antiseptics</value>
-	<include>/site/items/a475b06b-6bb3-720b-0b99-b1eee5d706d2.xml</include>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/b11a3ce0-b09a-643a-73a7-ad547bbe3e9b.xml</key>
+	<value>Reproductive Medicine</value>
+	<include>/site/items/b11a3ce0-b09a-643a-73a7-ad547bbe3e9b.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></productChildgroup_o>
 	<createdDate>2020-08-05T05:02:11.041Z</createdDate>
 	<createdDate_dt>2020-08-05T05:02:11.041Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T05:13:36.336Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T05:13:36.336Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-05T05:16:00.773Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:16:00.773Z</lastModifiedDate_dt>
 </page>
