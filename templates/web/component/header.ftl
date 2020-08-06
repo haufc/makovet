@@ -319,9 +319,9 @@
                     </li>
                     <#---------- Search Form ---------->
                     <li class="nav__tool-item search-form">
-                    <button class="nav__menu-search-btn" onclick="toggleSearchBar()">
+                    <a class="nav__menu-search-btn" onclick="toggleSearchBar()">
                         <i class="fas fa-search"></i>
-                    </button>
+                    </a>
                     </li>
                 </ul>
                 </ul>
