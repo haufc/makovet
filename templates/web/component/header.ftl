@@ -187,9 +187,9 @@
                 </li>
                 <#---------- Search Form ---------->
                 <li class="nav__tool-item search-form">
-                    <a class="nav__menu-search-btn" onclick="toggleSearchBar()">
+                    <button class="nav__menu-search-btn" onclick="toggleSearchBar()">
                         <i class="fas fa-search" style="color: #322372; font-size: 21px;"></i>
-                    </a>
+                    </button>
                 </li>
             </ul>
 
