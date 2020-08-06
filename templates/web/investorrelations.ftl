@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>${contentModel.title_s}</title>
+    <#-- <title>${contentModel.title_s}</title> -->
+    <title>Công ty CP Dược Thú y Cai Lậy</title>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
      <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
