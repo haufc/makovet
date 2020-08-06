@@ -152,7 +152,7 @@
     }
 </style>
 <header>
-    <section class="nav" style="overflow-x: hidden;">   
+    <section class="nav">   
         <div class="search-bar" id="searchBar">
             <input type="text" id="txtSearch">
             <button onclick="search()">
