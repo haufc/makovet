@@ -1543,6 +1543,36 @@ font-size: 16px;
   }
 }
 
+@media only screen and (max-width: 420px) {
+   .footer__item-address {
+       height: 100%;
+   }
+   .footer__item-address {
+       text-align: left;
+       margin-top: 10px;
+   }
+   
+   .footer__item-address {
+       justify-content: start;
+   }
+   
+   .footer__item-links {
+       padding: 0;
+   }
+   
+   .footer__item-copyright#bct {
+    text-align: left;
+   }
+   
+   .footer__item-copyright {
+       width: 100%;
+   }
+   
+   .old-site {
+        justify-content: start !important;
+   }
+}
+
 @media only screen and (max-width: 360px) {
     #magazine{
         max-width: 360px !important;
