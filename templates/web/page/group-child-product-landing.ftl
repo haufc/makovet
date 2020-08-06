@@ -95,7 +95,12 @@
                    $('#child-pr').text(strSplit[1]);
                }
             }
-
+            
+            var url = window.location.href;
+            
+            if (url.indexOf('/en') > -1) {
+                document.title = 'CAI LAY VETERINARY JOINT STOCK COMPANY';
+            }
            // $('#child-title').text(title);
         });
     </script>
