@@ -854,7 +854,7 @@ font-size: 16px;
   }
   .nav__menu-tools {
     margin: 10px 0;
-    display: block;
+    display: block !important;
     text-align: left;
   }
   .nav__menu-tools li {
