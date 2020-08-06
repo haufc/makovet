@@ -53,6 +53,7 @@
              var url = window.location.href;
              if (url.indexOf('/en') > -1) {
                  $('.view-more').text('See more');
+                 document.title = 'CAI LAY VETERINARY JOINT STOCK COMPANY';
              }
          });
     </script>
