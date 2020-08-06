@@ -11,7 +11,8 @@
     <meta name="geo.position" content="21.021691;105.824931">
     <meta name="geo.region" content="VN-Hanoi">
     <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
-    <title>${contentModel.diseaseName_s}</title>
+    <#--<title>${contentModel.diseaseName_s}</title>-->
+    <title>Công ty CP Dược Thú y Cai Lậy</title>
     <!-- FontAwesome -->
     <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
