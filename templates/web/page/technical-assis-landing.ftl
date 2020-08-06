@@ -220,7 +220,7 @@
                 $('#success-dialog-message').text('Your request has been processed!');
                 $('.sniper-close').text('Close');
                 $('.view-more').text('See more');
-                
+                document.title = 'CAI LAY VETERINARY JOINT STOCK COMPANY';
             }
             
             $('#btn-send').click(function() {
