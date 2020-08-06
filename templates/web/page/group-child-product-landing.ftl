@@ -35,7 +35,7 @@
         <div class="section-title">
             <div class="section-title__content block">
                 <span class="d-inline"><span class="section-title__content-text text--uppercase" id="parent-title"></span>
-                <span class="text-white font-weight-bold" style="font-size: 32px;" id="child-pr"></span></span>
+                <span class="text-white font-weight-bold section-title__content-text" style="font-size: 32px;" id="child-pr"></span></span>
             </div>
         </div>
         <div class="container mb-md-5 pl-lg-0 pl-md-0">
