@@ -844,7 +844,7 @@ font-size: 16px;
     position: absolute;
     top: 5%;
     right: 5%;
-    display: block;
+    display: block !important;
   }
   .nav__menu-item {
     margin: 10px 0;
@@ -1037,7 +1037,7 @@ font-size: 16px;
     position: absolute;
     top: 5%;
     right: 5%;
-    display: block;
+    display: block !important;
   }
   .nav__menu-item {
     margin: 10px 0;
@@ -1047,7 +1047,7 @@ font-size: 16px;
   }
   .nav__menu-tools {
     margin: 10px 0;
-    display: block;
+    display: block !important;
     text-align: left;
   }
   .nav__menu-tools li {
@@ -1170,7 +1170,7 @@ font-size: 16px;
     position: absolute;
     top: 5%;
     right: 5%;
-    display: block;
+    display: block !important;
   }
   .nav__menu-item {
     margin: 10px 0;
@@ -1180,7 +1180,7 @@ font-size: 16px;
   }
   .nav__menu-tools {
     margin: 10px 0;
-    display: block;
+    display: block !important;
     text-align: left;
   }
   .nav__menu-tools li {
@@ -1302,7 +1302,7 @@ font-size: 16px;
     position: absolute;
     top: 5%;
     right: 5%;
-    display: block;
+    display: block !important;
   }
   .nav__menu-item {
     margin: 10px 0;
@@ -1312,7 +1312,7 @@ font-size: 16px;
   }
   .nav__menu-tools {
     margin: 10px 0;
-    display: block;
+    display: block !important;
     text-align: left;
   }
   .nav__menu-tools li {
