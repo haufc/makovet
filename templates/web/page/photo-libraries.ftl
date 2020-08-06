@@ -4,6 +4,7 @@
   <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Công ty CP Dược Thú y Cai Lậy</title>
     <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/>
     
