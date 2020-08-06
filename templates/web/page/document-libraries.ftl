@@ -111,7 +111,7 @@
         $(document).ready(function(){
             var url = window.location.href;
             if (url.indexOf('/en') > -1) {
-                $('.document-title').text('Document library');
+                $('.document-title').text('CAI LAY VETERINARY JOINT STOCK COMPANY');
             }
         });
     </script>
