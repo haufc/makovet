@@ -840,6 +840,9 @@ font-size: 16px;
     padding: 30px;
     text-align: left;
   }
+  .nav__menu-search-btn{
+      background: none;
+  }
   .nav__menu-btn {
     position: absolute;
     top: 5%;
@@ -994,6 +997,9 @@ font-size: 16px;
   .section-title {
     background: #322372;
   }
+   .nav__menu-search-btn{
+      background: none;
+  }
   .section-title#newsTitle {
     display: none;
   }
@@ -1127,6 +1133,9 @@ font-size: 16px;
   .section-title {
     background: #322372;
   }
+   .nav__menu-search-btn{
+      background: none;
+  }
   .section-title#newsTitle {
     display: none;
   }
@@ -1258,6 +1267,9 @@ font-size: 16px;
   /* Modules */
   .section-title {
     background: #322372;
+  }
+   .nav__menu-search-btn{
+      background: none;
   }
   .section-title#newsTitle {
     display: none;
