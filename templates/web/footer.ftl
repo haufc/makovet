@@ -41,7 +41,7 @@
         
         <!-- /dấu xác nhận đã đăng ký của bộ công thương -->
     </div>
-    <div class="block flex" style="width:100%; justify-content:center; background: #322372;">
+    <div class="block flex old-site" style="width:100%; justify-content:center; background: #322372;">
             <a href="http://site.cailayvetco.com/"<p class="footer__item-title font-bold font-title text--center" style="font-size: 16px; padding-top:10px; color:#fff">Quay lại giao diện cũ website Mekovet</p></a>
     </div>
 </footer>
