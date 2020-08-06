@@ -10,7 +10,7 @@
     <meta name="geo.placename" content="Khu 5, thị trấn Cai Lậy, huyện Cai Lậy, tỉnh Tiền Giang">
     <meta name="geo.position" content="21.021691;105.824931">
     <meta name="geo.region" content="VN-Hanoi">
-    
+    <title>Công ty CP Dược Thú y Cai Lậy</title>
     <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
@@ -218,6 +218,7 @@
     <script src="/static-assets/js/nav-link.js"></script>
     <script src="/static-assets/js/techsupport.js"></script>
     <script src="/static-assets/js/process-list.js"></script>
+    <script src="/static-assets/js/search.js"></script>
     <script>
         // set width for google map
         $('iframe').attr('width','83%');
