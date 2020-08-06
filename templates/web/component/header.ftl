@@ -58,18 +58,6 @@
     justify-content: space-between;
     }
 
-  <#--  .nav__menu.show {
-    position: absolute;
-    top: 0;
-    z-index: 3;
-    width: 100%;
-    height: 100%;
-    display: block;
-    background-color: #322372;
-    -webkit-transition: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
-    }
-
     .nav__menu-item:not(:last-child) {
     margin-right: 30px;
     }
@@ -149,7 +137,7 @@
     }
     .nav__dropdown-item{
     margin: 10px;
-    } -->
+    } 
 </style>
 <header>
     <section class="nav" style="overflow: hidden;">   
