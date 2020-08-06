@@ -1571,6 +1571,15 @@ font-size: 16px;
    .old-site {
         justify-content: start !important;
    }
+   
+   .footer__item#social {
+       position: relative;
+   }
+   
+   .footer__item-btns {
+       position: absolute;
+       top: 50%;
+   }
 }
 
 @media only screen and (max-width: 360px) {
