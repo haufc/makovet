@@ -82,6 +82,15 @@
     <script src="/static-assets/js/job.js"></script> 
     <script src="/static-assets/js/search.js"></script>
     <script src="/static-assets/js/nav-link.js"></script>
+    <script>
+        $(document).ready(function() {
+           var url = window.location.href;
+           
+           if( url.indexOf('/en') > -1) {
+               document.title = 'CAI LAY VETERINARY JOINT STOCK COMPANY';
+           }
+        });
+    </script>
   </body>
 </html>
 <@studio.toolSupport />
