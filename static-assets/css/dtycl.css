@@ -841,7 +841,7 @@ font-size: 16px;
     text-align: left;
   }
   .nav__menu-search-btn{
-      background: none;
+      background: none !important;
   }
   .nav__menu-btn {
     position: absolute;
@@ -998,7 +998,7 @@ font-size: 16px;
     background: #322372;
   }
    .nav__menu-search-btn{
-      background: none;
+      background: none !important;
   }
   .section-title#newsTitle {
     display: none;
@@ -1134,7 +1134,7 @@ font-size: 16px;
     background: #322372;
   }
    .nav__menu-search-btn{
-      background: none;
+      background: none !important;
   }
   .section-title#newsTitle {
     display: none;
@@ -1269,7 +1269,7 @@ font-size: 16px;
     background: #322372;
   }
    .nav__menu-search-btn{
-      background: none;
+      background: none !important;
   }
   .section-title#newsTitle {
     display: none;
