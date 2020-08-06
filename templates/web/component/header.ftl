@@ -58,7 +58,7 @@
     justify-content: space-between;
     }
 
-    .nav__menu.show {
+  <#--  .nav__menu.show {
     position: absolute;
     top: 0;
     z-index: 3;
@@ -149,7 +149,7 @@
     }
     .nav__dropdown-item{
     margin: 10px;
-    }
+    } -->
 </style>
 <header>
     <section class="nav" style="overflow: hidden;">   
