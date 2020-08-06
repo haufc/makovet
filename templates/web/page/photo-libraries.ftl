@@ -297,6 +297,12 @@
                 $(modalImg).attr('alt', $(resulId).attr('id'));
                 srcIm = $(modalImg).attr('alt');
             });
+            
+            var url = window.location.href;
+            
+            if (url.indexOf('/en') > -1) {
+                document.title = 'CAI LAY VETERINARY JOINT STOCK COMPANY';
+            }
         });
     </script>
   </body>
