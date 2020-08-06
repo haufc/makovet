@@ -23,7 +23,8 @@
     <link rel="stylesheet" href="/static-assets/css/custom.css"/>
     <link rel="stylesheet" href="/static-assets/css/dtycl.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
-    <title>${contentModel.title_s}</title
+    <#--<title>${contentModel.title_s}</title>-->
+    <title>Công ty CP Dược Thú y Cai Lậy</title>
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
