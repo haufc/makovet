@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>${contentModel.title_s}</title>
+    <title>Công ty CP Dược Thú y Cai Lậy</title>
     <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon"> 
     <link rel="stylesheet" href="/static-assets/plugins/flag-icons/css/flag-icon.min.css"/>
     
@@ -62,7 +62,14 @@
     <script src="/static-assets/js/slide.js"></script>
     <script src="/static-assets/js/nav.js"></script>
     <script src="/static-assets/js/search.js"></script>
-    
+    <script>
+        $(document).ready(function() {
+            var url = window.location.href; 
+            if (url.indexOf('/en') > -1) {
+                document.title = 'CAI LAY VETERINARY JOINT STOCK COMPANY';
+            }
+        });
+    </script>
   </body>
 </html>
 <@studio.toolSupport /> 
