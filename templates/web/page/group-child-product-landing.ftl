@@ -10,8 +10,8 @@
     <meta name="geo.placename" content="Khu 5, thị trấn Cai Lậy, huyện Cai Lậy, tỉnh Tiền Giang">
     <meta name="geo.position" content="21.021691;105.824931">
     <meta name="geo.region" content="VN-Hanoi">
-    <title>${contentModel.title_s}</title>
-    
+    <#--<title>${contentModel.title_s}</title> -->
+    <title>Công ty CP Dược Thú y Cai Lậy</title>
     <link rel="shortcut icon" href="/static-assets/images/logos/favicon.ico" type="image/x-icon">
     <!-- FontAwesome -->
     <link rel="stylesheet" href="/static-assets/plugins/font-awesomeweb/css/all.min.css"/>
