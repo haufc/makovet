@@ -1463,6 +1463,9 @@ font-size: 16px;
     .nav__hotline {
         display: none;
     }
+    .nav {
+        overflow: hidden;
+    }
 }
 
 @media only screen and (max-width: 980px) {
