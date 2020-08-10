@@ -132,7 +132,7 @@
     </script>
     <script>
         $('.limit-text').each(function (f) {
-          var index = string.indexOf(' ', 50);
+          var index = string.indexOf(' ', 49);
           var newstr = $(this).text().substring(0,index);
           $(this).text(newstr).append("...");
         });
