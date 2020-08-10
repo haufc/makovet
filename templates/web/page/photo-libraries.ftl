@@ -24,6 +24,16 @@
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
     <script src="/static-assets/js/pagination.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175035151-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-175035151-1');
+    </script>
+
     <style>
 
         #myImg {
