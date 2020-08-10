@@ -30,9 +30,9 @@
                 <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/chinh-sach-bao-mat-thong-tin">chính sách bảo mật thông tin</a></li>
                 <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/chinh-sach-website">chính sách website</a></li>
                 <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/quy-uoc-su-dung-website">quy ước sử dụng website</a></li>
-                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/chinh-sach-bao-mat-thong-tin">điều kiện giao dịch trung</a></li>
-                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/chinh-sach-website">vận chuyển và giao nhận</a></li>
-                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/quy-uoc-su-dung-website">phương thức giao thức</a></li>
+                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/dieu-kien-giao-dich-chung">điều kiện giao dịch chung</a></li>
+                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/van-chuyen-va-giao-nhan">vận chuyển và giao nhận</a></li>
+                <li><a class="text--uppercase font-title" style=" margin-bottom: 15px;" href="/chinh-sach/phuong-thuc-thanh-toan">Phương thức thanh toán</a></li>
             </ul>
         </section>
 
