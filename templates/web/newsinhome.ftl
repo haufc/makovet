@@ -10,7 +10,7 @@
             <div class="news__container block">
                 <section class="news__block" id="tinNoiBo">
                     <div class="news__block-title" id="tinNoiBoTitle">
-                        <h1 class="text--uppercase">tin mekovet</h1>
+                        <h1 class="text--uppercase font-title">tin mekovet</h1>
                     </div>
 
             <div class="news__block-content">
