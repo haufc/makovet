@@ -132,7 +132,7 @@
     </script>
     <script>
         $('.limit-text').each(function (f) {
-          var newstr = $(this).text().substring(0,240);
+          var newstr = $(this).text().split(' ')[50];
           $(this).text(newstr).append("...");
         });
         jQuery(function($) {
