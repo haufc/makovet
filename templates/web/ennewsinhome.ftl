@@ -2,8 +2,8 @@
 <section class="news">
             <div class="news__title section-title" id="newsTitle">
                 <div class="news__title-container section-title__content block">
-                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNoiBoTitle"><a class="text-white" href="/en/news">Company news</a></h1>
-                    <h1 class="news__title-text section-title__content-text text--uppercase" id="tinNganhTitle"><a class="text-white" href="/en/document-library">Agriculture News</a></h1>
+                    <h1 class="news__title-text section-title__content-text text--uppercase font-title" id="tinNoiBoTitle"><a class="text-white font-title" href="/en/news">Company news</a></h1>
+                    <h1 class="news__title-text section-title__content-text text--uppercase font-title" id="tinNganhTitle"><a class="text-white font-title" href="/en/document-library">Agriculture News</a></h1>
                 </div>
             </div>
 
