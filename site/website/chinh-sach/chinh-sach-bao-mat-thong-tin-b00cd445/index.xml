@@ -6,13 +6,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>812974e6</objectGroupId>
 	<objectId>812974e6-9801-4767-8b44-dc220811d3ff</objectId>
-	<internal-name>Chính sách bảo mật thông tin b00cd445</internal-name>
-	<navLabel>Chính sách bảo mật thông tin</navLabel>
-	<title_s>Chính sách bảo mật thông tin</title_s>
+	<internal-name> Điều kiện giao dịch chung</internal-name>
+	<navLabel> Điều kiện giao dịch chung</navLabel>
+	<title_s> Điều kiện giao dịch chung</title_s>
 	<file-name>index.xml</file-name>
-	<folder-name>chinh-sach-bao-mat-thong-tin-b00cd445</folder-name>
+	<folder-name>dieu-kien-giao-dich-chung</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<imageBanner_s>/static-assets/images/news/img-chinh-sach.jpg</imageBanner_s>
 	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. TỔNG QUAN VỀ CH&amp;Iacute;NH S&amp;Aacute;CH BẢO MẬT TH&amp;Ocirc;NG TIN&lt;/strong&gt;&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;1.1 C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy (&amp;ldquo;MEKOVET&amp;rdquo;) hiểu r&amp;otilde; tầm quan trọng v&amp;agrave; t&amp;ocirc;n trọng quyền bảo mật th&amp;ocirc;ng tin c&amp;aacute; nh&amp;acirc;n (&amp;ldquo;Th&amp;ocirc;ng tin&amp;rdquo;) của người truy cập website v&amp;agrave; sử dụng dịch vụ của MEKOVET (người truy cập website v&amp;agrave;/hoặc mua sản phẩm, sử dụng dịch vụ của MEKOVET sau đ&amp;acirc;y gọi chung l&amp;agrave; &amp;ldquo;Kh&amp;aacute;ch h&amp;agrave;ng&amp;rdquo;); website, sản phẩm v&amp;agrave; dịch vụ sau đ&amp;acirc;y gọi chung l&amp;agrave; &amp;ldquo;Dịch vụ&amp;rdquo;), bằng thiện ch&amp;iacute; của m&amp;igrave;nh - MEKOVET với Ch&amp;iacute;nh s&amp;aacute;ch bảo mật Th&amp;ocirc;ng tin n&amp;agrave;y (&amp;ldquo;Ch&amp;iacute;nh s&amp;aacute;ch&amp;rdquo;) sẽ cung cấp nội dung tổng quan nhằm minh bạch h&amp;oacute;a mục đ&amp;iacute;ch thu thập th&amp;ocirc;ng tin; phạm vi v&amp;agrave; phương thức thu thập th&amp;ocirc;ng tin; phạm vi sử sụng, đối tượng tiếp cận, thời gian lưu trữ th&amp;ocirc;ng tin; c&amp;aacute;c li&amp;ecirc;n kết v&amp;agrave; sản phẩm của b&amp;ecirc;n thứ ba tr&amp;ecirc;n website; cam kết bảo mật th&amp;ocirc;ng tin; quyền lợi v&amp;agrave; tr&amp;aacute;ch nhiệm của Kh&amp;aacute;ch h&amp;agrave;ng; th&amp;ocirc;ng tin v&amp;agrave; phương thức li&amp;ecirc;n hệ được n&amp;ecirc;u tại Ch&amp;iacute;nh s&amp;aacute;ch n&amp;agrave;y.&lt;/p&gt;
@@ -96,8 +96,8 @@
 &lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-08-04T09:05:19.209Z</createdDate>
 	<createdDate_dt>2020-08-04T09:05:19.209Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T02:07:49.519Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T02:07:49.519Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-10T03:57:56.815Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T03:57:56.815Z</lastModifiedDate_dt>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>973a85f5-2cc7-77ec-0870-b31e0631e669</key>
 	<value>Slide</value>
 <component id="973a85f5-2cc7-77ec-0870-b31e0631e669">
