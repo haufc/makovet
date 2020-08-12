@@ -13,13 +13,13 @@
 	<file-name>index.xml</file-name>
 	<folder-name>magazine-1</folder-name>
 	<avatar_s>/static-assets/images/libraries/photos/photo2.png</avatar_s>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Catalogue Thuoc Thu y IN.pdf</key>
-	<value>/static-assets/images/libraries/Catalogue Thuoc Thu y IN.pdf</value>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Catalogue Thuoc Thu y XEM.pdf</key>
+	<value>/static-assets/images/libraries/Catalogue Thuoc Thu y XEM.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>55215227</fileSize_s>
+	<fileSize_s>10321224</fileSize_s>
 	</item></pDFfile_o>
 	<createdDate>2020-07-09T08:17:59.650Z</createdDate>
 	<createdDate_dt>2020-07-09T08:17:59.650Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T02:21:59.348Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T02:21:59.348Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-12T04:26:07.296Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T04:26:07.296Z</lastModifiedDate_dt>
 </page>
