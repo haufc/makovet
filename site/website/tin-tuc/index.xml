@@ -6,7 +6,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>4c60</objectGroupId>
 	<objectId>4c604ad7-afd0-f671-d440-76529fbf88de</objectId>
-	<description_t>Bản tin Makovet</description_t>
+	<description_t>Bản tin Mekovet</description_t>
 	<file-name>index.xml</file-name>
 	<folder-name>tin-tuc</folder-name>
 	<internal-name>Tin Tức</internal-name>
@@ -38,6 +38,6 @@
 	</item></sections_o>
 	<createdDate>2020-06-23T07:54:26.522Z</createdDate>
 	<createdDate_dt>2020-06-23T07:54:26.522Z</createdDate_dt>
-	<lastModifiedDate>2020-08-06T04:30:18.193Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-06T04:30:18.193Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-12T06:38:42.756Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T06:38:42.756Z</lastModifiedDate_dt>
 </page>
