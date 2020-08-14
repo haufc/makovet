@@ -5,7 +5,7 @@ def searchHelper = new DocumentEnSearchHelper(elasticsearch, urlTransformationSe
 def searchPDFHelper = new DocumentEnPDFSearchHelper(elasticsearch, urlTransformationService)
 
 def docs = searchHelper.searchdocs(0)
-def docsPDF = searchPDFHelper.searchdocs(0)
+def docsPDF = searchPDFHelper.searchdocs(true,0)
 
 templateModel.docs = docs
 templateModel.docsPDF = docsPDF
