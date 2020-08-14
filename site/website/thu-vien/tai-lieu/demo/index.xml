@@ -13,8 +13,8 @@
 	<folder-name>demo</folder-name>
 	<createdDate>2020-07-08T09:52:43.091Z</createdDate>
 	<createdDate_dt>2020-07-08T09:52:43.091Z</createdDate_dt>
-	<lastModifiedDate>2020-08-01T02:14:01.152Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-01T02:14:01.152Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-14T03:24:47.287Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-14T03:24:47.287Z</lastModifiedDate_dt>
 	<avatar_s>/static-assets/images/libraries/Bia Profile.jpg</avatar_s>
 	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Profile Mavin Group.pdf</key>
 	<value>/static-assets/images/libraries/Profile Mavin Group.pdf</value>
@@ -22,4 +22,5 @@
 	<fileSize_s>20691560</fileSize_s>
 	</item></pDFfile_o>
 	<title_s>Profie giới thiệu Tập đoàn Mavin</title_s>
+	<isDisplay_b>true</isDisplay_b>
 </page>
