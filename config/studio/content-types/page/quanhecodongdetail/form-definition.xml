@@ -426,7 +426,7 @@
 						</property>
 						<property>
 							<name>fileManager</name>
-							<value></value>
+							<value>categories,slideDataSource</value>
 							<type>datasource:item</type>
 						</property>
 					</properties>
