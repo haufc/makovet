@@ -25,7 +25,7 @@ class DocumentPDFSearchHelper {
         def q = "${DOC_CONTENT_TYPE_QUERY}"
         
         if (isDisplay) {
-          q = "${q} AND isDisplay:true"
+          q = "${q} AND isDisplay_b:true"
         }
         
         if (additionalCriteria) {
