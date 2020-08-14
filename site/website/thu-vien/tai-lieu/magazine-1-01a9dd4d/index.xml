@@ -7,11 +7,11 @@
 	<objectGroupId>10408920</objectGroupId>
 	<objectId>10408920-451a-4ccb-b0bf-8db1e227259c</objectId>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<internal-name>Catalog thuốc thú y Mekovet 01a9dd4d</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Test</internal-name>
 	<title_s>Catalog thuốc thú y Mekovet</title_s>
 	<file-name>index.xml</file-name>
-	<folder-name>magazine-1-01a9dd4d</folder-name>
+	<folder-name>test</folder-name>
 	<avatar_s>/static-assets/images/libraries/photos/photo2.png</avatar_s>
 	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Catalogue Thuoc Thu y XEM.pdf</key>
 	<value>/static-assets/images/libraries/Catalogue Thuoc Thu y XEM.pdf</value>
@@ -20,7 +20,7 @@
 	</item></pDFfile_o>
 	<createdDate>2020-07-09T08:17:59.650Z</createdDate>
 	<createdDate_dt>2020-07-09T08:17:59.650Z</createdDate_dt>
-	<lastModifiedDate>2020-08-14T03:24:20.856Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-14T03:24:20.856Z</lastModifiedDate_dt>
-	<isDisplay_b>true</isDisplay_b>
+	<lastModifiedDate>2020-08-14T03:32:50.336Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-14T03:32:50.336Z</lastModifiedDate_dt>
+	<isDisplay_b>false</isDisplay_b>
 </page>
