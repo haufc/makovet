@@ -21,8 +21,12 @@ class DocumentEnPDFSearchHelper {
         this.urlTransformationService = urlTransformationService
     }
     
-    def searchdocs(start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
+    def searchdocs(isDisplay,start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
         def q = "${DOC_CONTENT_TYPE_QUERY}"
+        
+        if (isDisplay) {
+          q = "${q} AND isDisplay_b:true"
+        }
         
         if (additionalCriteria) {
           q = "${q} AND ${additionalCriteria}"
