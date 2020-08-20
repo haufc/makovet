@@ -204,10 +204,10 @@
                         <a class="nav__menu-sublink font-title" href="/gioi-thieu-chung">Giới thiệu chung</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="/gioi-thieu-chung/lich-su-hinh-thanh">Tầm nhìn sứ mệnh</a>
+                        <a class="nav__menu-sublink font-title" href="/gioi-thieu-chung/lich-su-hinh-thanh">Lịch sử hình thành</a>
                     </li>
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="/gioi-thieu-chung/su-menh">Lịch sử hình thành</a>
+                        <a class="nav__menu-sublink font-title" href="/gioi-thieu-chung/su-menh">Tầm nhìn sứ mệnh</a>
                     </li>
                     <li class="nav__sub-menu-item">
                         <a class="nav__menu-sublink font-title" href="/gioi-thieu-chung/thanh-tich-dat-duoc">Thành tích đạt được</a>
