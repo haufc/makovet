@@ -7,10 +7,10 @@
 	<objectGroupId>b6b87908</objectGroupId>
 	<objectId>b6b87908-e128-4699-bf87-5b8b90676c0e</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>giam-doc-chi-nhanh-mavin-duck-farm-143f4e3d</folder-name>
-	<internal-name>Giám đốc Chi nhánh Mavin Duck Farm  143f4e3d</internal-name>
-	<navLabel>Giám đốc Chi nhánh Mavin Farm</navLabel>
-	<jobTitle_s>Giám đốc Chi nhánh Mavin Duck Farm </jobTitle_s>
+	<folder-name>truong--phong-nhan-su</folder-name>
+	<internal-name>Trưởng phòng nhân sự 1</internal-name>
+	<navLabel>Trưởng phòng nhân sự 2</navLabel>
+	<jobTitle_s>Trưởng phòng nhân sự 3</jobTitle_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>cc84e57d-dd05-c025-5620-178e03bd4f12</key>
 	<value>Sldie Job Detail</value>
 <component id="cc84e57d-dd05-c025-5620-178e03bd4f12">
@@ -31,7 +31,7 @@
 </component>
 	</item></section_o>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<jobContent_html>&lt;p&gt;&lt;strong&gt;Số lượng tuyển: 1 người&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Quản l&amp;yacute;, gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; vận h&amp;agrave;nh c&amp;aacute;c hoạt động sản xuất &amp;ndash; kinh doanh mảng Duck-Farm tại chi nh&amp;aacute;nh Đồng Th&amp;aacute;p&lt;/p&gt;
@@ -60,8 +60,8 @@
 &lt;p&gt;- Ứng vi&amp;ecirc;n nộp hồ sơ qua mail vui l&amp;ograve;ng scan c&amp;aacute;c văn bằng, chứng chỉ, bảng điểm, CV v&amp;agrave; c&amp;aacute;c giấy tờ c&amp;oacute; li&amp;ecirc;n quan gửi v&amp;agrave;o Email C&amp;ocirc;ng ty: tuyendung@cailayvetco.com&lt;/p&gt;</jobContent_html>
 	<createdDate>2020-06-29T07:30:45.116Z</createdDate>
 	<createdDate_dt>2020-06-29T07:30:45.116Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T07:35:06.485Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T07:35:06.485Z</lastModifiedDate_dt>
-	<jobDuration_dt>2020-04-27T07:32:18.000Z</jobDuration_dt>
+	<lastModifiedDate>2020-08-24T08:02:43.149Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-24T08:02:43.149Z</lastModifiedDate_dt>
+	<jobDuration_dt>2020-08-24T08:03:49.000Z</jobDuration_dt>
 	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
 </page>
