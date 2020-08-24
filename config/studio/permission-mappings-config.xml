@@ -77,6 +77,32 @@
 -->
 <permissions>
    <version>12</version>
+   <role name="product">
+       <rule regex="/site/website/san-pham-1/.*">
+         <allowed-permissions>
+           <permission>Read</permission>
+           <permission>Write</permission>
+           <permission>Create Content</permission>
+           <permission>Create Folder</permission>
+           <permission>Publish</permission>
+         </allowed-permissions>
+       </rule>
+       <rule regex="/static-assets/.*">
+         <allowed-permissions>
+           <permission>Read</permission>
+           <permission>Write</permission>
+           <permission>Delete</permission>
+           <permission>Create Content</permission>
+           <permission>Create Folder</permission>
+           <permission>Publish</permission>
+         </allowed-permissions>
+       </rule>
+       <rule regex="~DASHBOARD~">
+         <allowed-permissions>
+           <permission>Publish</permission>
+         </allowed-permissions>
+       </rule>
+    </role>
    <role name="mekovet">
         <rule regex="/.*">
             <allowed-permissions>
