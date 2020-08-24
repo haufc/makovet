@@ -10,7 +10,7 @@
 	<folder-name>nhan-vien-dieu-phoi-giao-nhan</folder-name>
 	<internal-name>Tuyển nhân viên Điều phối giao nhận</internal-name>
 	<navLabel>Tuyển nhân viên Điều phối giao nhận</navLabel>
-	<jobTitle_s>Tuyển nhân viên kinh doanh An Giang, Đồng Nai, Lâm Đồng, Đăk Lăk</jobTitle_s>
+	<jobTitle_s>Tuyển nhân viên Điều phối giao nhận</jobTitle_s>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</key>
 	<value>Job Slide</value>
 <component id="de4d6544-37a0-6bce-d2b5-fcdebfa0405f">
@@ -65,8 +65,8 @@
 &lt;/div&gt;</jobContent_html>
 	<createdDate>2020-06-29T07:27:00.149Z</createdDate>
 	<createdDate_dt>2020-06-29T07:27:00.149Z</createdDate_dt>
-	<lastModifiedDate>2020-08-24T06:50:16.719Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-24T06:50:16.719Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-24T06:52:11.811Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-24T06:52:11.811Z</lastModifiedDate_dt>
 	<jobDuration_dt>2020-07-20T07:33:32.000Z</jobDuration_dt>
 	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
 </page>
