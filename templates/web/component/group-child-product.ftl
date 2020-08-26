@@ -7,10 +7,10 @@
     <div class="container pl-lg-0 pl-md-0">
         <div class="row" style="margin-right: 0 !important;margin-left: 0 !important;">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pl-md-0 pl-lg-0 babber-img-left">
-                <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
+                <img class="img-res" src="${contentModel.groupProductImg1_s}" width="554" height="372"/>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pl-md-0 pl-lg-0 babber-img-left">
-                <img class="img-full" src="${contentModel.groupProductImg2_s}" width="554" height="372" />
+                <img class="img-res" src="${contentModel.groupProductImg2_s}" width="554" height="372" />
             </div>
             <#--
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
