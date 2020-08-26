@@ -45,7 +45,7 @@
 	<internal-name>Sản phẩm dành cho trâu bò</internal-name>
 	<title_s>Sản phẩm dành cho trâu bò</title_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Trau bo NHOM).png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Trau bo 1).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
@@ -67,13 +67,13 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-06-23T04:34:45.063Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:45.063Z</createdDate_dt>
-	<lastModifiedDate>2020-08-26T07:56:25.838Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-26T07:56:25.838Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T10:05:03.157Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:05:03.157Z</lastModifiedDate_dt>
 	<rightTitle_s>B-COMPLEX</rightTitle_s>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
-	<lastModifiedDate>2020-08-26T07:56:20.161Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-26T07:56:20.161Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T10:04:58.201Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:04:58.201Z</lastModifiedDate_dt>
 </page>
