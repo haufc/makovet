@@ -43,7 +43,7 @@
 	<title_s>Sản phẩm dành cho chó - mèo</title_s>
 	<rightTitle_s>D.M.C</rightTitle_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/106 DMC CMA.png</groupProductImg2_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Cho meo NHOM).png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
 	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Cho meo 1).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
@@ -65,14 +65,14 @@
 	</item></groupproductchild_o>
 	<createdDate>2020-08-03T09:21:53.761Z</createdDate>
 	<createdDate_dt>2020-08-03T09:21:53.761Z</createdDate_dt>
-	<lastModifiedDate>2020-08-26T07:50:16.967Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-26T07:50:16.967Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T10:07:57.693Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:07:57.693Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<file-name>index.xml</file-name>
 	<folder-name>thuoc-cho-meo</folder-name>
 	<createdDate>2020-08-03T09:20:15.906Z</createdDate>
 	<createdDate_dt>2020-08-03T09:20:15.906Z</createdDate_dt>
-	<lastModifiedDate>2020-08-26T07:49:23.814Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-26T07:49:23.814Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T10:07:48.919Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:07:48.919Z</lastModifiedDate_dt>
 </page>
