@@ -10,7 +10,7 @@
                 <img class="img-full" src="${contentModel.groupProductImg1_s}"/>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pl-md-0 pl-lg-0 babber-img-left">
-                <img class="img-full" src="${contentModel.groupProductImg2_s}"/>
+                <img class="img-full" src="${contentModel.groupProductImg2_s}" width="554" height="372" />
             </div>
             <#--
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 right-banner" style="background-color:#ffcb08;">
