@@ -5,7 +5,7 @@
         </div>
     </div>
     <div class="container pl-lg-0 pl-md-0">
-        <div class="row" style="margin-right: 0 !important;margin-left: 0 !important;">
+        <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pr-md-4 pr-lg-4 babber-img-left">
                 <img class="img-res" src="${contentModel.groupProductImg1_s}" width="576" height="372"/>
             </div>
