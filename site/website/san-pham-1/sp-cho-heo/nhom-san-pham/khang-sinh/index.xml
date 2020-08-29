@@ -9,11 +9,11 @@
 	<internal-name>Nhóm thuốc kháng sinh</internal-name>
 	<navLabel>Nhóm thuốc kháng sinh</navLabel>
 	<title_s>Nhóm thuốc kháng sinh</title_s>
-	<rightTitle_s>Ampicolistin</rightTitle_s>
+	<rightTitle_s>CATAXIM</rightTitle_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
-	<rightimage_s>/static-assets/images/products/114 MEKOFLOX 10A.png</rightimage_s>
+	<rightimage_s>/static-assets/images/products/Cataxim_thay.png</rightimage_s>
 	<file-name>index.xml</file-name>
 	<folder-name>khang-sinh</folder-name>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>bec5bcc1-8ddf-2774-bdc7-6075ac645e31</key>
@@ -42,6 +42,6 @@
 	</item></productChildgroup_o>
 	<createdDate>2020-08-03T06:42:02.742Z</createdDate>
 	<createdDate_dt>2020-08-03T06:42:02.742Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T06:42:02.742Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T06:42:02.742Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-29T01:33:48.294Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T01:33:48.294Z</lastModifiedDate_dt>
 </page>
