@@ -37,8 +37,8 @@
             display: block;
             margin-left: auto;
             margin-right: auto;
-            width: 160px;
-            height: 239px;
+            width: 175px;
+            height: 185px;
         }
         
         .product-header__buy {
