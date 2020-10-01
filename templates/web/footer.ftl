@@ -38,7 +38,7 @@
 
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
         <section class="footer__item-copyright" id="bct">
-            <img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương">
+            <!--<img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương"> -->
             <p class="" style="font-weight: 100; font-size: 11px;">${contentModel.copyrighted_s}</p>
         </section>
         
