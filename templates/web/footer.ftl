@@ -38,7 +38,7 @@
 
         <!-- dấu xác nhận đã đăng ký của bộ công thương -->
         <section class="footer__item-copyright" id="bct">
-            <a href='http://online.gov.vn/Home/WebDetails/72369'><img alt='' title='' src='http://online.gov.vn/Content/EndUser/LogoCCDVSaleNoti/logoSaleNoti.png'/></a>
+            <a href='http://online.gov.vn/Home/WebDetails/72369'><img class="footer__item-img" alt='' title='' src='http://online.gov.vn/Content/EndUser/LogoCCDVSaleNoti/logoSaleNoti.png'/></a>
             <!--<img class="footer__item-img" src="${contentModel.tick_s}" alt="Bộ Công thương"> -->
             <!-- <p class="" style="font-weight: 100; font-size: 11px;">${contentModel.copyrighted_s}</p> -->
         </section>
