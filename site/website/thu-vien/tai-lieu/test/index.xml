@@ -13,13 +13,14 @@
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<avatar_s>/static-assets/images/libraries/6.-cham-soc-KH.jpg</avatar_s>
-	<pDFfile_o item-list="true">	<item datasource="fileExisting">	<key>/static-assets/images/libraries/2. Thong tin ung vien A.doc</key>
-	<value>/static-assets/images/libraries/2. Thong tin ung vien A.doc</value>
-	<fileType_mvs>doc</fileType_mvs>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/page-demo.docx</key>
+	<value>/static-assets/images/libraries/page-demo.docx</value>
+	<fileType_mvs>docx</fileType_mvs>
+	<fileSize_s>11442</fileSize_s>
 	</item></pDFfile_o>
 	<isDisplay_b>true</isDisplay_b>
 	<createdDate>2020-10-17T00:31:23.001Z</createdDate>
 	<createdDate_dt>2020-10-17T00:31:23.001Z</createdDate_dt>
-	<lastModifiedDate>2020-10-17T00:31:23.001Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-10-17T00:31:23.001Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-10-17T01:04:10.384Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-10-17T01:04:10.384Z</lastModifiedDate_dt>
 </page>
