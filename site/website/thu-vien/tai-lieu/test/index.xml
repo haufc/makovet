@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemoEn</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>df78</objectGroupId>
+	<objectId>df78079b-7c28-9121-aee2-a8bf3b4ee277</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test</folder-name>
+	<internal-name>testword</internal-name>
+	<title_s>tests</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<avatar_s>/static-assets/images/libraries/6.-cham-soc-KH.jpg</avatar_s>
+	<pDFfile_o item-list="true">	<item datasource="fileExisting">	<key>/static-assets/images/libraries/2. Thong tin ung vien A.doc</key>
+	<value>/static-assets/images/libraries/2. Thong tin ung vien A.doc</value>
+	<fileType_mvs>doc</fileType_mvs>
+	</item></pDFfile_o>
+	<isDisplay_b>true</isDisplay_b>
+	<createdDate>2020-10-17T00:31:23.001Z</createdDate>
+	<createdDate_dt>2020-10-17T00:31:23.001Z</createdDate_dt>
+	<lastModifiedDate>2020-10-17T00:31:23.001Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-10-17T00:31:23.001Z</lastModifiedDate_dt>
+</page>
