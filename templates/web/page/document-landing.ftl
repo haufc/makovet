@@ -77,6 +77,7 @@
                 let idurlDown= ('#down-' + i);
                 let urlDown= idurlDown.val();
                 
+                console.log(idurlDown)
                 console.log(urlDown);
                 $(id).attr('href','/static-assets/images/libraries/2. Thong tin ung vien A.doc');
                 $(idTitle).attr('href',urlDown);
