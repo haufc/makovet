@@ -75,7 +75,7 @@
                 var idTitle= "#docxx-" + i;
                 
                 var urlDown= ("#down-" + i).value();
-                $(id).attr('href',urlDown)
+                $(id).attr('href','/static-assets/images/libraries/2. Thong tin ung vien A.doc')
                 $(idTitle).attr('href',urlDown)
                
            }
