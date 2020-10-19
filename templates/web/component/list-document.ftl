@@ -40,12 +40,12 @@
                 <#list docsDOCX as docsDOCX>
                 	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 doc-item mb-4" style="position: relative;">
                 	   <figure style="width: 100%; height: 256.757px;">
-                          <a href="${docsDOCX.urldown}">
+                          <a href="${docsDOCX.url}">
                             <img style="height: 100%;object-fit: cover;width: 100%;" src="${docsDOCX.avatar}"/>
                           </a>
                         </figure>
                         <div class="cap-content" style="background: #322372;left: 4%;bottom:0;position: absolute;width: 92%;">
-                            <a  href="${docsDOCX.urldown}">
+                            <a  href="${docsDOCX.url}">
                                 <h3 id="doc-${docsDOCX?index}" style="margin-bottom: 0 !important; padding: 12px;font-size:20px;" class="video-name text-white text--uppercase font-title" style="fon">${docsDOCX.title}</h3>
                             </a>
                         </div>
