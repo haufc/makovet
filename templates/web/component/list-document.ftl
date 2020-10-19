@@ -45,7 +45,7 @@
                           </a>
                         </figure>
                         <div class="cap-content" style="background: #322372;left: 4%;bottom:0;position: absolute;width: 92%;">
-                            <a  href="${docsDOCX.url}" class="url_docx" id="docx-${docsDOCX?index}">
+                            <a  href="${docsDOCX.url}" class="url_docx" id="docxx-${docsDOCX?index}">
                                 <h3 id="doc-${docsDOCX?index}" style="margin-bottom: 0 !important; padding: 12px;font-size:20px;" class="video-name text-white text--uppercase font-title" style="fon">${docsDOCX.title}</h3>
                             </a>
                         </div>
