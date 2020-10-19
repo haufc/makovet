@@ -1,5 +1,6 @@
 import org.craftercms.blueprints.headless.DocumentSearchHelper
 import org.craftercms.blueprints.headless.DocumentPDFSearchHelper
+import org.craftercms.blueprints.headless.DocumentDOCXSearchHelper
 
 def searchHelper = new DocumentSearchHelper(elasticsearch, urlTransformationService)
 def searchPDFHelper = new DocumentPDFSearchHelper(elasticsearch, urlTransformationService)
