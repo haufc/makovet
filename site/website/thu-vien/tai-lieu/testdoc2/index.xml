@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagethvintiliudocx</content-type>
+	<display-template>/templates/web/docx.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c1c4</objectGroupId>
+	<objectId>c1c4eb8a-4068-2c6f-4e4e-1aa629340d63</objectId>
+	<internal-name>test doc 2</internal-name>
+	<navLabel>ffff</navLabel>
+	<title_s>test doc 2</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>testdoc2</folder-name>
+	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
+	<dOCXfile_o item-list="true">	<item datasource="fileExisting">	<key>/static-assets/images/libraries/2. Thong tin ung vien A.doc</key>
+	<value>/static-assets/images/libraries/2. Thong tin ung vien A.doc</value>
+	<fileType_mvs>doc</fileType_mvs>
+	</item></dOCXfile_o>
+	<isDisplay_b>true</isDisplay_b>
+	<createdDate>2020-10-19T07:15:05.400Z</createdDate>
+	<createdDate_dt>2020-10-19T07:15:05.400Z</createdDate_dt>
+	<lastModifiedDate>2020-10-19T07:15:05.400Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-10-19T07:15:05.400Z</lastModifiedDate_dt>
+</page>
