@@ -68,6 +68,13 @@
                    $(id).text(docName + '...');
                }
            }
+            var itemDocx = $('.url_docx').length;
+           for(let i = 0; i < itemDocx; i++) {
+                let id = "#docx-" + i;
+               
+                   $(id).attr('href','aaa')
+               
+           }
            
            var url = window.location.href;
             if (url.indexOf('/en') > -1) {
