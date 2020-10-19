@@ -71,10 +71,10 @@
             var itemDocx = $('.url_docx').length;
            for(let i = 0; i < itemDocx; i++) {
                 
-                var id = "#docx-" + i;
-                var idTitle= "#docxx-" + i;
+                let id = "#docx-" + i;
+                let idTitle= "#docxx-" + i;
                 
-                var urlDown= ("#down-" + i).value();
+                let urlDown= ("#down-" + i).value();
                 $(id).attr('href','/static-assets/images/libraries/2. Thong tin ung vien A.doc')
                 $(idTitle).attr('href',urlDown)
                
