@@ -71,10 +71,10 @@
             var itemDocx = $('.url_docx').length;
            for(let i = 0; i < itemDocx; i++) {
                 
-                let id = "#docx-" + i;
-                let idTitle= "#docxx-" + i;
+                var id = "#docx-" + i;
+                var idTitle= "#docxx-" + i;
                 
-                let urlDown= ("#down-" + i).value;
+                var urlDown= ("#down-" + i).value;
                 $(id).attr('href',urlDown)
                 $(idTitle).attr('href',urlDown)
                
