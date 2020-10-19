@@ -74,10 +74,9 @@
                 let id = "#docx-" + i;
                 let idTitle= "#docxx-" + i;
                 
-                let idurlDown= document.getElementById("down-" + i).value;
+                let urlDown= document.getElementById("down-" + i).value;
                 
-                console.log(idurlDown)
-                $(id).attr('href','/static-assets/images/libraries/2. Thong tin ung vien A.doc');
+                $(id).attr('href',urlDown);
                 $(idTitle).attr('href',urlDown);
                
            }
