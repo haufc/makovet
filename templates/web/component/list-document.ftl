@@ -39,7 +39,7 @@
                 </#list>
                 <#list docsDOCX as docsDOCX>
                 	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 doc-item mb-4" style="position: relative;">
-                	    <input type="hidden" value="${docsDOCX.urldown}" id="down-${docsDOCX?index}"/>
+                	   <!-- <input type="hidden" value="${docsDOCX.urldown}" id="down-${docsDOCX?index}"/> -->
                 	   <figure style="width: 100%; height: 256.757px;">
                           <a href="${docsDOCX.url}" class="url_docx" id="docx-${docsDOCX?index}">
                             <img style="height: 100%;object-fit: cover;width: 100%;" src="${docsDOCX.avatar}"/>
