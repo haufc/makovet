@@ -74,9 +74,9 @@
                 let id = "#docx-" + i;
                 let idTitle= "#docxx-" + i;
                 
-                let urlDown= ("#down-" + i).val();
-                   $(id).attr('href','urlDown')
-                   $(idTitle).attr('href','urlDown')
+                let urlDown= ("#down-" + i).value;
+                $(id).attr('href','urlDown')
+                $(idTitle).attr('href','urlDown')
                
            }
            
