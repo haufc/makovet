@@ -70,10 +70,13 @@
            }
             var itemDocx = $('.url_docx').length;
            for(let i = 0; i < itemDocx; i++) {
+                
                 let id = "#docx-" + i;
                 let idTitle= "#docxx-" + i;
-                   $(id).attr('href','aaa')
-                   $(idTitle).attr('href','bbbb')
+                
+                let urlDown= ("#down-" + i).val();
+                   $(id).attr('href','urlDown')
+                   $(idTitle).attr('href','urlDown')
                
            }
            
