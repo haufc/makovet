@@ -57,7 +57,7 @@ class DocumentDOCXSearchHelper {
                 def item = [:]
                     item.title = doc.title_s
                     item.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
-                    item.urldown = doc.dOCXfile_o.item.key
+                    item.urldown = doc.dOCXfile_o.item
                     item.avatar = doc.avatar_s
                 docs << item
             }
