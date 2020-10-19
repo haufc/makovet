@@ -74,7 +74,7 @@
                 let id = "#docx-" + i;
                 let idTitle= "#docxx-" + i;
                 
-                let idurlDown= ('#down-' + i);
+                let idurlDown= "#down-" + i;
                 let urlDown= idurlDown.value;
                 
                 console.log(idurlDown)
