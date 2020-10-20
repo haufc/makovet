@@ -70,10 +70,10 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 mb-4 photo-item">
                             <div class="item-box" style="position: relative;">
                                 <figure style="width: 100%; height: 256.757px;">
-                                  <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
+                                  <a  data-small-btn="true" href="${video.videoYoutubeURL_s}">
                                     <span class="play-icon"><i class="fa fa-play text-white"></i></span>
                                   </a>
-                                  <a data-fancybox data-small-btn="true" href="${video.videoYoutubeURL_s}">
+                                  <a data-small-btn="true" href="${video.videoYoutubeURL_s}">
                                     <img style="height: 100%;object-fit: cover;width: 100%;" id="img-${video?index}" src="${video.videoBanner_s}" alt="${video.videoName_s}"/>
                                   </a>
                                 </figure>
