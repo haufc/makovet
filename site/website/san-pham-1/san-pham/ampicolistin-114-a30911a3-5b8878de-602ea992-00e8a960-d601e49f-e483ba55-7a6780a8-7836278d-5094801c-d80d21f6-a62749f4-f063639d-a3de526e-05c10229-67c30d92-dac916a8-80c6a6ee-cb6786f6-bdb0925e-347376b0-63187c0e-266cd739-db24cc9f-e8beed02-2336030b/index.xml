@@ -29,7 +29,7 @@
 	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
 	<value_smv>Nhóm thuốc kháng sinh</value_smv>
 	</item></productgrouplv2_o>
-	<productImage_s>/static-assets/images/products/79 AMPICOLI B 100gA.png</productImage_s>
+	<productImage_s>/static-assets/images/products/Ampicoli B.png</productImage_s>
 	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -59,7 +59,7 @@
 	<createddate_dt>2020-08-05T08:41:08.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T08:41:02.930Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T08:41:02.930Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-29T07:10:00.511Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T07:10:00.511Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>

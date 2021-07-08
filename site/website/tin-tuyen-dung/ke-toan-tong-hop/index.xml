@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobdetail</content-type>
+	<display-template>/templates/web/page/job-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b3912ae1</objectGroupId>
+	<objectId>b3912ae1-0248-49d0-b7fc-086bb4de797f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ke-toan-tong-hop</folder-name>
+	<internal-name>Tuyển kế toán tổng hợp</internal-name>
+	<navLabel>Tuyển kế toán tổng hợp</navLabel>
+	<jobTitle_s>Tuyển kế toán tổng hợp</jobTitle_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</key>
+	<value>Job Slide</value>
+<component id="de4d6544-37a0-6bce-d2b5-fcdebfa0405f">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>de4d</objectGroupId>
+	<objectId>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>de4d6544-37a0-6bce-d2b5-fcdebfa0405f.xml</file-name>
+	<internal-name>Job Slide</internal-name>
+	<createdDate>2020-06-29T07:28:12.532Z</createdDate>
+	<createdDate_dt>2020-06-29T07:28:12.532Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T02:48:12.296Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:48:12.296Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<jobContent_html>&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;Số lượng tuyển: 2 người&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;C&amp;ocirc;ng việc m&amp;ocirc; tả:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;-&amp;nbsp;&lt;span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Thực hiện c&amp;ocirc;ng việc kế to&amp;aacute;n tổng hợp của c&amp;ocirc;ng ty sản xuất&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;-&amp;nbsp;&lt;span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Quản l&amp;yacute; v&amp;agrave; hướng dẫn nghiệp vụ cho kế to&amp;aacute;n vi&amp;ecirc;n&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- &lt;span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Thực hiện c&amp;ocirc;ng việc kiểm tra số liệu, b&amp;aacute;o c&amp;aacute;o định kỳ&lt;/span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;Y&amp;ecirc;u cầu:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Giới t&amp;iacute;nh: Nam/ Nữ;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Tốt nghiệp đại học kế to&amp;aacute;n;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;-&amp;nbsp;&lt;span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0in; padding: 0in; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;C&amp;oacute; kinh nghiệm từ 02 năm trở l&amp;ecirc;n tại vị tr&amp;iacute; tương đương trong c&amp;ocirc;ng ty sản xuất&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Th&amp;agrave;nh thạo vi t&amp;iacute;nh văn ph&amp;ograve;ng;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;-&amp;nbsp;&lt;span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Biết sử dụng phần mềm (Misa, fast/ERP)&lt;/span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;Quyền lợi:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Thu nhập: thỏa thuận cạnh tranh&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Hưởng tất cả c&amp;aacute;c quyền lợi về BHXH, YT, TN, c&amp;aacute;c ng&amp;agrave;y Lễ, Tết theo quy định của ph&amp;aacute;p luật.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;-&amp;nbsp;&lt;span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: red; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0in; padding: 0in; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;C&amp;oacute; cơ hội thăng tiến tại c&amp;ocirc;ng ty v&amp;agrave; Tập đo&amp;agrave;n Mavin&lt;/span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;Hồ sơ y&amp;ecirc;u cầu:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Hồ sơ xin việc, giấy x&amp;aacute;c nhận hạnh kiểm, giấy kh&amp;aacute;m sức khỏe (trong v&amp;ograve;ng 6 th&amp;aacute;ng).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Giấy chứng minh nh&amp;acirc;n d&amp;acirc;n, Sổ hộ khẩu gia đ&amp;igrave;nh (bản sao).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- C&amp;aacute;c bằng văn bản, chứng chỉ c&amp;oacute; li&amp;ecirc;n quan.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;H&amp;igrave;nh thức li&amp;ecirc;n hệ:&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Nộp hồ sơ trực tiếp tại c&amp;ocirc;ng ty.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Ứng vi&amp;ecirc;n nộp hồ sơ qua mail vui l&amp;ograve;ng chụp c&amp;aacute;c văn bản bằng, chứng chỉ, bảng điểm, CV v&amp;agrave; c&amp;aacute;c tờ giấy c&amp;oacute; li&amp;ecirc;n quan gửi v&amp;agrave;o Email C&amp;ocirc;ng ty: &lt;strong&gt;&lt;span style="background-color: #ffffff; color: #3598db;"&gt;&lt;a href="mailto:tuyendung@cailayvetco.com"&gt;tuyendung@cailayvetco.com&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Ứng vi&amp;ecirc;n tải mẫu CV &lt;a href="https://mavin-group.com/FileUpload/Documents/Mau%20CV%20ung%20vien%20MKV.doc"&gt;&lt;strong&gt;&lt;span style="background-color: #ecf0f1; color: #e74c3c;"&gt;tại đ&amp;acirc;y&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</jobContent_html>
+	<createdDate>2020-06-29T07:27:00.149Z</createdDate>
+	<createdDate_dt>2020-06-29T07:27:00.149Z</createdDate_dt>
+	<lastModifiedDate>2020-10-16T09:56:08.074Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-10-16T09:56:08.074Z</lastModifiedDate_dt>
+	<jobDuration_dt>2020-10-16T09:19:04.000Z</jobDuration_dt>
+	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
+</page>

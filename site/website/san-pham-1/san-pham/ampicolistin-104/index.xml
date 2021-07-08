@@ -10,7 +10,7 @@
 	<folder-name>ampicolistin-104</folder-name>
 	<internal-name>ADB.COMPLEX</internal-name>
 	<navLabel>ADB.COMPLEX</navLabel>
-	<productName_s>ADB.COMPLEX</productName_s>
+	<productName_s>ADB.Complex</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
@@ -27,7 +27,7 @@
 	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
 	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
 	</item></productgrouplv2_o>
-	<productImage_s>/static-assets/images/products/67 ADB.COMPLEX 100gA.png</productImage_s>
+	<productImage_s>/static-assets/images/products/ADB Complex.png</productImage_s>
 	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -58,7 +58,7 @@
 	<createddate_dt>2020-08-05T08:40:34.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T08:40:26.934Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T08:40:26.934Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-29T07:18:41.537Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T07:18:41.537Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>

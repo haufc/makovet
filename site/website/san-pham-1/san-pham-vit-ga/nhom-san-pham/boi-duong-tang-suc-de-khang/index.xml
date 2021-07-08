@@ -13,7 +13,7 @@
 	<title_s>Nhóm Bồi dưỡng, tăng sức đề kháng </title_s>
 	<rightTitle_s>ADEB-METHILYSIN</rightTitle_s>
 	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
-	<rightimage_s>/static-assets/images/products/68 ADEB-MethilysinA.png</rightimage_s>
+	<rightimage_s>/static-assets/images/products/ADEB-Methilysin.png</rightimage_s>
 	<file-name>index.xml</file-name>
 	<folder-name>boi-duong-tang-suc-de-khang</folder-name>
 	<section_o item-list="true">	<item datasource="section" inline="true">	<key>cb600876-24ff-3d21-4ee8-47f5fbcf691f</key>
@@ -42,6 +42,6 @@
 	</item></productChildgroup_o>
 	<createdDate>2020-08-03T08:01:22.600Z</createdDate>
 	<createdDate_dt>2020-08-03T08:01:22.600Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:53:40.393Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:53:40.393Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-29T07:27:05.677Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T07:27:05.677Z</lastModifiedDate_dt>
 </page>

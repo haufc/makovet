@@ -39,31 +39,31 @@
 	<internal-name>Sản phẩm dành gà vịt</internal-name>
 	<title_s>Sản phẩm dành cho gà - vịt</title_s>
 	<rightTitle_s>CL.NEOTESUL</rightTitle_s>
-	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/90 CL-NEOTESUL 1A.png</groupProductImg2_s>
+	<groupProductImg1_s>/static-assets/images/products/San pham (cho Ga - Vit ANH).png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Ga - Vit NHOM).png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 1).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc/kháng sinh</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 2).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/khang-sinh</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 3).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/giam-dau-ha-sot-khang-viem</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 4).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/ky-sinh-trung-nam-cau-trung</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng/thuốc dùng ngoài</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 5).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/sat-trung-dung-ngoai</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc hỗ trợ/sinh sản và hỗ trợ khác</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 6).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/ho-tro-sinh-san-ho-tro-khac</groupChildProductURL_s>
 	</item></groupproductchild_o>
 	<createdDate>2020-08-03T09:11:27.536Z</createdDate>
 	<createdDate_dt>2020-08-03T09:11:27.536Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:51:14.702Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:51:14.702Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T09:57:31.464Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T09:57:31.464Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<internal-name>Các Nhóm Sản phẩm dành cho gà vịt</internal-name>
@@ -73,6 +73,6 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<createdDate>2020-08-03T09:09:27.088Z</createdDate>
 	<createdDate_dt>2020-08-03T09:09:27.088Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T06:51:07.126Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T06:51:07.126Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T09:57:25.461Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T09:57:25.461Z</lastModifiedDate_dt>
 </page>

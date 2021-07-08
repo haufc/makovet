@@ -8,9 +8,9 @@
 	<objectId>64de2024-fcda-9645-27d7-d8ba9bd2599d</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>3-lop-bao-ve-giup-dan-tai-dan-lon-tc</folder-name>
-	<internal-name>3 lớp bảo vệ giúp dân tái đàn lợn thành công</internal-name>
+	<internal-name>3 lớp bảo vệ giúp dân tái đàn lợn </internal-name>
 	<navLabel>3 lớp bảo vệ giúp dân tái đàn lợn thành công</navLabel>
-	<title_s>3 lớp bảo vệ giúp dân tái đàn lợn thành công</title_s>
+	<title_s>3 lớp bảo vệ giúp dân tái đàn lợn </title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
@@ -41,7 +41,7 @@
 &lt;p style="text-align: justify;"&gt;Nguồn: B&amp;aacute;o D&amp;acirc;n Việt&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T05:35:33.636Z</createdDate>
 	<createdDate_dt>2020-07-31T05:35:33.000Z</createdDate_dt>
-	<lastModifiedDate>2020-07-31T05:35:33.636Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-07-31T05:35:33.636Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-01-13T03:19:45.813Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-13T03:19:45.813Z</lastModifiedDate_dt>
 	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
 </page>

@@ -44,36 +44,36 @@
 	<file-name>d08725b0-77c9-06ad-2193-779ecbcf1770.xml</file-name>
 	<internal-name>Sản phẩm dành cho heo</internal-name>
 	<title_s>Sản phẩm dành cho heo</title_s>
-	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/CL TYLVA 50 moi.png</groupProductImg2_s>
+	<groupProductImg1_s>/static-assets/images/products/San pham (cho Heo ANH).png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Heo NHOM).png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc/tăng sức đề kháng</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 1).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc/kháng sinh</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 2).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/khang-sinh</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 3).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/giam-dau-ha-sot-khang-viem</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 4).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/ky-sinh-trung-nam-cau-trung</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng/Thuốc dùng ngoài</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 5).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/sat-trung-dung-ngoai</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc hỗ trợ/sinh sản và hỗ trợ khác</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 6).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/ho-tro-sinh-san-ho-tro-khac</groupChildProductURL_s>
 	</item></groupproductchild_o>
 	<createdDate>2020-06-23T04:34:45.063Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:45.063Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:39:57.545Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:39:57.545Z</lastModifiedDate_dt>
-	<rightTitle_s>CL-TYLVA 50</rightTitle_s>
+	<lastModifiedDate>2020-08-26T07:31:37.912Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T07:31:37.912Z</lastModifiedDate_dt>
+	<rightTitle_s>Sản phẩm dành cho Heo</rightTitle_s>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
-	<lastModifiedDate>2020-08-03T09:39:47.660Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-03T09:39:47.660Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T07:31:31.326Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T07:31:31.326Z</lastModifiedDate_dt>
 </page>

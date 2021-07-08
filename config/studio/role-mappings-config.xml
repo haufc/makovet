@@ -66,5 +66,11 @@
         <group name="site_reviewer">
             <role>reviewer</role>
         </group>
+        <group name="mekovet_admin">
+            <role>mekovet</role>
+        </group>
+        <group name="mekovet_product">
+            <role>product</role>
+        </group>
     </groups>
 </role-mappings>

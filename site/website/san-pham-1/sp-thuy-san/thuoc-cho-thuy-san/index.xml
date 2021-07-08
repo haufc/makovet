@@ -44,26 +44,26 @@
 	<internal-name>Sản phẩm cho thủy sản(Tôm,cá, ếch, lươn... )</internal-name>
 	<title_s>Sản phẩm cho thủy sản(Tôm,cá, ếch, lươn... )</title_s>
 	<groupProductImg1_s>/static-assets/images/products/thuy-san-left.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/MKV Growth New A.png</groupProductImg2_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Thuy san NHOM).png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Thuy san 1).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/nhom-san-pham/nhom-dinh-duong-khoang-tang-suc-de-khang</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm Thuốc  Phòng, trị bệnh</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Thuy san 2).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/nhom-san-pham/thuoc-phong-tri-benh</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm Xử lý nước, cải tạo môi trường</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Thuy san 3).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/nhom-san-pham/xu-ly-nuoc-cai-tao-moi-truong</groupChildProductURL_s>
 	</item></groupproductchild_o>
 	<createdDate>2020-07-03T07:39:27.319Z</createdDate>
 	<createdDate_dt>2020-07-03T07:39:27.319Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T07:15:53.878Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T07:15:53.878Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T10:05:44.788Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:05:44.788Z</lastModifiedDate_dt>
 	<rightTitle_s>MKV-GROWTH</rightTitle_s>
 </component>
 	</item></section_o>
 	<createdDate>2020-07-03T07:36:52.516Z</createdDate>
 	<createdDate_dt>2020-07-03T07:36:52.516Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T07:15:48.159Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T07:15:48.159Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T10:05:39.301Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:05:39.301Z</lastModifiedDate_dt>
 </page>

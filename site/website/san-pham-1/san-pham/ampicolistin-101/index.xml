@@ -8,8 +8,8 @@
 	<objectId>c38b8235-212c-b849-7414-37674c5f3723</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>ampicolistin-101</folder-name>
-	<internal-name>MEKOSAL</internal-name>
-	<navLabel>MEKOSAL</navLabel>
+	<internal-name>Mekosal</internal-name>
+	<navLabel>Mekosal</navLabel>
 	<productName_s>MEKOSAL</productName_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
@@ -62,7 +62,7 @@
 	<createddate_dt>2020-08-05T08:43:43.000Z</createddate_dt>
 	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
 	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
-	<lastModifiedDate>2020-08-05T08:43:39.601Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-05T08:43:39.601Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-29T07:24:47.729Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T07:24:47.729Z</lastModifiedDate_dt>
 	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
 </page>

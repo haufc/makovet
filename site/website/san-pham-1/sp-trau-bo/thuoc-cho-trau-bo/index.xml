@@ -45,35 +45,35 @@
 	<internal-name>Sản phẩm dành cho trâu bò</internal-name>
 	<title_s>Sản phẩm dành cho trâu bò</title_s>
 	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
-	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Trau bo NHOM).png</groupProductImg2_s>
 	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Trau bo 1).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc/kháng sinh</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Trau bo 2).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/khang-sinh</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Trau bo 3).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/giam-dau-ha-sot-khang-viem</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Trau bo 4).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/ky-sinh-trung-nam-cau-trung</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng/thuốc dùng ngoài</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Trau bo 5).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/sat-trung-dung-ngoai</groupChildProductURL_s>
 	</item>	<item>	<groupChildProductName_s>Nhóm thuốc hỗ trợ/sinh sản và hỗ trợ khác</groupChildProductName_s>
-	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Trau bo 6).png</groupChildProductImage_s>
 	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/nhom-san-pham/ho-tro-sinh-san-ho-tro-khac</groupChildProductURL_s>
 	</item></groupproductchild_o>
 	<createdDate>2020-06-23T04:34:45.063Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:45.063Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T07:12:57.423Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T07:12:57.423Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T10:05:03.157Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:05:03.157Z</lastModifiedDate_dt>
 	<rightTitle_s>B-COMPLEX</rightTitle_s>
 </component>
 	</item></section_o>
 	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
 	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
-	<lastModifiedDate>2020-08-04T07:11:43.219Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-08-04T07:11:43.219Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-26T10:04:58.201Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:04:58.201Z</lastModifiedDate_dt>
 </page>
